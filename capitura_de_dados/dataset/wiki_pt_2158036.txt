@@ -1,0 +1,715 @@
+Dinamómetro
+
+Dinamômetro ou dinamómetro é um instrumento utilizado para medir forças ou determinar o torque e a potência de máquinas. Nos ensaios de máquinas rotativas, mede o torque e a velocidade rotacional de uma máquina térmica, de um motor elétrico ou de outra máquina motriz, permitindo calcular sua potência mecânica. A velocidade costuma ser expressa em rotações por minuto, de símbolo rpm, e a potência pode ser apresentada pelo próprio equipamento em quilowatts, de símbolo kW.
+Além de determinar as características de torque e potência de uma máquina submetida a ensaio, os dinamômetros têm outras aplicações. Nos ciclos padronizados de ensaio de emissões, como os utilizados pela Agência de Proteção Ambiental dos Estados Unidos, são empregados para simular as cargas encontradas durante a circulação de um veículo, seja diretamente no motor, por meio de um dinamômetro de motor, seja no conjunto propulsor, por meio de um dinamômetro de chassi. Também integram bancos de ensaios utilizados na calibração dos sistemas de gerenciamento do motor, na investigação da combustão e em estudos de tribologia.
+
+Na prática clínica, os dinamômetros manuais são utilizados para avaliar a força de preensão e a força da mão, tanto no exame inicial quanto no acompanhamento de pessoas com traumatismos ou disfunções da mão. A medição também pode integrar a avaliação de pacientes com comprometimento das raízes nervosas cervicais ou dos nervos periféricos.
+Na fisioterapia, na cinesiologia e na ergonomia, os dinamômetros de força permitem medir a força das costas, da preensão, dos braços ou das pernas de atletas, pacientes e trabalhadores, para avaliar a condição física, o desempenho e as exigências de uma tarefa. Quando a força é aplicada a uma alavanca ou transmitida por um cabo, o momento de força pode ser calculado multiplicando-se a força pela distância perpendicular entre sua linha de ação e o eixo de rotação da alavanca.
+
+Medição de força
+
+Instrumentos mecânicos
+Os dinamômetros de mola utilizam a deformação de um elemento elástico para indicar a força aplicada. Na região em que se aplica a lei de Hooke, a intensidade da força é proporcional à deformação:
+
+ 
+ 
+ 
+ F
+ =
+ k
+ 
+ x
+ ,
+ 
+ 
+ 
+ 
+
+em que 
+ 
+ 
+ 
+ k
+ 
+ 
+ 
+ 
+ é a constante elástica e 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ é o módulo da deformação em relação à posição de referência. A escala pode, assim, ser graduada em newtons. Essa proporcionalidade não deve ser estendida para além da faixa de comportamento elástico linear do instrumento.
+Outro instrumento mecânico é o anel dinamométrico, um anel de aço que se deforma quando recebe uma força. A variação de seu diâmetro é medida por um dispositivo instalado no interior do anel. Nos modelos desenvolvidos para a verificação de forças, esse dispositivo pode combinar um parafuso micrométrico e uma lâmina vibrante. Há anéis construídos para trabalhar em tração ou compressão.
+
+Peso, massa e unidades
+O peso é uma força e não deve ser confundido com a massa. Na pesagem de um objeto suspenso em repouso, desprezando o empuxo do ar, a força indicada pelo dinamômetro corresponde ao peso 
+ 
+ 
+ 
+ 
+ F
+ 
+ 
+ p
+ 
+ 
+ 
+ =
+ m
+ g
+ 
+ 
+ 
+ 
+, em que 
+ 
+ 
+ 
+ m
+ 
+ 
+ 
+ 
+ é a massa e 
+ 
+ 
+ 
+ g
+ 
+ 
+ 
+ 
+ é a aceleração local da gravidade. A mesma massa pode ter pesos diferentes em locais onde essa aceleração é diferente. No Sistema Internacional, a massa é expressa em quilogramas e o peso em newtons.
+O quilograma-força, de símbolo kgf, é uma unidade de força distinta do quilograma. Um quilograma-força equivale exatamente a 9,80665 N. Uma leitura nessa unidade deve ser multiplicada por esse fator quando se deseja expressar a força em newtons.
+
+Sensores elétricos
+Nos medidores de força com células de carga extensométricas, a força deforma um corpo elástico ao qual estão fixados extensômetros. A deformação altera a resistência elétrica desses sensores. Um circuito em ponte de Wheatstone, alimentado eletricamente, transforma essa variação de resistência em uma variação de tensão, que pode ser amplificada e convertida em uma indicação de força. A temperatura também afeta a resistência, e a disposição dos sensores e dos circuitos de compensação procura reduzir esse efeito.
+Os sensores piezoelétricos utilizam cristais nos quais a aplicação de força produz uma carga elétrica. Essa carga é convertida em um sinal de medição por um amplificador de carga. Esses sistemas permitem medições dinâmicas e quase estáticas. Nas medições mais lentas, a duração útil depende da constante de tempo do circuito e da deriva do sinal, que pode decorrer de pequenas correntes de fuga no amplificador.
+
+Calibração e ensaios de materiais
+A calibração estabelece a relação entre a indicação do instrumento e uma força de referência. Na comparação entre células de carga, o sensor a calibrar e o sensor padrão podem ser montados em série, recebendo a mesma força em diferentes pontos da faixa de medição. As diferenças entre as indicações permitem avaliar a resposta do instrumento.
+Nas máquinas universais de ensaios, a célula de carga mede a força aplicada ao corpo de prova. Em um ensaio de tração, essa medição é acompanhada pela determinação do alongamento. A combinação dos dados permite avaliar propriedades mecânicas do material. A medição da deformação pode exigir um instrumento próprio, pois o deslocamento da travessa da máquina também pode conter deformações da estrutura e acomodações das garras.
+
+Avaliação muscular
+Na avaliação da preensão manual, o protocolo determina a mão examinada, a postura do participante e o número de tentativas. Também define se o resultado utilizado será o maior valor ou uma média. Essas escolhas precisam ser consideradas ao comparar medições ou utilizar valores de referência.
+Em Portugal, foram publicados em 2017 dados de preensão manual de um estudo que reuniu 1.500 pessoas com 65 anos ou mais, com medições de preensão disponíveis para 1.496 participantes. Os resultados foram separados por idade, sexo e estatura. O protocolo utilizou três tentativas, com o participante sentado e o cotovelo flexionado a 90°, tomando o maior valor da mão não dominante sempre que essa mão podia ser examinada. No Brasil, o estudo multicêntrico Fibra-BR apresentou, em 2021, valores de referência para pessoas de 65 a 90 anos, também separados por sexo, idade e estatura. Sua amostra de referência reuniu 2.999 participantes selecionados por critérios de cognição, mobilidade e independência funcional. Nesse estudo, o teste foi realizado com a mão dominante, e o resultado utilizado foi a média da segunda e da terceira tentativas.
+
+Princípios de funcionamento dos dinamômetros de absorção
+
+Um dinamômetro de absorção funciona como uma carga acionada pela máquina motriz submetida a ensaio, como um motor ou uma turbina Pelton. Sua faixa de operação deve abranger as velocidades e os torques exigidos pelo ensaio.
+Os dinamômetros de absorção não devem ser confundidos com os dinamômetros de inércia, nos quais o torque e a potência são obtidos a partir da aceleração de um rolo ou volante com momento de inércia conhecido. Um dinamômetro puramente inercial não dispõe de um freio independente que permita ajustar a carga ou manter o motor em uma rotação constante.
+O dinamômetro de absorção normalmente dispõe de meios para medir o torque e a velocidade de rotação. Sua unidade de absorção de potência recebe a potência desenvolvida pela máquina motriz. Nos sistemas dissipativos, essa energia é convertida em calor, transferido ao ar ambiente ou a um circuito de água de arrefecimento. Nos sistemas regenerativos, uma máquina elétrica funciona como gerador. A energia produzida pode ser devolvida à rede por meio de conversores apropriados. Um exemplo é o emprego de uma máquina de corrente contínua, cuja saída é convertida em corrente alternada por um inversor.
+Os dinamômetros de absorção podem utilizar diferentes estratégias de controle, entre elas o controle de torque e o controle de velocidade.
+
+Torque de frenagem constante
+Nesse modo, a unidade de absorção é regulada para aplicar um torque de frenagem previamente definido. A máquina motriz opera com a abertura do acelerador, a vazão de combustível ou outra variável escolhida para o ensaio. Se o torque produzido pela máquina superar o torque resistente total, o conjunto acelera ao longo da faixa de rotação desejada.
+A potência absorvida é calculada a partir do produto do torque pela velocidade angular. Quando o ensaio envolve aceleração, a determinação de uma potência equivalente à obtida em regime estacionário pode exigir uma correção para a energia empregada na aceleração dos componentes rotativos.
+
+Velocidade constante
+Quando o dinamômetro dispõe de controle de velocidade, manual ou computadorizado, a unidade de absorção varia o torque de frenagem para manter a máquina motriz na rotação estabelecida. Entre os sistemas utilizados estão os freios por correntes parasitas, os sistemas hidráulicos e as máquinas elétricas, que permitem modificar a carga durante o ensaio.
+A potência mecânica é calculada como o produto do torque pela velocidade angular. Um dinamômetro motorizado, por sua vez, atua como motor e aciona o equipamento submetido a ensaio. Para isso, deve fornecer as velocidades e os torques exigidos pelo procedimento. Máquinas de corrente alternada ou contínua são utilizadas para essa finalidade.
+Na maioria dos dinamômetros rotativos, a potência 
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+ não é medida diretamente, mas calculada a partir do torque 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ e da velocidade angular 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. Em movimentos de translação, utiliza-se o produto escalar da força 
+ 
+ 
+ 
+ 
+ F
+ 
+ 
+ 
+ 
+ 
+ pela velocidade 
+ 
+ 
+ 
+ 
+ v
+ 
+ 
+ 
+ 
+ 
+:
+
+ 
+ 
+ 
+ P
+ =
+ 
+ 
+ 
+ 
+ ou
+ 
+ 
+ P
+ =
+ 
+ F
+ 
+ 
+ 
+ v
+ 
+ .
+ 
+ 
+ 
+ 
+
+No Sistema Internacional de Unidades, 
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+ é expresso em watts, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ em newtons-metro, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ em radianos por segundo, 
+ 
+ 
+ 
+ F
+ 
+ 
+ 
+ 
+ em newtons e 
+ 
+ 
+ 
+ v
+ 
+ 
+ 
+ 
+ em metros por segundo. A expressão escalar 
+ 
+ 
+ 
+ P
+ =
+ F
+ v
+ 
+ 
+ 
+ 
+ aplica-se quando a força e a velocidade têm a mesma direção e o mesmo sentido.
+Se a velocidade de rotação 
+ 
+ 
+ 
+ n
+ 
+ 
+ 
+ 
+ for expressa em rotações por minuto, a conversão para velocidade angular é:
+
+ 
+ 
+ 
+ 
+ =
+ 
+ 
+ 
+ 2
+ 
+ n
+ 
+ 60
+ 
+ 
+ =
+ 
+ 
+ 
+ 
+ n
+ 
+ 30
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+Consequentemente, a potência em quilowatts pode ser calculada por:
+
+ 
+ 
+ 
+ 
+ P
+ 
+ 
+ k
+ W
+ 
+ 
+ 
+ =
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ N
+ 
+ m
+ 
+ 
+ 
+ 
+ 
+ n
+ 
+ 
+ r
+ p
+ m
+ 
+ 
+ 
+ 
+ 
+ 30000
+ 
+ /
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ N
+ 
+ m
+ 
+ 
+ 
+ 
+ 
+ n
+ 
+ 
+ r
+ p
+ m
+ 
+ 
+ 
+ 
+ 
+ 9549
+ 
+ ,
+ 
+ 3
+ 
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+O fator numérico depende das unidades utilizadas. Não representa uma característica física do dinamômetro.
+
+Descrição detalhada
+
+Um dinamômetro de absorção ou universal compreende uma unidade de absorção, ou uma unidade capaz de absorver potência e acionar a carga, geralmente acompanhada de instrumentos para medir torque e velocidade de rotação. A unidade de absorção contém um rotor instalado em uma carcaça. O rotor é acoplado ao motor ou a outro equipamento submetido a ensaio e gira na velocidade requerida. Entre o rotor e a carcaça é produzido um torque resistente, por atrito, ação hidráulica, efeitos eletromagnéticos ou outro mecanismo, conforme o tipo de unidade.
+Uma forma de medir o torque consiste em montar a carcaça de modo que ela possa girar, exceto pela restrição imposta por um braço de reação. Para isso, podem ser utilizados munhões nas duas extremidades da carcaça, apoiados em mancais. O braço é ligado à carcaça, e uma balança mede a força exercida por ela ao tentar girar. O torque é o produto dessa força pela distância perpendicular entre sua linha de ação e o eixo do dinamômetro. Uma célula de carga pode substituir a balança, fornecendo um sinal elétrico proporcional à força e, portanto, ao torque.
+Outra possibilidade é conectar o motor ao dinamômetro por meio de um acoplamento equipado com um sensor de torque ou transdutor de torque. Esse instrumento fornece um sinal elétrico proporcional ao torque transmitido pelo eixo.
+Durante uma aceleração, o torque transmitido pelo eixo pode diferir do torque de reação medido na carcaça, pois parte dele acelera o rotor. A correção inercial depende da posição do transdutor e das massas rotativas consideradas. O torque de aceleração já medido por um transdutor na linha de eixo não deve ser somado novamente ao sinal.
+Nas unidades elétricas, também é possível estimar o torque a partir da corrente consumida ou gerada pela máquina. Esse método depende das características da máquina elétrica e não equivale, necessariamente, a uma medição direta por transdutor de torque.
+Quando os sinais de torque e velocidade estão disponíveis, os dados podem ser enviados a um sistema de aquisição de dados, em vez de registrados manualmente. Também podem ser registrados por um registrador gráfico ou um plotter.
+
+Tipos de dinamômetros
+Além da classificação em dinamômetros de absorção, motorizados e universais, os equipamentos podem ser diferenciados pela forma de ligação à máquina ensaiada.
+Um dinamômetro acoplado diretamente ao motor é denominado dinamômetro de motor. Um equipamento que mede a potência transmitida pelo conjunto propulsor por meio das rodas motrizes, sem retirar o motor do veículo, é denominado dinamômetro de chassi.
+A classificação também pode ser feita pelo tipo de unidade de absorção ou de acionamento. Uma unidade capaz apenas de absorver potência pode ser combinada com um motor para formar um dinamômetro universal, capaz de absorver potência e de acionar o equipamento ensaiado. Há ainda aplicações especializadas, como os vagões dinamômetros utilizados em ferrovias e os dinamômetros para máquinas-ferramenta.
+Os dinamômetros de transmissão medem o torque transmitido entre uma máquina motriz e a carga que ela aciona. Podem utilizar a torção de um eixo ou sensores extensométricos, sem empregar o próprio dispositivo de medição como freio para absorver toda a potência.
+
+Tipos de unidades de absorção
+Freio de atrito seco, como o freio de Prony e o freio de corda, somente para absorção.
+Freio por correntes parasitas, somente para absorção.
+freio de pó magnético, somente para absorção.
+freio de histerese, somente para absorção.
+motor elétrico/gerador elétrico, para absorção ou acionamento.
+freio aerodinâmico, somente para absorção.
+freio hidráulico, somente para absorção.
+freio de cisalhamento de óleo com lubrificação forçada, somente para absorção.
+freio a água, somente para absorção.
+dinamômetro composto, normalmente constituído por uma unidade de absorção e outra de acionamento elétrico.
+
+Freios de atrito seco
+Os freios de atrito seco aplicam uma sapata, cinta ou corda contra uma superfície que gira com o eixo do motor. O aumento da força de contato eleva a carga de frenagem. O freio de Prony pertence a esse grupo.
+No freio de corda, uma corda envolve o tambor ou volante acionado pelo motor. Uma extremidade recebe uma carga conhecida e a outra é ligada a um dinamômetro de mola. O torque de frenagem é calculado pelo produto da diferença entre as forças nas extremidades pelo raio efetivo de contato. A potência resulta do produto desse torque pela velocidade angular.
+
+Absorvedor por correntes parasitas
+Os dinamômetros por correntes parasitas são utilizados em bancos de ensaios e dinamômetros de chassi. Esses absorvedores permitem alterar rapidamente a carga. Conforme o projeto, podem ser resfriados a ar ou exigir um sistema externo de arrefecimento a água.
+O funcionamento depende do movimento de um núcleo, eixo ou disco eletricamente condutor em um campo magnético. As correntes induzidas no condutor produzem uma ação resistente ao movimento. O ferro é um material utilizado nesses equipamentos. Cobre, alumínio e outros materiais condutores também podem ser empregados.
+Algumas configurações utilizam discos de ferro fundido semelhantes aos rotores de freios a disco de veículos. A intensidade do campo magnético é controlada por eletroímãs, permitindo variar a frenagem.
+A alimentação dos eletroímãs pode ser regulada por computador, de modo que a carga aplicada corresponda às condições de ensaio. Sistemas com controle adequado permitem tanto operação em regime estacionário quanto ensaios com taxa de aceleração controlada.
+
+Dinamômetro de pó magnético
+O dinamômetro de pó magnético utiliza um pó fino magnetizável no espaço entre as partes móveis e estacionárias do freio. Sob a ação do campo magnético, as partículas formam estruturas que resistem ao movimento relativo e se reorganizam durante a rotação, produzindo torque de frenagem.
+Esses dinamômetros são empregados principalmente em velocidades baixas ou intermediárias, em parte devido às limitações de dissipação térmica. Diferentemente dos freios por correntes parasitas, podem produzir torque mesmo com velocidade de rotação nula.
+
+Dinamômetro de histerese
+Os dinamômetros de histerese utilizam um rotor de material magnético, que pode incluir ligas como o alnico, submetido ao campo produzido entre peças polares. A magnetização do material percorre um ciclo de histerese, e a energia dissipada está relacionada à área delimitada pela curva de indução magnética em função do campo magnetizante.
+Ao contrário dos freios por correntes parasitas, que não produzem torque eletromagnético de frenagem em repouso, os freios de histerese podem desenvolver torque com velocidade nula. Para uma dada excitação, seu torque é aproximadamente independente da velocidade dentro da faixa de operação prevista. Correntes parasitas no rotor podem acrescentar uma parcela de torque que aumenta com a rotação. A intensidade da excitação permite regular o torque. Em unidades com ímãs permanentes, o comportamento depende do campo desses ímãs.
+As unidades podem incorporar aberturas de ventilação ou utilizar ar comprimido ou ventilação forçada de uma fonte externa. A potência admissível depende da capacidade de dissipação de calor e da duração da carga. As especificações podem distinguir operação contínua de operação por intervalos curtos, e a rotação máxima não implica que o torque máximo possa ser aplicado nessa mesma rotação.
+
+Dinamômetro de motor/gerador elétrico
+Os dinamômetros de motor/gerador elétrico constituem uma aplicação de acionamentos de velocidade variável. Sua unidade de absorção e acionamento pode utilizar uma máquina de corrente alternada ou de corrente contínua. Com a configuração apropriada, a máquina elétrica pode funcionar como gerador, acionada pelo equipamento ensaiado, ou como motor, acionando esse equipamento.
+Quando associados aos controles adequados, esses sistemas funcionam como dinamômetros universais, capazes de absorver e fornecer potência mecânica. Máquinas de corrente alternada podem ser controladas por um inversor de frequência, enquanto máquinas de corrente contínua utilizam conversores e controladores próprios. Em ambos os casos, sistemas regenerativos podem devolver energia à rede elétrica. A possibilidade de remuneração ou compensação da energia depende das regras aplicáveis à conexão, como nos sistemas de compensação de energia elétrica.
+Nos ensaios de motores de combustão, os dinamômetros universais não apenas absorvem a potência desenvolvida pelo motor, mas também podem fazê-lo girar sem combustão, permitindo investigar perdas por atrito, bombeamento e outros efeitos.
+Os dinamômetros elétricos motorizados geralmente exigem sistemas de controle e instalações mais complexos do que os equipamentos exclusivamente absorvedores.
+
+Freio aerodinâmico
+Um ventilador pode ser utilizado para movimentar ar e, assim, aplicar carga ao motor. O torque absorvido pode ser ajustado alterando-se a relação de transmissão, o próprio ventilador ou as restrições ao escoamento de ar. A capacidade de absorção depende, entre outros fatores, da geometria do ventilador, da rotação e das condições do escoamento.
+
+Freio de cisalhamento de óleo com lubrificação forçada
+Esse tipo de freio contém uma série de discos de atrito e placas de aço, em uma disposição semelhante à das embreagens de um câmbio automático. O eixo que sustenta os discos é ligado ao equipamento ensaiado por um acoplamento. Um pistão comprime o conjunto e, enquanto há movimento relativo entre os discos e as placas, o cisalhamento viscoso do filme de óleo transmite torque resistente. A pressão de aplicação pode ser controlada pneumaticamente ou hidraulicamente.
+A lubrificação forçada mantém óleo entre as superfícies, reduzindo o contato direto e o desgaste, além de remover o calor produzido. O sistema pode proporcionar uma reação suave até velocidades muito baixas, com redução dos movimentos intermitentes associados à alternância entre aderência e deslizamento. A potência absorvível depende da capacidade térmica do freio e do sistema de circulação e arrefecimento do óleo.
+Quando o conjunto é comprimido até o travamento, o contato entre as superfícies fornece o torque estático de retenção. Esse torque não decorre do cisalhamento viscoso de um filme sem movimento relativo.
+A reação do freio pode ser medida por um braço associado a uma célula de carga com extensômetros. Nesses sensores, a deformação altera a resistência elétrica do elemento sensível. Um circuito de medição converte essa variação em sinal utilizado pelo controlador.
+Válvulas proporcionais ou servoválvulas regulam a pressão aplicada ao freio. A realimentação do sinal de força permite controlar o torque em malha fechada. Os limites de torque, rotação e dissipação térmica devem ser considerados conjuntamente.
+
+Freio hidráulico com bomba
+Um sistema de frenagem hidráulica pode ser constituído por uma bomba hidráulica, frequentemente de engrenagens, um reservatório de fluido e as tubulações de ligação. Uma válvula regulável restringe o escoamento, e um manômetro ou transdutor mede a pressão no circuito.
+O motor é levado à rotação desejada, e a válvula é fechada progressivamente. A restrição à vazão aumenta a pressão e, consequentemente, o torque necessário para acionar a bomba. A abertura do acelerador pode ser ajustada para manter a condição de ensaio.
+A potência hidráulica é obtida pelo produto da diferença de pressão pela vazão volumétrica:
+
+ 
+ 
+ 
+ 
+ P
+ 
+ 
+ h
+ 
+ 
+ 
+ =
+ 
+ p
+ 
+ Q
+ .
+ 
+ 
+ 
+ 
+
+Com 
+ 
+ 
+ 
+ 
+ p
+ 
+ 
+ 
+ 
+ em pascals e 
+ 
+ 
+ 
+ Q
+ 
+ 
+ 
+ 
+ em metros cúbicos por segundo, o resultado é expresso em watts. Nessa expressão, 
+ 
+ 
+ 
+ 
+ p
+ 
+ 
+ 
+ 
+ é a diferença de pressão entre a saída e a entrada da bomba, e 
+ 
+ 
+ 
+ Q
+ 
+ 
+ 
+ 
+ é a vazão efetivamente fornecida. A estimativa da vazão a partir do deslocamento volumétrico e da rotação deve considerar o rendimento volumétrico. A potência mecânica recebida no eixo é maior que a potência útil transferida ao fluido devido às perdas da bomba. Ela pode ser calculada por 
+ 
+ 
+ 
+ 
+ P
+ 
+ 
+ e
+ i
+ x
+ o
+ 
+ 
+ 
+ =
+ 
+ p
+ 
+ Q
+ 
+ /
+ 
+ 
+ 
+ 
+ 
+ t
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+, em que 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ t
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ é o rendimento total, expresso como fração.
+Esses sistemas permitem mudanças rápidas de carga, mas exigem um circuito capaz de operar com óleo aquecido e pressurizado, além de reservatório e meios adequados de arrefecimento.
+
+Absorvedor de freio a água
+
+O dinamômetro hidráulico de freio a água utiliza a interação do fluido com um rotor e um estator para absorver potência. Sua invenção é atribuída ao engenheiro britânico William Froude, em 1877, em resposta a uma solicitação do Almirantado Britânico por um equipamento capaz de absorver e medir a potência de grandes motores navais.
+Os absorvedores de freio a água combinam elevada capacidade de absorção de potência com dimensões, massa e custo relativamente reduzidos. Em determinadas configurações, porém, o estabelecimento de uma nova carga pode ser mais lento do que em outros tipos de absorvedor. Também é necessário fornecer água para remover o calor produzido.
+A água pode circular em um sistema de passagem única ou ser recirculada por reservatórios e equipamentos de resfriamento e tratamento. A escolha depende das exigências térmicas e das condições de abastecimento e descarte.
+Nos sistemas de nível variável, a quantidade de água no absorvedor é ajustada até que a carga mantenha o motor na rotação desejada. A entrada e a saída de água são então reguladas para manter a condição de operação e retirar o calor. A carcaça tende a girar em reação ao torque transmitido pelo fluido, mas é contida por um braço ligado a uma balança ou célula de carga, que permite medir esse torque.
+
+Dinamômetros compostos
+Um dinamômetro elétrico universal pode ter capacidades semelhantes de absorção e acionamento, mas elas não são necessariamente iguais. As potências e os torques admissíveis em cada modo dependem da rotação e das especificações da máquina. Nem todos os ensaios de motores exigem capacidades iguais nos dois sentidos de transferência de energia.
+Uma alternativa é combinar um dinamômetro de absorção de maior capacidade com um dinamômetro motorizado menor. Também é possível associar o absorvedor a um motor elétrico simples de corrente alternada ou contínua, utilizado apenas para acionar o conjunto quando necessário.
+Nessa configuração, o absorvedor é dimensionado para a maior potência a dissipar, enquanto a máquina de acionamento é dimensionada para a potência necessária para fazer o motor ensaiado girar. A escolha depende dos torques e das velocidades exigidos em cada fase do ensaio.
+Como há duas máquinas em série, a medição do torque torna-se mais complexa, e um transdutor instalado na linha de eixo constitui uma solução apropriada. Uma configuração possível combina um absorvedor por correntes parasitas ou freio a água com controle eletrônico, um inversor de frequência e um motor de indução.
+Entre as desvantagens estão a necessidade de instalações adicionais de alimentação elétrica e arrefecimento e a maior complexidade do controle. A transição entre acionamento e frenagem também exige atenção à estabilidade do sistema.
+
+Utilização em ensaios de motores
+Os dinamômetros são empregados no desenvolvimento e aperfeiçoamento de motores e sistemas de transmissão. A medição da potência em diferentes pontos do conjunto propulsor permite investigar perdas e avaliar modificações destinadas a melhorar seu desempenho.
+A comparação entre torque no motor e torque nas rodas exige considerar as relações de transmissão. Por exemplo, uma leitura de 400 Nm no motor e outra de 350 Nm em um dinamômetro de chassi não permitem, por si sós, atribuir uma diferença de 50 Nm às perdas mecânicas. É necessário que os valores tenham sido referidos ao mesmo eixo e à mesma condição de rotação, ou comparar as potências correspondentes, calculadas a partir do torque e da velocidade em cada ponto.
+Os dinamômetros de motores e de chassi podem exigir investimentos elevados em equipamento, instalação e operação, razão pela qual seu uso se concentra em laboratórios, fabricantes, oficinas especializadas e outras atividades que necessitam dessas medições.
+
+Tipos de sistemas dinamométricos
+
+Um dinamômetro de freio aplica uma carga variável à máquina motriz e mede sua capacidade de manter ou modificar a rotação diante do torque resistente aplicado. Normalmente, um computador registra o torque de frenagem e calcula a potência a partir dos sinais de uma célula de carga ou transdutor de torque e de um sensor de velocidade.
+Um dinamômetro de inércia utiliza um rolo ou volante de inércia conhecida. A medição da velocidade e da aceleração angular permite calcular o torque necessário para acelerar esse conjunto e, a partir dele, a potência. O ensaio geralmente percorre uma faixa que começa acima da marcha lenta e se estende até a rotação máxima estabelecida. Os resultados são apresentados em um gráfico.
+Um dinamômetro motorizado fornece potência à máquina ensaiada, normalmente por meio de um motor de corrente alternada ou contínua. Quando o equipamento também pode absorver potência, é denominado universal. Isso permite reproduzir condições em que o conjunto propulsor recebe energia das rodas, como em uma descida ou durante determinadas fases de desaceleração e fechamento do acelerador.
+
+Procedimentos de ensaio
+Os procedimentos podem ser agrupados em três categorias principais:
+
+Regime estacionário: o motor é mantido em uma rotação e uma carga especificadas durante o tempo estabelecido, ou passa por uma sequência de pontos estabilizados. A unidade de absorção regula a frenagem para manter cada ponto de operação. Esse procedimento requer um dinamômetro com controle de carga.
+Varredura: o motor é submetido a uma carga inercial ou de frenagem e percorre continuamente uma faixa entre uma rotação inicial e uma rotação final. O procedimento pode ser realizado em dinamômetros de inércia ou de freio.
+Ensaio transiente: a velocidade e a carga variam ao longo de um ciclo predefinido. Conforme o ciclo, pode ser necessária uma máquina elétrica capaz tanto de absorver potência quanto de acionar o motor ensaiado.
+Os ciclos de ensaio variam conforme o objetivo e o sistema regulatório. Entre os ciclos de veículos leves realizados em dinamômetros de chassi estão o UDDS, o HWFET, o US06, o SC03 e os ciclos ECE e EUDC. Nos ensaios de motores, o WHTC é um ciclo transiente, enquanto o WHSC é um ciclo de regime estacionário com transições entre pontos de operação.
+
+Ensaios de varredura
+Na varredura inercial, o dinamômetro utiliza um volante ou rolo com momento de inércia conhecido e calcula a potência necessária para acelerá-lo entre as rotações inicial e final. A potência necessária para acelerar o rolo não se confunde com uma estimativa da potência do motor em regime estacionário. Essa estimativa também exige considerar a inércia dos componentes do motor e, nos ensaios de chassi, da transmissão e das rodas, além das perdas entre o motor e o ponto de medição. Alterações nas rodas e nos pneus, por exemplo, podem modificar a energia necessária para acelerar o conjunto.
+Como a inércia do dinamômetro é fixa, um motor de menor potência pode permanecer sob carga por mais tempo do que um motor mais potente durante a mesma faixa de varredura. Isso pode produzir diferenças nas temperaturas de funcionamento. Inversamente, uma varredura muito curta pode não reproduzir o estado térmico correspondente a uma operação prolongada sob carga. O efeito sobre os resultados depende do motor, da preparação térmica e das condições do ensaio, não havendo uma direção única de erro aplicável a todos os casos.
+A varredura com carga de frenagem pode assumir duas formas principais:
+
+Carga fixa: aplica-se uma carga inferior ao torque disponível no motor, permitindo que ele acelere entre as rotações inicial e final. A taxa de aceleração resulta da diferença entre o torque produzido e o torque resistente. Para estimar a potência equivalente à de regime estacionário, pode ser necessário somar à potência medida a parcela de aceleração das inércias que ainda não esteja incluída na medição.
+Aceleração controlada: o princípio é semelhante, mas o controle ativo da carga mantém uma taxa de aceleração especificada. Isso evita que a duração do ensaio varie excessivamente entre motores de potências diferentes e favorece a repetibilidade.
+A potência empregada na aceleração pode ser expressa, para uma inércia equivalente constante e relações de transmissão fixas, por:
+
+ 
+ 
+ 
+ 
+ P
+ 
+ 
+ i
+ n
+ e
+ r
+ c
+ i
+ a
+ l
+ 
+ 
+ 
+ =
+ 
+ I
+ 
+ 
+ e
+ q
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+
+em que 
+ 
+ 
+ 
+ 
+ I
+ 
+ 
+ e
+ q
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ é o momento de inércia equivalente referido ao eixo considerado, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ é a aceleração angular e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ é a velocidade angular. A inércia conhecida do rolo não deve ser confundida com a inércia de todos os componentes rotativos do veículo. Quando giram a velocidades diferentes, suas inércias devem ser referidas ao mesmo eixo pelas respectivas relações de transmissão.
+A aplicação de um único fator de correção a motores e veículos diferentes pode prejudicar a comparação dos resultados. A compensação da inércia, por si só, não assegura que a varredura reproduza as condições térmicas e de funcionamento de um ensaio estacionário. Nos pontos estabilizados, a aceleração angular média é nula, eliminando a parcela média de potência destinada ao aumento da energia cinética de rotação, embora outras fontes de incerteza permaneçam.
+
+Características dos ensaios transientes
+Movimentos rápidos do acelerador, mudanças de rotação e alternância entre absorção de potência e acionamento do motor podem fazer parte dos ensaios transientes. Entre suas aplicações estão o desenvolvimento de sistemas de controle de emissões e a homologação de motores e veículos.
+Em determinadas etapas de desenvolvimento e calibração, um dinamômetro por correntes parasitas pode oferecer uma alternativa de menor custo, graças à rapidez de resposta da carga. Entretanto, um absorvedor desse tipo, isoladamente, não pode fornecer potência mecânica ao motor ensaiado.
+Assim, quando o ciclo exige que o dinamômetro acione o motor, o equipamento deve dispor dessa capacidade. A supressão dessas fases modifica as condições do ensaio e pode alterar os resultados de emissões. A adequação do dinamômetro depende dos requisitos do ciclo utilizado.
+
+Dinamômetro de motor
+
+Um dinamômetro de motor mede o torque e determina a potência diretamente na árvore de manivelas ou no volante de inércia do motor, normalmente fora do veículo. A medição não inclui as perdas que ocorreriam nos componentes posteriores do conjunto propulsor, como a caixa de velocidades, os demais elementos de transmissão e o diferencial.
+
+Dinamômetro de chassi
+
+Um dinamômetro de chassi com rolos mede a potência transmitida pelas rodas motrizes à superfície dos rolos. Em inglês, essa configuração também é denominada rolling road. O veículo é imobilizado por dispositivos de fixação, enquanto suas rodas motrizes fazem os rolos girar.
+Há dinamômetros de chassi com rolos para as quatro rodas, utilizados em ensaios de veículos com tração nas quatro rodas. Algumas instalações também permitem que veículos com duas rodas motrizes sejam ensaiados mantendo as quatro rodas em rotação. Nesse caso, os rolos sob as rodas não motrizes são acionados em sincronismo com os demais, para evitar interferências dos sistemas de controle de tração e de frenagem causadas por diferenças de velocidade entre as rodas. Esses equipamentos podem ser utilizados em ensaios de emissões e de consumo de combustível.
+A geometria e o acabamento da superfície dos rolos influenciam o contato com os pneus. Um exemplo de desenvolvimento nessa área é o rolo patenteado por Marc W. Salvisberg, que utiliza características específicas de superfície para melhorar a transmissão de força entre pneu e rolo. Trata-se de uma configuração particular, distinta dos rolos de superfície inteiramente lisa ou simplesmente recartilhada.
+Os dinamômetros de chassi podem ser fixos ou portáteis e executar funções além da apresentação de rotação, torque e potência. A integração de controles eletrônicos, aquisição de dados e unidades de carga de resposta rápida permite acompanhar ajustes do veículo durante o ensaio.
+Também existem dinamômetros ligados diretamente aos cubos das rodas. Essa configuração dispensa o contato entre pneus e rolos e, portanto, elimina o deslizamento nessa interface, permitindo medir o torque transmitido pelos eixos.
+Os sistemas de desenvolvimento e homologação de emissões veiculares podem integrar amostragem de gases, análise de emissões, controle de velocidade e carga, aquisição de dados e supervisão de segurança em uma única célula de ensaios. Entre os equipamentos utilizados estão amostradores de volume constante, sistemas de preparação de amostras de gás de exaustão e analisadores capazes de acompanhar as variações exigidas pelo ciclo.
+Esses analisadores podem apresentar sensibilidade e rapidez superiores às de instrumentos portáteis de oficina. A resposta necessária depende do procedimento de ensaio e das grandezas medidas. Em oficinas especializadas, também é comum acompanhar a relação ar–combustível por meio de uma sonda lambda de banda larga, registrando-a em conjunto com a rotação.
+Nos centros de desenvolvimento, o controle do dinamômetro pode ser integrado a ferramentas de calibração automática. O sistema percorre diferentes pontos de carga e rotação enquanto modifica parâmetros selecionados do gerenciamento do motor e registra os resultados. A análise posterior desses dados permite elaborar mapas e ajustes para o software de controle do motor.
+Devido às perdas mecânicas no conjunto propulsor e, nos equipamentos de rolos, à interação entre pneus e rolos, a potência medida nas rodas é inferior à potência disponível no eixo do motor em condições equivalentes. O Road & Track Illustrated Automotive Dictionary, de John Dinkel, apresenta uma diferença típica de 15% a 20%. Essa faixa não constitui um fator universal de conversão entre potência nas rodas e potência no motor.
+
+História
+O dinamômetro Graham–Desaguliers foi inventado por George Graham e mencionado nos escritos de John Theophilus Desaguliers em 1719. Desaguliers modificou os primeiros instrumentos, que passaram a ser conhecidos pelos nomes dos dois inventores.
+O dinamômetro de Régnier foi apresentado em 1798 por Edmé Régnier, fabricante de armas e engenheiro francês.
+Em junho de 1817, foi concedida a Siebe e Marriott, estabelecidos na Fleet Street, em Londres, uma patente para uma máquina de pesagem aperfeiçoada.
+Gaspard de Prony inventou o freio de Prony em 1821. No final da década de 1820, John Macneill desenvolveu o indicador rodoviário de Macneill, aperfeiçoando a máquina de pesagem patenteada por Marriott.
+A empresa Froude atribui a William Froude a invenção do dinamômetro hidráulico em 1877 e situa em 1881 o início da fabricação comercial por sua antecessora, que viria a ser conhecida como Heenan & Froude.
+Em 1928, a empresa alemã Carl Schenck Eisengießerei & Waagenfabrik construiu dinamômetros para ensaios de freios de veículos com uma disposição básica semelhante à de bancos de ensaios posteriores.
+O desenvolvimento do dinamômetro por correntes parasitas é associado a Martin e Anthony Winther, no início da década de 1930, quando os dinamômetros de motor/gerador de corrente contínua já eram utilizados havia vários anos. A empresa fundada pelos irmãos, Dynamatic Corporation, foi estabelecida em Kenosha, no Wisconsin, em 1931. A empresa introduziu seus dinamômetros por correntes parasitas em 1936.
+A Dynamatic pertenceu à Eaton Corporation entre 1946 e 1995. Em 2002, a Dyne Systems, de Jackson, no Wisconsin, adquiriu a divisão de dinamômetros da Dynamatic e a Midwest Dynamometer and Engineering Company, reunindo essas atividades na Midwest-Dynamatic Dynamometer. A partir de 1938, a Heenan & Froude também fabricou dinamômetros por correntes parasitas sob licença da Dynamatic e, posteriormente, da Eaton.

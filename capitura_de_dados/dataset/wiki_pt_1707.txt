@@ -1,0 +1,207 @@
+Software livre
+
+Software livre é o software que concede liberdade ao usuário para executar, acessar e modificar o código fonte, e redistribuir cópias com ou sem modificações. Para que essas liberdades sejam possíveis, o acesso ao código-fonte é fundamental, permitindo que o usuário compreenda o funcionamento do programa e o adapte às suas necessidades. Sua definição está associada à Free Software Foundation em conjunto com o projeto GNU. O conceito foi desenvolvido e difundido por Richard Stallman, fundador da FSF, software livre é qualquer programa de computador que pode ser usado, copiado, estudado, modificado e redistribuído sem nenhuma restrição. É permitido vender software livre, entretanto as mesmas liberdades são válidas para o comprador. Justamente ele defende que os usuários devem ter liberdade para usar, copiar, estudar, modificar e compartilhar software. É permitido vender software livre, desde que as mesmas liberdades sejam preservadas para os demais usuários. 
+Embora sejam frequentemente utilizados para se referir a programas semelhantes, os conceitos de software livre software de código aberto possuem diferenças principalmente em relação aos seus princípios e enfoques. A definição de software livre envolve aspectos filosóficos e políticos, já a definição de software de código aberto, estabelecida pela Open Source Initiative, tem uma visão mais pragmática. Assim, todo software livre é de código aberto, mas nem todo software de código aberto é um software livre.
+Cabe ressaltar que software livre não significa necessariamente software gratuito. A palavra free, utilizada na expressão inglesa free software, refere-se à liberdade do usuário, e não ao preço do programa. Dessa forma, um software livre pode ser distribuído gratuitamente ou comercializado, desde que as liberdades garantidas por sua licença sejam respeitadas. Esta distinção é importante sobretudo para anglófonos, língua em que o termo usado é free software (free = livre ou grátis, em inglês). Há uma conhecida citação de Richard Stallman que exemplifica tal ideia de forma cômica, dizendo que o software é "livre" (free) como em "liberdade de expressão" (free speech), e não como em "cerveja grátis" (free beer).
+O conceito de software livre é baseado nas chamadas quatro liberdades essenciais: a liberdade de executar o programa para qualquer propósito; a liberdade de estudar como o programa funciona e adaptá-lo às próprias necessidades; a liberdade de redistribuir cópias; e a liberdade de aperfeiçoar o programa e compartilhar essas melhorias com outras pessoas. Para que as liberdades de estudo e modificação sejam possíveis, o acesso ao código-fonte é um requisito fundamental. Essas liberdades permitem que usuários e desenvolvedores cooperem, compartilhem conhecimento e contribuam para o aprimoramento dos programas. [1][2][3]
+O movimento do software livre possui, portanto, uma dimensão não apenas técnica, mas também ética e social, ao defender a liberdade dos usuários de controlar, estudar, modificar e compartilhar os programas que utilizam. Essa perspectiva também favorece a colaboração entre desenvolvedores e usuários e permite que diferentes pessoas adaptem os softwares às suas necessidades. A liberdade proporcionada pelo acesso ao código-fonte diferencia esse modelo dos softwares proprietários, nos quais o uso, a modificação e a redistribuição podem estar sujeitos a restrições estabelecidas por seus detentores. [2][3]
+
+Definições
+
+As duas principais organizações internacionais responsáveis pela proteção e promoção do software livre, a Free Software Foundation (FSF) e a Open Source Initiative (OSI), atuam para garantir que os termos Free Software e Open Source sejam utilizados de forma correta. 
+
+Definição de software livre da Free Software Foundation (FSF)
+A FSF considera um software livre quando atende a quatro tipos de liberdade para os usuários:
+
+A liberdade de executar o programa para qualquer propósito;
+A liberdade de estudar o programa e adaptá-lo para as suas necessidades.
+A liberdade de redistribuir cópias do programa de modo que você possa ajudar ao seu próximo;
+A liberdade de modificar (aperfeiçoar) o programa e distribuir estas modificações, de modo que toda a comunidade se beneficie.
+Lembrando que o acesso ao código-fonte é um pré-requisito para as liberdades 2 e 4, uma vez que não é possível estudar ou modificar o programa sem acessar o código-fonte.
+Para que as quatro liberdades sejam satisfeitas, é necessário que o programa seja distribuído juntamente com o seu código-fonte e que não sejam colocadas restrições para que os usuários alterem e redistribuam esse código.
+A liberdade de executar o programa significa que qualquer tipo de pessoa física ou jurídica pode utilizar o software em quantos computadores quiser, em qualquer tipo de sistema computacional, para qualquer tipo de trabalho ou atividade, sem nenhuma restrição imposta pelo fornecedor.
+A liberdade de redistribuir o programa executável (em formato binário) necessariamente inclui a obrigatoriedade de disponibilizar seus códigos-fonte. Caso o software venha a ser modificado e o autor da modificação queira distribuí-lo, gratuitamente ou não, será também obrigatória a distribuição do código fonte das modificações, desde que elas venham a integrar o programa. Não é necessária a autorização do autor ou do distribuidor do software para que ele possa ser redistribuído, já que as licenças de software livre assim o permitem.
+
+Definição de código aberto da Open Source Initiative (OSI)
+A OSI optou pelo termo Open Source para afastar-se do estigma filosófico e político do termo "software livre". A disponibilidade do código-fonte não é condição suficiente para que o software seja considerado de código aberto. É necessário satisfazer dez critérios, inspirados na Definição Debian de Software Livre:
+
+Redistribuição livre: a licença não pode restringir nenhuma parte interessada em vender ou distribuir o software a terceiros. A licença não pode exigir royalties ou taxas dessas vendas;
+Código-fonte: o programa precisa obrigatoriamente incluir código-fonte e permitir a distribuição tanto do código-fonte quanto do programa já compilado;
+Trabalhos derivados: a licença deve permitir modificações e trabalhos derivados e deve permitir que estes sejam distribuídos sob os mesmos termos da licença do software original;
+Integridade do código-fonte do(a) autor(a): a licença pode proibir que se distribua o código-fonte original modificado desde que a licença permita a distribuição de patch files com a finalidade de modificar o programa em tempo de compilação;
+Não à discriminação contra pessoas ou grupos: a licença não pode discriminar contra pessoas ou grupos;
+Não à discriminação contra fins de utilização: a licença não pode restringir o uso do programa para um fim específico, como uso no comércio, ou em pesquisa genética, por exemplo;
+Distribuição de licença: Os direitos atribuídos ao programa através da licença são automaticamente aplicados a todas as pessoas para as quais o programa é redistribuído, sem a necessidade de definição ou aceitação de uma nova licença;
+A licença não pode ser específica para o produto: os direitos associados a um programa não dependem de uma distribuição em particular aquele programa está inserido. Se o programa é retirado de uma distribuição, os direitos garantidos por sua licença continuam valendo;
+A licença não deve contaminar outros softwares: a licença não pode colocar restrições em relação a outros programas que sejam distribuídos junto com o software em questão;
+A licença deve ser neutra em relação as tecnologias: nenhuma exigência da licença pode ser específica a uma determinada tecnologia ou estilo de interface.
+
+Diferenças entre software livre e código aberto
+Em termos gerais, as definições de software livre e de código aberto descrevem um corpus muito semelhante de softwares. O conjunto de licenças aprovadas pela FSF e pela OSI é quase idêntico e, portanto, em termos pragmáticos, podemos considerar que o movimento pelo software livre e a iniciativa pelo código aberto se preocupam com o mesmo software. A diferença principal está no discurso e no público-alvo de cada iniciativa.
+Os defensores do software livre (liderado pela FSF) argumentam que a liberdade é essencial não só do ponto de vista técnico do programa, mas também sob a ótica da moral e da ética. Ocupam-se de outros aspectos da liberdade (como as licenças de conteúdo) e se opõem ao software proprietário, afirmando que “o inimigo é o software privativo”. Em geral, adeptos da FSF não concordam com o termo código aberto e não usam esse termo.
+Enquanto o movimento de software livre tem veios filosóficos e políticos, o movimento de código aberto (liderado pela OSI) se ocupa do aspecto pragmático, abstendo-se da postura filosófica do movimento da FSF e não opondo-se a existência de softwares proprietários. Visando fomentar a adoção do software de código aberto como uma solução viável para ambientes corporativos, a OSI elaborou sua licença, que inclui algumas restrições adicionais focadas no modelo corporativo e em negócios comerciais elaborados em torno do software. 
+Contudo, nem todo software de código aberto pode ser considerado um software livre. O simples fato do programa estar com seu código aberto, não garante nada sobre a sua distribuição, modificação e comercialização. Pode-se ter um programa com código aberto, mas, impossibilitado de modificações, contrariando o conceito de software livre.
+
+Distinção entre software livre e software gratuito
+Software livre é um termo que designa programas de computador que oferecem aos usuários um conjunto de liberdades essenciais para controlar o software e como ele é utilizado. Essas liberdades, definidas pela Free Software Foundation, incluem:
+
+A liberdade de executar o programa para qualquer propósito.
+A liberdade de estudar como o programa funciona e adaptá-lo às suas necessidades, o que requer acesso ao código-fonte. 
+A liberdade de redistribuir cópias do programa, permitindo a colaboração e o compartilhamento com outros usuários.
+A liberdade de modificar o programa e distribuir as versões alteradas, possibilitando melhorias e adaptações às necessidades específicas.
+O software livre valoriza o senso de comunidade, onde usuários podem colaborar no desenvolvimento, compartilhamento e aprimoramento do software.
+Exemplos comuns de software livre incluem o sistema operacional GNU/Linux e os softwares desenvolvidos pelo Projeto GNU.
+Software Gratuito (Freeware)
+É importante distinguir software livre de software gratuito (ou freeware). Enquanto o software gratuito está disponível sem custo financeiro, ele geralmente não oferece as mesmas liberdades. O código-fonte pode não ser acessível, impedindo a modificação e o estudo do programa, e podem existir restrições de uso. Mesmo sendo gratuito em termos de preço, pode haver outras formas de "custo", como anúncios ou coleta de dados, e a liberdade do usuário sobre o software é limitada.
+O foco do software livre reside na liberdade do usuário de controlar o software, enquanto o software gratuito se concentra na ausência de custo financeiro, podendo não garantir as liberdades do software livre. Um software livre pode ser distribuído gratuitamente, mas um software gratuito nem sempre é livre.
+O software livre é aquele que respeita a liberdade e o senso de comunidade dos usuários. Um software livre tem como aspecto definidor a característica de dar ao usuário a liberdade de copiar, distribuir, modificar e estudar o programa sem pagar ou pedir permissão ao autor. Para garantir essas liberdades, o software livre permite aos seus usuários o acesso a seu código fonte. Um software gratuito, por outro lado, é apenas um programa cujo executável é distribuído de forma gratuita (podendo inclusive ser um software proprietário gratuito), mas que não pode ser modificado ou estudado dada a ausência do fornecimento do código fonte. 
+É perfeitamente possível um desenvolvedor disponibilizar um software como livre e cobrar por ele, contanto que não impeça seus usuários de executar as liberdades de acesso ao código fonte, alteração e distribuição; portanto é possível existir um software simultaneamente livre e pago.
+
+Licenças baseadas em contratos
+A maioria das licenças de software livre são baseadas no copyright, e existem limites para que tipo de requerimentos podem ser impostos por meio do copyright. Se uma licença baseada no copyright respeita a liberdade nas maneiras descritas acima, é improvável que ela possua algum outro tipo de problema nunca antes antecipado (embora isso ocorra ocasionalmente). No entanto, algumas licenças de software livre baseadas em contratos e contratos podem impor uma lista muito maior de restrições possíveis. Isso significa que existem muitas maneiras nas quais tal licença pode ser inaceitavelmente restritiva e não livre.
+
+Vantagens e desvantagens do software livre
+Uma importante característica do software livre é o compartilhamento de código-fonte. Esse compartilhamento pode simplificar o desenvolvimento de novas aplicações, que não precisam ser programadas a partir do zero. Essa vantagem tem impacto significativo na redução de custos e na diminuição da duplicação de esforços. Além de que um maior número de desenvolvedores pode ser capaz de identificar e corrigir mais bugs (falhas) em menos tempo e um número maior de usuários pode gerar situações de uso e necessidades variadas. É esperado que o desenvolvedor seja mais cuidadoso com o seu trabalho pois sabe que a sua produção será avaliada por outros profissionais e possivelmente terá reflexos em sua carreira profissional.
+Do ponto de vista econômico, o software livre promove o estabelecimento de vários fornecedores com base no mesmo software. A competição entre fornecedores traz vantagens aos usuários, como melhorias nos serviços de suporte e redução nos preços de pacotes (manuais, CDs, etc). Cerca de 80% do dinheiro gasto com software pelas empresas são voltados para aplicações personalizadas e treinamento. Esse modelo de negócio (suporte e venda de pacotes) incentiva o surgimento de pequenas empresas que podem atender os mercados locais e consequentemente redução da dependência de empresas estrangeiras.
+A pouca experiência do mercado em lidar com o software livre e o próprio fato do software ser, em geral, gratuito, podem gerar dúvidas sobre a viabilidade econômica ou a qualidade do software. Estes conceitos estão sendo revertidos aos poucos, pois algumas empresas defendem a opinião de que é mais vantajoso aprimorar/contribuir com o software livre do que investir na construção de um novo software similar e proprietário.
+
+Colaboração e desenvolvimento comunitário
+O modelo de desenvolvimento do software livre permite que diferentes pessoas participem da criação e melhoria dos programas. Como os usuários podem estudar o código-fonte, modificá-lo e distribuir versões alteradas, um projeto pode receber contribuições de pessoas com diferentes conhecimentos e necessidades. Essas contribuições podem envolver programação, correção de problemas, documentação e outras melhorias.
+A colaboração também pode levar à formação de comunidades em torno dos projetos. Os participantes podem compartilhar conhecimentos e versões modificadas do software, permitindo que outras pessoas utilizem essas melhorias e também contribuam para o desenvolvimento. Dessa forma, o software livre pode ser desenvolvido de maneira colaborativa, com a participação de diferentes usuários e desenvolvedores
+
+Segurança
+Existe um debate sobre a segurança do software livre em comparação com o software proprietário, enfatizando a importante questão da segurança através da obscuridade. Um teste quantitativo popular em segurança de computadores é usar a contagem relativa de falhas de seguranças não corrigidas conhecidas. Geralmente, os usuários deste método recomendam evitar produtos que não possuem correções para falhas de segurança conhecidas, pelo menos até que uma correção esteja disponível.
+Os defensores do software livre acreditam firmemente que esta metodologia é tendenciosa ao contar mais vulnerabilidades para os sistemas de software livre, uma vez que seu código-fonte é acessível e sua comunidade é mais próxima sobre problemas existentes. E os sistemas de software proprietários podem ter desvantagens sociais não reveladas, como a privação de privilégios de usuários livres menos afortunados de programas gratuitos. Esta é, também, a posição dos estudiosos da Criptografia, que usualmente mencionam o Princípio de Kerkhoffs como motivo para oporem-se à segurança através de obscuridade.
+
+Breve histórico
+
+Durante a década de 60, os computadores de grande porte, utilizados quase exclusivamente em grandes empresas e instituições governamentais, dominavam o mercado da Computação. Nesta época, não era comum do ponto de vista comercial a ideia do software como algo separado do hardware. O software era entregue junto com o código-fonte ou, em muitas vezes, apenas o código-fonte. Existiam grupos de usuários que compartilhavam código e informações. Assim, no início, o software era livre: pelo menos para aqueles que tinham acesso à tecnologia da época.
+Em 1983, Richard Stallman, funcionário do Laboratório de Inteligência Artificial do MIT, passou por uma experiência negativa com software proprietário e deu origem ao Projeto GNU. Durante o período que estava no MIT identificou uma falha no software de uma impressora Xerox. Tentou corrigi-la, mas a empresa não liberou o código-fonte. Esse fato motivou Richard Stallman a criar um mecanismo legal de garantia para que todos pudessem desfrutar dos direitos de copiar, redistribuir e modificar software, dando origem a Licença GPL. Para institucionalizar o Projeto GNU, Stallman fundou a Free Software Foundation ( FSF). Nasce assim o Movimento do Software Livre.
+Em julho de 1991, Linus Torvalds, um estudante finlandês da Universidade de Helsinki, divulgou uma mensagem mencionando sobre seu projeto de construir um núcleo livre, similar ao Minix, e obteve ajuda de vários desenvolvedores. Em setembro do mesmo ano, Linus lançou a versão oficial do que é hoje o Linux. Centenas de desenvolvedores se juntaram ao projeto para integrar todo o sistema GNU (compilador, editor de textos, shell, etc) em torno do núcleo do Linux. Nasce então, sob a licença GPL, o sistema operacional GNU/Linux.
+Em 1997, Eric Raymond, apresenta o artigo A catedral e o bazar, onde discute as vantagens técnicas do software livre e aborda os mecanismos de funcionamento do desenvolvimento descentralizado. Em 1998, Raymond foi um dos protagonistas, junto com Linus Torvalds, da criação da OSI, defendendo a adoção do software livre por razões técnicas e sugerindo o uso da expressão open source ao invés de free software, evitando a ambiguidade do termo free (que pode significar tanto livre quanto gratuito, na língua inglesa).
+A pluralidade de ideias e concorrência natural entre os sistemas e aplicações dentro do movimento software livre fazem parte de seu mecanismo de evolução, bem como influencia positivamente em sua qualidade. A concorrência entre os navegadores, ferramentas de escritório, gerenciador de janelas e banco de dados são os exemplos mais conhecidos. Do restante da história do software livre até os dias atuais podemos encontrar uma grande quantidade de soluções de alta qualidade que foram e estão sendo liberadas sob licenças livres, e em geral apoiadas tanto pela OSI quanto pela FSF.
+
+Principais projetos de software livre
+Ao longo da evolução do modelo de desenvolvimento empregado em software livre, alguns projetos se destacaram dentro da comunidade de desenvolvedores e ganharam prestígio de um grupo de usuários pela sua qualidade. Esses projetos podem ser considerados ícones que representam o sucesso de uma metodologia que no início não atraiu empresas a adotarem-no devido à sua informalidade e a valorização dos indivíduos sobre o processo.
+Dentre os projetos que conquistaram tal prestígio estão o navegador web Mozilla Firefox e o sistema operacional para smartphones e tablets Android.
+
+GNU/Linux
+
+Considerado o principal projeto de software livre existente, o GNU/Linux é a junção do núcleo Linux (Linux kernel), desenvolvido por Linus Torvalds em outubro de 1991 e o pacote de serviços e ferramentas originados do projeto GNU, liderado por Richard Stallman e iniciado em 1984. O GNU/Linux é um dos sistemas operacionais mais usados em servidores no mundo, o que pode ser justificado pela estabilidade e relativa imunidade a erros, além de ser compatível com uma imensa quantidade de aplicações. Ele foi o principal responsável pelo reconhecimento do sucesso do modelo de desenvolvimento de software livre. O núcleo Linux é a base para o Android, tornando-se um dos sistemas dominantes em smartphones e tablets.
+
+GNOME
+
+GNOME é um ambiente de área de trabalho e interface gráfica com o usuário (GUI) que roda sobre o sistema operacional. Composto inteiramente por software livre, ele pode ser usado em sistemas operacionais compatíveis com Unix. Atualmente (2012) é um dos principais ambientes gráficos para computadores pessoais, sendo a GUI padrão para a distribuição GNU/Linux mais popular do mercado, o Ubuntu. Além disso, é também utilizado no OpenSolaris e em outras importantes distribuições, tais como Debian, Red Hat Enterprise Linux e Fedora.
+
+Servidor Apache
+
+O servidor HTTP Apache, ou simplesmente Apache, é um exemplo de Software GNU/Livre notável, pois é o servidor HTTP mais popular da WEB e, desta forma, responsável pelo processamento da maior parte das páginas disponibilizadas atualmente na Internet. Ao contrário de alguns servidores web proprietários, o Apache é multiplataforma, podendo ser usado em sistemas POSIX (Unix, GNU/Linux, FreeBSD, etc), Windows e Mac OS.
+
+Eclipse
+
+Originado a partir do VisualAge da IBM, o Eclipse é um dos principais ambientes integrados de desenvolvimento de software (IDE) para a plataforma Java. Desenvolvido na própria linguagem Java, é considerado um dos melhores IDEs do mercado, sendo o pioneiro em diversos recursos de refatoração. Sua qualidade atraiu a comunidade de desenvolvedores, que criou suporte a diversos SDKs e linguagens de programação, tais como C/C++, Php e Python. Atualmente (2012) é usado como ferramenta oficial para diversas plataformas. Um exemplo notável é sua adoção como a IDE padrão para desenvolvimento de aplicativos para o sistema operacional Android.
+
+Movimento Software Livre
+
+Motivação
+Os desenvolvedores de software na década de 70 frequentemente compartilhavam seus programas de uma maneira similar aos princípios do software livre. No final da mesma década, as empresas começaram a impor restrições aos usuários com o uso de contratos de licença de software. Em 27 de setembro de 1983, Richard Stallman postou uma mensagem nos grupo de notícias net.unix-wizards e net.usoft com o assunto new Unix implementation. Nessa mensagem, ele informa que está começando a escrever um sistema compatível com UNIX chamado GNU (um acrônimo recursivo para Gnu’s Not Unix) e que ele será dado a todas as pessoas interessadas. No início de 1984 largou seu emprego no laboratório de Inteligência Articial do MIT, para dedicar-se em tempo integral ao projeto. E em outubro de 1985 Stallman fundou a Free Software Foundation ( FSF) e introduziu os conceitos de software livre e Copyleft, os quais foram especificamente desenvolvidos para garantir que a liberdade dos usuários fosse preservada.
+O movimento software livre não costuma tomar uma posição sobre trabalhos que não sejam programas de computador, i.e., software e suas respectivas documentações, mas alguns defensores do software livre acreditam que outros trabalhos que servem a um propósito prático também devem ser livres (veja Free content).
+Para o Movimento do software livre, que é um movimento social, não é ético aprisionar conhecimento científico, que deve estar sempre disponível, para assim permitir a evolução da humanidade. Já o movimento pelo Código Aberto, que é um movimento mais voltado ao mercado, prega que o software desse tipo traz diversas vantagens técnicas e econômicas. O segundo surgiu para levar as empresas a adotarem o modelo de desenvolvimento de software livre.
+Como a diferença entre os movimentos "Software Livre" e "Código Aberto" está apenas na argumentação em prol do mesmo tipo de software, é comum que esses grupos se unam em diversas situações ou que sejam citados de uma forma agregadora através da sigla "FLOSS" (Free/Libre and Open Source Software).
+
+Movimentos relacionados
+
+Inspirados na GPL e nas propostas do movimento do software livre, foi criado um repositório de licenças públicas, chamado Creative Commons, cujos termos se aplicam a variados trabalhos criativos, como criações artísticas colaborativas, textos e software, Entretanto, a maioria destas licenças não são reconhecidas como realmente livres pela FSF e pelo movimento de software livre.
+O software livre está inserido num contexto mais amplo onde a informação (de todos os tipos, não apenas software) é considerada um legado da humanidade e deve ser livre (visão esta que se choca diretamente ao conceito tradicional de propriedade intelectual). Coerentemente, muitas das pessoas que contribuem para os movimentos de Conhecimento Aberto — movimento do software livre, sites Wiki, Creative Commons, etc. — fazem parte da comunidade científica.
+Cientistas estão acostumados a trabalhar com processos de revisão mútua (ou por pares) e o conteúdo desenvolvido é agregado ao conhecimento científico global. Embora existam casos onde se aplicam as patentes de produtos relacionados ao trabalho científico, a ciência pura, em geral, é livre.
+
+Tipos de licença de software livre
+Todo software livre deve ser licenciado através de uma licença de software livre. Uma das mais conhecidas é a GNU GPL. Entretanto, existem diversas outras: GNU AGPL, GNU LGPL, GNU FDL , MPL (Licença pública Mozilla), Licença Apache, Licença MIT e Licença BSD.
+
+Software livre e software em domínio público
+Software livre é diferente de software de domínio público. Software livre é quando utilizado em combinação com licenças típicas (como as licenças GPL e BSD), garante a autoria do desenvolvedor ou organização. Software de domínio público acontece quando se passam os anos previstos nas leis de cada país de proteção dos direitos do autor e este se torna bem comum. Ainda assim, um software em domínio público pode ser considerado como um software livre, desde que atenda as liberdades definidas pela Free Software Foundation, como citadas anteriormente.
+
+Software livre e copyleft
+Licenças como a GPL contêm um conceito adicional, conhecido como copyleft. Ao contrário de copyright, em copyleft o autor cede alguns direitos. Por isto o termo left. Na prática isto significa que o autor continua sendo o dono, mas sua obra pode ser utilizada/modificada/distribuída por outras pessoas, respeitando termos específicos de licença. Um software livre sem copyleft pode ser transformado em não-livre por um usuário, caso assim o deseje. Já um software livre protegido por uma licença que ofereça copyleft, se distribuído, deverá ser sob a mesma licença, ou seja, repassando os direitos.
+Associando os conceitos de copyleft e software livre, programas e serviços derivados de um código livre devem obrigatoriamente permanecer com uma licença livre (os detalhes de quais programas, quais serviços e quais licenças são definidos pela licença original do programa). O usuário, porém, permanece com a possibilidade de não distribuir o programa e manter as modificações ou serviços utilizados para si próprio.
+
+Modelos de negócio com software livre
+
+Devido ao crescimento substancial do software livre, empresas têm obtido sucesso em sua exploração comercial com diferentes modelos de negócio. Existem abordagens específicas para um tipo de produto ou situação, outras para um nicho de mercado limitado ou ainda as que se adaptam ao porte da empresa.
+É possível distinguir os modelos de negócio em dois grandes grupos, baseado no aspecto de participação no desenvolvimento. O primeiro financia o desenvolvimento do software remunerando os profissionais envolvidos. O segundo estimula a adoção do software no mercado e promove treinamentos e consultoria. No entanto, ambos pertencem econômico e tecnológico do software livre no mercado.
+Entre os modelos existentes destacam-se:
+
+Redistribuição (CDs e DVDs com software livre)
+Extensões não livres
+Produtos e serviços privilegiados
+Licenciamento dual
+Licença com prazo de validade
+Integração com produtos de hardware
+Serviços baseados em software livre
+Serviços diretos e padronizados
+Propaganda e Franquias
+
+Principais entidades ligadas ao software livre
+O fortalecimento do movimento de software livre se deu, em grande parte, graças à colaboração de voluntários organizados em comunidades, associações de corporações e empresas que contribuíram significativamente com o desenvolvimento e financiamento de projetos de código aberto. As entidades atuam em diferentes níveis, desde a divulgação do movimento pela liberdade até o financiamento de desenvolvedores e projetos diretamente ligados à produção de softwares livres.
+
+Free Software Foundation (FSF)
+
+A Fundação do Software Livre (Free Software Foundation - FSF) é uma organização sem fins lucrativos fundada por Richard Stallman em 4 de outubro de 1985 para apoiar o movimento do software livre, baseado em copyleft e que visa promover a liberdade universal para criar, distribuir e modificar software. A FSF é sediada em Massachusetts, EUA. Desde sua fundação até meados da década de 1990, seus recursos eram usados em maior parte para contratar desenvolvedores para trabalhar em software livre para o projeto GNU. Posteriormente, direcionou seus empregados e voluntários para atuar em questões legais e estruturais para o movimento e a comunidade do software livre.
+
+Open Source Initiative (OSI)
+
+A OSI - Iniciativa pelo código aberto - é uma organização dedicada a promover o software de código aberto. Ela foi criada para incentivar uma aproximação de entidades comerciais com o software livre. Sua atuação principal é a de certificar quais licenças se enquadram como licenças de software livre, e promovem a divulgação do software livre e suas vantagens tecnológicas e econômicas.
+A organização foi fundada em fevereiro de 1998, por Bruce Perens e por Eric S. Raymond. A formação da OSI começou com a publicação do trabalho de Eric Raymond, A Catedral e o Bazar em 1997.
+
+Principais fundações ligadas ao software livre
+
+Apache Software Foundation
+
+A Apache Software Foundation (ASF) é uma organização sem fins lucrativos criada para suportar os projetos Apache, é uma comunidade descentralizada de desenvolvedores que trabalham na produção de Softwares Livres, distribuídos sob a licença Apache. Suas contribuições ao Software Livre vão além do desenvolvimento, pois um dos seus objetivos é proteger legalmente os participantes dos seus projetos, e prevenir que o nome Apache seja utilizado por outras organizações sem a devida permissão.
+
+Eclipse Foundation
+
+A Fundação Eclipse é uma organização sem fins lucrativos, com membros que apoiam e desenvolvem o Eclipse, um projeto de software livre e de código aberto, e que ajudam e cultivam tanto essa comunidade, como também o conjunto de produtos e serviços complementares da mesma plataforma.
+
+Linux Foundation
+
+A Fundação Linux (Linux Foundation - LF) é um consórcio de tecnologias sem fins lucrativos criado para fomentar o crescimento do núcleo Linux. Fundado em 2007 pela junção do Laboratório de Desenvolvimento Open Source (Open Source Development Labs - OSDL) e o Grupo de Padrões Livres (Free Standards Group - FSG), a LF patrocina o trabalho do criador do Linux, Linus Torvalds, e é apoiada por empresas líderes de Linux e código aberto e desenvolvedores de todo o mundo. A LF promove, protege e padroniza o Linux "fornecendo um conjunto abrangente de serviços para competir eficazmente com plataformas fechadas".
+
+GNOME Foundation
+
+A Fundação GNOME (GNOME Foundation) é uma organização sem fins lucrativos que coordena o desenvolvimento do projeto GNOME. Trabalha com o objetivo de criar uma plataforma de computação de uso público e geral completamente livre.
+
+Mozilla Foundation
+
+A Mozilla Foundation é uma fundação que mantém todos projetos de software livre da linha Mozilla, como Firefox, Thunderbird e complementos entre outros.
+
+Electronic Frountier Foundation (EFF)
+
+A Electronic Frontier Foundation (EFF), é uma organização sem fins lucrativos com o objetivo de proteger os direitos de liberdade de expressão, no contexto da era digital. Tem atuado de várias maneiras, proporcionando ou financiando defesa legal nos tribunais para indivíduos e novas tecnologias do efeito inibitório provocado por ameaças legais que sejam consideradas infundadas e sem razão, entre outras.
+
+Software Freedom Law Center (SFLC)
+
+A Software Freedom Law Center (SFLC) é uma organização de profissionais voluntários que fornece auxílio e representação legal sobre aspectos jurídicos aos desenvolvedores de projetos de software livre sem fins lucrativos.
+
+Creative Commons
+
+Creative Commons é uma organização não governamental sem fins lucrativos voltada a expandir a quantidade de obras criativas disponíveis, através de suas licenças que permitem a cópia e compartilhamento com menos restrições que o tradicional todos direitos reservados. Para esse fim, a organização criou diversas licenças, conhecidas como licenças Creative Commons, que tem sido adotadas por muitos criadores de conteúdo, pois permitem controle sobre a maneira como a propriedade intelectual será compartilhada.
+
+The Document Foundation - TDF
+
+The Document Foundation é uma instituição com base na legislação da Alemanha, que possui ativos e realiza transações financeiras e jurídicas em nome da Comunidade.
+A fundação é responsável pelo desenvolvimento da suíte de escritório cujo nome é LibreOffice.
+O LibreOffice é uma suíte de escritório livre compatível com as principais suítes de escritório do mercado. O LibreOffice é destinada tanto à utilização pessoal quanto profissional. Oferece todas as funções esperadas de uma suíte profissional: editor de textos, planilha, editor de apresentações editor de desenhos e banco de dados.
+O LibreOffice está disponível na maioria das plataformas computacionais: MS-Windows, Linux (32 et 64 bits, pacotes deb e rpm), MacOS-X (processadores Intel e PowerPC).
+O LibreOffice é livre para ser utilizado por qualquer pessoa. Você pode instalar uma cópia do LibreOffice em todos os computadores que desejar, e utilizá-la para qualquer propósito, tanto por empresas, governos e administração pública em geral, quanto por projetos educacionais e de inclusão digital.
+
+Participação do software livre na indústria
+
+O Software livre se tornou um fenômeno comercial a partir do final dos anos 90 e desde então sua participação na Indústria de TI tem crescido em ritmo constante.
+Existem várias abordagens para a exploração comercial de software livre. Dessas, algumas tem se mostrado mais viáveis, algumas se mostram mais adequadas para empresas de grande porte, enquanto outras se mostram mais adequadas para empresas de pequeno porte. Por se tratar de um fenômeno relativamente novo, há ainda espaço para experimentar outros modelos de negócio.
+No ano de 2005, uma pesquisa intitulada "Impacto do Software Livre e de Código Aberto (SL/CA) na Indústria de Software do Brasil" foi realizada pelo Observatório Econômico da Sociedade Softex em parceria com o Departamento de Política Científica e Tecnológica da Unicamp com o apoio do Ministério da Ciência e Tecnologia - MCT. O objetivo deste estudo foi realizar um levantamento das formas de organização técnica e econômica de Software Livre e de Código Aberto (SL/CA) no Brasil.
+Os resultados dessa pesquisa apresentam dados a respeito do perfil dos usuários, dos desenvolvedores, das empresas usuárias e das empresas desenvolvedoras de software livre. Além disso, a pesquisa apresenta as dimensões econômicas do SL/CA: motivações, setores e modelos de negócios adotados pelas empresas.
+Na apresentação do documento, afirma-se que "o SL/CA ameaça fortemente o modelo de pacotes (plataformas e sistemas operacionais), componentes de software (enquanto a ênfase de sua utilização for como produto) e produtos customizáveis, exatamente porque esses modelos têm na apropriabilidade (manter códigos fechados) um fator essencial de concorrência". Ainda, considera que os modelos de serviços e de software embarcado - que possuem objetivo mais específico e considerados menos importantes no que diz respeito a sua apropriação por meio de códigos fechados - representam as maiores oportunidades de investimento.
+Finalmente, a pesquisa aponta que o SL/CA está se profissionalizando no país e começa a sair da periferia da indústria em direção ao seu centro, e tem despertado a atenção de muitos, desde usuários e desenvolvedores que se posicionam contra a apropriação restritiva do conhecimento, passando por corporações que enxergam no SL/CA uma oportunidade de se desfazer de uma taxa de monopólio restritiva para seus negócios.
+
+Indivíduos

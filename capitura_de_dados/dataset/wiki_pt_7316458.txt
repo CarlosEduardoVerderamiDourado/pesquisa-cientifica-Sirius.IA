@@ -1,0 +1,53 @@
+Transportador de neurotransmissores
+
+Transportadores de neurotransmissores constituem uma classe the proteínas de transporte membranar que se estendem pelas membranas celulares dos neurónios. A sua função principal é transportar neurotransmissores ao longo destas membranas e dirigir o seu transporte posterior a locais intracelulares específicos. Existem mais de vinte tipos the transportadores de neurotransmissores.
+Transportadores vesiculares movem os neurotransmissores para vesículas sinápticas, regulando assim as concentrações das substâncias dentro delas. Os transportadores vesiculares dependem de um gradiente de protões gerado pela hidrólise de adenosina trifosfato (ATP) para poderem desempenhar a sua função: v-ATPase hidrolisa ATP, fazendo com que protões sejam bombeados para as vesículas sinápticas e criando um gradiente de protões. O efluxo de protões da vesícula irá então garantir a energia para recolher o neurotransmissor para dentro da vesícula.
+Os transportadores de neurotransmissores utilizam frequentemente gradientes eletroquímicos que existem ao longo das membranas celulares para desempenharem a sua função. Por exemplo, alguns transportadores usam energia obtida pelo cotransporte, ou simporte, de Na+ de modo a mover glutamato pelas membranas. Tais sistemas de cotransporte de neurotransportadores são altamente diversificados, onde estudos recentes indicam que sistemas de absorção são geralmente seletivos e associados a um neurotransmissor específico.
+Normalmente, transportadores na membrana sináptica servem para remover neurotransmissores da fenda sináptica e impedir a sua atividade ou trazê-la a um fim. No entanto, em certas ocasiões os transportadores podem trabalhar de modo inverso, transportando neurotransmissores para a sinapse, permitindo que estes neurotransmissores se liguem aos seus recetores e desencadeem o seu efeito. Esta "libertação não vesicular" de neurotransmissores é utilizada por algumas células, tais como células amácrinas na retina, como uma forma natural de libertar neurotransmissores.
+
+Tipos
+Tipos específicos de transportadores de neurotransmissores incluem os seguintes:
+
+Transportadores de glutamato/aspartato, incluindo:
+Transportador excitatório de amino ácido 1
+Transportador excitatório de amino ácido 2
+Transportador excitatório de amino ácido 3
+Transportador excitatório de amino ácido 4
+Transportador excitatório de amino ácido 5
+Transportador vesicular de glutamato 1
+Transportador vesicular de glutamato 2
+Transportador vesicular de glutamato 3
+Transportadores de GABA, incluindo:
+Transportador de GABA tipo 1
+Transportador de GABA tipo 2
+Transportador de GABA tipo 3
+Transportador de betaina
+Transportador vesicular de GABA
+Transportadores de glicina, incluindo:
+Transportador de glicina tipo 1
+Transportador de glicina tipo 2
+Transportadores de monoamina, incluindo:
+Transportador de dopamina
+Transportador de norepinefrina
+Transportador de serotonina
+Transportador vesicular de monoamina 1
+Transportador vesicular de monoamina 2
+Transportadores de adenosina, incluindo:
+Transportador equilibrativo de nucleosídeo 1
+Transportador equilibrativo de nucleosídeo 2
+Transportador equilibrativo de nucleosídeo 3
+Transportador equilibrativo de nucleosídeo 4
+Transportador vesicular de acetilcolina
+É importante notar que não existe transportador membranar de acetilcolina, visto que a acetilcolina é transformada por metabolismo rápido em colina por enzimas do género colinesterase, e colina é então transportada de volta para a célula e reconvertida em acetilcolina.
+Transportadores associados com histamina e endocanabinóides ainda não foram identificados.
+
+Relevância clínica
+Uma variadade de transportadores com capacidade de reabsorção de neurotransmissores são alvos farmacoterapêuticos para modular a concentração sináptica de neurotransmissores e consequentemente a neurotransmissão.
+
+Antidepressivos tais como ISRSs, ISRSNs e ATCs suprimem a atividade dos transportadores de serotonina e/ou norepinefrina, impedindo a reabsorção de neurotransmissores alvo da fenda sináptica.
+Psicoestimulantes como cocaína, anfetaminas e metilfenidato atuam ao inibir e/ou reverter os transportadores de dopamina e/ou norepinefrina. Alguns dissociativos como fenciclidina e cetamina são também inibidores de transportadores de dopamina.
+Tiagabina, um fármaco utilizado como anticonvulsivo, actua ao inibir o transportador de GABA 1.
+
+Transportadores vesiculares poderiam fornecer um alvo terapêutico alternativo para modelação de neurotransmissão química, visto que a atividade destes transportadores poderia afetar a quantidade de neurotransmissores libertos.
+
+Vesamicol, por exemplo, é um inibidor do transportador vesicular de acetilcolina. Previne o despejo de ACh nas vesículas pré-sinápticas, levando a uma caída na quantidade libertada em resposta a um potencial de ação neuronal. Vesamicol não é utilizado clinicamente, mas fornece uma ferramenta útil para investigação do comportamento de vesículas de neurotransmissores.

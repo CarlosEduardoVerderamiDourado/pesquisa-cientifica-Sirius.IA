@@ -1,0 +1,585 @@
+Ensaio não destrutivo
+
+Denomina-se ensaio não destrutivo (END ou NDT em inglês nondestructive testing) a qualquer tipo de ensaio praticado a um material que não altere de forma e permanente suas propriedades físicas, químicas, mecânicas ou dimensionais. Os ensaios não destrutivos implicam um dano imperceptível ou nulo. 
+Ensaios não destrutivos representam um conjunto amplo de técnicas de análise utilizadas na ciência e na indústria para avaliar as propriedades de um material, componente ou sistema, sem causar danos, baseando-se na aplicação de fenômenos físicos tais como ondas eletromagnéticas, acústicas, elasticidade, emissão de partículas subatômicas, capilaridade, absorção e qualquer tipo de teste que não implique um dano considerável à amostra examinada.
+Os ensaios não destrutivos são técnicas altamente valiosas, uma vez que permitem o controle das propriedades dos materiais, com economia de tempo e dinheiro, e permitem que o material testado volte intacto para o local de trabalho após a inspeção. Métodos comuns de END incluem ultrassom, partículas magnéticas, líquido penetrante, radiografia e ensaios por correntes de Foucault (correntes parasitas). END são uma ferramenta comumente usada em engenharia forense, engenharia mecânica, engenharia elétrica, engenharia civil, sistemas de engenharia, engenharia aeronáutica, medicina e arte.
+
+Ensaio não destrutivo de tubos
+Ensaios não destrutivos de tubos ou END tubular (em literatura em inglês Tubular NDT) são ensaios não destrutivos pela aplicação de várias tecnologias para detectar anomalias tais como corrosão e defeitos de fabricação e, tubos metálicos. As tubulações podem ser encontradas em equipamentos tais como caldeiras e trocadores de calor. Para conduzir um exame "in situ" (i.e. exame dos tubos na sua posição, onde eles estão instalados), a cobertura de uma abertura de manutenção é normalmente removida para permitir o acesso de um técnico aos tubos. Alternativamente, um feixe de tubos pode ser removido de um trocador de calor e transportado por uma empilhadeira para uma área de manutenção para um acesso mais fácil.
+
+Ensaio não destrutivo para determinação dos módulos elásticos
+É possível calcular os módulos elásticos (módulo de Young, módulo de cisalhamento) e o coeficiente de Poisson através das frequências naturais de vibração do corpo de prova, sem que este sofra qualquer dano, através do chamado método dinâmico (um tipo de ensaio não destrutivo); ou através da velocidade do som, ensaio por ultra-som (pulso-eco). As frequências juntamente com as dimensões e massa, possuem uma relação unívoca com os módulos elásticos.
+Os três modos principais de vibração são: vibração longitudinal, vibração flexional e vibração torcional. Os dois primeiros permitem o cálculo do módulo de Young, enquanto que o último possibilita a determinação do módulo de cisalhamento e do coeficiente de Poisson. O ensaio pode ser de:
+
+Excitação por impulso: no qual o corpo de prova sofre um leve impacto para que as vibrações mecânicas sejam geradas e um transdutor capta esta resposta acústica transformando-a em sinal elétrico de tal forma que as frequências de ressonância possam ser lidas.
+Varredura de frequência: neste ensaio o corpo de prova recebe um estímulo com frequência variável.
+Ambos os métodos exigem que o corpo de prova seja apoiado em pontos nodais em acordo com as normas ASTM E-1875 e E-1876.
+
+No caso de corpos de prova no formato de barras de secção retangular, o módulo de Young, módulo de cisalhamento e coeficiente de Poisson podem ser obtidos da seguinte forma:
+
+Módulo de Young (
+ 
+ 
+ 
+ E
+ 
+ 
+ 
+ 
+):
+
+ 
+ 
+ 
+ E
+ =
+ 0
+ ,
+ 9465
+ 
+ (
+ 
+ 
+ 
+ m
+ 
+ f
+ 
+ f
+ 
+ 
+ 2
+ 
+ 
+ 
+ b
+ 
+ 
+ )
+ 
+ 
+ (
+ 
+ 
+ 
+ L
+ 
+ 3
+ 
+ 
+ 
+ t
+ 
+ 3
+ 
+ 
+ 
+ 
+ )
+ 
+ 
+ T
+ 
+ 1
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ m
+ 
+ 
+ 
+ 
+ é a massa da barra, 
+ 
+ 
+ 
+ L
+ 
+ 
+ 
+ 
+ o comprimento, 
+ 
+ 
+ 
+ b
+ 
+ 
+ 
+ 
+ a largura e 
+ 
+ 
+ 
+ t
+ 
+ 
+ 
+ 
+ a altura; 
+ 
+ 
+ 
+ 
+ f
+ 
+ f
+ 
+ 
+ 
+ 
+ 
+ 
+ é a frequência de ressonância fundamental flexional e 
+ 
+ 
+ 
+ 
+ T
+ 
+ 1
+ 
+ 
+ 
+ 
+ 
+ 
+ é um fator de correção para o modo fundamental flexional, obtido por:
+
+ 
+ 
+ 
+ 
+ T
+ 
+ 1
+ 
+ 
+ =
+ 1
+ +
+ 6
+ ,
+ 585
+ (
+ 1
+ +
+ 0
+ ,
+ 0752
+ 
+ +
+ 0
+ ,
+ 8109
+ 
+ 
+ 
+ 2
+ 
+ 
+ )
+ 
+ 
+ (
+ 
+ 
+ t
+ L
+ 
+ 
+ )
+ 
+ 
+ 2
+ 
+ 
+ 
+ 0
+ ,
+ 868
+ 
+ 
+ (
+ 
+ 
+ t
+ L
+ 
+ 
+ )
+ 
+ 
+ 4
+ 
+ 
+ 
+ 
+ (
+ 
+ 
+ 
+ 8
+ ,
+ 340
+ (
+ 1
+ +
+ 0
+ ,
+ 2023
+ 
+ +
+ 2
+ ,
+ 173
+ 
+ 
+ 
+ 2
+ 
+ 
+ )
+ 
+ 
+ (
+ 
+ 
+ t
+ L
+ 
+ 
+ )
+ 
+ 
+ 4
+ 
+ 
+ 
+ 
+ 1
+ ,
+ 000
+ +
+ 6
+ ,
+ 338
+ (
+ 1
+ +
+ 0
+ ,
+ 1408
+ 
+ +
+ 1
+ ,
+ 536
+ 
+ 
+ 
+ 2
+ 
+ 
+ )
+ 
+ 
+ (
+ 
+ 
+ t
+ L
+ 
+ 
+ )
+ 
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ é o coeficiente de Poisson.
+Módulo de cisalhamento (
+ 
+ 
+ 
+ G
+ 
+ 
+ 
+ 
+):
+
+ 
+ 
+ 
+ G
+ =
+ 
+ 
+ 
+ 4
+ m
+ 
+ f
+ 
+ t
+ 
+ 
+ 2
+ 
+ 
+ 
+ 
+ b
+ t
+ 
+ 
+ 
+ 
+ R
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ f
+ 
+ t
+ 
+ 
+ 
+ 
+ 
+ 
+ é a frequência de ressonância fundamental torcional e 
+ 
+ 
+ 
+ R
+ 
+ 
+ 
+ 
+ um fator dependente da relação entre a largura e altura da amostra igual a:
+
+ 
+ 
+ 
+ R
+ =
+ 
+ (
+ 
+ 
+ 
+ 1
+ +
+ 
+ 
+ (
+ 
+ 
+ b
+ t
+ 
+ 
+ )
+ 
+ 
+ 2
+ 
+ 
+ 
+ 
+ 4
+ 
+ 2
+ ,
+ 521
+ 
+ 
+ t
+ b
+ 
+ 
+ 
+ (
+ 
+ 1
+ 
+ 
+ 
+ 
+ 1
+ ,
+ 991
+ 
+ 
+ 
+ e
+ 
+ 
+ 
+ 
+ 
+ 
+ b
+ t
+ 
+ 
+ +
+ 1
+ 
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+ )
+ 
+ 
+ (
+ 
+ 1
+ +
+ 
+ 
+ 
+ 0
+ ,
+ 00851
+ 
+ n
+ 
+ 2
+ 
+ 
+ 
+ b
+ 
+ 2
+ 
+ 
+ 
+ 
+ L
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ )
+ 
+ 
+ 0
+ ,
+ 060
+ 
+ 
+ (
+ 
+ 
+ 
+ n
+ b
+ 
+ L
+ 
+ 
+ )
+ 
+ 
+ 
+ 3
+ 2
+ 
+ 
+ 
+ 
+ 
+ (
+ 
+ 
+ 
+ b
+ t
+ 
+ 
+ 
+ 1
+ 
+ )
+ 
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+
+Com o valor do módulo de Young e o módulo de cisalhamento temos o coeficiente de Poisson (no caso de materiais isotrópicos):
+
+ 
+ 
+ 
+ 
+ =
+ 
+ (
+ 
+ 
+ E
+ 
+ 2
+ G
+ 
+ 
+ 
+ )
+ 
+ 
+ 1
+ 
+ 
+ 
+ 
+
+Estes cálculos são válidos para corpos de prova no formato de barras de secção retangular. Geometrias diferentes exigem equações diferentes.

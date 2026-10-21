@@ -1,0 +1,68 @@
+Enfield No. 2
+
+O Enfield No. 2, é um revólver de ação dupla (DA) do tipo "top-break" usando a munição .38/200 fabricado de 1930 a 1957. Foi a arma padrão Britânica/Commonwealth na Segunda Guerra Mundial, ao lado do Webley Mk IV e Smith & Wesson Victory Model revólveres com câmara do mesmo calibre.
+
+Histórico
+Após a Primeira Guerra Mundial, foi decidido pelo governo britânico que uma arma menor e mais leve de calibre .38" (9,2 mm) disparando uma bala de chumbo macia longa e pesada de 200 grãos (13,0 gramas) seria preferível aos grandes revólveres de serviço Webley usando o cartucho .455 Webley (11,6 mm). Enquanto o .455 provou ser um calibre eficaz para parar os soldados inimigos, o recuo do cartucho .455 complicou o treinamento de tiro de precisão. As autoridades começaram uma busca por um revólver de ação dupla com menos peso e recuo que pudesse ser rapidamente dominado por um soldado minimamente treinado, com uma boa probabilidade de acertar um inimigo com o primeiro tiro a distâncias extremamente curtas. Usando uma bala de chumbo longa, pesada e de ponta redonda em um cartucho de calibre .38, verificou-se que a bala, sendo minimamente estabilizada para seu peso e calibre, tendia a "capotar" ou tombar longitudinalmente ao atingir um objeto, teoricamente aumentando capacidade de ferir e parar de alvos humanos em curtas distâncias.
+
+Na época, o cartucho de calibre .38 da Smith & Wesson com bala de chumbo de 200 grãos (13,0 gramas), conhecido como .38/200, também era um cartucho popular para uso civil e policial (nos EUA, o ".38/200" ou "380/200" era conhecido como a carga ".38 Super Police"). Consequentemente, a empresa britânica Webley & Scott entregou seu revólver Webley Mk IV no calibre .38/200. Em vez de adotá-lo, as autoridades britânicas levaram o projeto para a Royal Small Arms Factory, administrada pelo governo, em Enfield, e a fábrica de Enfield veio com um revólver que era muito semelhante ao Webley Mk IV .38, mas internamente ligeiramente diferente. A arma projetada em Enfield foi rapidamente aceita sob a designação "Revolver, No 2 Mk I" (ação simples/dupla, com um "esporão" no cão), e foi adotada em 1931, seguida em 1938 pela "Mk I*" (com tração do gatilho mais leve, cão sem "esporão", somente ação dupla), e finalmente o "Mk I**" (simplificado para produção em tempo de guerra) em 1942.
+A Webley processou o governo britânico em £ 2.250, sendo "custos envolvidos na pesquisa e design" do revólver. Sua ação foi contestada por Enfield, que afirmou que o Enfield No 2 Mk I foi realmente projetado pelo "Captain Boys" (o Superintendente Assistente de Design, que deu nome ao Fuzil Boys) com a ajuda da Webley & Scott, e não o contrário — Consequentemente, sua reclamação foi negada. A título de compensação, no entanto, a Royal Commission on Awards to Inventors concedeu à Webley & Scott £ 1.250.
+A RSAF Enfield foi incapaz de fabricar revólveres "No. 2" suficientes para atender às demandas militares do tempo de guerra e, como resultado, o Mk IV da Webley foi lançado como um substituto padrão para o Exército Britânico.
+
+Variantes
+Havia duas variantes principais do revólver Enfield No 2 Mk I. O primeiro era o Mk I*, que tinha um cão sem "esporão" e era apenas de dupla ação (DAO), o que significava que o cão não podia ser engatilhado pelo atirador a cada tiro. Além disso, de acordo com o propósito do revólver como uma arma de curto alcance, as talas da empunhadura, passaram a ser feitas de plástico, e foram redesenhadas para melhorar a aderência quando usados em disparos de dupla ação rápida; o novo design da empunhadura recebeu a designação "Mk II". A maioria dos Enfields produzidos foram Mk I* ou modificados para esse padrão. A segunda variante foi o Mk I**, que era uma variante de 1942 do Mk I* simplificado para aumentar a produção, mas foi descontinuado logo em seguida como resultado de questões de segurança sobre algumas das modificações introduzidas.
+A grande maioria dos revólveres Enfield No 2 Mk I foram modificados para Mk I* durante a Segunda Guerra Mundial, geralmente quando eles vinham para reparos ou manutenção geral; Acredita-se que a razão foi que a versão Mk I* era mais barata e mais rápido para fabricar e permitia um treinamento muito mais rápido do operador. Quando usado da maneira como as forças britânicas treinaram (fogo rápido de dupla ação em distâncias muito próximas), o No 2 Mk I* é pelo menos tão preciso quanto qualquer outro revólver de serviço de seu tempo, por causa da relativamente leve tração do gatilho em dupla ação. Não é, no entanto, a melhor escolha para tiro deliberadamente direcionado, de longa distância - o disparo em ação dupla irá desviar a mira do atirador mais competente o suficiente para afetar visivelmente a precisão em distâncias de mais de 15 jardas (13,7 metros). Apesar de ter sido oficialmente declarado obsoleto no final da Segunda Guerra Mundial, os revólveres Enfield (e Webley) não foram completamente eliminados em favor da Browning Hi-Power até abril de 1969.
+
+O Enfield No. 2 é muito rápido para recarregar - assim como todos os revólveres "top-break" britânicos - por causa de seu ejetor automático, que remove simultaneamente todas os seis estojos do cilindro. A experiência de combate britânica durante a Segunda Guerra Mundial com os revólveres Enfield .38/200, parecia confirmar que, "para o soldado médio", o Enfield No. 2 Mk I poderia ser usado com muito mais eficácia do que os mais volumosos e pesados revólveres Webley calibre .455 que foram emitidos durante a Primeira Guerra Mundial. Talvez por causa do gatilho de ação dupla de curso relativamente longo em comparação com outros capazes de tiro de ação única, os revólveres Mk I* de ação dupla apenas não eram populares entre as tropas, muitos dos quais usavam a primeira oportunidade disponível para trocá-los em favor dos revólveres Smith & Wesson, Colt ou Webley.
+
+Munição
+O Enfield No. 2 Mk I foi projetado para uso com o cartucho "Cartridge S.A. Ball Revolver .380 inch Mk. I" (usando cordite) e o "Mk. Iz" (usando nitrocelulose), uma variante do cartucho .38 Smith & Wesson, também conhecido como .38/200. Tinha uma bala de 200 grãos (13,0 gramas), ponta redonda sem revestimento, tinha 0,359 polegadas de diâmetro e desenvolveu uma velocidade de saída de 590–650 pés/s (180–200 m/s).
+Pouco antes da eclosão da Segunda Guerra Mundial, as autoridades britânicas ficaram preocupadas que a bala de chumbo não jaquetada usada no cartucho "380/200" pudesse ser considerada uma violação da Convenção de Haia de 1899 que rege as balas dundum ou "explosivas". Uma nova carga em calibre .38 foi introduzida para uso em combate, utilizando uma bala de chumbo com jaqueta de metal dourado de 178 grãos (11,5 gramas); novas miras dianteiras foram emitidas para compensar a balística do novo cartucho e ajustar para o ponto de mira. O novo cartucho foi aceito no Serviço da Commonwealth como "Cartridge, Pistol, .380 Mk IIz", disparando uma bala de ponta arredondada "Full Metal Jacket" de 179 grãos (11,6 gramas). O cartucho de chumbo "380/200 Mk I" continuou em serviço, originalmente restrito à prática de treinamento e pontaria. No entanto, após a eclosão da guerra, as exigências de fornecimento forçaram as autoridades britânicas a usar os carregamentos "380/200 Mk I" e ".380 Mk IIz" alternadamente em combate. Os fabricantes de munições dos EUA, como a "Winchester-Western", forneceram cartuchos Mk I 380/200 para as forças britânicas durante a guerra.
+
+Outros fabricantes
+A grande maioria dos revólveres Enfield No. 2 foram feitos pela RSAF (Royal Small Arms Factory) Enfield, mas as necessidades de guerra significaram que os números foram produzidos em outro lugar. A Albion Motors, na Escócia, fez o Enfield No. 2 Mk I* de 1941 a 1943, quando o contrato de produção foi passado para a Coventry Gauge & Tool Co. Em 1945, 24.000 revólveres Enfield No. 2 Mk I* e Mk I** foram produzidos pela Albion/CG & T. A Singer Sewing Machine Company de Clydebank fabricava componentes, mas eles eram montados em Enfield sob suas marcas de prova; As peças feitas pela Singer eram marcadas com "SSM".
+A "Howard Auto Cultivator Company" (HAC) em New South Wales, Austrália se preparou e começou a fabricar os revólveres Enfield No 2 Mk I* e I** em 1941, mas a produção foi muito limitada (estimada em cerca de 350 revólveres no total), e os revólveres produzidos foram criticados por não serem intercambiáveis, mesmo com outros revólveres produzidos no HAC. Sabe-se da existência de muito poucos revólveres HAC, e muitos colecionadores acreditam que a maioria dos revólveres HAC pode ter sido destruída nas várias "Anistias" e "Recompras" de armas australianas.
+
+Guerras
+Esses foram os conflitos nos quais o Enfield No. 2 foi utilizado:
+
+Segunda Guerra Mundial
+Revolução Nacional da Indonésia
+Emergência Malaia
+Guerra da Coreia
+Guerras coloniais britânicas
+Campanha do Norte
+Campanha de fronteira
+The Troubles
+
+Usuários
+ Reino Unido, suas colônias e Commonwealth
+ Austrália
+ Botswana
+ Canadá
+ Gâmbia
+ Israel
+ Lesoto
+ Líbano
+ Malásia
+ Paquistão
+ Myanmar
+ Filipinas
+ Sri Lanka
+ Rodésia
+ Holanda
+ Nova Zelândia
+
+Na cultura popular
+O Enfield No. 2, foi extensamente utilizado utilizado no cinema e na televisão. Entre as principais obras em que ele foi exibido estão:
+
+No cinema:
+The Desert Rats
+Os Canhões de Navarone
+Bandidas
+Zwartboek
+The Monuments Men
+Na televisão:
+Os Vingadores
+The Blacklist
+Endeavour 5ª temporada

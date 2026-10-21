@@ -1,0 +1,310 @@
+Dimensão (espaço vetorial)
+
+Em matemática, a dimensão de um espaço vetorial V é a cardinalidade (ou seja, o número de vetores) de uma base de V sobre o seu corpo de escalares. Às vezes ela é chamada de dimensão de Hamel (de Georg Hamel) ou de dimensão algébrica para distingui-la de outros tipos de dimensão.
+Todo espaço vetorial tem uma base, e todas as bases de um espaço vetorial têm a mesma cardinalidade; consequentemente, a dimensão de um espaço vetorial é definida unicamente. Diz-se que V tem dimensão finita se a dimensão de V é finita se ele tem dimensão infinita se a sua dimensão é infinita.
+A dimensão do espaço vetorial V sobre o corpo F pode ser denotada por dimF(V) ou por [V : F], que se lê "dimensão de V sobre F". Quando F pode ser deduzido a partir do contexto, geralmente se escreve apenas dim(V).
+
+Exemplos
+O espaço vetorial R3 tem
+
+ 
+ 
+ 
+ 
+ {
+ 
+ 
+ 
+ (
+ 
+ 
+ 
+ 1
+ 
+ 
+ 
+ 
+ 0
+ 
+ 
+ 
+ 
+ 0
+ 
+ 
+ 
+ )
+ 
+ 
+ ,
+ 
+ 
+ (
+ 
+ 
+ 
+ 0
+ 
+ 
+ 
+ 
+ 1
+ 
+ 
+ 
+ 
+ 0
+ 
+ 
+ 
+ )
+ 
+ 
+ ,
+ 
+ 
+ (
+ 
+ 
+ 
+ 0
+ 
+ 
+ 
+ 
+ 0
+ 
+ 
+ 
+ 
+ 1
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+
+como uma base e, portanto, tem-se dimR(R3) = 3. Em geral, dimR(Rn) = n, e, de forma ainda mais geral, dimF(Fn) = n para qualquer corpo F.
+Os números complexos C são tanto um espaço vetorial real quanto complexo; tem-se que dimR(C) = 2 e dimC(C) = 1. Assim, a dimensão depende do corpo de escalares.
+O único espaço vetorial de dimensão 0 é {0}, o espaço vetorial que consiste apenas de seu vetor nulo.
+
+Fatos
+Se W é um subespaço vetorial de V, então dim(W) dim(V).
+Para mostrar que dois espaços vetoriais de dimensão finita são iguais, muitas vezes, se utiliza o seguinte critério: se V é um espaço vetorial de dimensão finita e W é um subespaço vetorial de V com dim(W) = dim(V), então W = V.
+Rn tem {e1, ..., en} como base canônica, em que ei é a i-ésima coluna da matriz identidade correspondente. Portanto, Rn tem dimensão n.
+Quaisquer dois espaços vetoriais sobre F que tenham a mesma dimensão são isomorfos. Qualquer correspondência bijetiva entre suas bases pode ser estendida unicamente para uma transformação linear entre os espaços vetoriais. Se B é um conjunto, um espaço vetorial de dimensão |B| sobre F pode ser construído da seguinte forma: considera-se o conjunto F(B) de todas as funções f : B F tais que f(b) = 0 para todos, exceto uma quantidade finita de b em B. Estas funções podem ser somadas e multiplicadas por elementos de F, obtendo-se o F-espaço vetorial desejado.
+Um resultado importante sobre dimensões é dado pelo teorema do núcleo e da imagem para transformações lineares.
+Se F/K é uma extensão de corpos, então F é em particular um espaço vetorial sobre K. Além disso, todo F-espaço vetorial V também é um K-espaço vetorial. As dimensões destes espaços estão relacionadas pela fórmula
+
+dimK(V) = dimK(F) dimF(V).
+Em particular, todo espaço vetorial complexo de dimensão n é um espaço vetorial real de dimensão 2n.
+Algumas fórmulas simples relacionam a dimensão de um espaço vetorial com a cardinalidade do corpo de escalares e a cardinalidade do espaço propriamente dito. Se V é um espaço vetorial sobre um corpo F, então, denotando a dimensão de V por dim V, tem-se:
+
+Se dim V é finita, então |V| = |F|dim V.
+Se dim V é infinita, então |V| = max(|F|, dim V).
+
+Generalizações
+Pode-se pensar em um espaço vetorial como sendo um caso particular de um matroid, e neste caso há uma noção de dimensão bem definida. Tanto o comprimento de um módulo quanto o posto de um grupo abeliano têm várias propriedades semelhantes à dimensão dos espaços vetoriais.
+A dimensão de Krull de um anel comutativo, assim chamada em referência a Wolfgang Krull (1899–1971), é definida como o número máximo de inclusões estritas em uma cadeia ascendente de ideais primos no anel.
+
+Traço
+A dimensão de um espaço vetorial pode ser caracterizada alternativamente como o traço do operador identidade. Por exemplo, 
+ 
+ 
+ 
+ tr
+ 
+ 
+ 
+ id
+ 
+ 
+ 
+ R
+ 
+ 
+ 2
+ 
+ 
+ 
+ 
+ =
+ tr
+ 
+ 
+ (
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ 
+ 0
+ 
+ 
+ 
+ 
+ 0
+ 
+ 
+ 1
+ 
+ 
+ 
+ 
+ 
+ )
+ 
+ =
+ 1
+ +
+ 1
+ =
+ 2.
+ 
+ 
+ 
+ 
+ Esta parece ser uma definição circular, mas permite generalizações úteis.
+Em primeiro lugar, ela permite definir uma noção de dimensão quando se tem um traço, mas não há um significado natural para uma "base". Por exemplo, pode-se ter uma álgebra A com aplicações 
+ 
+ 
+ 
+ 
+ :
+ K
+ 
+ A
+ 
+ 
+ 
+ 
+ (a inclusão de escalares, chamada de unidade) e uma aplicação 
+ 
+ 
+ 
+ 
+ :
+ A
+ 
+ K
+ 
+ 
+ 
+ 
+ (correspondente ao traço, chamada de counidade). A composição 
+ 
+ 
+ 
+ 
+ 
+ 
+ :
+ K
+ 
+ K
+ 
+ 
+ 
+ 
+ é um escalar (sendo um operador linear sobre um espaço unidimensional), corresponde ao "traço da identidade", e dá uma noção de dimensão para uma álgebra abstrata. Na prática, em biálgebras exige-se que esta aplicação seja a identidade, que pode ser obtida normalizando-se a counidade dividindo-a pela dimensão (
+ 
+ 
+ 
+ 
+ :=
+ 
+ 
+ 
+ 1
+ n
+ 
+ 
+ tr
+ 
+ 
+ 
+ 
+ 
+), assim, nestes casos, a constante de normalização corresponde à dimensão.
+Alternativamente, pode ser possível calcular o traço de operadores em um espaço vetorial de dimensão infinita; neste caso, um traço (finito) é definido, mesmo que não exista uma dimensão (finita), e dá uma noção de "dimensão do operador". Estes caem sob a rubrica de "operadores de classe tracial em um espaço de Hilbert, ou, mais geralmente, operadores nucleares, em um espaço de Banach.
+Uma generalização mais sutil é considerar o traço de uma família de operadores como uma espécie de dimensão "torcida". Isso ocorre significativamente em teoria de representação, onde o caráter de uma representação é o traço da representação, portanto, uma função a valores escalares definida em um grupo 
+ 
+ 
+ 
+ 
+ :
+ G
+ 
+ K
+ ,
+ 
+ 
+ 
+ 
+ cujo valor na identidade 
+ 
+ 
+ 
+ 1
+ 
+ G
+ 
+ 
+ 
+ 
+ é a dimensão da representação, já que uma representação leva a identidade do grupo na matriz identidade: 
+ 
+ 
+ 
+ 
+ (
+ 
+ 1
+ 
+ G
+ 
+ 
+ )
+ =
+ tr
+ 
+ 
+ 
+ I
+ 
+ V
+ 
+ 
+ =
+ dim
+ 
+ V
+ .
+ 
+ 
+ 
+ 
+ Pode-se visualizar os demais valores 
+ 
+ 
+ 
+ 
+ (
+ g
+ )
+ 
+ 
+ 
+ 
+ do caráter, como dimensões "torcidas", e encontrar generalizações análogas de afirmações sobre dimensões para afirmações sobre carácteres ou representações. Um exemplo sofisticado disso ocorre na teoria de monstruos moonshine: o j-invariante é a dimensão graduada de uma representação de dimensão infinita do grupo monstro, e a substituição da dimensão pelo caráter fornece a série de McKay–Thompson de cada elemento do grupo Monstro.

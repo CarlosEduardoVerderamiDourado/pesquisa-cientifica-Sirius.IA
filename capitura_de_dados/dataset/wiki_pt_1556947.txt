@@ -1,0 +1,43 @@
+Decomposição térmica
+
+Para o processo biológico, veja Decomposição. Para a decomposição química em geral, veja Reação de análise.
+
+Decomposição térmica, ou termólise, é a decomposição química de uma substância provocada pelo aquecimento. Na termólise, o aumento da temperatura provoca a clivagem não catalisada de uma ou mais ligações covalentes, ou essa clivagem constitui uma etapa essencial do processo. A quebra de ligações químicas requer energia, enquanto a formação de novas ligações libera energia. O balanço global da reação pode ser endotérmico ou exotérmico. Quando uma decomposição exotérmica libera calor mais rapidamente do que ele pode ser dissipado, o aumento de temperatura pode acelerar ainda mais a reação por retroalimentação positiva, causando fuga térmica e, em certas condições, uma explosão.
+
+Temperatura de decomposição
+A temperatura observada para o início da decomposição depende do método de medição, da sensibilidade do equipamento e das condições experimentais. Em termogravimetria, a decomposição acompanhada de liberação de produtos voláteis pode ser acompanhada pela perda de massa da amostra. Essa perda, porém, não basta para confirmar uma decomposição química, pois também pode resultar de processos como a evaporação.
+Não existe, em geral, um único valor absoluto no qual a decomposição comece de maneira descontínua. As energias das moléculas seguem uma distribuição estatística, e a velocidade de uma reação depende da temperatura. Por isso, emprega-se com frequência uma temperatura de início, na qual a reação atinge uma velocidade mensurável. Esse valor depende da sensibilidade do instrumento. A temperatura de início também pode ser determinada por calorimetria exploratória diferencial, ou DSC, e varia com a taxa de aquecimento. Taxas de aquecimento maiores podem resultar em temperaturas de início aparentes mais altas, dependendo de fatores cinéticos como ordem de reação, energia de ativação e comportamento autocatalítico.
+Em decomposições reversíveis, reagentes e produtos podem coexistir em equilíbrio químico. Alterações na temperatura deslocam a composição desse equilíbrio, como estabelece o princípio de Le Châtelier. A velocidade da decomposição e a temperatura observada para seu início dependem das propriedades do material e das condições experimentais. A análise termocinética permite examinar quantitativamente essas dependências.
+
+Exemplos
+O carbonato de cálcio, presente no calcário e no giz, decompõe-se quando aquecido em óxido de cálcio e dióxido de carbono. A reação ocorre durante a calcinação do calcário para a produção de cal viva.
+CaCO3 CaO + CO2
+O carbonato de magnésio também se decompõe por aquecimento, produzindo óxido de magnésio e dióxido de carbono.
+MgCO3 MgO + CO2
+O nitrato de chumbo(II) decompõe-se por aquecimento, formando óxido de chumbo(II), oxigênio e dióxido de nitrogênio.
+2Pb(NO3)2 2PbO + O2 + 4NO2
+Alguns óxidos decompõem-se quando aquecidos a temperaturas suficientemente altas. Um exemplo é o óxido de mercúrio(II), que produz oxigênio e mercúrio metálico. Joseph Priestley usou essa reação em 1774 para preparar o gás que mais tarde seria chamado de oxigênio.
+A termólise do vapor de água, estudada em temperaturas superiores a 2.000 K, cerca de 1.727 °C, produz uma mistura em equilíbrio que contém água não dissociada, H2, O2, radicais hidroxila, OH, e átomos de hidrogênio e oxigênio. A fração dissociada depende da temperatura e da pressão, sem um limite único de temperatura para o início da reação.
+
+Decomposição de nitratos, nitritos, azidas e compostos de amônio
+
+O dicromato de amônio, quando aquecido, produz nitrogênio, água e óxido de cromo(III).
+(NH4)2Cr2O7 Cr2O3 + N2 + 4H2O
+O nitrato de amônio, quando aquecido sob condições controladas, pode decompor-se com formação de óxido nitroso e água. O aquecimento também pode provocar decomposição explosiva, sobretudo em condições de confinamento ou contaminação.
+NH4NO3 N2O + 2H2O
+O nitrito de amônio é instável e decompõe-se em nitrogênio e água, processo que se acelera com o aquecimento.
+NH4NO2 N2 + 2H2O
+A azida de bário sofre decomposição térmica com liberação de nitrogênio e formação inicial de núcleos de bário metálico.
+A azida de sódio decompõe-se acima de cerca de 275 °C em sódio metálico e nitrogênio. O aquecimento rápido pode tornar a decomposição explosiva.
+2NaN3 2Na + 3N2
+O nitrato de sódio, quando aquecido, converte-se inicialmente em nitrito de sódio, com liberação de oxigênio.
+2NaNO3 2NaNO2 + O2
+Na eliminação de Hofmann, uma amina é convertida em um sal de amônio quaternário e, depois, no hidróxido correspondente. Quando há um hidrogênio disponível no carbono em posição beta em relação ao nitrogênio, o aquecimento pode provocar eliminação, produzindo um alceno, uma amina terciária e água.
+
+Facilidade de decomposição
+A temperatura e a velocidade de uma decomposição dependem da estrutura e da composição do material, do mecanismo da reação e das condições experimentais. Por isso, a posição do metal na série de reatividade, isoladamente, não fornece uma regra geral para a decomposição térmica de seus compostos. Dentro de uma mesma família química, porém, podem ocorrer tendências periódicas. Nos carbonatos e nitratos dos metais alcalinoterrosos, a estabilidade térmica aumenta ao se descer pelo grupo, e os sais passam a exigir aquecimento mais intenso para se decompor.
+Também é necessário distinguir a desidratação de um sal hidratado da decomposição do sal anidro. O sulfato de cobre (II) pentahidratado perde sua água de cristalização em etapas, formando o sulfato anidro. Sob aquecimento mais intenso, o sulfato anidro se decompõe, com formação de óxido de cobre(II) e liberação de óxidos de enxofre. O sulfato de potássio funde a aproximadamente 1.067 °C.
+
+Aplicações práticas
+Na química orgânica, a pirólise flash a vácuo submete moléculas a um aquecimento breve em alta temperatura, geralmente na fase gasosa. A técnica é realizada sob pressão reduzida e tem sido usada para produzir e estudar intermediários reativos e para preparar moléculas que não são facilmente obtidas por outros métodos.
+Resíduos de impressões digitais também sofrem degradação térmica. Quando uma pessoa toca uma superfície, deixa resíduos provenientes dos dedos, entre eles componentes do suor. De Paoli e colaboradores examinaram amostras de constituintes écrinos depositadas em placas de aço. Nas condições desses ensaios, alguns dos aminoácidos estudados já apresentaram degradação a 100 °C, enquanto a ureia apresentou degradação por volta de 150 °C. O ácido lático apresentou degradação entre 50 °C e 100 °C. Esses resultados se referem aos constituintes e às condições experimentais estudadas. A degradação desses compostos pode dificultar métodos de ciência forense que dependem de sua presença para revelar impressões latentes.

@@ -1,0 +1,38 @@
+Intel Core i7
+
+Intel Core i7 é uma família de processadores Intel para desktop e notebooks x86-64 (64 bits). A família foi lançada com microarquitetura Intel Nehalem de primeira geração sendo o sucessor dos processadores Intel Core 2 e contou com codinomes Clarkfield (processadores de primeira geração para aparelhos móveis) e Bloomfield, Lynnfield (processadores para desktops de alto desempenho high-end e os de uso geral, respectivamente, ambos da arquitetura Nehalem da primeira geração). O nome continuou com o uso da marca Core da Intel. Foi lançado oficialmente em 17 de novembro de 2008 , sendo fabricado no Arizona, Novo México. Atualmente está sob a 10º geração de processadores intitulada Comet Lake, que, assim como a Skylake utiliza litografia de 14nm, com processo de fabricação usando transistores 3D FinFET, aumentando em quase três vezes a capacidade de fabricar transistores menores para processadores comparado a primeira geração.
+
+QuickPath Interconnect
+Criado para substituir o Front Side Bus. Funciona como uma interconexão de alta velocidade ponto a ponto. Cada processador possui seu controlador de memória (memória dedicada) e memória cache, fazendo com que os processadores comuniquem-se diretamente com o controlador de entrada e saída. Os processadores podem acessar diretamente a cache do outro, devido às interconexões entre eles, possibilitando também o fluxo de dados em ambas as direções ao mesmo tempo.
+Chama-se de link a conexão entre dois dispositivos QuickPath, composta por um conjunto de sinais unidirecionais transmitidos por um dispositivo e recebidos por outro.
+No soquete 1366, o QIP era responsável pelo fornecimento das vias dos controladores PCI-E e demais conexões com periféricos e controlador de ponte sul, visto que os processadores do soquete 1366 não possuíam esta tecnologia integrada até então.
+A partir dos soquetes 1156, 1155, 1150, 1151 e 2011, as conexões de PCI-E foram integradas diretamente ao "DIE" do processador, dispensando o uso do controlador externo QuickPath. O número de conexões (vias) PCI-E e a versão da tecnologia (2.0 ou 3.0) podem variar de acordo com o soquete, modelo do processador e modelo de placa mãe utilizada. Todos os processadores dos soquetes 1156, 1155, 1150, 1151 e 2011 suportam PCI-E 2.0, e o suporte à PCI-E 3.0 foi implementada somente a partir da terceira geração (1155) em diante, incluindo os soquetes 1150 e 1151.
+
+Tique Taque
+Tick-tock é um modelo adotado pela Intel para seguir as mudanças realizadas em seus processadores. "Tique" faz referência à melhoria de uma arquitetura anterior, e o "Taque" faz referência a uma nova microarquitetura. A cada 18 meses é previsto o lançamento de um "Tique" ou um "Taque", ou seja, ou se melhora uma microarquitetura já implementada ou se lança uma nova.
+Exceções foram aplicadas na 5ªa e na 8ª geração, onde as séries 3ª, 4ª e 5ª geração utilizavam a tecnologia de 22nm de fabricação, e as séries 6ª, 7ª e 8ª geração, utilizando 14nm de fabricação, fazendo 1 "tique" e 2 "taque".
+
+Especificações por geração
+
+Os modelos apresentados são representativos de cada geração e não abrangem todos os processadores da família Core i7. As especificações podem variar entre diferentes modelos da mesma geração, especialmente entre processadores para desktops, notebooks e plataformas de alto desempenho.
+A evolução da família Core i7 foi acompanhada pelo aumento do número de núcleos e threads e por mudanças nas arquiteturas e plataformas. Os primeiros modelos para desktops utilizavam quatro núcleos e oito threads, enquanto gerações posteriores passaram a oferecer seis e oito núcleos. A partir da 12ª geração, determinados modelos passaram a utilizar uma arquitetura híbrida composta por núcleos de desempenho (P-cores) e núcleos eficientes (E-cores).
+As tecnologias de memória também evoluíram ao longo das gerações. Os primeiros processadores Core i7 utilizavam memória DDR3, posteriormente substituída pela DDR4 em novas plataformas. A 12ª geração introduziu suporte à memória DDR5, além de manter suporte à DDR4 em plataformas compatíveis. As gerações seguintes continuaram oferecendo suporte a DDR4 e DDR5, dependendo do processador e da placa-mãe.
+Os processadores Core i7 também utilizaram diferentes soquetes ao longo de sua evolução, incluindo LGA 1366, LGA 1156, LGA 1155, LGA 1150, LGA 1151, LGA 1200 e LGA 1700. Um processador Core i7 de uma determinada geração não é necessariamente compatível com uma placa-mãe destinada a outra geração. A compatibilidade depende do soquete, chipset e, em alguns casos, da versão do BIOS da placa-mãe.
+
+Overclock
+Os processadores da família Core com o K no final de seu modelo, permitem uma faixa maior de Overclock se comparado aos processadores "não K", como exemplo, os modelos i7-3770 e i7-3770k, pois, a série terminada com K possuem uma gama maior de opções do multiplicador de clock. Alguns modelos de Chipsets podem limitar a gama de configurações de Overclock.
+
+Canais de memória
+Os processadores i7 de soquete 1366 possuem três canais de memória (até 6 slots de memória por processador), sendo os soquetes 1366, 2011 v1 e v2 compatíveis somente com DDR3. Os modelos compatíveis com LGA2011 v1 e v2 podem suportar até 4 canais de memória (8 slots no total por processador).
+Os soquetes 2011 v3 possuem suporte ao novo padrão de memórias DDR4, atribuindo a este uma vantagem de usar pentes de maiores capacidades e maiores taxas de transferências, com consumo relativamente menor de energia, também oferecendo a opção de 4 canais de memória DDR4 (8 slots de memória no total por processador).
+Alguns fabricantes podem disponibilizar placas com 2 ou mais processadores na mesma placa mãe para os soquetes 1366 e 2011 (v1, v2 ou v3). Neste caso, as opções de slots memória podem aumentar, permitindo uso de mais de 8 slots na mesma placa mãe, entretanto, cada grupo de memória é controlado unicamente pelo seu respectivo processador.
+Os modelos de soquete 1156, 1155, 1150 e 1151 são compatíveis somente com 2 canais de memória (total de 4 slots). Os processadores do soquete 1151 (6ª e 7ª geração) são compatíveis com memórias DDR3 e DDR4, entretanto, o suporte ao tipo de memória a ser utilizado pode variar de acordo com o slot de memória utilizado pela placa mãe. Estes soquetes, no entanto, não oferecem configuração de placas mãe de múltiplos processadores.
+
+Evolução do produto
+O Core i7 950 e o Core i7 975 Extreme Edition foram introduzidos em março de 2009 com preços semelhantes aos preços do 940 e 965 Extreme Edition, respectivamente, mas com melhor desempenho em cada caso. A Intel tem agendada a interrupção do 940 e 965XE para Q3 2009.
+
+Lynnfield
+Lynnfield é o primeiro processador vendido sobre a marca Core i7, e ao mesmo tempo, sendo vendido como Core i5. Ao contrário de Bloomfield, não tem uma interface QPI mas se conecta diretamente à ponte-sul e outros dispositivos que utilizam o Direct Media Interface PCI Express ligados no soquete 1156. O Core i7 baseado no Lynnfield possui HT (Hyper-Threading), que é desativado em processadores Core i5 Lynnfield.
+
+Litografia
+Com a evolução das arquiteturas, as novas séries tentem a trazer novas melhorias no seu projeto, oferecendo maiores desempenhos e maior eficiência no consumo energético. Uma característica que contribui para as melhorias dos processadores é a evolução da litografia, que permite o uso de transistores menores, mais econômicos em questão de consumo de energia, proporcionando circuitos mais rápidos e eficientes. A primeira família da série Intel Core i7 foi lançada com a litografia de 45nm, seguido pela segunda geração (32nm), terceira geração (22nm), quarta geração (22nm), quinta geração (14nm), sexta geração (14nm) e sétima geração (14nm).

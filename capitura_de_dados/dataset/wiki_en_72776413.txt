@@ -1,0 +1,41 @@
+CAMM (memory module)
+
+Compression Attached Memory Module (CAMM) is a memory module form factor which uses a land grid array (LGA). CAMM can refer to both the general form and an early version developed by Dell. CAMM2 is the JEDEC-standardized version defined for DDR5 and LPDDR5(X).
+
+Background
+Before 2022, most laptops used either SO-DIMMs or soldered-on memory modules. SO-DIMMs were developed in 1997 as a size-reduced version of the Dual In-line Memory Module (DIMM). Both are removable memory modules that use an edge connector ("slot"), which means that the contacts are all on one side arranged in a row. Because the faster memory of the DDR5/LPDDR5 generation is very sensitive to the synchrony of signals, a large amount of PCB area, both on the computer motherboard and the memory module itself, needs to be dedicated to carefully length-matched traces. The longer these traces get, the more power they waste, and the harder it is to keep the speed high while keeping the signals intact. In addition, empty DIMM/SO-DIMM slots create signal integrity stubs (SI stubs), degrading the achievable bus speed. Soldered-on modules do not have this problem, but they are not user-replaceable.
+Dell engineer Tom Schnell developed the original version of CAMM. By replacing the edge connectors with a land grid array, many more pins can be connected at the same time with much smaller variation in trace length (and hence less extra trace length to match them). As a result, shorter traces are needed on the motherboard and the memory module PCBs, allowing the module to run at a lower voltage at higher speeds.
+
+Comparison with earlier types
+Compared to SO-DIMM, CAMM provides lower thickness, enables faster speeds above 6400 MT/s (hence higher bandwidth), and allows for higher capacities up to 128 GB per module on LPDDR5: features previously restricted to soldered-on LPDDR chips. DDR5 modules can reach 256 GB, for a total of 512 GB per double-channel slot in the stacked configuration.
+On the other hand, CAMM sockets take up more area on the motherboard compared to vertical DIMM/SO-DIMM slots, and support two memory channels instead of one. As a result, motherboards can not generally provide spare CAMM sockets, due to space constraints and the fact that modern consumer CPUs generally only have two memory channels. A user who wants to add more RAM to their system will likely need to replace the existing CAMM module instead of simply adding another module.
+CAMMs also cannot be replaced without tools as they use screws.
+
+Alternative solutions
+All DDR5 DIMMs have a power management IC to perform power regulation on-board, an answer to the need of more stable voltages. Extending along this line of thinking, there are DDR5 CUDIMMs and CSODIMMs with the ability to re-drive clock signals on-board. Other more established registered memory types also help with signal integrity.
+
+Performance figures
+There is no difference in performance between CAMM2 and DIMM modules configured to run at equivalent factory-supported speeds and timings. The advantage of CAMM2 lies in the relative ease of reaching higher speeds; there is no difference if higher speeds are not attempted.
+As of September 2025, factory-certified XMP/EXPO profiles for CAMM2 modules reach 8000 MT/s for DDR5 and 8533 MT/s for LPDDR5X.
+DDR5 on CAMM2 can reach a rate of 10000 MT/s at a CAS latency (CL) of 52 cycles and a voltage of 1.45 V. This overclock was reached in July 2025 using a modified ASUS Z890 Hero motherboard with Intel Core Ultra 7 265K desktop processor. The CAMM2 used was a 64GB Axxx module.
+
+Versions
+
+Dell CAMM
+The Dell CAMM was released in 2022. It is rectangular and had 616 contact points (44 per row times 14 rows). It is always rectangular.
+
+CAMM2
+CAMM2 was standardized by the JEDEC on December 5, 2023. The standard, dual-channel version has 646 or 666 pins in a long 1446 rectangular array. It very closely resembles the kind of "CAMM" demoed by ADATA in June 2023.
+The version for LPDDR5 (MO-357E) has a small footprint consisting of a rectangular "body" (23 millimetres (0.91 in) long 78 millimetres (3.1 in) wide) covering the pins and a trapezoidal "handle" part. It uses the standard dual-channel contacts. It is also known as LPCAMM2.
+The version for DDR5 (MO-358C) allows for a lot more variation. Chip sizes are defined to house different numbers of memory chips and pin channels: Axxx (40 mm, dual channel pins), Bxxx (54 mm, dual channel pins), Cxxx (68 mm, dual channel pins), Dxxx (28.5 mm, single channel pins), and Exxx (56.5 mm, single channel pins). Each dual-channel socket can be split into two by raising the two halves to different heights, allowing two single-channel modules to be attached.
+An expanded socket of about 2046 pins is planned for DDR6 with a 50% growth in channel width.
+
+SOCAMM2
+SOCAMM2 (small outline CAMM2) is a form factor developed by Micron and Nvidia. It will be standardized by the JEDEC for LPDDR5/5X as JESD328. When socketed, the SOCAMM2 module sits flat to the main board, is approximately 90mm long, 14mm wide and around 1mm high. It has 694 pins. Each module can integrate 4 stacks of up to 16 memory chips, for up to 64 memory ICs, enabling a per-module capacity of 128 GiB (or 256 GiB using 32 Gb chips, per Micron). It operates at 1.05 V. It is mainly expected to be used in AI inference servers, edge servers, and AI PCs. An LPDDR6X version is also planned.
+
+Adoption
+In April 2022, Dell launched laptops in the Dell Precision 7000-series that used a custom form factor of CAMM for DDR5 SDRAM.
+The first computer, and laptop, to use CAMM2 (LPCAMM2: CAMM2 with LPDDR5) memory modules is the Lenovo ThinkPad P1 Gen 7 released in April 2024.
+In May 2024, MSI announced the first desktop consumer motherboard with CAMM2 support, the Z790 Project Zero Plus.
+At Computex 2025, various companies unveiled CAMM2 products. Chiefly, Gigabyte showed new motherboards, on which various RAM manufacturers demonstrated their new modules: G.Skill demonstrated prototype 5300 MHz (DDR5-10600) kits, Kingston showed 32-128 GB kits from their "Fury Impact" line. TeamGroup also demonstrated 4000 MHz (DDR5-8000) CAMM2 kits.
+In April 2026, Framework announced the Laptop 13 Pro where the Intel Core Ultra Series 3 version of the mainboard supports LPCAMM2.

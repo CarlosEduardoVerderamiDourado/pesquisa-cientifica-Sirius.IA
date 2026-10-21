@@ -1,0 +1,47 @@
+Photoplethysmogram
+
+A photoplethysmogram (PPG) is an optically obtained plethysmogram that can be used to detect blood volume changes in the microvascular bed of tissue. A PPG is often obtained by using a pulse oximeter which illuminates the skin and measures changes in light absorption. A conventional pulse oximeter monitors the perfusion of blood to the dermis and subcutaneous tissue of the skin. 
+With each cardiac cycle the heart pumps blood to the periphery. Even though this pressure pulse is somewhat damped by the time it reaches the skin, it is enough to distend the arteries and arterioles in the subcutaneous tissue. If the pulse oximeter is attached without compressing the skin, a pressure pulse can also be seen from the venous plexus, as a small secondary peak.
+The change in volume caused by the pressure pulse is detected by illuminating the skin with the light from a light-emitting diode (LED) and then measuring the amount of light either transmitted or reflected to a photodiode. Each cardiac cycle appears as a peak, as seen in the figure. Because blood flow to the skin can be modulated by multiple other physiological systems, the PPG can also be used to monitor breathing, hypovolemia, and other circulatory conditions. Additionally, the shape of the PPG waveform differs from subject to subject, and varies with the location and manner in which the pulse oximeter is attached.
+Although PPG sensors are in common use in a number of commercial (especially in wearables such as smartwatches and fitness trackers) and clinical applications, the exact mechanisms determining the shape of the PPG waveform are not yet fully understood.
+
+Sites for measuring PPG
+While pulse oximeters are commonly used medical devices, the PPG signal they record is rarely displayed and is nominally only processed to determine blood oxygenation and heart rate. The PPG can be obtained from transmissive absorption (as at the finger tip) or reflection (as on the forehead).
+In outpatient settings, pulse oximeters are commonly worn on the finger. However, in cases of shock, hypothermia, etc., blood flow to the periphery can be reduced, resulting in a PPG without a discernible cardiac pulse. In this case, a PPG can be obtained from a pulse oximeter on the head, with the most common sites being the ear, nasal septum, and forehead. PPG can also be configured for multi-site photoplethysmography (MPPG), e.g. by making simultaneous measurements from the right and left ear lobes, index fingers and great toes, and offering further opportunities for the assessment of patients with suspected peripheral arterial disease, autonomic dysfunction, endothelial dysfunction, and arterial stiffness. MPPG also offers significant potential for data mining, e.g. using deep learning, as well as a range of other innovative pulse wave analysis techniques.
+Motion artifacts are often a limiting factor preventing accurate readings during exercise and free living conditions.
+
+Uses
+
+Monitoring heart rate and cardiac cycle
+
+Because the skin is so richly perfused, it is relatively easy to detect the pulsatile component of the cardiac cycle. The DC component of the signal is attributable to the bulk absorption of the skin tissue, while the AC component is directly attributable to variation in blood volume in the skin caused by the pressure pulse of the cardiac cycle.
+The height of AC component of the photoplethysmogram is proportional to the pulse pressure, the difference between the systolic and diastolic pressure in the arteries. As seen in the figure showing premature ventricular contractions (PVCs), the PPG pulse for the cardiac cycle with the PVC results in lower amplitude blood pressure and a PPG. Ventricular tachycardia and ventricular fibrillation can also be detected.
+
+Monitoring respiration
+
+Respiration affects the cardiac cycle by varying the intrapleural pressure, the pressure between the thoracic wall and the lungs. Since the heart resides in the thoracic cavity between the lungs, the partial pressure of inhaling and exhaling greatly influence the pressure on the vena cava and the filling of the right atrium.
+During inspiration, intrapleural pressure decreases by up to 4 mm Hg, which distends the right atrium, allowing for faster filling from the vena cava, increasing ventricular preload, but decreasing stroke volume. Conversely during expiration, the heart is compressed, decreasing cardiac efficiency and increasing stroke volume. When the frequency and depth of respiration increases, the venous return increases, leading to increased cardiac output.
+Much research has focused on estimating respiratory rate from the photoplethysmogram, as well as more detailed respiratory measurements such as inspiratory time.
+
+Monitoring depth of anesthesia
+
+Anesthesiologists must often judge subjectively whether a patient is sufficiently anesthetized for surgery. As seen in the figure, if a patient is not sufficiently anesthetized, the sympathetic nervous system response to an incision can generate an immediate response in the amplitude of the PPG.
+
+Monitoring hypo- and hypervolemia
+Shamir, Eidelman, et al. studied the interaction between inspiration and removal of 10% of a patient's blood volume for blood banking before surgery. They found that blood loss could be detected both from the photoplethysmogram from a pulse oximeter and an arterial catheter. Patients showed a decrease in the cardiac pulse amplitude caused by reduced cardiac preload during exhalation when the heart is being compressed.
+
+Monitoring blood pressure
+PPG also enables non-invasive blood pressure measurements, with wrist acquired PPG signals presenting a major opportunity for smartwatches and other wearables. Various approaches have been investigated, including pulse transit time (PTT), pulse arrival time (PAT), pulse wave velocity (PWV), and pulse wave analysis (PWA). These parameters correlate with blood pressure and can be converted into BP values using appropriate algorithms. However, applying these methods to wrist worn wearables is challenging, as most require two devices to measure parameters at a certain distance apart. Consequently, PWA has emerged as the most prevalent approach for cuffless blood pressure estimation using wrist based PPG signals. This technique involves extracting features from the PPG waveform and training machine learning models such as linear regression, support vector machines, or neural networks to estimate blood pressure.
+
+Remote photoplethysmography
+
+Conventional imaging
+While photoplethysmography commonly requires some form of contact with the human skin (e.g., ear, finger), remote photoplethysmography allows physiological processes such as blood flow to be determined without skin contact. This is achieved by using face video to analyze subtle momentary changes in the subject's skin color which are not detectable to the human eye. Such camera-based measurement of blood oxygen levels provides a contactless alternative to conventional photoplethysmography. For instance, it can be used to monitor the heart rate of newborn babies, or analyzed with deep neural networks to quantify stress levels.
+
+Digital holography
+
+Remote photoplethysmography can also be performed by digital holography, which is sensitive to the phase of light waves, and hence can reveal sub-micron out-of-plane motion. In particular, wide-field imaging of pulsatile motion induced by blood flow can be measured on the thumb by digital holography. The results are comparable to blood pulse monitored by plethysmography during an occlusion-reperfusion experiment. A major advantage of this system is that no physical contact with the studied tissue surface area is required. The two major limitations of this approach are (i) the off-axis interferometric configuration that reduces the available spatial bandwidth of the sensor array, and (ii) the use of short-time Fourier transform (via discrete Fourier transform) analysis that filters-off physiological signals.
+
+Principal component analysis of digital holograms reconstructed from digitized interferograms acquired at rates beyond ~1000 frames per second reveals surface waves on the hand. This method is an efficient way of performing digital holography from on-axis interferograms, which alleviates both the spatial bandwidth reduction of the off-axis configuration and the filtering of physiological signals. A higher spatial bandwidth is crucial for larger image field of view.
+A refinement of holographic photoplethysmography, holographic laser Doppler imaging, enables non-invasive blood flow pulse wave monitoring in blood vessels of the retina, choroid, conjunctiva, and iris.
+In particular, laser Doppler holography of the eye fundus, the choroid constitutes the predominant contribution to the high frequency laser Doppler signal. It is however possible to circumvent its influence by subtracting the spatially averaged baseline signal, and achieve high temporal resolution and full-field imaging capability of pulsatile blood flow.

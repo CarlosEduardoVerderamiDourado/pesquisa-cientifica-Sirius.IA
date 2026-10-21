@@ -1,0 +1,70 @@
+Síndrome de Crigler-Najjar
+
+A síndrome de Crigler-Najjar ou síndrome de Arias é um raro distúrbio do metabolismo da bilirrubina, provocando a elevação da forma não-conjugada desta substância no sangue. A doença resulta em uma forma hereditária de icterícia não-hemolítica e muitas vezes pode levar a danos cerebrais nos bebês. A síndrome é dividida em dois tipos: tipo I, ausência total da enzima glicuroniltransferase; e tipo II, menos grave, na qual a deficiência da enzima é parcial.
+O nome da síndrome é uma homenagem ao pediatra norte-americano John Fielding Crigler e ao libanês radicado nos Estados Unidos Victor Assad Najjar.
+
+Índice
+
+Epidemiologia
+Etiologia
+Apresentações Clínicas
+Avaliação e Diagnóstico
+Diagnóstico Diferencial
+Tratamento e Manejo
+Prognóstico
+
+1. Epidemiologia
+Os dados sobre a prevalência são muito escassos, mas estima-se que a síndrome de Crigler Najjar (SNC) afete menos de 1/100.000 pessoas na Europa, sendo ambos os sexos igualmente afetados. E, a nível mundial sabe-se que afeta de 0,6 a 1 em 1 milhão de recém-nascidos.
+
+2. Etiologia
+A síndrome de Crigler-Najjar, doença hereditária autossômica recessiva, é causada por uma ausência ou diminuição do nível da enzima UDP-glucuronosiltransferase devido a um defeito genético no gene da bilirrubina-uridina difosfato glucuronosiltransferase (UGT1A1). As mutações comuns na síndrome de Crigler-Najjar tipo I são uma deleção, alterações nos sítios doadores e receptores de splice de íntron, mutação missense, salto de exon, inserção ou a formação de um códon de parada dentro do gene UGT1A1 ocasionando uma deficiência completa de enzima UDP-glucuronosiltransferase. De outro modo, a síndrome de Crigler-Najjar tipo II é proveniente de uma mutação pontual no gene UGT1A1, levando a uma diminuição da produção da enzima UDP-glucuronosiltransferase.
+
+3. Apresentações Clínicas
+No tipo I de Crigler-Najjar, o recém-nascido pode apresentar icterícia, mas a ausência dela não exclui a doença, pois os casos assintomáticos são evidentes. Em crianças nascidas saudáveis, a icterícia persistente devido à bilirrubina não conjugada se desenvolve em poucos dias e progride rapidamente na segunda semana. A história familiar de consanguinidade, icterícia grave sem evidência de hemólise, parentes ou membros da família com terapia transfusional e doenças hepáticas apoiam o diagnóstico. A hiperbilirrubinemia não conjugada geralmente varia de 20 a 25 mg/dL na síndrome de Crigler-Najjar tipo I. No entanto, níveis significativamente elevados de bilirrubina não conjugada de até 50 mg/dL foram relatados. A hiperbilirrubinemia não conjugada grave (TB> 30) pode levar à disfunção neurológica induzida pela bilirrubina (BIND).
+No exame físico, os achados físicos de icterícia são evidentes, ou seja, pele e esclera amareladas. A cor das fezes é normal. No entanto, há diminuição da excreção de urobilinogênio fecal devido à redução significativa da conjugação da bilirrubina. Além da icterícia, outros achados são normais em ambos os tipos, sem sinais de doença hepática. As crianças mais velhas podem apresentar marcas de arranhões no corpo devido ao prurido. Em alguns casos, a disfunção hepática progressiva e várias toxicidades sobrepostas causam hepatoesplenomegalia.
+O BIND resulta dos efeitos tóxicos da bilirrubina nos gânglios da base e nos núcleos do tronco cerebral para as funções oculomotora e auditiva. O BIND pode ser agudo ou crônico. A encefalopatia por bilirrubina aguda (ABE) se apresenta inicialmente com sonolência, hipotonia leve a moderada e choro agudo. A persistência de níveis elevados de bilirrubina leva à progressão do ABE que pode se manifestar como febre, letargia, má sucção, irritabilidade, hipertonia levando a retrocolis e opistótono. ABE avançado pode apresentar convulsões, apnéia e um estado semicomatoso ou comatoso. A morte pode resultar de insuficiência respiratória ou convulsões. Respostas evocadas auditivas do tronco encefálico (BAER) também podem ajudar a detectar disfunção neurológica aguda.
+A encefalopatia crônica por bilirrubina se manifesta durante o primeiro ano de vida. CBE se apresenta com paralisia cerebral coreoatetoide, perda auditiva neurossensorial, anormalidades do olhar e hipoplasia do esmalte. A função cognitiva geralmente não é afetada. Nesses casos, a ressonância magnética do cérebro demonstra alterações no cerebelo, hipocampo e tronco cerebral. O tipo II de Crigler-Najjar é a forma menos grave com menos manifestação de sintomas clínicos. No entanto, existem relatos de encefalopatia induzida por bilirrubina.
+
+4. Avaliação e Diagnóstico
+Os casos clinicamente suspeitos de síndrome de Crigler-Najjar devem ser submetidos a teste do nível de bilirrubina não conjugada sérica. O nível de bilirrubina não conjugada é alto no tipo I em comparação com a doença do tipo II. Na síndrome de Crigler-Najjar tipo I, o nível de bilirrubina não conjugada está entre 20 a 25 mg/dL, mas os casos graves podem ser em torno de 50 mg/dL. No tipo II, geralmente é inferior a 20 mg / dL. A bile é coletada do duodeno usando endoscopia digestiva alta ou um cateter duodenal colocado por via oral e analisada para glicuronídeos de bilirrubina por cromatografia líquida de alto desempenho (HPLC).
+A bilirrubina conjugada está ausente ou presente em pequenas quantidades na síndrome de Crigler-Najjar tipo I. Em contraste, uma quantidade significativa de bilirrubina conjugada está presente na síndrome de Crigler-Najjar tipo II. HPLC da bile obtida do duodeno é o teste definitivo. O ensaio de enzimas teciduais de uma biópsia hepática pode ajudar a medir o nível da enzima UGT. A análise da urina de bilirrubina está ausente em Crigler-Najjar tipo I. Os testes de função hepática geralmente revelam uma faixa normal de enzimas hepáticas; no entanto, essas enzimas podem ficar elevadas devido à colestase.
+A administração de fenobarbital por duas semanas diminui a concentração de bilirrubina sérica na maioria dos pacientes com síndrome de Criggller-Najjar tipo II. A doença do tipo I não responde ao tratamento com fenobarbital.
+A análise genética pode ser realizada em DNA extraído de leucócitos de sangue periférico, e em raspagem bucal, assim como em outros tecidos, e detecta os tipos de mutação no gene que codifica a enzima UGT1A1. O diagnóstico pré-natal é possível com a análise genética de amostras de vilosidades coriônicas ou células amnióticas aspiradas no líquido amniótico. A imagem do tensor de difusão do cérebro pode ajudar a detectar as alterações microestruturais da substância cinzenta e branca na síndrome de Crigler-Najjar tipo I. A biópsia hepática e a análise histopatológica podem ajudar a avaliar a cirrose hepática em casos estabelecidos de hepatoesplenomegalia.
+
+5. Diagnóstico Diferencial
+Outras causas de hiperbilirrubinemia não conjugada diferem da síndrome de Crigler-Najjar com base nos níveis de bilirrubina e na duração da hiperbilirrubinemia. São elas:
+Aumento da produção:
+
+Hemólise: pode ocorrer na doença falciforme, esferocitose hereditária e isoimunização Rh.
+Eritropoiese ineficaz: pode ocorrer em talassemia, anemia perniciosa, anemia por deficiência de ferro, envenenamento por chumbo, etc.
+Sangramento gastrointestinal e hematoma: um relato de caso com hematoquezia e icterícia relatou que a formação de pólipos foi responsável por sangramento retal relacionado a anormalidades biliares.
+Diminuição do clearance:
+
+Doenças hepáticas: como o fígado está envolvido na conjugação da bilirrubina para uma excreção eficiente, a disfunção hepática em qualquer processo de doença pode levar à icterícia.
+Induzido por medicamentos: inúmeros medicamentos podem causar lesão hepática que prejudica a capacidade de conjugação do fígado. Medicamentos como amoxicilina, cefazolina, nitrofurantoína, cloranfenicol, isoniazida, etc. 
+Síndrome de Gilbert: forma mais comum de hiperbilirrubinemia hereditária que afeta o gene UGT1A1. Mas, a deficiência da enzima UDP-glucuronosiltransferase não é grave e pode ser diferenciada de Crigler-Najjar tipo I por suas manifestações benignas.
+Síndrome de Lucey-Driscoll: também conhecida como hiperbilirrubinemia familiar transitória.
+Icterícia neonatal e prematuridade: maioria das vezes, é fisiológica, mas também pode resultar de disfunção hepática, infecção, hipotireoidismo, distúrbios metabólicos, etc.
+Icterícia do leite materno: em alguns recém-nascidos amamentando com bilirrubina elevada nas duas semanas após o nascimento, os níveis caem para um nível razoável ao longo de 3 a 12 semanas.
+Similarmente, a síndrome de Rotor e a síndrome de Dubin-Johnson são duas doenças hereditárias raras que causam icterícia, mas ambas apresentam níveis elevados de bilirrubina conjugada.
+
+6. Tratamento e Manejo
+O tratamento objetiva, principalmente, a redução do nível de bilirrubina não conjugada por fototerapia e plasmaférese. A maioria dos pacientes tem taxas de sobrevivência além da puberdade sem dano cerebral significativo, mas, ocasionalmente, desenvolve encefalopatia crônica por bilirrubina mais tarde na vida. A única opção curativa disponível atualmente para a síndrome de Crigler-Najjar tipo I é o transplante de fígado. 
+
+Fototerapia: a base do tratamento para a síndrome de Crigler-Najjar tipo I é a fototerapia intensiva. A fototerapia costuma fazer parte do tratamento da hiperbilirrubinemia neonatal. A fototerapia em crianças maiores e adultos é menos eficaz devido à pele mais espessa, aumento da pigmentação da pele e menor área de superfície corporal em relação à massa corporal.
+Plasmaférese: é o processo mais eficaz para remover o excesso de bilirrubina não conjugada do sangue durante crises graves de hiperbilirrubinemia. Devido a bilirrubina estar ligada à albumina, a remoção da albumina durante esse processo leva a uma redução da bilirrubina no sangue.
+Orlistat: é um inibidor da lipase que atua de forma mais eficiente em combinação com o fosfato de cálcio. Supõe-se que ele capture a bilirrubina intestinal não conjugada e auxilie sua excreção na proporção da quantidade de gordura excretada nas fezes.
+Suplementação de fosfato de cálcio: os pacientes submetidos à fototerapia em Crigler-Najjar tipo I e suplementados com fosfato de cálcio demonstraram uma redução do nível de bilirrubina sérica em 18%, sugerindo que o fosfato de cálcio captura fotoprodutos de bilirrubina excretados na bile.
+Transplante de fígado: único método terapêutico definitivo de tratamento em Crigler-Najjar tipo I. O fígado transplantado contém uma enzima UGT1A1 saudável para a conjugação da bilirrubina, que reduz rapidamente o nível de bilirrubina sérica. O transplante profilático de fígado é aconselhável para prevenir a encefalopatia crônica por bilirrubina, que pode não ser totalmente reversível.
+Transplante de hepatócitos: é uma alternativa encorajadora ao transplante de fígado. Nesse processo, hepatócitos normais são infundidos na veia porta ou no espaço peritoneal. É o método temporário de redução da bilirrubina sérica com relatos publicados de redução de 50% no nível de bilirrubina.
+Terapia gênica: introduzindo um gene UGT1A1 normal que pode, potencialmente, curar o defeito genético. É alcançável através da transdução de genes em hepatócitos cultivados, e a entrega dos genes é mediada por vetor adenovírus.
+Inibição da produção de bilirrubina: uma única dose de inibidores da heme oxigenase, como estanho-protoporfirina ou estanho-mesoporfirina em neonatos, demonstrou uma redução de 76% nos níveis de bilirrubina e eliminou a necessidade de fototerapia.Todavia, em adultos, esse efeito é de curta duração e, assim, reservado para emergências agudas.
+Fenobarbitol: os pacientes geralmente não requerem tratamento com fenobarbital. Mas, os pacientes com icterícia que afetam sua qualidade de vida recebem terapia com fenobarbital, que induz a atividade remanescente de UGT. Assim, não tem papel em Crigler-Najjar tipo I, mas reduz o nível de bilirrubina sérica em 25% em pacientes do tipo II.
+
+7. Prognóstico
+Destarte, geralmente, a síndrome de Crigler-Najjar tipo I tem um prognóstico ruim. Pode exigir um tratamento de emergência durante uma crise de hiperbilirrubinemia. Depois que o paciente desenvolve a encefalopatia crônica por bilirrubina, ela pode ser irreversível. Provavelmente, devido a alguma atividade da enzima UGT, a síndrome de Crigler-Najjar tipo II se apresenta com sintomas mais leves, podendo até ser assintomática, e apresenta um prognóstico melhor do que a tipo I. Ademais, como a transmissão é autossômica recessiva e aconselhamento genético deve ser oferecido a casais em risco, com ambos os indivíduos portadores de uma mutação causadora da doença, informando-os de que há um risco de 25% de ter um filho afetado a cada gravidez.
+
+Sugestão de material complementar:
+
+Site Orphanet, que fornece informações sobre doenças raras, bem como diagnóstico correspondente, medicamentos órfãos, ensaios clínicos e redes de especialistas. O site é administrado por um consórcio de estabelecimentos acadêmicos de 40 países, liderado pelo Inserm: https://www.orpha.net/consor/cgi-bin/Disease_Search.php?lng=EN&data_id=242
+Site da Fundação Americana do Fígado que luta contra as doenças do fígado, fornecendo apoio financeiro para pesquisas médicas e divulgando novos ensaios clínicos para que pessoas possam participar e contribuir com a cura da síndrome: https://liverfoundation.org/pt/for-patients/about-the-liver/diseases-of-the-liver/crigler-najjar-syndrome/#search-for-a-clinical-trial

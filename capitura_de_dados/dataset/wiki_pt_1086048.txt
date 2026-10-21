@@ -1,0 +1,45 @@
+Bryophyta sensu lato
+
+Bryophyta sensu lato é uma superdivisão das plantas embriófitos não vasculares. São descendentes das algas verdes e foram as primeiras a evoluir no ambiente terrestre durante o período geológico Siluriano, há 420 milhões de anos.
+As briófitas são um grupo de plantas verdes, sem raízes (mas com um rizoide mais utilizado para fixação no substrato por não apresentar grande capacidade de absorção de nutrientes) e também sem um verdadeiro caule ou folhas (apresentando cauloide e filoide). São também desprovidas de um sistema vascular, motivo pelo qual se desenvolvem preferencialmente em locais úmidos e protegidos da luz direta do sol, como faces protegidas de pedras e falésias e ramos de árvores (especialmente a sua face inferior, ou a face norte, no hemisfério norte, e a face sul, no hemisfério sul). É também por causa da ausência de um sistema vascular que não existem briófitas muito grandes: o transporte de nutrientes de célula a célula é muito lento portanto as células mais distantes morreriam desidratadas.
+As briófitas são criptógamas , esse termo tem origem do grego cripto= escondido ; gamae= gametas plantas que possuem as estruturas produtoras de gametas não visíveis , ou seja, plantas que não produzem flores, sementes ou frutos. Elas são, na linha evolutiva, a transição entre as algas verdes clorofíceas e as plantas vasculares.
+São três, as características que diferem as briófitas das clorofíceas:
+
+Presença de gametângios masculinos (anterídios) e femininos (arquegônios) com uma camada protetora de células estéreis;
+Retenção do zigoto e do embrião multicelular em desenvolvimento (esporófito) no arquegônio;
+Presença de esporófito multicelular diploide.
+
+Estrutura das briófitas
+
+As conspícuas, estruturas verdes, são os gametófitos, organismos haploides, no qual o embrião diploide desenvolve-se em um esporófito maduro. As estruturas verdes do gametófito são basicamente expansões do eixo caulinar, jamais havendo a produção de folhas verdadeiras (nos musgos, as pequenas "folhas" são chamadas "filódeos" ou "filídeos", e não passam de lâminas com duas camadas de células germinando a partir do eixo principal).
+O esporófito é preso ao gametófito por uma haste longa, encimada por uma cápsula, onde os esporos são produzidos e armazenados. É clorofilado e fotossintético apenas nos primeiros estágios de desenvolvimento, e é em certa medida dependente do gametófito.
+Existem diferenças nos ciclos de vida das briófitas e das plantas vasculares. Nas briófitas, o gametófito é maior e de vida livre, enquanto o esporófito é menor e ligado a seu gametófito parental, do qual é nutricionalmente dependente. O esporófito das plantas vasculares é maior do que o gametófito e é de vida livre. Os esporófitos das plantas vasculares produzem uma quantidade muito maior de esporos do que os esporófitos das briófitas.
+Os três grandes grupos de briófitas apresentam diferenças quanto ao desenvolvimento do esporófito:
+
+As hepáticas possuem esporófitos sem clorofila e com crescimento limitado.
+Em musgos, o crescimento também é limitado, mas os esporófitos são providos de clorofila.
+Já em antóceros, o crescimento é ilimitado, e não fosse a ausência total de um sistema radicular.
+
+Ecologia das briófitas
+As colónias de briófitas são um importante elemento em muitos ecossistemas, desde a tundra à floresta tropical: elas reduzem a erosão dos solos, servem de reservatórios de água e nutrientes, fornecem abrigo à microfauna e funcionam como viveiros para outras plantas em processos de sucessão e regeneração. As briófitas contribuem significativamente para a diversidade das plantas e também são importantes em algumas partes do mundo, pelas grandes quantidades de carbono que armazenam, desempenhando, assim, um importante papel no ciclo global do carbono.
+
+Divisões entre elas
+Tradicionalmente, as briófitas incluem os musgos, as hepáticas, e os antóceros. As briófitas mais comuns são os musgos; estão descritas mais de 10.000 espécies de musgos, o que faz deste grupo o terceiro mais diversificado entre as plantas verdes. As divisões são:
+
+Marchantiophyta - Hepáticas
+A maioria dos gametófitos das hepáticas desenvolve-se diretamente a partir dos esporos; entretanto, alguns genes formam diretamente um filamento semelhante a um protonema, a partir do qual se desenvolve o gametófito maduro.
+
+Anthocerotophyta - Antóceros
+Os gametófitos dos antóceros frequentemente se assemelham a uma roseta, e suas ramificações dicotômicas muitas vezes não são visíveis. O esporófito de Anthoceros, que é uma estrutura ereta e alongada, consiste em um pé em uma longa cápsula cilíndrica
+ou esporângio. Diferentemente das hepáticas e dos musgos verdadeiros, ele carece de seta.
+
+Bryophyta sensu stricto
+Os musgos genuínos são membros do filo Bryophyta, onde seus principais representantes são da classe Sphagnidae, Andreaeidae e Bryidae.
+
+Sphagnidae (os musgos-de-turfeira): O Sphagnum está distribuído pelo mundo inteiro, encontrado em áreas úmidas como as extensas regiões de turfeira no hemisfério norte, e é valioso tanto comercial quanto ecologicamente.
+Andreaeidae (os musgos-de-granito): O gênero Andreaea é constituído de cerca de 100 espécies de pequenos musgos de turfa verde-enegrecidos ou castanho avermelhados escuros, os quais são tão peculiares quanto o Sphagnum. Andreaea é encontrado nas regiões montanhosas ou Árticas, frequentemente sobre rochas graníticas o que explica o seu nome popular de “musgo-de-granito”. Os rizoides também são incomuns, visto que consistem em duas fileiras de células.
+Bryidae (frequentemente designados como “musgos verdadeiros”): A classe Bryidae contém a maioria das espécies de musgos. Nesse grupo de musgos os “musgos verdadeiros”, os filamentos ramificados dos protonemas são compostos por uma única fileira de células e lembram as algas verdes filamentosas
+Reprodução
+Muitas briófitas têm a capacidade de se reproduzir de modo assexuado por fragmentação (propagação vegetativa), em que pequenos fragmentos de tecido produzem um gametófito completo. Outro meio disseminado de reprodução assexuada tanto nas hepáticas quanto nos musgos é a produção de gemas (corpos multicelulares que dão origem a novos gametófitos). Diferentemente de algumas algas verdes carófitas, que podem produzir zoósporos flagelados para reprodução assexuada, os anterozoides são as únicas células flageladas produzidas pelas briófitas.
+A reprodução sexuada nas briófitas envolve a produção de anterídios e arquegônios (chamados de esporófitos), frequentemente em gametófitos masculino e feminino separados. O anterídio esférico ou alongado é comumente pedunculado e consiste em uma camada estéril com espessura de uma única célula, que circunda numerosas células espermatógenas, isto é, células que se desenvolvem em anterozoides.
+A camada de células é descrita como “estéril”, uma vez que é incapaz de produzir anterozoides. Cada célula espermatógena forma um único anterozoide biflagelado, que precisa nadar na água para alcançar a oosfera localizada dentro de um arquegônio. Por conseguinte, a água em sua forma líquida é necessária para a fecundação das briófitas.

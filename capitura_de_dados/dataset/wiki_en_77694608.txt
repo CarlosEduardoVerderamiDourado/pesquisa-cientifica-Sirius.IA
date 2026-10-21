@@ -1,0 +1,53 @@
+40 cm MRK L/35
+
+The 40 cm Mantel Ring Kanone L/35, was a 40 cm 35 caliber long Krupp Mantel Ring Kanone (MRK). It was a super heavy gun built for the defense of the Italian naval base of La Spezia, where four guns were placed in armored cupolas. It was transported by a special railway carriage. For some time it was the heaviest gun of the world.
+
+Development
+
+The super heavy guns
+
+In the mid-1870s, an arms race started in the Mediterranean, when Italy bought the 45 cm Armstrong 100-ton gun for its Duilio-class ironclads. The United Kingdom reacted by buying the same gun and used the 40.6 cm 80 tons Woolwich gun on board HMS Inflexible. Krupp then tried to penetrate this market by creating its 71 tons 40 cm MRK L/25, which was a superior product.
+The 40 cm MRK L/25 was no commercial success. The reason is probably that at the time that it was tested, it was already clear that soon even longer guns would be made. In 1880, Krupp published a table of the dimensions of the guns it would make in the near future, the so-called Pattern C/80. This basically gave the rough outline of what the 40 cm MRK L/35 would look like.
+
+The order from Italy
+
+Apart from the trend of the super heavy guns, there was also a trend to build armored cupolas. E.g. in 1880, the construction of Fort Harssens, which protected the Dutch naval base at Den Helder started. This would have four 30.5 cm MRK L/25 in two armored cupolas. The cupola was tested against the gun on 22 October 1883. The tests were attended by representatives from all powers except France and Russia. Fort Harssens might have inspired the Italian government, but there were more countries that adopted armored cupolas.
+Between 1862 and 1869, Italy built the La Spezia Naval Base. In 1879, Italy had sent no less than 13 people to the tests of the 40 cm L/25. Amongst these Colonel Malvani, director of the La Spezia fortifications. In July 1882, Italy ordered four 40 cm MRK L/35 at Krupp to be placed in armored cupolas at La Spezia.The price of the four 40 cm guns including carriages and ammunition totalled 5,500,000 Lire.
+
+Test in Meppen in 1885
+
+In July and August 1885, Krupp test-fired the first gun (No. 19464) to find out which gunpowder was most suitable. Amongst the 16 shots that were fired were 920 kg grenades made to Italian specifications, but also 'regular' L/3.5 grenades of 1,050 kg.
+In November 1885, the 40 cm MRK L/35 was tested in Meppen. Representatives of the Italian government were present to check whether the gun was usable, whether the contractual specifications were met, and to get data for the ballistic tables. Fifty projectiles of 920 kg had to be fired with a velocity of 550 m/s. Krupp was allowed to select which gunpowder was to be used.
+Of the 50 shots, 10 would be fired to a distance of 2,500 m and 15 to 5,000 m. The other 25 shots would be fired at increased elevations till the distance of 10,000 m was reached. At 2,500 m the projectiles had to hit a rectangle of 3.25 by 3.25 m. At 5,000 m, the distance at which the projectiles hit should not spread more that 80 m in the direction of the shot.
+After the test, the barrel had to be investigated for damage or excessive wear. Specifically also that the inner tube stayed in place in the jacket (the main part of the gun), and that the space between the rings (Ringfüge) would not exceed 3 mm.
+During the test, the barrel was mounted on a carriage that resembled the one used on Duilio, but it was constructed by Krupp. The carriage consisted of an upper carriage, a slide and a base. The carriage could elevate to 18 degrees, but allowed no sideways movement. The hydraulic pressure was 50 atm, delivered by a locomobile.
+In the test a charge of 330 kg of brown prismatic pulver PP C/82 from the Düneberg factory was used. The density of this gunpowder was 1.827-1.835. It gave the projectiles a velocity of 550 m/s with a peak pressure that did not exceed 2,500 atm. The charge was loaded in five bags of 66 kg each. With the last bag also holding a bit of PP C/68 to ease ignition.
+After the tests, a ballistic table for the 40 cm MRK L/35 was published. At 10,000 m, the projectiles would hit at an angle of almost 20 degrees. By then, they had been flying for almost 25s and had slowed down to 334 m/s.
+The accuracy results were good. With 10 shots at 2,500 m, the sideways spread was 1.85 m and vertical spread was 2.65 m. At 5,000 m, the spread was 64 m, which was below the allowed 80 m.
+In March and April 1886, the other three gun barrels (No. 19462, 19463, and 19465) were tested by firing nine shots. As all four guns were noted to be very accurate, and No. 19462 was tested at 2,500 m, one can suppose that this also happened in Meppen. These three guns were then sent to La Spezia.
+
+Heavier charges
+In August and September 1886, further tests were done with barrel No. 19464. This time, L/3.5 test-shot of the regular 1,050 kg weight were used. With the charge and kind of gunpowder used by the Italians, these shot attained a velocity of 529 m/s. This gave the gun about 7% more impact at the muzzle, but led to a gas pressure of about 2,580 atm. With a new kind of gunpowder this was only 2,405 atm.
+Several other kinds of gunpowder were tested with charges of 360 and 375 kg. This led to an additional increase of impact of about 7-10% and velocities of 550–556 m/s. Gas pressure then was 2,515-2,690 atm, which was clearly acceptable for the gun. With even higher charges, velocities of about 575 m/s were attained.
+
+Characteristics
+Like all Krupp guns of the time, the 40 cm MRK L/35 was a rifled breech loader built-up gun with a Krupp cylindroprismatic sliding breech.
+
+The barrel
+The barrel of the 40 cm MRK L/35 was of the standard Mantel Ring construction. Innermost in the barrel was the steel inner tube (Kernrohr), This was put under pressure by the steel jacket (Mantel), which was the heaviest piece of the barrel and had a hole for the breech block to slide in. Next came the steel rings (Ringe), which put further pressure on the barrel. The gun had no trunnions. Instead, there were six ribs which went around the central part of the gun to connect it to the carriage.
+The caliber of the barrel was 400 mm. Its length was 14,000 mm (L/35), with a length of bore of 12,700 mm. The outer diameter of the central part was 1,670 mm. The total weight was 121,000 kg (119 tons), including the breech block of 3,760 kg.
+The barrel had 92 grooves with a progressive twist. The chamber was smaller near the breech block in order to keep the obturation ring smaller. As the guns were to be placed in pairs, the breech block of the left gun opened to the left, while that of the right gun opened to the right.
+
+Operated in turrets
+The guns were meant to be placed in two armored cupolas made by Gruson. The cupolas and the guns would be operated by a hydraulic system. The only manual action would be opening and closing the breech block and inserting the projectile and charge.
+
+Projectiles
+The projectiles used in Meppen were cast iron grenades with copper driving bands and an iron bourrelet. They were 1,280 mm long with a diameter at the cylindrical part of 398 mm and a diameter of 408.3 mm over the driving bands. Average weight was 920 kg. These characteristics were due to specification by the Italian government. The standard armor piercing grenade would have been L/3.5 long instead of L/3.2 and weighed 1,050 kg.
+
+In military science
+On 20 June 1884, Colonel Eardley Maitland, superintendent of the Royal Gun Factory at Woolwich, made a famous speech titled: 'The Heavy Guns of 1884'. Both the 40 m MRK L/25 and the 40 cm MRK L/35 had a prominent role in the article. Based on his earlier experiences, Colonel Maitland made a sketch of what he thought the gun looked like.
+
+Railway carriage
+
+A special railroad carriage had to be constructed to move the gun (see image). It consisted of two parts that in turn each consisted of two strong four axled carriages. These cars could probably turn below a section that held a (ball bearing?) pivot that supported the carrier on which the barrel laid. The whole was 22.726 m long and could support a weight of 126,000 kg. Loaded with the barrel, it weighed 218,000 kg with a wheel pressure of 7,000 kg.
+In the end, the Swiss railways did not think their bridges to be strong enough to carry such loads. Krupp therefore sent all four guns to Antwerp, where they were loaded on steamers that brought them to La Spezia.

@@ -1,0 +1,133 @@
+Turán's brick factory problem
+
+In the mathematics of graph drawing, Turán's brick factory problem asks for the minimum number of crossings in a drawing of a complete bipartite graph. The problem is named after Pál Turán, who formulated it while being forced to work in a brick factory during World War II.
+A drawing method found by Kazimierz Zarankiewicz has been conjectured to give the correct answer for every complete bipartite graph, and the statement that this is true has come to be known as the Zarankiewicz crossing number conjecture. The conjecture remains open, with only some special cases solved.
+
+Origin and formulation
+During World War II, Hungarian mathematician Pál Turán was forced to work in a brick factory, pushing wagon loads of bricks from kilns to storage sites. The factory had tracks from each kiln to each storage site, and the wagons were harder to push at the points where tracks crossed each other. Turán was inspired by this situation to ask how the factory might be redesigned to minimize the number of crossings between these tracks.
+Mathematically, this problem can be formalized as asking for a graph drawing of a complete bipartite graph, whose vertices represent kilns and storage sites, and whose edges represent the tracks from each kiln to each storage site.
+The graph should be drawn in the plane with each vertex as a point, each edge as a curve connecting its two endpoints, and no vertex placed on an edge that it is not incident to. A crossing is counted whenever two edges that are disjoint in the graph have a nonempty intersection in the plane. The question is then, what is the minimum number of crossings in such a drawing?
+Turán's formulation of this problem is often recognized as one of the first studies of the crossing numbers of graphs.
+(Another independent formulation of the same concept occurred in sociology, in methods for drawing sociograms, and a much older puzzle, the three utilities problem, can be seen as a special case of the brick factory problem with three kilns and three storage facilities.)
+Crossing numbers have since gained greater importance, as a central object of study in graph drawing
+and as an important tool in VLSI design
+and discrete geometry.
+
+Upper bound
+Both Zarankiewicz and Kazimierz Urbanik saw Turán speak about the brick factory problem in different talks in Poland in 1952,
+and independently published attempted solutions of the problem, with equivalent formulas for the number of crossings.
+As both of them showed, it is always possible to draw the complete bipartite graph Km,n (a graph with m vertices on one side, n vertices on the other side, and mn edges connecting the two sides) with a number of crossings equal to
+
+ 
+ 
+ 
+ cr
+ 
+ (
+ 
+ K
+ 
+ m
+ ,
+ n
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ n
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ n
+ 
+ 1
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ m
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ m
+ 
+ 1
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+The construction is simple: place m vertices on the x-axis of the plane, avoiding the origin, with equal or nearly-equal numbers of points to the left and right of the y-axis.
+Similarly, place n vertices on the y-axis of the plane, avoiding the origin, with equal or nearly-equal numbers of points above and below the x-axis.
+Then, connect every point on the x-axis by a straight line segment to every point on the y-axis.
+However, their proofs that this formula is optimal, that is, that there can be no drawings with fewer crossings, were erroneous. The gap was not discovered until eleven years after publication, nearly simultaneously by Gerhard Ringel and Paul Kainen.
+Nevertheless, it is conjectured that Zarankiewicz's and Urbanik's formula is optimal. This has come to be known as the Zarankiewicz crossing number conjecture. Although some special cases of it are known to be true, the general case remains open.
+
+Lower bounds
+Since Km,n and Kn,m are isomorphic, it is enough to consider the case where m n. In addition, for m 2 Zarankiewicz's construction gives no crossings, which of course cannot be bested. So the only nontrivial cases are those for which m and n are both 3.
+Zarankiewicz's attempted proof of the conjecture, although invalid for the general case of Km,n, works for the case m = 3.
+It has since been extended to other small values of m, and
+the Zarankiewicz conjecture is known to be true for the complete bipartite graphs Km,n with m 6.
+The conjecture is also known to be true for K7,7, K7,8, and K7,9.
+If a counterexample exists, that is, a graph Km,n requiring fewer crossings than the Zarankiewicz bound, then in the smallest counterexample both m and n must be odd.
+For each fixed choice of m, the truth of the conjecture for all Km,n can be verified by testing only a finite number of choices of n.
+More generally, it has been proven that every complete bipartite graph requires a number of crossings that is (for sufficiently large graphs) at least 83% of the number given by the Zarankiewicz bound. Closing the gap between this lower bound and the upper bound remains an open problem.
+
+Rectilinear crossing numbers
+If edges are required to be drawn as straight line segments, rather than arbitrary curves, then some graphs need more crossings than they would when drawn with curved edges.
+However, the upper bound established by Zarankiewicz for the crossing numbers of complete bipartite graphs can be achieved using only straight edges. Therefore, if the Zarankiewicz conjecture is correct, then the complete bipartite graphs have rectilinear crossing numbers equal to their crossing numbers.

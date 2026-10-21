@@ -1,0 +1,26 @@
+ITunes Store
+
+A iTunes Store (conhecida por iTunes Music Store até 12 de setembro de 2006) é um serviço online de multimídia operado pela Apple Inc. dentro do software iTunes. Inaugurada em 28 de abril de 2003 nos Estados Unidos, a loja provou a viabilidade de vendas musicais online. Até abril de 2013, a loja já havia vendido mais de 25 bilhões de músicas, responsável por mais de 80% das vendas mundiais de música online.
+O site também lista as músicas, álbuns, aplicativos (pagos e gratuitos), livros, filmes e videoclipes mais vendidos digitalmente, em um ranking denominado iTunes Charts.
+
+Preços
+O preço de todas as mídias variam de acordo com o país. Normalmente, a Apple fixa o preço de acordo com a variação cambial de cada moeda nacional frente ao dólar, podendo colocar os valores tanto para mais como para menos. Nos países onde as mídias não são vendidas em moeda local, a Apple disponibiliza seu conteúdo somente em dólar com os mesmos valores da versão estadunidense.
+
+Disponibilidade
+O conteúdo da iTunes Store varia de acordo com o país ou a região.
+
+Atendimento ao cliente
+A Apple não disponibiliza atendimento por telefone à iTunes Store. Todo o serviço é realizado através da internet.
+
+Chegada no Brasil
+No mês de maio de 2011, foi divulgado que o iTunes Store chegaria ao Brasil no mês de outubro. No início os cartões pré-pagos poderiam ser adquiridos apenas em revendedoras da Apple, como Fast Shop, Fnac e Extra.
+Contudo, houve um atraso e ela não chegou em outubro, sendo lançada apenas no dia 13 de dezembro de 2011. As músicas são vendidas por preços entre US$ 0,99 e US$ 1,29 e os álbuns são vendidos por cerca de US$ 9,99. Além de músicas, outras novidades chegaram como os filmes e toques de celular. Outro fato foi que além de artistas internacionais, muitos cantores e bandas brasileiros também começaram a vender músicas online através da loja. Em Dezembro de 2017, a Apple enviou aos seus usuários a informação de que a partir de 2018, todo o conteúdo disponibilizado no Brasil seria convertidos do dólar para a moeda local. No dia 4 de janeiro de 2018, todo o conteúdo da App Store, Apple Music, iTunes e iCloud tiveram seus preços transformados de dólar para real.
+
+Formatos dos arquivos
+As canções são codificadas utilizando AAC a 256 kbit/s, criptografado com FairPlay, utilizando a extensão ".m4v". Na prática, a qualidade é comparável a canções codificadas a 320 kbit/s (taxa de bits constante) utilizando MP3.
+Enquanto licenças para a compressão AAC e o formato de arquivo "mp4" estão disponíveis abertamente, a Apple não concordou em licenciar seu esquema de criptografia FairPlay para outros fabricantes até recentemente, então apenas o iPod da própria companhia podia reproduzir arquivos comprados na loja, além de computadores com iTunes ou QuickTime instalado. Em 7 de setembro de 2005, a Motorola e a Apple anunciaram o Motorola ROKR E1, que vem com o programa iTunes instalado e com a capacidade de reproduzir canções da iTunes Store. Cerca de dois meses depois o segundo celular com iTunes, o Motorola RAZR V3i foi anunciado. O Motorola SLVR L7, lançado no início de 2006, acabou tornando-se de fato o segundo telefone disponível no mercado a dar suporte a canções codificadas pelo iTunes ou compradas pela iTunes Store. Uma falha na versão 7.0 do programa iTunes causou alguns problemas com o conteúdo da loja, mas foi resolvido na versão 7.0.1.
+Um site de rumores especulou que clientes adquirindo música nova na iTune Store podem ter, em algum ponto, a opção de fazer download de certos arquivos codificados no formato Apple Lossless por um preço ligeiramente mais alto.
+Atualmente os livretos digitais ("digital booklets") incluídos com alguns álbuns estão em PDF. Com o software atual do iPod, esses arquivos ainda não podem ser visualizados no aparelho.
+
+Hackers
+Em julho de 2010 uma série de logins de serviços da Apple foi aparentemente invadida por crackers que gastaram centenas de dólares em aplicações da App Store. Os principais suspeitos são um grupo usuários vietnamitas que apareceram ocupando quase a totalidade do ranking de criação de aplicações na categoria “Books” do iTunes. As aplicações de livros digitais criadas por eles possuíam uma grande quantidade de “reviews” feitos por usuários que nunca as usaram ou as baixaram. Vários clientes do iTunes tiveram um enorme prejuízo nas suas contas bancárias. De acordo com as vítimas, aparecem sinais de que dezenas de aplicativos pagos foram baixados misteriosamente pela App Store em seus históricos de cartão de crédito.

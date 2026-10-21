@@ -1,0 +1,73 @@
+Pyxine
+
+Pyxine is a genus of foliose lichens in the family Caliciaceae. The genus has a widespread distribution in tropical regions. It was established in 1825 by the Swedish botanist Elias Fries and is distinguished from similar lichens by its characteristic golden fluorescence under ultraviolet light due to the compound lichexanthone. These small, leaf-like lichens form radiating rosettes with narrow lobes and tiny white lines called pseudocyphellae that act as air vents on their upper surface.
+
+Taxonomy
+The Swedish botanist Elias Magnus Fries erected the genus Pyxine in 1825, selecting Lecidea sorediata (now Pyxine sorediata) as the type species and placing it in his tribe Pyxinae alongside Umbilicaria because both possessed a "naked" proper exciple. By 1885 William Nylander already recognised four species whose circumscription is broadly retained today. Fertile Pyxine is distinguished from kindred foliose genera such as Physcia, Dirinaria and Physconia by a subtle purple-violet reaction of the apothecial epithecium to potassium hydroxide solution, a characteristically dark hypothecium and, most conspicuously, apothecial margins that usually lack algal cells. Additional hallmarks—including frequent pseudocyphellae and a lichexanthone-rich cortex that fluoresces golden under long-wavelength ultraviolet light—were noted early in its study and remain reliable diagnostic features.
+
+Dirinaria is generally accepted as Pyxine's closest ally; both genera grow in tropical and subtropical regions and were even combined by some nineteenth-century authors. Nevertheless, they differ consistently in thallus architecture—Dirinaria lobes tend to coalesce laterally, a condition absent in Pyxine—and in secondary chemistry, with Pyxine commonly pairing triterpenes with norstictic acid rather than the divaricatic acid-series compounds typical of Dirinaria.
+
+Description
+Pyxine lichens form small, leaf-like (foliose) rosettes whose lobes radiate from a more-or-less central point. Individual lobes are typically narrow—often no more than 0.3–1.5 mm wide—and may look slightly wavy or even swollen in some species. The upper surface is usually pearl-grey to dull yellow-grey and can develop a subtle sugary bloom (pruina) near the tips. A distinctive feature of the genus is the presence of pseudocyphellae: tiny breaks in the upper cortex that appear as fine white lines or a faint network; these act as microscopic air-vents and are absent from many look-alike genera. Vegetative propagules occur along a continuum: some species have fluffy soredia, others pustule-like cushions, and a few produce true cylinder-shaped isidia, so a specimen may show more than one kind of outgrowth on the same thallus. The underside is black with sturdy black root-like rhizines that keep the thallus firmly attached to bark or rock.
+The fruiting bodies (apothecia) sit flush with the thallus and carry a flat to slightly domed blackish disc surrounded by a low rim that often lacks algae, giving an almost carbonised look. Slice tests show the rim is in fact a modified lecanorine margin, and a pale internal stalk tissue ("stipe") may be visible beneath the disc; when a drop of potassium hydroxide solution is added in section the epithecium typically turns a faint violet, another quick clue to the genus. Ascospores are thick-walled, brown, and two-celled. Chemically, most Pyxine species manufacture the yellow pigment lichexanthone in the upper cortex—specimens glow gold under long-wave UV light—while the medulla often contains mixtures of norstictic acid, testacein, and characteristic triterpenes. This chemical palette, together with the dark hypothecium and reticulate pseudocyphellae, separates Pyxine from superficially similar members of the Caliciaceae such as Dirinaria and Physcia.
+
+Species
+As of June 2025, Species Fungorum (in the Catalogue of Life) accept 47 species of Pyxine.
+
+Pyxine albovirens (G.Mey.) Aptroot (1987)
+Pyxine astipitata Jungbluth & Marcelli (2011) – Brazil
+Pyxine astridiana Kalb (1987) – neotropical
+Pyxine australiensis Kalb (1994) – Asia; Australia
+Pyxine berteriana (Fée) Imshaug (1957) – pantropical
+Pyxine boonpragobiana Kalb & Mongk. (2012) – Thailand
+Pyxine caesiopruinosa (Tuck.) Imshaug (1957)
+Pyxine coccifera (Fée) Nyl. (1858)
+Pyxine cocoes (Sw.) Nyl. (1857)
+Pyxine cognata Stirt. (1879) – pantropical
+Pyxine consocians Vain. (1913)
+Pyxine convexior (Müll.Arg.) Swinscow & Krog (1975)
+Pyxine copelandii Vain. (1913)
+Pyxine cylindrica Kashiw. (1977) – Papua New Guinea
+Pyxine dactyloschmidtii Kalb & Mongkols. (2012)
+Pyxine daedalea Krog & R.Sant. (1986) – Costa Rica
+Pyxine desudans Kalb (1994) – Australia
+Pyxine elixii Kalb (1994) – Australia
+Pyxine endochrysina Nyl. (1890)
+Pyxine endocrocea Kalb (1987)
+Pyxine eschweileri (Tuck.) Vain. (1890)
+Pyxine exoalbida Jungbluth & Marcelli (2011) – Brazil
+Pyxine fallax Kalb (2004)
+Pyxine farinosa Kashiw. (1977) – Papua New Guinea
+Pyxine flavicans M.X.Yang & Li S.Wang (2019) – China
+Pyxine glaucescens Vain. (1913)
+Pyxine glaucovirescens (Nyl.) Aptroot (1988)
+Pyxine hengduanensis M.X.Yang & Li S.Wang (2019) – China
+Pyxine jolyana Jungbluth, Kalb & Marcelli (2011) – Brazil
+Pyxine katendei Swinscow & Krog (1975) – Africa
+Pyxine keralensis D.D.Awasthi (1982) – India
+Pyxine lilacina Swinscow & Krog (1975) – Africa
+Pyxine lyei Swinscow & Krog (1975) – Africa
+Pyxine mantiqueirensis Marcelli & Jungbluth (2011) – Brazil
+Pyxine mexicana Kalb (2002)
+Pyxine minuta Vain. (1890)
+Pyxine nana Kalb (1987) – neotropical
+Pyxine nubila Moberg (1980)
+Pyxine petricola Nyl. (1876) – pantropical
+Pyxine plumea Kalb (1994) – Australia
+Pyxine profallax Kalb (2009)
+Pyxine pseudokeralensis Kalb, Mongk. & Buaruang (2012)
+Pyxine papuana Kashiw. (1977) – Papua New Guinea
+Pyxine philippina Vain. (1913) – Asia
+Pyxine punensis Nayaka & Upreti (2013) – India
+Pyxine pungens Zahlbr. (1928)
+Pyxine pustulata Aptroot & Jungbluth (2014) – Brazil
+Pyxine pyxinoides (Müll. Arg.) Kalb (1987) – neotropical
+Pyxine retirugella Nyl. (1859)
+Pyxine rugulosa Stirt. (1898)
+Pyxine schmidtii Vain. (1907)
+Pyxine simulans Kalb (1987) – pantropical
+Pyxine sorediata (Ach.) Mont. (1845)
+Pyxine subcinerea Stirt. (1898) – pantropical
+Pyxine subcoralligera Kalb, Mongkols. & Boonpr. (2012)
+Pyxine yercaudensis Nayaka & Upreti (2013) – India
+Pyxine yunnanensis M.X.Yang & Li S.Wang (2019) – China

@@ -1,0 +1,32 @@
+Diagrama espaguete
+
+Diagrama espaguete (português brasileiro) ou diagrama esparguete (português europeu) ou diagrama de espaguete é um método de diagramação de dados para visualizar possíveis inconsistências de fluxos através de sistemas. A a cunhagem deste termo advém da produção em massa, uma vez que a rota dos produtos se assemelha ao formato de um espaguete espalhado num prato. Esta ferramenta de visualização foi usada pela primeira vez para registrar movimentos de pessoas em fábricas. No entanto, hoje ela se aplica a outros campos, como medicina, biologia ou meteorologia. Visualizar o fluxo dessa forma pode reduzir a ineficiência de movimentação dentro do fluxo de um sistema.
+No campo da da meteorologia, por exemplo, esses diagramas podem ajudar a determinar a confiança em uma previsão meteorológica específica, bem como posições e intensidades de sistemas de alta e baixa pressão. Eles são compostos de previsões determinísticas de modelos atmosféricos ou seus vários membros do conjunto. Dentro da medicina, eles podem ilustrar os efeitos das drogas em pacientes durante os ensaios medicamentosos.
+
+Construção de um diagrama
+O diagrama de espaguete é produzido em 5 passos, a saber:
+
+O tema do estudo deve ser primeiro definido, o que é bastante simples para um processo físico, como a movimentação de automóveis, mas mais complexo para um processo virtual como o fluxo de informações na internet;
+Em seguida, deve ser obtido um mapa da área em estudo (por exemplo, diferentes máquinas, superfícies de armazenamento intermediárias, redes, etc.);
+Em terceiro lugar, os diferentes tipos de produtos ou serviços que são transformados pelo processo devem ser listados (por exemplo, em um hospital, há emergência, consultas pontuais, cirurgia ambulatorial, etc.);
+Em seguida, seguindo o caminho trilhado pelo sujeito do estudo, obtém-se um caminho áspero;
+Finalmente, a análise das distâncias percorridas sugerirá mudanças no processo para otimizá-lo.
+Então você tem que refazer as duas últimas etapas com a rota otimizada para ver se há melhoria. Se este não for o caso, essas etapas devem ser refeitas iterativamente para obter a melhor solução.
+
+Utilizações
+
+Em gestão de negócios
+Diagramas de espaguete foram usados pela primeira vez para rastrear o roteamento através de uma fábrica. Os diagramas de espaguete são uma ferramenta simples para visualizar o movimento e o transporte. Analisar fluxos através de sistemas pode determinar onde o tempo e a energia são desperdiçados, e identifica onde a simplificação seria benéfica. Isso é verdade não só com viagens físicas através de um local físico, mas também durante processos mais abstratos, como a aplicação de um empréstimo hipotecário. 
+
+Na biologia
+Diagramas de espaguete têm sido usados para estudar por que as borboletas são encontradas onde estão, e para ver como características topográficas (como cadeias de montanhas) limitam sua migração e alcance. Dentro das distribuições de mamíferos em toda a América central do Norte, essas parcelas correlacionaram suas bordas a regiões que foram glaciadas na era glacial anterior, bem como certos tipos de vegetação.
+
+Na meteorologia
+
+Dentro da meteorologia, os diagramas de espaguete são normalmente extraídos das previsões do conjunto. Uma variável meteorológica, por exemplo, pressão, temperatura ou quantidade de precipitação é desenhada em um gráfico para um número de modelos ligeiramente diferentes executados a partir de um conjunto. O modelo pode então ser adiantado no tempo e os resultados comparados e ser usados para medir a quantidade de incerteza na previsão. Se houver um bom acordo e os contornos seguirem um padrão reconhecível através da sequência, então a confiança na previsão pode ser alta. Por outro lado, se o padrão é caótico, ou seja, assemelhando-se a um prato de espaguete, então a confiança será baixa. Os membros do conjunto geralmente divergem com o tempo e as parcelas de espaguete são uma maneira rápida de ver quando isso acontece.
+Parcelas de espaguete podem ser uma escolha mais favorável em comparação com o conjunto de propagação média na determinação da intensidade de um ciclone vindouro, anticiclone, ou cume de nível superior ou cocho. Como as previsões do conjunto naturalmente divergem à medida que os dias avançam, os locais projetados de características meteorológicas se espalharão mais. Um diagrama de propagação média tomará uma média da pressão calculada de cada ponto no mapa como calculado por cada permutação no conjunto, assim efetivamente suavizando o baixo projetado e fazendo com que pareça mais amplo em tamanho, mas mais fraco em intensidade do que as permutações do conjunto realmente haviam indicado. Ele também pode retratar duas características em vez de uma se o clustering do conjunto estiver em torno de duas soluções diferentes.
+Vários modelos de previsão dentro da previsão de ciclone tropical podem ser traçados em um diagrama de espaguete para mostrar confiança nas previsões de cinco dias de pista. Quando os modelos de pista divergem no final do período de previsão, o enredo assume a forma de uma aranha esmagada, e pode ser referido como tal nas discussões do Centro Nacional de Furacões. No campo da climatologia e da paleotempestologia, as parcelas de espaguete têm sido usadas para correlacionar informações sobre a temperatura do solo derivadas de furos em todo o Centro e Leste do Canadá. Como em outras disciplinas, diagramas de espaguete podem ser usados para mostrar o movimento de objetos, como boias meteorológicas à deriva ao longo do tempo.
+
+Na medicina
+
+Diagramas de espaguete podem ser usadas para rastrear os resultados de testes medicamentosos entre um número de pacientes em um gráfico individual para determinar seu benefício. Eles também têm sido usados para correlacionar os níveis de progesterona à perda precoce da gravidez. A meia-vida das drogas dentro do plasma sanguíneo das pessoas, bem como efeitos discriminantes entre diferentes populações, pode ser diagnosticada rapidamente através desses diagramas.

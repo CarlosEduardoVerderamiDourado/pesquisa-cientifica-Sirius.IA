@@ -1,0 +1,185 @@
+História da Wikipédia
+
+A Wikipédia é um projeto para produzir uma enciclopédia de conteúdo livre que pode ser editada por todos. Começou, formalmente, em 15 de janeiro de 2001, como um complemento ao seu similar, o projeto Nupedia (escrito por especialistas). A Wikipedia acabou substituindo a Nupedia, crescendo até se tornar um projeto de amplitude global, sendo que em 2009 já contava com milhões de artigos e páginas difundidas mundialmente, e conta com centenas de milhares de contribuintes ou colaboradores.
+
+Antecedentes
+O conceito de reunir todo o conhecimento do mundo em um único local vem desde a antiguidade, como na Biblioteca de Alexandria, mas o conceito moderno deste propósito, distribuir publicamente, imprimindo uma enciclopédia, tem data mais recente: Denis Diderot (1713-1784) e Jean le Rond d'Alembert (1717-1783), os enciclopedistas do século XVIII. A ideia de usar máquinas automatizadas além do formato impresso para construir uma enciclopédia de maior utilidade pode ser localizada na short story World Brain ("Uma curta história do mundo cerebral") em (1937) de H. G. Wells e as visões futuristas de Vannevar Bush do micro filme baseado Memex em As We May Think de (1945). Outro marco significativo foi o Projeto Xanadu de Ted Nelson em 1960.
+Com o desenvolvimento da web, muitas pessoas tentaram desenvolver projetos de enciclopédia na internet. Richard Stallman, um expoente do Free software, descreveu a utilidade de uma "Enciclopédia Universal Livre e com recursos crescentes" em 1999. Ele descreveu a formação da Wikipédia como "uma noticia excitante" e a sua Free Software Foundation encorajou pessoas a visitar e contribuir para o site. Um outro predecessor foi a Interpedia, que Robert McHenry relacionou conceitualmente com a Wikipédia.
+
+Formulação da ideia
+A Wikipédia foi fundada como um projeto para alimentar a Nupedia, um antigo (hoje arquivado) projeto fundado por Jimmy Wales para produzir uma enciclopédia livre. Nupedia tinha um processo elaborado de múltiplos passos de revisão passo a passo, e requeria contribuintes altamente qualificados. A elaboração de artigos era extremamente lenta até 2000, o primeiro ano em que este projeto ficou online, a despeito de ter uma lista de editores interessados e um redator-chefe em tempo integral, Larry Sanger.
+Durante o primeiro ano da Nupedia, Wales e Sanger discutiram vários modos de implementar a Nupedia com uma maior liberdade, um projeto complementar. Wales perguntou a Jeremy Rosenfeld, um empregado da Bomis, que introduziu a ele o conceito wiki. Independentemente, Ben Kovitz, um programador de computador e contratado da divisão Cunningham da wiki (WikiWikiWeb), introduziu Sanger às wikis no jantar de 2 de Janeiro de 2001. Sanger percebeu que uma wiki seria uma boa plataforma para utilizar, e propôs que uma UseModWiki (então na versão 0.90) fosse ajustado para a Nupedia. Wales fez o ajuste final e a colocou online em 10 de Janeiro de 2001.
+
+Começando um novo projeto
+
+Houve uma considerável resistência da parte dos editores da Nupedia e revisores para a ideia de associar a Nupedia com um website no estilo wiki. Sanger sugeriu dar ao novo projeto um nome próprio, Wikipédia, e a Wikipédia foi logo mais lançada em seu próprio domínio, wikipedia.com, no 15 de Janeiro. Este dia é conhecido hoje como o "Dia da Wikipédia" dentro da comunidade.
+A largura de banda e o servidor (localizado em San Diego) usado neste projeto foi doado pela Bomis. Muitos do atuais e antigos empregados da Bomis tem contribuído com algum conteúdo na enciclopédia; notadamente Tim Shell, cofundador e atualmente CEO de Bomis, e o programador Jason Richey.
+A primeira edição feita na Wikipédia foi concebida para ser um teste de edição de Jimmy Wales. O mais velho artigo ainda está preservado e é (como documentado na Wikipédia inglesa em en:Wikipedia:Wikipedia's oldest articles) o artigo en:Special:Diff/291430 UuU, criado pelo usuário Eiffel.demon.co.uk em 16 de janeiro de 2001, às 21:08 UTC.
+O projeto recebeu muitos novos participantes após ser mencionado por três vezes no site Slashdot — duas pequenas menções em Março de 2001. Foi então que ela recebeu uma indicação proeminente para uma história da comunidade-editada no site Kuro5hin [en] de cultura e tecnologia em 25 de Julho.
+Entre estes influxos relativamente rápidos do tráfego, surgiu um constante aumento de tráfego de outras fontes, especialmente do Google, que sozinho enviou uma centena de novos visitantes todos os dias.
+
+O projeto passou de 1.000 artigos por volta de 12 de fevereiro de 2001, e 10.000 artigos por volta de 7 de setembro. No primeiro ano da sua existência, surgiram cerca de 20.000 entradas na enciclopédia; uma taxa de cerca de 1500 artigos por mês. Em 30 de agosto de 2002, a contagem do artigo alcançou 40.000. A taxa de crescimento aumentou mais ou menos constantemente desde a concepção do projeto, com exceção de momentos de ajustes no software e hardware.
+
+Expansão Internacional
+Bem no começo do desenvolvimento da Wikipédia, ela começou a se expandir internacionalmente. O primeiro domínio reservado para uma Wikipédia em língua estrangeira foi a deutsche.wikipedia.com (em 16 de Março de 2001), seguida após alguns minutos pela catalã, sendo durante cerca de dois meses os únicos artigos em língua estrangeira. A primeira referência a Wikipédia Francesa foi em 23 de Março e então em Maio de 2001 ela seguiu uma onda de novas versões de linguagens em chinês, holandês, esperanto, hebreu, italiano, japonês, português, russo, castelhano, e sueco. Logo se juntaram a elas o árabe e húngaro Em Setembro, logo um comunicado para a preparação da Wikipédia multilingual foi postado. No final do ano, quando as estatísticas internacionais começaram a crescer foram anunciadas versões em, Wikipédia em africâner e norueguês.
+Em janeiro de 2002, 90% de todos os artigos da Wikipedia estavam em inglês. Em Janeiro de 2004, se tornaram menos de 50%, e suas versões internacionalizadas continuam a crescer. Em 2012, cerca de 83% de todos os artigos da Wikipedia estão em versões internacionalizadas.
+
+Crescimento constante
+
+2002
+
+Até Janeiro de 2002, Sanger era empregado de Bomis como redator-chefe da Nupedia e líder não-oficial da Wikipédia. Ao conseguir se financiar, entretanto, Sanger renunciou a ambas as posições em Março de 2002.
+
+Em Fevereiro de 2002, mais participantes da Wikipedia castelhana se afastaram para estabelecer a Enciclopedia Libre. O projeto é ocasionalmente visitado por "vândalos" que removem artigos válidos ou postam contexto inapropriado. Embora tais vandalismos sejam geralmente revertidos rapidamente, a página principal do projeto foi, por um período, sujeita a repetidos vandalismos. Isto levou à proteção da página para que ela pudesse ser alterada apenas pelos administradores.
+Em 4 de Abril de 2002 Brilliant Prose, foi renomeado para Wikipedia:Artigos em destaque, e movido para Wikipedia: Namespace. Neste momento, a seleção era informal; O processo de candidatura dos Artigos foi instituído apenas vários anos depois.
+Em Agosto de 2002, logo após Jimmy Wales anunciar que nunca permitiria vincular propagandas na Wikipédia, o URL da Wikipédia foi mudado de wikipedia.com para wikipedia.org (ver: .com e .org).
+No mesmo verão, critérios sobre as políticas e os estilos foram esclarecidos com a criação do Wikipedia:Manual de Estilo, junto com um número de políticas e orientações.
+Em Outubro de 2002, Derek Ramsey iniciou a utilização de um "bot", ou programa, para adicionar um grande número de artigos sobre cidades dos Estados Unidos da América; estes artigos foram gerados automaticamente dos dados do censo Norte Americano. Ocasionalmente, bots similares foram usados anteriormente para outros tópicos. Estes artigos foram bem recebidos, mas alguns usuários criticaram a sua uniformidade e seu estilo de redação semelhante a uma máquina (por exemplo, veja esta versão de um artigo sobre uma cidade).
+Em Dezembro de 2002, o primeiro projeto irmão, Wikcionário, foi criado; com propósito de produzir um dicionário e léxico de palavras em todas as línguas. Ele usa o mesmo software que a Wikipédia.
+
+2003
+Em Janeiro de 2003, surgiu o suporte a fórmulas matemáticas TeX. O código foi uma contribuição de Tomasz Wegrzanowski.
+Em 22 de Janeiro de 2003, a Wikipédia inglesa foi novamente alvo de slashdotted após ter atingido o marco significativo de 100.000 artigos. Dois dias mais tarde, a Wikipédia de língua alemã, a maior versão não-inglesa, ultrapassou o marco de 10.000 artigos.
+Em 20 de Junho de 2003, a Wikimedia Foundation foi fundada. No mesmo dia o "Wikiquote" era criado. Um mês mais tarde, o "Wikibooks" era lançado.
+Por volta de 15 de Outubro de 2003, o logo atual da Wikipédia era instalado. O conceito do logo foi selecionado por processo de votação, que foi seguido por um processo de revisão para selecionar a melhor variante. A seleção final foi criada por David Friedland baseado nos desenhos e conceitos criados por Paul Stansifer.
+Em 28 de Outubro de 2003, O primeiro encontro real de Wikipedistas aconteceu em Munique. Muitas cidades seguiram a iniciativa, e logo um número regular de reuniões de Wikipedistas foi estabelecido em volta do mundo. Várias comunidades da Internet tendo a Wiki como foco também surgiram desde então.
+Após 6 de Dezembro de 2003, os administradores da Wikipédia podiam mudar o texto da interface ao editar as páginas no Wikipedia:namespace tais como a página que um usuário bloqueado irá ver ao tentar editar um verbete ou discussão. (MediaWiki:Blockedtext).
+
+2004
+Em Janeiro de 2004, a Wikipédia ultrapassou o marco de 200.000 artigos em Inglês e atingiu 450.000 artigos em ambos Inglês e não-Inglês wikis. No próximo mês, a combinação de artigos Ingleses e não-Ingleses atingia 500.000.
+Em 12 de Fevereiro de 2004, a operação dos servidores foi transferida de San Diego California para Tampa Florida.
+Em 23 de Fevereiro de 2004 apareceu uma nova roupagem para a página principal at 19:46 UTC. Foram escolhidas manualmente entradas para as seções "Daily Featured Article", "Anniversaries", "In the News", e "Did You Know…" (em português, "Artigos em Destaque", "Aniversários", "Eventos Recentes" e "Sabia que...").
+Em 26 de Fevereiro de 2004, Usuário:maveric149 (Daniel Mayer) implementou a primeira entrada de um arquivo automatizado para Selected anniversaries que apareceu na página principal da Wikipédia inglesa. Esta característica foi atualizada na página principal diariamente na Wikipédia inglesa.
+Em 30 de Abril de 2004, os artigos na wiki inglesa atingiram 250.000.
+Em 29 de Maio de 2004, todos os vários Wikiprojects foram atualizados para uma nova versão de MediaWiki, o programa que gerencia os diversos Wikiprojects.
+Em 30 de Maio de 2004, pela primeira vez as entradas de Wikipedia:Categorização apareceram: Categoria:Matemática e Categoria:Segunda Guerra Mundial. Esquemas de categoria, como as recentes mudanças e editar estas páginas, já existiam na fundação da Wikipédia. Entretanto Larry Sanger tinha visto os esquemas como listas, e editados a mão nos artigos, visto que com a categorização o esforço se concentrou nas entradas individuais de cada categorização de artigo na enciclopédia, como parte de uma categorização automática maior dos artigos da enciclopédia.
+Em 2 de Junho de 2004, a China fez o bloqueio do acesso para a Wikipedia Chinesa no território Chinês. Uns poucos dias mais tarde, todas as línguas da Wikipédia foram bloqueadas. O banimento foi efetivado em 17 de Junho.
+Em 7 de Julho de 2004, a wiki inglesa atingiu o número de 300.000 artigos.
+De 10 de Julho até 30 de Agosto de 2004 o Wikipedia:Browse e Wikipedia:Browse by overview formalmente na página principal da wiki inglesa foram substituídos por links para visão geral.
+Em 27 de Agosto de 2004 o Community Portal foi iniciado, para servir como um foco para os esforços da comunidade. Estes eram previamente feitos em uma base informal, através de perguntas sobre as mudanças recentes nos artigos de um determinada comunidade, como colaborações informais entre editores com o mesmo interesse.
+Em 21 de Setembro de 2004, a Wikipédia atingiu um milhão de artigos com cerca de 105 línguas, e recebeu uma atenção inusitada da imprensa. O artigo de número um milhão foi escrito na Wikipédia em língua Hebraica, e discutiu a bandeira do Cazaquistão.
+Em 20 de Novembro de 2004 os artigos em inglês atingiram o patamar de 400.000.
+
+2005
+Em 5 de Fevereiro de 2005, o primeiro Wikipedia:Portal, desde então renomeado para Portal:Biology da wiki inglesa foi criado.
+Em 18 de Março de 2005, Wikipédia passou a marca de 500.000 artigos em Inglês.
+Em 7 de Junho de 2005 as 3:00 da manhã do tempo padrão nos EUA o conjunto dos servidores da Wikimedia foram removidos para um novo local do outro lado da rua. Todos os projetos da Wikimedia ficaram fora do ar durante este tempo.
+Em 19 de Junho de 2005, a Wikipédia inglesa passou a marca de 600.000 artigos.
+Em 16 de Julho de 2005, a Wikipédia inglesa começou a praticar a inclusão da seção Wikipedia:Imagem do dia na página principal, no espaço até então ocupado pela seção "Wikipedia:Sabia que...". A figura do dia agora aparece diariamente como parte do recente projeto da página principal.
+Em 25 de Agosto de 2005, a Wikipédia inglesa passou de 700.000 artigos.
+Em 29 de Setembro de 2005, a Wikipédia inglesa passou a marca de 750.000 artigos.
+No Sábado, 15 de Outubro de 2005, havia cerca de 500.000 contas registradas na Wikipédia Inglesa.
+Em 20 de Outubro de 2005, o acesso direto a todos os sites da Wikipédia foram bloqueados na maioria das regiões do território Chinês.
+Em 1 de Novembro de 2005, a Wikipédia inglesa ultrapassou a marca de 800.000 artigos.
+E durante todo o ano, as versões em outras línguas se mantiveram ativas (o que pode não ser óbvio neste resumo)
+
+O incidente Seigenthaler
+
+Em 29 de Novembro de 2005, John Seigenthaler escreveu um edital opinativo no USA Today para criticar um biografia escrita sobre ele na Wikipédia. As primeiras versões na Wikipédia, online de Maio até Setembro desse ano, continham declarações incorretas sobre Seigenthaler, e esta informação também apareceu em referências em sites similares como a Wikipedia.com e Answers.com. Especificamente uma indicação, "por um breve período, foi considerado ter sido envolvido diretamente nos assassinatos de ambos John Kennedy, e seu irmão, Bobby. Nunca nada foi provado." Seigenthaler descreveu as indicações, que tinham sido feitas por um usuário anônimo da Wikipédia, como "o assassinato de um caráter na Internet". Seigenthaler não usou a característica de edição colaborativa da Wikipédia para corrigir o erro ele mesmo. Seigenthaler disse que "eu estou mais interessado em escrever para deixar mais pessoas conscientes que a Wikipédia é uma ferramenta daninha e irresponsável de pesquisa." Igualou também a Wikipédia a impressa marrom. Em uma entrevista com uma repórter da CNN, ela também expressou preocupação sobre a sua própria biografia que a retratava de uma forma que ela não desejava. O autor do golpe, Brian Chase, foi descoberto em dezembro de 2005 que subseqüentemente desistiu do seu trabalho na Wikipédia e se desculpou pessoalmente com Seigenthaler. Chase foi achado através do endereço IP da edição de 26 de maio, que conduziu ao sistema computadorizado do seu empregador. A controvérsia trouxe a Wikipédia um nível nunca antes atingido de publicidade (principalmente negativo) em todos os principais dos meios de comunicação. As páginas visitadas da Wikipédia na Internet no momento do anúncio de Alexa dobraram em menos de dois meses após a publicação do editorial, que estava bem acima da taxa de crescimento média em 2005.
+
+O estudo feito na Nature
+Em 14 de Dezembro de 2005, o jornal científico Nature publicou os resultados de um estudo comparativo entre a Enciclopédia Britannica e a Wikipédia acerca da preocupação científica nos artigos. Esta foi a primeira revisão comparativa desta natureza a respeito da Wikipédia, feita por especialistas em ciência em seus respectivos campos de trabalho. Foram fornecidos a eles artigos sobre assuntos de suas respectivas competências, um da Britannica e outro da Wikipédia. Os cientistas não sabiam a fonte dos artigos e foram solicitados a procurar por erros factuais, omissões de crítica e declarações mal interpretadas. Após examinarem quarenta e dois artigos de ambas as enciclopédias, a revista Nature obteve o seguinte resultado:
+
+Britannica: 123 erros, em média a cada 2.92 artigos.
+Wikipédia: 162 erros, em média a cada 3.86 artigos.
+Esses dados mostram que, pelo menos em ciência, Wikipédia tem a exatidão comparável a outras enciclopédias modernas. Entretanto, alguns dos artigos de Wikipédia foram considerados "mal estruturados e confusos". Em março de 2006, a Britanica criticou esse estudo como impreciso em "quase tudo sobre a investigação do jornal, desde os critérios para identificar imprecisões à discrepância entre o texto do artigo e seu título, como errado e enganador" e que "162 erros" não eram erros realmente.
+
+Em 5 de Dezembro de 2005, estar registado tornou-se um requisito para criação de novas páginas na wikipédia em língua inglesa. Veja Wikipedia Signpost - Page creation restrictions.
+Em 22 de Dezembro de 2005, a Política de semi protecção foi implementada no software da Wikipédia MediaWiki.
+
+2006
+Em 10 de Janeiro, Wikipédia tornou-se a marca registrada da Wikimedia Foundation.
+Em 28 de Fevereiro, Um milhão de usuários foram registrados no site da língua inglesa.
+Em 1 de Março, a wiki inglesa passou de 1.000.000 artigos, com Jordanhill railway station sendo anunciado na página principal como o artigo de marca um milhão
+Em 10 de Março, por voto, a página principal foi reformulada pela primeira vez após dois anos.
+Em 4 de Abril, a primeira seleção de CD em inglês foi publicada como um free download (veja em 2006 Wikipedia CD Selection).
+Em 8 de Junho, a wiki inglesa passou a marca dos mil artigos destacados, com Iranian peoples.
+Em 24 de Novembro, a wiki inglesa passou a marca de 1.500.000 artigos, com Kanab Ambersnail sendo anunciado na página principal como o artigo desta marca.
+
+2009
+A Wikipédia Inglesa atinge 3 milhões de artigos com Beate Eriksen.
+
+2011
+De acordo com as estatísticas, a wiki da língua portuguesa atingiu no ano de 2011, 650.000 artigos.
+
+2012
+
+Wikimedia Library
+A Wikipedia Library é criada. O projeto conta com parcerias como JSTOR, Project Muse, Elsevier, Newspapers.com, Highbeam, Oxford University Press e outros para dar acesso a editores da Wikipédia a bases de dados que de outra forma seriam restritas. O gerente de projeto é Alex Stinson.
+
+2013
+
+HTTPS
+Por conta do escândalo da XKeyscore, em prol da segurança dos editores, em outubro a Wikimedia Foundation optou por tornar o HTTPS o padrão do projeto. A fundação apoia o HTTPS desde sua fundação em 2011 e várias páginas já continham o protocolo, mas o escândalo acelerou o processo de padronização.
+
+2014
+
+DOI
+A Wikipédia se tornou o oitavo site que mais interage com o DOI na internet. Ela não apenas cita muitos DOI, mas os leitores clicam nos links para lerem os artigos originais. Ainda assim, a Wikipédia citava muitos artigos sem incluir o DOI. Por isso, a Wikimedia Foundation criou uma iniciativa para integrar a literatura científica nas referências. A Crossref ficou encarregada de ajudar a Wikimedia com o desenvolvimento e a manutenção do sistema. A empresa também criou o cargo de Embaixador da Wikipédia, para promover o uso de referências científicas e educar os usuários sobre o DOI e outros identificadores. O encarregado do projeto é Daniel Mietchen, junto com Max Klein e Matt Senate. A primeira Embaixatriz da Wikipédia foi Dorothy Howard. O projeto estava dentro do escopo da Wikimania2014.
+Dario Taraborelli, Max Klein (Wikimedia Foundation), Martin Fenner e Joe Wass (Crossref) já haviam se encontrado na ALM Workshop 2014, onde foram discutidos meios de garantir a provisão segura e confiável de dados ALM. Lá ficou acertado a criação de um mecanismo pingback para a Wikipédia e o ScienceSeeker.
+Funciona da seguinte maneira: Um programa chamado Cocytus cria um fluxo de dados relativos ao DOI vindos da Wikipédia que alimenta o Aplicativo de Coleta de Eventos DOI, que em seguida alimenta o Rastreador de Eventos DOI (DET em inglês). O primeiro DOI registrado desde o início do projeto foi sobre o Polymath Project. Alguém também escreveu um artigo sobre por que pessoas editam a Wikipédia, que foi citado na própria Wikipédia e depois removido.
+
+2015
+No dia 1 de julho de 2015, a wikipédia lusófona possuía aproximadamente 878.000 artigos.
+
+Expansão no meio acadêmico
+Devido ao sucesso do DET, em 2015 ele foi renomeado para Crossref Event Data, e o serviço foi ampliado para coletar e guardar qualquer atividade envolvendo pesquisas acadêmicas de determinados sites, como a Wikipédia. Os metadados são disponibilizados por Metadata API. A Wikipédia também passou de oitava para quinta em interação com o DOI. Pesquisas mostram que metade das pessoas que clicam nos links conseguem se autenticar para ler os artigos, e que as citações feitas na Wikipédia superam as citações feitas pelos meios tradicionais. Em fevereiro, a Altmetric passou a projetar os dados sobre identificadores da Wikipédia. Várias instituições também aderiram ao Wikimedista em Residência, programa onde um editor da Wikipédia vai morar em uma instituição de ensino. Em dezembro de 2015, a Wikimedia Foundation patrocinou um programa sobre citações acadêmicas na Wikipédia, para diminuir a distância entre a fundação e as comunidades acadêmicas e bibliotecárias.
+
+2019
+
+Campo de concentração de Warsaw
+Em outubro, Omer Benjakob do Haaretz publicou uma matéria denunciando um artigo da Wikipédia em inglês chamado Campo de concentração de Warsaw como falso. Houve sim um campo de concentração em Warsaw, mas não um campo de extermínio, como o artigo trazia. O artigo está no ar há mais de 15 anos (ele foi escrito em outubro de 2004) e foi traduzido para outras Wikipédias, que continham menos erros do que na Wikipédia em inglês. Especialistas como Havi Dreifuss e Yad Vashem concordam que o que existia eram campos de concentração pequenos, e não há evidências da existência de um túnel que servia como câmara de gás ou que 200 mil pessoas tenham morrido no local. Esse artigo é parte da estratégia de nacionalistas polacos de revisionismo histórico, em uma tentativa de diminuir a participação da Polônia no holocausto. As informações falsas foram misturadas com as verdadeiras e o artigo afirmava que os documentos sobre o campo de extermínio foram queimados em uma explosão, dando uma explicação para a falta de detalhes. Omer Benjakob do Haaretz relaciona o ocorrido com a Lista de Correspondência da Europa Oriental, uma série de e-mails vazados do WikiLeaks de editores revisionistas que trabalhavam juntos para modificar artigos da Wikipédia e tomar controle de posições chave.
+
+2021
+
+Conteúdo extremista
+Em março, jornalista Yumiko Sako da Slate publicou uma investigação sobre a Wikipédia em japonês, a segunda Wikipédia com o maior número de acessos, mas com o menor número de administradores. Várias páginas sofreram revisionismo histórico ou foram relativizadas, como o Massacre de Nanjing, que foi renomeado para Incidente de Nanjing. Um editor pediu que a página fosse renomeada e seu desejo foi concedido em um curto período de tempo, mas os pedidos para a correção de outros editores foram negados. Editores também foram silenciados sob a alegação de ativismo político. As edições vão de acordo com as falas do ex primeiro-ministro Abe Shinzo. Contatada, a Wikimedia foundation afirmou que desconhecia o problema.
+Em junho, a Wikimedia Foundation publicou uma análise feita por contrato onde revela uma infiltração de grupos extremistas organizados na Wikipédia em croata que está acontecendo há mais de uma década. O incidente já havia sido denunciado por Tim Sampson do Daily Dot em 2013. O professor da Universidade de Split Jurica Pavicic, consultado para a matéria, afirma que a infiltração ocorre desde 2009. Esses grupos são nacionalistas, ultraconservadores e parte da direita radical croata, que usavam a Wikipédia para fazer revisionismo histórico. A wikipédia em croata possui subdivisões em croata, bósnio, sérvio e sérvio-croata, cada uma com suas próprias diretrizes. Assim, cada subdivisão acabou se dedicando a diferentes visões políticas dentro dos países envolvidos e passaram matar a diversidade dentro dos projetos, algo que vai contra um dos pilares da Wikipédia. Os grupos extremistas também manipulavam as votações e baniam dissidentes para impedir que a comunidade global notasse o que estava acontecendo. Por ação da própria comunidade da Wikipédia, vários moderadores foram banidos e tiveram seus direitos revogados e os artigos estão sendo melhorados por voluntários. Entre as páginas editadas pelos grupos radicais, estão a de Adolf Hitler, Ustasha, campo de concentração de Jasenovac, Jedwabne pogrom, Jan Tomasz Gross e Jan Grabowski (ambos historiadores perseguidos pelo seu trabalho sobre o governo polonês). Omer Benjakob do Haaretz relaciona o ocorrido com a Lista de Correspondência da Europa Oriental.
+
+Banimento de editores chineses
+Não há consenso na Wikipédia chinesa sobre a confiabilidade das referências vindas do governo chinês ou dos protestantes. Surgiu a preocupação de que administradores da Wikipédia chinesa pudessem estar vazando o endereço de IP dos editores. A Wikimédia foundation bloqueou o acesso aos IPs localmente mas a preocupação permaneceu, pois os administradores continuavam a ter mais acesso a informação do que os editores. Em julho de 2021, a Hong Kong Free Press publicou um artigo denunciando guerras de edições em diversos artigos da Wikipédia que envolviam os protestos em Hong Kong.
+Em setembro, a Wikimedia Foundation baniu sete editores da China continental e removeu os privilégios de doze administradores pró-governo, acusados de praticarem "captura," ou seja, o grupo de usuários monopolizou a narrativa de artigos. A Wikimedia já estava investigando esse tipo de infiltração já faz quase um ano, e afirmou que havia ameaças reais para os usuários. Maggie Dennis, vice-presidente da fundação, afirmou que algumas pessoas foram feridas fisicamente como resultado da infiltração. Como resposta, a fundação baniu o acordo de não-divulgação em países cuja atividade da Wikimedia Foundation esteja limitada ou que há motivos para acreditar que a residência dos usuários é conhecida por alguém além da própria fundação e outras poucas exceções. A Wikimedia Foundation também montou um time para direitos humanos. A fundação mostrou preocupação com a transparência das eleições chinesas.
+Ao ser questionada sobre como lidaria com a situação quando assumisse o cargo de CEO da Wikimedia Foundation, Maryana Iskander afirmou que o principal trabalho da organização é garantir a segurança dos usuários, e que a fundação não interfere nas políticas editoriais.
+
+2022
+
+Invasão da Ucrânia pela Rússia
+Em março de 2022, a Wikipédia russa criou um artigo sobre a invasão da Ucrânia pela Rússia, que diverge em narrativas com a versão oficial dos acontecimentos pelo Kremlin. A Wikimedia Foundation recebeu uma carta do Roskomnadzor dizendo que a Procuradoria Geral russa demandava que o conteúdo sobre a guerra fosse retirado. A Wikimedia deu suporte à Wikipédia russa. A tentativa de censura é baseada em um novo projeto de lei que criminaliza notícias falsas sobre a invasão da Ucrânia. A pena máxima pode chegar a 15 anos de cadeia.
+A GUBOPiK prendeu o bielorrusso Mark Bernstein, um dos 50 maiores editores da Wikipédia em Russo, acusado de espalhar informações falsas anti-russas.
+A Wikimedia Foundation mantém uma página com dicas de como os editores podem cuidar de a sua própria segurança.
+
+Viabilidade em outra mídia
+A versão da Wikipédia em alemão foi liberada em CDs e DVDs provando que há um mercado para os produtos da Wikipédia. Dentro do período de dez dias, foram vendidas 10.000 cópias, das quais 8.000 foram através de vendas diretas no Amazon.de.[carece de fontes]?, feitas pela Directmedia Publishing GmbH de Berlim, o preço de €9.90 (euros) ajudou um pouco.
+Directmedia também anunciou planos de imprimir a Wikipédia em alemão em toda a sua extensão, em 100 volumes de 800 páginas cada. A Publicação começou em Outubro de 2006, e terminaria em 2010. Em Março de 2006, entretanto, este projeto foi cancelado.
+Um projeto de software livre também foi criado para lançar uma versão estática da Wikipédia disponível para ser usada em iPods. O Encyclopodia projeto iniciou em Março de 2006 e pode atualmente ser usado da primeira a quarta geração de iPods.
+
+Acesso no território da China
+A República Popular da China e os provedores de serviços de internet no território Chinês adotaram uma prática de bloqueio contínuo a sites nos territorios da China, e os sites da Wikimedia foram bloqueados por três vezes na sua história. Atualmente, Wikimedia parece estar passando pelo seu terceiro bloqueio.
+O primeiro bloqueio durou de 2 a 21 de Junho de 2004. Começando pelo acesso a Wikipédia Chinesa em Beijing ela foi bloqueada no anivesário de quinze anos do Protesto Tiananmen de 1989.
+Possivelmente relacionado com um artigo publicado em 31 de Maio pelo IDG News Service, discutindo o tratamento da Wikipédia chinesa aos protestos. A Wikipédia Chinesa também tinha artigos sobre a independência de Taiwan, escritos por contribuintes de Taiwan e outros lugares. Poucos dias mais tarde após o bloqueio inicial da Wikipédia Chinesa, todas os sites da Wikimedia foram bloqueados no território Chinês. Em resposta aos bloqueios, dois sysops prepararam um apelo para suspender o bloqueio e solicitaram aos seus provedores regionais de serviço de internet para apresentá-lo. Todos os sites da Wikimedia foram desbloqueados entre 17 e 21 de Junho de 2004.
+O 1.º bloqueio teve o efeito de vitalizar a Wikipédia Chinesa, que sofreu sharp dips em vários indicadores tais como o número de novos usuários, o número de novos artigos e o número de edições. Em alguns casos, levou cerca de seis a doze meses reorganizar e recuperar o nível atingido em Maio de 2004.
+O 2.º e menos sério durou de 23 a 27 de Setembro de 2004. Durante estes quatro dias, o acesso à Wikipédia ficou errático ou inviável para alguns usuários no território Chinês — este bloqueio não foi compreensível e alguns usuários no território da China nem sequer foram afetados. A razão exata para o bloqueio é desconhecido, mas ele pode estar relacionado com o fechamento da YTHT BBS, um BBS muito popular da Universidade de Pequim que teve que ser derrubado (shut down) por algumas semanas por hospedar discussões políticas radicais. Refugiados do BBS chegaram em massa à Wikipédia Chinesa. Os wikipedistas Chineses mais uma vez prepararam um apelo por escrito aos provedores regionais de serviço de internet, mas o bloqueio foi levantado antes que o pedido fosse enviado embora as razões para tal também sejam desconhecidas.
+O terceiro bloqueio começou em 19 de Outubro de 2005 e parece ter terminado em meados do mês de Outubro de 2006. Por alguns poucos dias, a Wikipédia inglesa parece ter sido desbloqueada na maioria das províncias chinesas, enquanto os usuários ainda estavam incapazes de acessar a versão chinesa em algumas províncias, variando por ISP. Em Novembro, ambas as versões parecem ter ficado acessíveis em todas as províncias e por todos os ISPs. O final do bloqueio aconteceu um ano após o seu início e também coincidiu com o artigo de marca 100.000 da wiki chinesa. Entretanto, ambas, a wikipédia chinesa e a inglesa, foram re-bloqueadas em 17 de Novembro.
+
+O conceito de autoria da Wikipédia
+Quando houve uma evidência que Sanger se denominava a si mesmo de cofundador, junto com Wales, em meados de 2001 - e está divulgado como tal em artigos liberados para a imprensa pela Wikipédia e em um artigo de setembro de 2001 do New York Times [1] em ambas as entrevistas -, Wales mais tarde discordou disto, comentando: "Ele trabalhava para mim [...]. Eu não concordo em chamá-lo de cofundador, mas ele gostava do título.". Não há evidências de antes de 2004 Wales repartir o título de cofundador com Sanger.
+Sanger concorda que foi Wales sozinho quem concebeu uma enciclopédia para a qual não-especialistas pudessem contribuir, i.e. o conceito da Wikipédia. "Para ser claro, a ideia de uma enciclopédia livre, colaborativa e aberta a contribuições por pessoas simples, foi 'inteiramente' de Jimmy, não minha" (grifado no original). Entretanto, Sanger defende que foi ele quem trouxe o conceito de wiki para Wales e sugeriu que ele seria aplicável à Nupedia e que, após algum ceticismo inicial, Wales concordou em tentar. Wales declarou ainda que Jeremy Rosenfeld foi quem primeiro lhe sugeriu a ideia de uma wiki, embora tivesse declarado mais cedo, em Outubro de 2001, que "Larry teve a ideia de usar o Wiki software."
+ Sanger também defende que ele "imaginou o nome "Wikipédia"", um nome tolo para o que era a princípio um projeto muito tolo." Além disso, Sanger fez a maioria dos primeiros trabalhos de formulação das políticas e de implementá-las na comunidade, pelo que foi remunerado por Wales (ou por sua companhia, a Bomis) até 2002. Hoje, o Wales enfatiza esta relação com o empregado e o fato que era consequentemente dele a autoridade final, sugerindo que isto o faz o único "fundador".
+
+Edições indevidas
+Ao longo da história da Wikipédia em inglês, por diversas vezes seus artigos foram alvo de edições que tentaram melhorar a imagem de pessoas públicas e/ou instituições.
+
+Por parte do governo dos Estados Unidos, trechos inteiros da biografia do presidente George W. Bush, que falavam sobre seu excessivo consumo de álcool, foram apagadas
+Exemplo de trecho apagado
+
+"Quando seu pai, George H. W. Bush, o reprimiu por seu comportamento e por ter exposto seu irmão caçula a risco, George W., ainda sob influência [do álcool], retrucou nervosamente, "[...] Você quer brigar mano a mano aqui?"
+Já o Vaticano, de um computador da Santa Sé saiu a modificação no artigo sobre o líder católico irlandês Gerry Adams, apagando as referências (inclusive links para artigos de jornais britânicos) a uma suspeita de participação em crime
+Trecho apagado:
+"Em outubro de 2006, foi alegado que as impressões digitais de Adams foram encontradas em um carro usado durante um duplo assassinato em 1971. Nenhuma conexão entre Adams e os assassinatos foi demonstrada, entretanto"
+Outras mudanças encontradas na wikipédia
+A Apple Inc. editou artigos sobre a Microsoft, acrescentando comentários negativos sobre a rival; a empresa de Bill Gates, por sua vez, fez a mesma coisa nos textos referentes à Apple
+A Exxon Mobil alterou o artigo sobre derramamento de óleo na parte relativa à destruição do ecosistema
+O FBI editou o artigo sobre Guantanamo Bay, removendo diversas fotos da prisão militar
+A Scientologia apagou críticas e referências negativas feitas no artigo sobre a religião
+De computador do Banco do Brasil foi inserido um trecho na parte do governo do general Figueiredo (1979-1984), na página sobre história do Brasil, acrescentando a célebre frase do "prendo e arrebento", dita pelo presidente contra eventuais adversários da abertura.
+trechos originalmente em inglês

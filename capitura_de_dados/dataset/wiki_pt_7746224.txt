@@ -1,0 +1,158 @@
+Plataforma Google Cloud
+
+O Google Cloud Platform (GCP) é um conjunto de serviços de computação em nuvem oferecido pela Google, que fornece uma série de serviços modulares em nuvem, incluindo computação em nuvem, armazenamento de dados, análise de dados e aprendizado de máquina, juntamente com um conjunto de ferramentas de gerenciamento. Ele é executado na mesma infraestrutura que a Google usa internamente para seus produtos, como o serviço de Busca do Google, o Gmail e o Google Docs, de acordo com Verma et al. O registro requer um cartão de crédito válido ou dados de conta bancária para prosseguir com o registro.
+O Google Cloud Platform oferece infraestrutura como serviço (IaaS), plataforma como serviço (PaaS) e ambientes de computação sem servidor.
+Em abril de 2008, Google anunciou o App Engine, uma plataforma específica para desenvolvimento e hospedagem de aplicativos web em data centers gerenciados pelo Google, sendo este o primeiro serviço de computação em nuvem da empresa. O serviço tornou-se disponível ao público em novembro de 2011. Desde o anúncio do App Engine, foram adicionados diversos outros recursos e adições de serviços de nuvem à plataforma.
+O Google Cloud Platform faz parte do Google Cloud, que inclui a infraestrutura de nuvem pública disponibilizada do Google Cloud Platform, juntamente como no Google Workspace (G Suite), versões empresariais do Android e do ChromeOS e interfaces de programação de aplicativos (APIs) para aprendizado de máquina e serviços de mapeamento empresarial. Desde pelo menos 2022, os materiais oficiais do Google afirmam que "Google Cloud" é o novo nome para "Google Cloud Platform", o que pode causar uma certa confusão de nomenclatura.
+
+Produtos
+
+A Google lista mais de 100 produtos sob a marca Google Cloud. Alguns dos principais serviços estão listados abaixo.
+
+Calcular
+App Engine – Plataforma como serviço para implantar aplicativos desenvolvidos com as linguagens de programação Java, PHP, Node.js, Python, C#, .Net, Ruby e Go .
+Compute Engine – Infraestrutura como serviço para executar máquinas virtuais Microsoft Windows e Linux.
+Google Kubernetes Engine (GKE) ou GKE on-prem oferecido como parte da plataforma Anthos – Containers as a Service baseado em Kubernetes.
+Cloud Functions – Funções como serviço para executar código orientado a eventos escrito em Node.js, Java, Python ou Go.
+Cloud Run – Ambiente de execução de computação baseado em Knative. Oferecido como Cloud Run (totalmente gerenciado) ou como Cloud Run para Anthos. Atualmente suporta gerenciamento de GCP, AWS e VMware.
+
+Armazenamento e bancos de dados
+Armazenamento em nuvem – Armazenamento de objetos com cache de borda integrado para armazenar dados não estruturados.
+Cloud SQL – Banco de dados como serviço baseado em MySQL, PostgreSQL e Microsoft SQL Server.
+Cloud Bigtable – Serviço de banco de dados NoSQL gerenciado.
+Cloud Spanner – Serviço de banco de dados relacional, fortemente consistente e horizontalmente escalável.
+Cloud Datastore – banco de dados NoSQL para aplicações web e móveis.
+Disco persistente – Armazenamento em bloco para máquinas virtuais do Compute Engine.
+Cloud Memorystore – Armazenamento de dados gerenciado em memória baseado em Redis e Memcached.
+SSD local: Armazenamento de blocos local, transitório e de alto desempenho.
+Filestore: Armazenamento de arquivos de alto desempenho para usuários do Google Cloud.
+AlloyDB: Serviço de banco de dados PostgreSQL totalmente gerenciado.
+
+Redes de contatos
+
+VPC – Nuvem Privada Virtual para gerenciar a rede definida por software de recursos em nuvem.
+Balanceamento de carga na nuvem – Serviço gerenciado e definido por software para balanceamento de carga de tráfego.
+Cloud Armor – Firewall de aplicações web para proteger cargas de trabalho contra ataques DDoS.
+Cloud CDN – Rede de Distribuição de Conteúdo baseada nos pontos de presença de borda distribuídos globalmente do Google.
+Interconexão em nuvem – Serviço para conectar um data center ao Google Cloud Platform.
+DNS na nuvem – Serviço de hospedagem DNS gerenciado e autoritativo, executado na mesma infraestrutura do Google.
+Níveis de serviço de rede – Opção de escolher o nível de rede Premium em vez do nível Standard para obter uma rede de melhor desempenho.
+
+Big data
+BigQuery – Data warehouse empresarial escalável e gerenciado para análises.
+Cloud Dataflow – Serviço gerenciado baseado no Apache Beam para processamento de dados em fluxo e em lote.
+Fusão de dados em nuvem – Um serviço ETL gerenciado baseado na plataforma de aplicação de dados Cask de código aberto.
+Dataproc – Plataforma de Big Data para executar trabalhos do Apache Hadoop e do Apache Spark.
+Cloud Composer – Serviço de orquestração de fluxo de trabalho gerenciado construído sobre o Apache Airflow.
+Cloud Datalab – Ferramenta para exploração, análise, visualização e aprendizado de máquina de dados. Este é um serviço Jupyter Notebook totalmente gerenciado.
+Cloud Dataprep – Serviço de dados baseado no Trifacta para explorar visualmente, limpar e preparar dados para análise.
+Cloud Pub/Sub – Serviço escalável de ingestão de eventos baseado em filas de mensagens.
+Looker Studio – Ferramenta de Business Intelligence para visualizar dados através de dashboards e relatórios.
+Looker – Plataforma de inteligência de negócios.
+
+IA na nuvem
+Cloud AutoML – Serviço para treinar e implantar modelos de aprendizado de máquina personalizados. Em setembro de 2018, o serviço estava em versão Beta.
+Cloud TPU – Aceleradores usados pelo Google para treinar modelos de aprendizado de máquina.
+Cloud Machine Learning Engine – Serviço gerenciado para treinamento e construção de modelos de aprendizado de máquina baseados em estruturas convencionais.
+Cloud Talent Solution (anteriormente Cloud Job Discovery) – Serviço baseado nas capacidades de pesquisa e aprendizagem automática do Google para o ecossistema de recrutamento.
+Dialogflow Enterprise – Ambiente de desenvolvimento baseado em aprendizado de máquina do Google para construção de interfaces conversacionais.
+Cloud Natural Language – Serviço de análise de texto baseado em modelos de Aprendizado Profundo do Google.
+Cloud Speech-to-Text – Serviço de conversão de fala em texto baseado em aprendizado de máquina.
+Cloud Text-to-Speech – Serviço de conversão de texto em fala baseado em aprendizado de máquina.
+API de Tradução na Nuvem – Serviço para traduzir dinamicamente entre milhares de pares de idiomas disponíveis.
+API Cloud Vision – Serviço de análise de imagens baseado em aprendizado de máquina.
+Cloud Video Intelligence – Serviço de análise de vídeo baseado em aprendizado de máquina.
+
+Ferramentas de gestão
+Conjunto de operações (anteriormente Stackdriver ) – Monitoramento, registro, rastreamento e diagnóstico para aplicativos na plataforma Google Cloud.
+Gerenciador de Implantação na Nuvem - Ferramenta para implantar recursos do Google Cloud Platform definidos em modelos criados em YAML, Python ou Jinja2.
+Cloud Console – Interface web para gerenciar recursos do Google Cloud Platform.
+Cloud Shell – Acesso via linha de comando baseado em navegador para gerenciar recursos do Google Cloud Platform.
+Aplicativo Cloud Console para dispositivos móveis – Aplicativo para Android e iOS para gerenciar recursos do Google Cloud Platform.
+APIs do Cloud – APIs para acessar programaticamente recursos do Google Cloud Platform
+
+Identidade e segurança
+Cloud Identity – Serviço de autenticação única (SSO) baseado em SAML 2.0 e OpenID.
+Cloud IAM – Serviço de Gestão de Identidade e Acesso (IAM) para definir políticas com base no controle de acesso baseado em funções.
+Cloud Identity-Aware Proxy – Serviço para controlar o acesso a aplicativos em nuvem executados no Google Cloud Platform sem usar uma VPN.
+API de Prevenção de Perda de Dados na Nuvem – Serviço para descobrir, classificar e ocultar dados confidenciais automaticamente.
+Aplicação de chave de segurança – Serviço de verificação em duas etapas baseado em uma chave de segurança.
+Serviço de gerenciamento de chaves na nuvem – Serviço de gerenciamento de chaves hospedado na nuvem, integrado ao IAM e ao registro de auditoria.
+Cloud Resource Manager – Serviço para gerenciar recursos por projeto, pasta e organização com base na hierarquia.
+Cloud Security Command Center – Plataforma de segurança e gestão de riscos de dados para dados e serviços executados no Google Cloud Platform.
+Cloud Security Scanner – Serviço automatizado de verificação de vulnerabilidades para aplicações implantadas no App Engine.
+Transparência de acesso – Registros de auditoria quase em tempo real que oferecem visibilidade aos administradores do Google Cloud Platform.
+Controles de serviço VPC – Serviço para gerenciar perímetros de segurança para dados confidenciais em serviços do Google Cloud Platform.
+
+Internet das coisas (IoT)
+Cloud IoT Core – Serviço seguro de conexão e gerenciamento de dispositivos para a Internet das Coisas.
+Edge TPU – ASIC desenvolvido especificamente para executar inferência na borda. Em setembro de 2018, este produto estava em versão beta privada.
+Cloud IoT Edge – Leva a IA para a camada de computação de borda.
+
+Plataforma de API
+Plataforma de Mapas – APIs para mapas, rotas e locais com base no Google Maps.
+Apigee API Platform – Plataforma de gerenciamento do ciclo de vida para projetar, proteger, implantar, monitorar e dimensionar APIs.
+Monetização de APIs – Ferramenta para provedores de API criarem modelos de receita, relatórios, gateways de pagamento e integrações com portais de desenvolvedores.
+Portal do desenvolvedor – Plataforma de autoatendimento para desenvolvedores publicarem e gerenciarem APIs.
+Análise de API – Serviço para analisar programas baseados em API por meio do monitoramento, medição e gerenciamento de APIs.
+Apigee Sense – Permite a segurança da API, identificando e alertando os administradores sobre comportamentos suspeitos da API.
+Cloud Endpoints – Um proxy baseado em NGINX para implantar e gerenciar APIs.
+Infraestrutura de serviços – Um conjunto de serviços fundamentais para a criação de produtos do Google Cloud.
+
+Regiões e zonas
+Uma região é uma localização geográfica específica onde os usuários podem implantar recursos na nuvem. Cada região é uma área geográfica independente composta por diferentes zonas.
+Uma zona é uma área de implantação para recursos do Google Cloud Platform dentro de uma região. As zonas devem ser consideradas um único domínio de falha dentro de uma região. A maioria das regiões possui cerca de três zonas.
+No primeiro trimestre de 2024, o Google Cloud Platform está disponível em 40 regiões e 121 zonas. Esta é uma lista dessas regiões e zonas:
+
+Semelhança com serviços de outros provedores de serviços em nuvem
+Para quem já conhece outros provedores de serviços em nuvem renomados, uma comparação com serviços similares pode ser útil para entender as ofertas do Google Cloud Platform.
+
+Linha do tempo
+
+Abril de 2008 – O Google App Engine é anunciado em versão prévia.
+Maio de 2010 – Lançamento do Google Cloud Storage.
+Maio de 2010 – O Google BigQuery e a API de Previsão são anunciados em versão prévia.
+Outubro de 2011 – O Google Cloud SQL é anunciado em versão prévia.
+Junho de 2012 – O Google Compute Engine é lançado em versão prévia.
+Maio de 2013 – O Google Compute Engine é lançado para o público geral.
+Agosto de 2013 - O Cloud Storage começa a criptografar automaticamente os dados e metadados de cada objeto de armazenamento usando o padrão de criptografia avançada de 128 bits (AES-128), e cada chave de criptografia é criptografada com um conjunto de chaves mestras que são rotacionadas regularmente.
+Fevereiro de 2014 – O Google Cloud SQL torna-se GA (Disponibilidade Geral).
+Maio de 2014 – O Stackdriver é adquirido pelo Google.
+Junho de 2014 – O Kubernetes é anunciado como um gerenciador de contêineres de código aberto.
+Junho de 2014 – O Cloud Dataflow é anunciado em versão prévia.
+Outubro de 2014 – O Google adquire o Firebase.
+Novembro de 2014 – É anunciado o lançamento da versão alfa do Google Kubernetes Engine (anteriormente Container Engine).
+Janeiro de 2015 – O Google Cloud Monitoring baseado em Stackdriver entra em versão beta.
+Março de 2015 – O Google Cloud Pub/Sub fica disponível em versão beta.
+Abril de 2015 – O Google Cloud DNS torna-se disponível ao público em geral.
+Abril de 2015 – O Google Dataflow foi lançado em versão beta.
+Julho de 2015 – O Google lança a versão 1 do Kubernetes e a entrega à Cloud Native Computing Foundation.
+Agosto de 2015 – O Google Cloud Dataflow, o Google Cloud Pub/Sub, o Google Kubernetes Engine e o Deployment Manager são lançados oficialmente (GA).
+Novembro de 2015 – A Bebop é adquirida e Diane Greene entra para o Google.
+Fevereiro de 2016 – O Google Cloud Functions torna-se disponível em versão alfa.
+Setembro de 2016 – A Apigee, empresa fornecedora de soluções de gerenciamento de interfaces de programação de aplicativos (APIs), é adquirida pelo Google.
+Setembro de 2016 – O Stackdriver torna-se disponível ao público em geral.
+Novembro de 2016 – A Qwiklabs, uma empresa de tecnologia educacional, é adquirida pelo Google.
+Fevereiro de 2017 – O Cloud Spanner, um banco de dados altamente disponível e distribuído globalmente, é lançado em versão beta.
+Março de 2017 – O Google adquire o Kaggle, a maior comunidade mundial de cientistas de dados e entusiastas de aprendizado de máquina.
+Abril de 2017 – O professor do MIT, Andrew Sutherland, quebra o recorde do maior cluster do Compute Engine de todos os tempos, com 220.000 núcleos em VMs preemptíveis.
+Maio de 2017 – O Google Cloud IoT Core é lançado em versão beta.
+Novembro de 2017 – O Google Kubernetes Engine recebe a certificação da CNCF.
+Fevereiro de 2018 – O Google Cloud IoT Core torna-se disponível ao público em geral.
+Fevereiro de 2018 – O Google anuncia sua intenção de adquirir a Xively.
+Fevereiro de 2018 – Cloud TPUs, aceleradores de aprendizado de máquina para TensorFlow, ficam disponíveis em versão beta.
+Maio de 2018 – O Google Cloud Memorystore fica disponível em versão beta.
+Abril de 2019 – Lançamento Beta do Google Cloud Run (totalmente gerenciado).
+Abril de 2019 – Anunciado o Google Anthos.
+Novembro de 2019 – Lançamento da disponibilidade geral do Google Cloud Run (totalmente gerenciado).
+Março de 2020 – Devido à pandemia de COVID-19, o Google Cloud adiou a versão online da sua megaconferência Google Cloud Next, duas semanas depois de ter cancelado a versão presencial.
+Outubro de 2020 – O Google Cloud anunciou que se tornará um candidato a produtor de blocos para a rede EOS e o protocolo EOS.IO. Atualmente, os principais produtores de blocos são corretoras de criptomoedas como OKEx e Binance.
+Fevereiro de 2021 – Lançamento do Google Kubernetes Engine Autopilot.
+Maio de 2021 – A Vertex AI foi anunciada no Google.io.
+Junho de 2021 – Em 2021, a Apple era o maior cliente do Google Cloud.
+Abril de 2022 – A MobiledgeX é adquirida e passa a integrar o Google Cloud.
+Março de 2023 – Google traz recursos de inteligência artificial generativa para o Google Cloud.
+Maio de 2024 – O Google Cloud firmou parceria com a Airtel.
+
+Clientes públicos
+Os clientes anunciados em 2023 incluem Kingfisher plc, o Governo do Kuwait, Deutsche Börse Group, Unity Technologies, Uber, FanCode, Daimler, e Wix.com.

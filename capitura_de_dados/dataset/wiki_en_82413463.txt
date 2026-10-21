@@ -1,0 +1,19 @@
+Corynebacterium propinquum
+
+Corynebacterium propinquum, previously known as CDC group ANF-3, was formally given a species name and described in 1994 by Riegel et al. It is a Gram-positive, mesophilic, obligately aerobic bacteria. It has a characteristic club-shaped morphology, hence its genus name, as coryneform means "club-shaped".
+C. propinquum typically colonizes the oropharyngeal region of the upper respiratory tract of humans and animals. They are normally non-pathogenic and are widely distributed in nature.
+The species name, propinquum, comes from the Latin neutral adjective for "near, close". 
+
+Taxonomy
+Corynebacterium propinquum belongs to a group of nondiphtherial corynebacteria that are nonlipophilic and nonfermentative, sometimes referred to as the C. pseudodiphtheriticum group.
+The closest phylogenetic relative of Corynebacterium propinquum is C. pseudodiphtheriticum, and they share the same environmental niche, the oropharynx. The two species are nearly identical, and are commonly differentiated by a single test, the production of urease, where C. propinquum are urease-non-producing and C. pseudodiphtheriticum are urease-producing.
+
+Microbiology
+Corynebacterium propinquum is highly pleomorphic and occur in varying lengths, and sometimes has slightly wider ends, giving it the "club shaped" appearance, the prominence of which depends on their surrounding conditions.
+Colonies are whitish and somewhat dryish, with entire edges, and are 1 to 2 mm in diameter after 24 h of incubation. It can grow in a wide variety of media, including Trypticase soy broth agar, Yeast Malt agar and Columbia agar. Growth in 6.5% NaCl salt has been reported, demonstrating some halophily. Additionally, it can be grown in a mesophilic range of temperatures, from 25 to 37 °C with optimum growth at 37 °C, with no growth reported at 5 °C or 41 °C.
+They reduce nitrate and hydrolyze tyrosine but do not hydrolyze urea.
+
+Medical relevance
+Corynebacterium propinquum are known to be opportunistic pathogens, mainly affecting immunocompromised patients, however they have also been isolated from normally sterile body sites in immunocompetent patients as well.
+Corynebacterium species can be considered universally susceptible to vancomycin and linezolid agents, however, antimicrobial resistance mechanisms tend to be unknown or varied within the genus. C. propinquum in particular appears to demonstrate a favorable susceptibility profile to ceftriaxone, penicillin, vancomycin, -lactams and glycopeptides from what has been reported in the antibiotic susceptibility tests performed in case studies and from the profiling of similar non-diphtheriae Corynebacterium species.
+Some isolates of C. propinquum have a gene copy of the virulence factor isocitrate lyase, as well as the transporter gene arsenical-resistance protein ACR3. In addition, the presence of erm(X), cmx, and Sul1 genes has been identified in isolates of C. propinquum showing resistance to macrolides, lincosamides, streptogramins, chloramphenicol, and sulfonamides.

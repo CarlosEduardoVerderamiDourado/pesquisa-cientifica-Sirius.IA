@@ -1,0 +1,27 @@
+Estetrol
+
+Estetrol (E4) é um dos quatro hormônios esteroides estrogênicos naturais encontrados em humanos, juntamente com a estrona (E1), o estradiol (E2) e o estriol (E3). O estetrol é um dos principais estrogênios do corpo. Em contraste com a estrona e o estradiol, o estetrol é um estrogênio nativo da vida fetal. O estetrol é produzido exclusivamente pelo fígado fetal e é encontrado em níveis detectáveis apenas durante a gravidez, com níveis relativamente altos no feto e níveis mais baixos na circulação materna.
+Além de seu papel fisiológico como hormônio nativo, o estetrol pode ser usado como medicamento. O estetrol, em combinação com a drospirenona, foi recentemente aprovado como um novo componente estrogênico de uma pílula contraceptiva oral combinada (PCOC) e o estetrol sozinho está em desenvolvimento clínico para o tratamento de sintomas da menopausa, bem como câncer de mama e próstata.
+
+Função biológica
+Até o momento, a função fisiológica do estetrol permanece desconhecida. O papel potencial do estetrol como marcador do bem-estar fetal tem sido estudado extensivamente, mas nenhuma correlação foi encontrada devido à grande variação intra e interindividual nos níveis plasmáticos maternos de estetrol durante a gravidez.
+
+Atividade biológica
+O estetrol tem uma afinidade moderada pelos receptores de estrogênio alfa (ER) e beta (ER), com valores de Ki de 4,9 nM e 19 nM, respectivamente. Como tal, o estetrol tem uma preferência 4 a 5 vezes maior pelo ER do que pelo ER. Em diferentes modelos animais, a potência do estetrol em relação ao seu efeito estrogênico observado in vivo é geralmente 10 a 20 vezes menor do que a potência do etinilestradiol (EE) e também é menor do que a potência do estradiol. O estetrol apresenta uma ligação altamente seletiva aos seus alvos primários ER e ER, o que garante que o estetrol tenha um baixo risco de efeitos colaterais não específicos.
+
+Modo de ação
+
+Efeito seletivo nos tecidos
+O estetrol apresenta atividades estrogênicas seletivas, neutras ou antiestrogênicas em determinados tipos de células e tecidos. Em modelos com roedores, o estetrol demonstrou provocar uma potente atividade estrogênica na ovulação, no cérebro, nos tecidos ósseos, no sistema cardiovascular e no útero, associada à inibição da ovulação, prevenção da desmineralização óssea, efeitos cardioprotetores e manutenção dos tecidos uterovaginais, respectivamente.
+Dados de estudos pré-clínicos também sugerem que o estetrol tem efeitos antiestrogênicos na mama e um impacto limitado no tecido mamário normal ou maligno quando usado em concentrações terapêuticas. Essa propriedade do estetrol está associada a efeitos antagônicos na proliferação, migração e invasão das células mamárias na presença de estradiol.
+No fígado, o Estetrol tem uma atividade neutra, que se reflete em um impacto mínimo na síntese dos fatores de coagulação hepáticos, um impacto mínimo na síntese da globulina ligadora de hormônios sexuais (SHBG) e um impacto limitado nos parâmetros lipídicos, incluindo os triglicerídeos.
+O estetrol pode, portanto, ser descrito como o primeiro estrogênio nativo com atividade seletiva nos tecidos.
+
+Diferenças em relação aos SERMs
+A atividade seletiva nos tecidos do estetrol é diferente dos efeitos dos moduladores seletivos do recetor de estrogênio (SERMs), como o tamoxifeno e o raloxifeno. O estetrol, assim como os SERMs, tem atividade seletiva nos tecidos. No entanto, os SERMs interagem com o domínio de ligação do ligante do ER de uma maneira diferente da dos estrogênios, incluindo o estetrol. O estetrol recruta os mesmos co-reguladores que outros estrogênios, enquanto os SERMs recrutam outros co-reguladores.
+
+Ativação do ER
+Os estrogênios podem exercer seus efeitos por meio das vias de sinalização do ER nuclear e/ou do ER de membrana. O estetrol apresenta um modo de ação distinto em termos de ativação do ER. Tal como outros estrogênios, o estetrol liga-se e ativa o ER nuclear para induzir a transcrição genética. No entanto, o estetrol induz uma atividade muito limitada através do ER de membrana em vários tecidos (por exemplo, na mama) e antagoniza esta via na presença de estradiol, desacoplando assim de forma única a ativação nuclear e a ativação de membrana.
+
+História
+O estetrol foi descrito pela primeira vez em 1965 por Egon Diczfalusy e colegas do Instituto Karolinska, em Estocolmo, Suécia, que identificaram e isolaram esse novo estrogênio nativo da urina no final da gravidez e da urina de recém-nascidos. A pesquisa básica sobre o estetrol foi realizada entre 1965 e 1984. Foi estabelecido que o estetrol é sintetizado exclusivamente no fígado fetal humano. Desde 1984, pesquisas adicionais foram praticamente abandonadas porque o estetrol era considerado um estrogênio fraco e sem importância na gravidez. Em 2001, Herjan Coelingh Bennink, da Pantarhei Bioscience, na Holanda, reiniciou a investigação do estetrol como um estrogênio natural potencialmente útil para uso humano, resultando na introdução do E4 como componente estrogênico de um contraceptivo oral combinado em 2021.

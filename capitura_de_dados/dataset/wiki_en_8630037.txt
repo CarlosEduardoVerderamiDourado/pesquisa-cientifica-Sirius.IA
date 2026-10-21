@@ -1,0 +1,61 @@
+CZ.NIC
+
+CZ.NIC is a Czech interest association of legal persons established by leading Internet service providers in 1998. The main activity of the association is administration of domain names .cz and 0.2.4.e164.arpa (ENUM), administration of .cz top-level domains and education in the area of domain names. Currently, the employees of the association are intensively working on expanding the DNSSEC technology, developing the domain administration system and mojeID service and promoting new technologies and projects beneficial to the Internet infrastructure in the Czech Republic.
+Authorized by the Ministry of the Interior, the CZ.NIC association coordinates the national security team CSIRT.CZ that has been participating in resolving incidents related to cyber security in networks operated in the Czech Republic since 2011.
+The association operates a specialized learning center called CZ.NIC Academy and founded its own research organization, the purpose of which is, among others, to solve problems related to Internet security and the development of original tools for the development of the Internet infrastructure.
+CZ.NIC is a member of EURid, the organization administering the European .eu domain as well as of other international companies with similar specialization (CENTR, ccNSO, etc.).
+
+Projects
+
+Turris Omnia
+
+Turris Omnia is a powerful and extensible open-source router. It features an open Linux based operating system with automatic updates and extra security measures. Besides being a router, Turris Omnia is powerful enough to serve as small home server. Turris Omnia was crowdfunded through a campaign on Indiegogo.
+
+Project: Turris
+The Turris project is a service that helps users to protect their home networks by using a special router. In addition to normal home router functions, it is also able to analyze traffic between the Internet and a home network and identify suspicious data streams. If such data stream is detected, the router alerts the Turris central of a possible attack like a watchtower (that is what Turris means in Latin). The system central is capable to compare data from many connected Turris routers and evaluate the detected threat. If an attack is detected, updates are created and distributed throughout the Turris network to help protect all other users.
+
+DNSSEC
+In early 2008, CZ.NIC started trial operation of the DNSSEC security technology; it was definitely launched in the .cz domain area in the fall of 2008. Czech Republic was the fifth country to introduce this security technology. At present, the Czech national domain with 57% of its domains being secured is among the gTLDs with the highest use of DNSSEC.
+
+Háckycárky.cz
+Since 2004, the association pays attention to IDN, the system of domain names with diacritics. In connection with this, CZ.NIC operates the project “Háckycárky.cz” (“acutes carons”), where Internet users can test whether their browsers and systems are compatible with the internationalized domains.
+
+FRED
+FRED (Free Registry for ENUM and Domain) is a registration system for domain administration, developed by employees of CZ.NIC as open source. It was first implemented in 2006 for the Czech ENUM domain administration; the following year, FRED started to be used for .cz domains. More information, including installation packages can be found at http://fred.nic.cz. The software can be freely used, modified and redistributed under the conditions laid down by the appropriate licenses. Since September 2008, the FRED registration system has been used by Angola; in 2009 it was followed by Tanzania and a year later by the Faroe Islands, Costa Rica and Estonia. At the beginning of 2014, they were joined by Albania and Macedonia. It is running in a test mode in several other countries.
+
+BIRD
+An open source routing daemon BIRD was developed at the Faculty of Mathematics and Physics, Charles University, Prague, as a school project of three students (including Ondrej Filip, the current CEO of CZ.NIC). Important development of the project came about in 2009, when BIRD became one of the first object of activities of the CZ.NIC Laboratories. The routing daemon is one of the most used solutions for peering centers around the world; its abilities are utilized by the American PAIX, the Moscow MSK-IX, the Frankfurt DE-CIX, or the London LINX. The representatives of the latter routing node honored BIRD with LINX Award 2010.
+
+mojeID
+
+MojeID is a service that allows users of the Czech Internet to use single login data (username and password) for logging into different websites and web services. It eliminates the need for repetitive registration. MojeID can be used for all services that support specifically the mojeID service or at least the OpenID technology. MojeID also allows storing the user data in one secure place while keeping it up to date.
+Compared to OpenID, mojeID has a major advantage, which is different stages of identity verification. The first stage verifies that the user actually has access to the email box and mobile phone entered during registration. In the second stage, the user can request a further verification code to be sent to their postal address. The highest degree of verification is called validation, at which the user authentication is based on a personal visit to a CZ.NIC office, a valid electronic signature, or an officially certified written request.
+Within the .cz domain zone, mojeID is used by a large number of e-shops, news sites and even some municipalities that use the authentication system, for example, during quick surveys or polls among residents.
+
+Knot DNS
+Knot DNS is a powerful authoritative DNS server supporting all major DNS protocol functions including zone transfers, dynamic updates and DNSSEC extension. Main advantages of this open source solution are performance, scalability, speed and the ability to add or remove zones on the fly without server downtime. Knot DNS was presented to the Czech and international public in November 2011. Four months later, CZ.NIC released its first final version.
+
+Knot Resolver
+Knot Resolver is an open source modern resolver implementation designed for scalability, resiliency, and flexibility. Its core architecture is tiny and efficient, and most of the rich features are implemented as optional modules, which limits attack surface and improves performance. Many resolver features are available out-of-the-box as modules while keeping core tiny and efficient. Modular architecture provides a state-machine like API for extensions, such as C and Lua modules.
+
+National security team CSIRT.CZ
+Based on the agreement between the Czech Ministry of the Interior and CZ.NIC, from January 2011 the .cz domain administrator coordinates the national security team CSIRT.CZ. It participates in resolving incidents related to cyber security in networks operating in the Czech Republic.
+
+Academy
+Specialized Learning Centre offers professional training in the field of Internet and web technologies. The lecturers of the CZ.NIC Academy are employees of the association, university professors and practitioners. CZ.NIC Academy operates two training centers - in Prague and Brno.
+
+Laboratories
+CZ.NIC Laboratories is a development and research institute of the CZ.NIC association that is engaged in research on the Internet, Internet protocols, network operation analysis, passive and active monitoring and design of prototypes for further development within CZ.NIC. The work of CZ.NIC Laboratories is focused on the benefit of the local Internet community; however, the scope of its work is international.
+
+Domain history
+Domains have been registered in the Czech Republic since 1991. Back then, those were the now non-existent .cs domains for the former Czechoslovakia. The computing center at Institute of Chemical Technology in Prague was in charge of the registration. Today's .cz Czech domain appeared with the disintegration of Czechoslovakia in 1993. The original rules for allocation of domains were relatively strict, as was usual at these times. The domain administrator also covered the costs of operation of the registration system and the registration, and the use of second-level domain names was free of charge.
+The importance of the Internet in the Czech Republic has been gradually growing, together with the number of applications for registration of new domain names. This development logically brought along the pressure to relax the allocation rules. The first major breakthrough in this respect occurred in 1997 — since then, registering domain names has been possible for natural person as well. Furthermore, the relationship of the applicant to the registered domain name has stopped to be questioned.
+
+Origin
+With the increasing number of domain names, stronger position of the Internet in the commercial sector and the increasing costs of operating the system, it was necessary to institutionalize the registration process. Therefore, in 1998, the major ISPs represented in the NIX.CZ association founded an association of legal persons CZ.NIC. In September 1999, CZ.NIC officially took over the administration of the .cz domain. At the same time, the registration of second-level domain names became chargeable. In the period from September 1999 to 2003, there were further modifications and relaxation of the rules of domain registration. For example, a system of so-called special requests was established as a defense against speculators and in 2002, registration of domains without working name servers was allowed. The domain names identical to the endings of other top-level domains that had been blocked until then were released.
+
+Commercial Registrars
+At first, CZ.NIC had fulfilled the role of both registry administrator and the registrar. A fundamental change in this respect occurred in 2002, when there was a transition to more efficient decentralized domain administration. Thanks to this transition, other entities could enter the domain registration process. The aim of this measure was to separate the technical aspects of the operation of the registration system from the operation by domain names’ end holders and to introduce competitive environment, which would bring better services and lower prices, into the registration process. The decentralized domain administration system started its operation in autumn of 2003 and was immediately entered by first commercial registrars. Apart from commercial environment and price decrease, the decentralized system has brought other intriguing changes. The users have been enabled to register domains for a period longer than one year (up to 10 years), and the system have been further secured, in particular with respect to domain holder's rights. Due to the decentralization and making domains accessible to public, domain disputes have become a frequent occurrence. That is why the association introduced an arbitration clause into the Registration Rules in 2004. This clause allows for resolving disputes through Arbitration Court attached to the Chamber of Commerce and the Agricultural Chamber of the Czech Republic. The registration now includes accepting the commitment to respect the decisions of the Arbitration Court, which has simplified and accelerated the dispute resolution.
+
+A new generation Decentralized System of Domains
+In 2005, the CZ.NIC association decided that it would operate system of registration and domain administration on its own. Until then the system administration had been outsourced. The aim of this change was to ensure greater flexibility in changes in the system and to reduce the cost of its operation. A new generation Decentralized System of Domains (DSDng) was launched on October 1, 2007. It brought an abrupt drop in wholesale prices, simplification of rules for .CZ domain registration and a significant increase in the number of registered domains. After half a year, there were 400,000 domains on the Czech Internet and the growth rate doubled compared to the previous year. DSDng runs on the basis of the FRED software, developed by employees of CZ.NIC as open source. In September 2008, the system was implemented by Angola, in 2009 it was followed by Tanzania and a year later by the Faroe Islands, Costa Rica and Estonia.

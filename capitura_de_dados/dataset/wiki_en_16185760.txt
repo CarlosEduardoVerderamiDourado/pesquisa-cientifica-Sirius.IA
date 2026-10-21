@@ -1,0 +1,38 @@
+Avenger-class mine countermeasures ship
+
+The Avenger-class mine countermeasures ships are a class of 14 ships constructed for the United States Navy from 1987 to 1994, designed to clear naval mines from vital waterways. The ships have the hull designator MCM (for mine, countermeasure).
+The Avenger-class ships are being replaced by the Freedom and Independence-class littoral combat ships, as well as other MCM platforms, which use unmanned air, surface, and undersea vehicles to detect and destroy naval mines at a standoff distance.
+
+History
+
+Background
+In the early 1980s, the U.S. Navy began development of a new mine countermeasures (MCM) force, which included two new classes of ships and minesweeping helicopters. The vital importance of a state-of-the-art mine countermeasures force was strongly underscored in the Persian Gulf during the eight years of the Iran–Iraq War, and in Operations Desert Shield and Desert Storm in 1990 and 1991 when Avenger and Guardian conducted MCM operations.
+Avenger-class ships are designed as mine hunter-killers capable of finding, classifying, and destroying moored and bottom mines. The last three MCM ships were purchased in 1990, bringing the total to 14 fully deployable, oceangoing Avenger-class ships. These ships use sonar and video systems, cable cutters and a mine-detonating device that can be released and detonated by remote control. They are also capable of conventional sweeping measures.
+
+Operations
+As of 2012, eight Avengers were forward-based: four at Sasebo, Japan with standing crews, and four at Manama, Bahrain, with ten ships' companies on rotational deployments. In March 2012, the USN announced plans to deploy another four MCMs to Bahrain to counter potential Iranian threats to mine the Strait of Hormuz reflecting increasing tensions between the United States and Iran over the latter's nuclear program. The ships in Bahrain were decommissioned by September 2025, with the last four vessels being transported back to the US, specifically to the Philadelphia Inactive Ship Maintenance Facility, on M/V Seaway Hawk in January 2026, shortly before the outbreak of the 2026 Iran war in March.
+By mid April 2026, USS Chief and Pioneer were sent to the Persian Gulf to help with mine clearing in the Strait of Hormuz.
+
+Design
+
+Hull
+
+The hulls of the Avenger-class ships are constructed of wood with an external coating of fiberglass. The wood used is oak, Douglas fir and Nootka cypress because of their flexibility, strength and low weight. This construction allows the hull to withstand a nearby blast from a mine, and gives the ship a low magnetic signature.
+
+Mine countermeasures systems
+The ships use AN/SLQ-48 remotely operated mine disposal system supplied by Alliant Techsystems (ATK) and the EX116 Mod 0 remotely operated vehicle (ROV) mine neutralization system supplied by ATK and Raytheon. The AN/SLQ-48 detects, locates, classifies, and neutralizes moored mines and mines resting on the seabed. The vehicle uses high-frequency, high-resolution sonar, low light level television (LLLTV), cable cutters, and explosive charges to detect and dispose of mines, while remaining tethered to the vessel by a 3,510-foot (1,070 m) cable and under control of the vessel.
+The ATK/Raytheon ROV is a similar system. It has a 4,900-foot (1,500 m) tether cable, and carries cable cutters for dealing with tethered or moored mines, and explosive charges to detonate the mines.
+
+Sensor systems
+The ships employ the AN/SQQ-32 advanced minehunting and classification sonar from Raytheon and Thales Underwater Systems (formerly Thomson Marconi Sonar). The system has two sonars fitted in a small submersible pod towed under the ship. When not deployed the submersible is housed in a trunk below the deck of the ship. The sonars are a Raytheon search and detection sonar and a Thales high-resolution, high-frequency, target-classification sonar. The deployment and retrieval system for the submersible was designed by the Charles Stark Draper Laboratory in Massachusetts.
+The Avenger class employ the AN/SPS-55 surface-search and navigation radar supplied by Cardion, Inc. of New York. The ships have been equipped with CMC Electronics LN66 or Raytheon AN/SPS-66 navigation radars, but are slated to be upgraded with the AN/SPS-73.
+
+Propulsion
+The Avenger-class ships are equipped with four Waukesha-Pearce diesel engines (MCM 1 and 2) or Isotta-Fraschini ID 36SS6V diesel engines (remainder), which are designed to have very low magnetic and acoustic signatures. Each engine generates 600 horsepower (450 kW), with a combined power of 2,400 horsepower (1.8 MW), providing a cruising speed of 14 knots (26 km/h; 16 mph) with controllable pitch propellers. For stationkeeping, the ship uses two Hansome electric motors rated at 394 horsepower (294 kW). Precision maneuvering capability is provided by a 345 horsepower (257 kW) Omnithruster hydrojet, powered by Solar (Caterpillar Inc) Magnetic Marine Gas Turbine Generator.
+
+Ships
+
+In popular culture
+A fictional Avenger-class MCM is the vessel at the center of the 2023 film The Caine Mutiny Court-Martial. While no scenes appear on board the ship, it is shown in a photo posted in the courtroom, and much of the dialog involves the typical missions and capabilities of Avenger-class MCMs.
+
+Gallery

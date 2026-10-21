@@ -1,0 +1,90 @@
+Altay (tank)
+
+Altay (Turkish for Red foal/colt) is a Turkish fourth generation main battle tank designed by Otokar, based on the South Korean K2 Black Panther. It is produced by BMC with design assistance and technology transferring by Hyundai Rotem. It is named in honor of Army General Fahrettin Altay who commanded the 5th Cavalry Corps in the final stage of the Turkish War of Independence.
+Altay is combined with MKE made 55 calibre 120 mm main gun, Roketsan made advanced composite and reactive armor package along with Aselsan made electronics such as active protection, remote controlled weapon and fire control systems. The first batch will be produced using HD Hyundai Infracore engine and SNT Dynamics transmission, while the second batch will use BMC-made domestic powerpack.
+Mass production officially began on 5 September 2025. It officially entered service on 28 October 2025.
+
+History
+The National Tank Production Project (Turkish: MITÜP – Milli Tank Üretimi Projesi) was an initiative developed in the mid-1990s to establish independent and robust infrastructure for the production, development and maintenance of main battle tanks used by the Turkish Armed Forces. In order to improve the current technical capabilities of the Turkish defense industries and increase the amount of domestic contribution towards national defense, the Undersecreteriat for Defense Industries decided that a "National Tank" will serve as a catalyst for uniting certain Turkish defense companies around a common goal and for providing the Turkish military with extra firepower in the form of a modern tank. This is Turkey's first MBT development program since 1943, when prototypes of a Turkish national tank were produced in Kirikkale, but 1943's program never reached full-scale mass production. The Turkish Ministry of Defense allocated a budget of $1 billion for the development of the Altay.
+
+Development
+The project was initiated with an agreement signed between Otokar and the Undersecretariat for Defense Industries of the Republic of Turkey on 30 March 2007, when the Defense Industries Executive Committee awarded a contract worth approximately $500 million to Otokar for the design, development and production of four prototypes of a national main battle tank. On July 29, 2008, Turkey and Hyundai Rotem signed a 500 billion (approximately US$540 million) design assistance and technology transfer contract for tank development. This contract consists of design assistance and technology transfer related to the development of systems, armor packages, and 120 mm guns necessary for the development of Altay tanks, and includes design assistance and technology transfer of Hyundai Rotem, Hyundai WIA, and Agency for Defense Development throughout the development process.
+The first 3D image of the MBT was released to the public on 7 April 2010 during a press release by the Undersecreteriat for Defense Industries of the Republic of Turkey. In 2012, Otokar General Manager Serdar Görgüç announced that the company was considering the development of an electric engine for the Altay. However, the electric engine is probably no longer under consideration. The military electronics company Aselsan manufactures and integrates the Volkan III modular fire control system, command, control and information systems, while state-owned MKEK (Mechanical and Chemical Industries Corporation) produce MKE 120 mm tank gun. Another state-owned company, Roketsan, produces an indigenous armor. The first prototype Altay was ready for use by the end of 2016. Once the prototypes are produced and tested, the Undersecreteriat for Defense Industries of the Republic of Turkey will prepare and execute a separate order for the first lot of 250 tanks. A total of 1,000 MBTs are planned to be produced in four separate lots of 250 units. Every delivered lot is expected to have additional upgrades. Otokar completed all infrastructure planning and programming for mass production. Koç Holding Vice Chair and Otokar Chair Ali Koç said mass production was expected to start 18–22 months after their offer was accepted.
+
+ 
+However, on 9 November 2018, Turkish Presidency of Defense Industries signed an agreement with BMC for mass production of the tank. In the process, BMC replaced Otokar as the main contractor and responsible for further developments.
+The production of Altay has been delayed since 2018, as the programme was relying on German 1,500 hp MTU engines and RENK transmissions, because of the German federal arms embargo on Turkey due to their involvement in the Syrian Civil War. Another request from Mitsubishi Heavy Industries was also declined.
+However, BMC Power, a subsidiary of BMC, replaced MTU as engine subcontractor for 1,500 hp engine. BMC Power is the designer and manufacturer of the serial production BATU V12 1,500 hp engine.
+On 10 March 2021, BMC announced that it plans to import a Korean power pack that combines Doosan Infracore (now HD Hyundai Infracore) DV27K engine and SNT Dynamics EST15K transmission and complete the performance test of the Altay tank according to Turkey's own standards as soon as possible.
+On 11 August 2021, the South Korean Defense Acquisition Program Administration announced that it was looking for a Korean company to develop an improved SNT Dynamics EST15K transmission for use in Altay and K2 Black Panther.
+On 7 October 2021, the South Korean Defense Acquisition Program Administration announced that it is looking for a Korean company to develop an indigenous Transmission control unit to replace the German Transmission control unit used in the SNT Dynamics EST15K transmission to export transmissions to Turkey.
+On 22 October 2021, Kang Eun-ho, head of South Korea's Defense Acquisition Program Administration, said he had approved the export of Hyundai Doosan Infracore DV27K engines and SNT Dynamics EST15K transmissions to Turkey during a meeting with Turkish Foreign Minister Mevlüt Çavusoglu visiting South Korea.
+At the Antalya Diplomacy Forum held on March 11, 2022, Ismail Demir, president of Turkish Defense Industries (SSB), revealed that he was testing Hyundai Doosan Infracore DV27K engine and SNT Dynamics EST15K transmission imported from South Korea and he said in May that he will be able to see a prototype of Altay that combines Korean engines and transmissions.
+In August 2022, the durability test of the powerpack combined with the DV27K engine and EST15K transmission imported from South Korea is underway, and if the durability test succeeds, the first 250 Altay will be produced by integrating the Korean powerpack.
+In his speech at the handover ceremony of the new generation of assault howitzers (MSB Arifiye Campus BMC Plant / Sakarya), President Erdogan said that two new Altay tanks will be manufactured in 2023.
+On 30 January 2023, BMC signed a supply agreement with SNT Dynamics to purchase the EST15K transmission. The agreement includes a supply contract (approximately €68.926 million) to procure 90 transmissions by December 2027 and an option contract (approximately €130,900 million) to procure an additional 150 transmissions by December 2030.
+In March 2023, BMC announced it planned to deliver two Altay tanks to the Turkish Armed Forces in April 2023 for field tests expected to last 1.5 to two years, with mass production planned for 2025. Given the number of changes to the project, the company is now referring to the tank as the "Yeni Altay" (New Altay). Mass production officially began on 5 September 2025 with a dedicated factory, which is partially funded by Qatar, officially opened on 28 October 2025.
+In February 2025, Haluk Görgün announced that deliveries of ALTAY tanks in the T1 configuration will begin as of 2025. 3 ALTAY T1 tanks will be delivered in 2025 (5 total delivered). These deliveries are expected to be made in August. 85 tanks in T1 configuration will be delivered, followed by 11 ALTAY tanks in 2026, 41 tanks in 2027 and then 30 tanks. The South Korean power group will be used in the first 40 ALTAY tanks, then the domestic power group will be used and the 1500 horsepower BATU will be used.
+
+Design
+The tank benefits both from indigenously developed systems and from technologies of the K2 Black Panther, accorded by an agreement signed with South Korea. The main armament of the tank is the 120 mm 55 caliber smoothbore gun, which is based on the CN08 120 mm gun of the K2 Black Panther, was redesigned by MKEK to remove the autoloader feature in exchange for higher reliability. The thermal sleeve of the gun barrel is equipped with a gun stabilizer configured with a static muzzle reference system (SMRS).{{Citation needed}}
+The armor package was modified based on the K2's Korean Special Armor Plate (KSAP), but was redesigned by Roketsan for higher ballistic protection in the Altay and will include CBRN defense elements, to protect it from chemical, biological, radiological and nuclear weapons. Also there will be add-on reactive armor.{{Citation needed}}
+The planned maximum speed of the first batch is set at 65 kilometres per hour (40 mph), provided by an 1,500 hp (1,100 kW) engine and the MBTs will be able to function under 4 metres (13 ft) of water.{{Citation needed}} The first mass production tank will be powered by 1,500 hp (1,110 kW) DV27K engines and EST15K transmissions (6 forward, 3 reverse gears) designed by Hyundai Doosan Infracore (now HD Hyundai Infracore) and SNT Dynamics in South Korea. whereas the latter batches may powered by an BMC Power BATU V12 12 cylinder V type 1,500 hp (1,100 kW) engine.
+The suspension system adopts Hyundai Rotem's non-active in-arm suspension unit (ISU) and includes a track tension system that automatically adjusts the tension of the track. For mass production of the suspension system, KUMA, a partner of Hyundai Rotem, is in charge.
+ASELSAN made electronic systems produced within the scope of Altay Mass Production Project; Fire Control System, Electric Gun and Turret Engagement System, Command Control Communication and Information System, Driver Vision System, Laser Warning System, Remote Controlled Weapon System, Battlefield Recognition and Identification System, Close Range Surveillance System, AKKOR Active Protection System. HAVELSAN provides training and simulation for maintenance and training.
+While moving at high speeds, to evade ATGM attacks, sudden braking and manoeuvering at severe angles are capabilities that were taken into consideration from early developmental stages. An isolated ammunition compartment (turret bustle) is designed to protect tank crew, alongside fire and explosion suppression systems that are to activate when hit or when the tank is involved in an accident. The tank is to be equipped with sensors for the detection of contaminated air from chemical, biological and nuclear weapons. The tank also has hunter-killer engagement capability.
+
+Prototypes
+
+On 29 April 2009, the Subsecretary for Defence Industries of Turkey, Murad Bayar has confirmed at the 9th IDEX International, Defense Industry Fair in Abu Dhabi, that the Turkish tank will be manufactured using only Turkish resources. He added that the research started last week and that he expected to create an authentic tank model specially designed for the needs of the Turkish Armed Forces within 3 years. In September 2010, with approval of the tank subsystems and software by Undersecretariat for Defense Industries, Conceptual Design Phase of the Altay project has been completed. Thus, the project advanced to Detailed Design Phase scheduled to last 30.5 months. The scope of the Detailed Design Phase is to design and integrate interfaces for the selected tank subsystems.
+On 15 October 2010, Otokar signed a contract with MTU and Renk for the supply of power pack. Also, On 15 December 2010, Defence Industry Executive Committee decided to start the development of national power pack.
+On 10 May 2011, Aselsan was contracted by the Undersecretariat for Defense Industries to design and develop two Battlefield Target Identification Device (BTID) prototypes.
+On 11 May 2011, the mock-up of the Altay was introduced to the public in IDEF2011.
+On 18 October 2012, the first Altay was put on trials although lacking side skirts and using a mock-up turret to simulate a real turret.
+On 16 November 2012, two pre-prototype types, named Altay MTR (Mobility Test Rig) and Altay FTR (Firepower Test Rig), successfully passed initial acceptance tests, paving the way for serial production 2 years earlier than expected, with two more prototypes to be built by 2013 or 2014. On 7 November 2016, MTR, FTR, PV1 and PV2 (Pilot Vehicle) prototypes made by Otokar were delivered to the Turkish Land Forces, and their acceptance tests were expected to finish in the last quarter of 2016 or early 2017. Another prototype variant called Altay AHT (Asimetrik Harp Tanki - "urban operations tank") was showcased by Otokar at the IDEF'17 defense and aerospace show in Istanbul on May 9–12. The tank is equipped with a directional dozer blade.
+In May 2019, the new developer BMC unveiled Altay's revised baseline serial production model, named T1, at the IDEF Defense Exhibition. On 23 April 2023, 2 T1 variant Altays were delivered to TAF for further evaluation and testing.
+
+Contractors and subcontractors
+Subsequently, in accordance with the later Defense Industries Executive Committee ruling, approximately 200 subcontractors were selected. Main ones are as follows:
+
+Design and development: Otokar
+Design assistance and technology transfer: Hyundai Rotem
+Main contractor, manufacturer: BMC (replaced Otokar)
+Main smoothbore gun subcontractor: state owned MKEK
+Main smoothbore gun technology transfer: Hyundai WIA
+Rolled homogeneous armor (MIL-12560H): POSCO
+Armor package subcontractor: Roketsan
+Armor package technology transfer and supply of ceramic ballistic plates: Samyang Comtech
+Armor package design assistance: Poongsan Corporation
+Continuous track development and subcontractor: LS Mtron
+Hydropneumatic suspension system subcontractor: Hyundai Rotem
+Powerpack subcontractor (initial, canceled): MTU Engine & Renk Transmission
+Powerpack subcontractor (first batch): HD Hyundai Infracore (engine) and SNT Dynamics (transmission)
+Powerpack subcontractor (second batch): BMC Power
+Sub-systems subcontractor: Aselsan and HAVELSAN
+
+Variants
+Altay T0 – baseline prototype variant.
+Altay T1 - serial production variant with Korean powerpack
+Altay T2 – improved serial production variant with Turkish powerpack.
+Altay T3 – planned variant with unmanned turret.
+Engineering: Bridge Layer, Mine Clearing and Recovery Vehicle variants are planned.
+
+Foreign interest
+ Azerbaijan - At IDEF-2013, the Azerbaijan Army expressed interest in Altay.
+ Colombia - According to reports, a military envoy from Colombia was present at the 2010 press meeting hosted by the Undersecreteriat for Defense Industries of the Republic of Turkey to obtain more information about the tank.
+ Indonesia - In October 2025, Indonesian media reported that the Indonesian Army was planning to acquire 100 units of the Altay main battle tank from Turkey.
+ Saudi Arabia - In April 2013, officials of the Saudi Arabian Army reportedly became interested in Altay. Also in 2025, it is reported that Turkey has been aiming to secure a $6 billion defense deal with Saudi Arabia which includes Altays.
+ Oman - Otokar was invited to a bid for 77 Altays for a tender in Oman in August 2013.
+ Pakistan - Pakistan has also shown interest in procuring the Altay for their armed forces in 2016.
+ Qatar - In March 2019, a senior Turkish politician stated an order for total 100 tanks was placed by Qatar.
+
+Operators
+
+Current operators
+ Turkey
+Turkish Land Forces – 5 in active service. 250 ordered (85 in T1 & 165 in T2) with 750 more on option.
+
+Future operators
+ Qatar
+Qatari Emiri Land Force – 100 ordered.

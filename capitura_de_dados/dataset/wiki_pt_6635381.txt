@@ -1,0 +1,166 @@
+MPEG-2
+
+MPEG-2 (também conhecido como H.222/H262, conforme definido pela ITU) é um padrão para "a codificação genérica de imagens em movimento e informações de áudio associadas". Ele descreve uma combinação de compreção de de vídeo com perdas e métodos de compressão de dados de áudio com perdas, que permitem o armazenamento e a transmissão de filmes usando a mídia de armazenamento disponível atualmente e a largura de banda de transmissão. Embora o MPEG-2 não seja tão eficiente quanto os padrões mais recentes, como H.264/AVC e H.265/HVC, a compatibilidade com versões anteriores de hardware e software existentes significa que ainda é amplamente utilizado, por exemplo, em transmissão de televisão digital sem fio e no padrão DVD-Video.
+
+Características principais
+MPEG-2 é amplamente usado como o formato de sinais de televisão digital sem fio que são transmitidos por sistemas de TV via satélite com transmissão terrestre (over-the-air), a cabo e de transmissão direta. Ele também especifica o formato de filmes e outros programas que são distribuídos em DVD e discos semelhantes. Estações de TV, receptores de TV, DVD players e outros equipamentos geralmente são projetados de acordo com esse padrão. MPEG-2 foi o segundo de vários padrões desenvolvidos pelo Moving Pictures Expert Group (MPEG) e é um padrão internacional (ISO/IEC 13818). As partes 1 e 2 do MPEG-2 foram desenvolvidas em colaboração com a ITU-T e têm respectivo número de catálogo na série de recomendação ITU-T.
+Embora o MPEG-2 seja o núcleo da maioria dos formatos de televisão digital e DVD, ele não os especifica completamente. As instituições regionais podem adaptá-lo às suas necessidades, restringindo e ampliando aspectos do padrão.
+
+Sistemas
+MPEG-2 inclui uma seção de sistemas, parte 1, que define dois formatos de contêiner distintos, mas relacionados. Um é o fluxo de transporte, um formato de pacote de dados projetado para transmitir um pacote de dados em quatro pacotes de dados ATM para stream de vídeo e áudio digital em meios de transmissão fixos ou móveis, onde o início e o fim do fluxo não podem ser identificados, como meios de gravação de radiofrequência, cabo e linear, exemplos dos quais incluem transmissão ATSC/DVB/ISDB/SBTVD e gravação HDV de fita. O outro é o fluxo de programa é projetado para meios de armazenamento de acesso aleatório, como unidades de disco rígido, discos ópticos e memória flash.
+Os formatos de arquivo de fluxo de transporte incluem M2TS, que é usado em discos Blu-ray, AVCHD em DVDs regraváveis e HDV em cartões compact flash. Os arquivos de fluxo do programa incluem VOB em DVDs e VOB aprimorado no HD DVD de curta duração. O fluxo de transporte MPEG-2 padrão contém pacotes de 188 bytes. M2TS precede cada pacote com 4 bytes contendo um indicador de permissão de cópia de 2 bits e carimbo de data/hora de 30 bits.
+MPEG-2 Systems é formalmente conhecido como ISO/IEX 13818-1 e como ITU-T Rec. H.222.0. A ISO autorizou a "SMPTE Registation Authority, LLC" como autoridade de registro para identificadores de formato MPEG-2. O descritor de registro do transporte MPEG-2 é fornecido pela ISO/IEC 13818-1 a fim de permitir que os usuários do padrão transportem dados de forma inequívoca quando seu formato não for necessariamente um padrão internacional reconhecido. Esta disposição permitirá que o padrão de transporte MPEG-2 transporte todos os tipos de dados, ao mesmo tempo em que fornece um método de identificação inequívoca das características dos dados privados subjacentes.
+
+Vídeo
+A seção Vídeo, parte 2 do MPEG-2, é semelhante ao padrão MPEG-1 anterior, mas também oferece suporte para vídeo entrelaçado, o formato usado por sistemas analógicos de transmissão de TV. O vídeo MPEG-2 não é otimizado para taxa de bits baixas, especialmente menos de 1 Mbit/s em resoluções de definição padrão. Todos os decodificadores de vídeo MPEG-2 compatíveis com os padrões são totalmente capazes de reproduzir fluxos de vídeo MPEG-1 em conformidade com a sintaxe de fluxo de bits de parâmetros restritos. MPEG-2/Vídeo é formalmente conhecido como ISO/IEX 13818-2 e como ITU-T Rec. H.262.
+Com alguns aprimoramentos, os sistemas e vídeo MPEG-2 também são usados em alguns sistemas de transmissão HDTV e é o formato padrão para televisão digital ATSC over-the-air.
+
+Áudio
+MPEG-2 apresente novos métodos de codificação de áudio em comparação com MPEG-1:
+
+MPEG-2 Parte 3
+A seção Áudio MPEG-2, definida na Parte 3 (ISO/IEC 13818-3) do padrão, aprimora o áudio MPEG-1 permitindo a codificação de programas de áudio com mais de dois dois canais, até 5.1 multicanal. Este método é compatível com versões anteriores (também conhecido como MPEG-2 BC), permitindo que os decodificadores de áudio MPEG-1 decodifiquem os dois componentes estéreos principais da apresentação. MPEG-2 parte 3 também definiu taxas de bits adicionais e taxas de amostragem para MPEG-1 Audio Layer I, II e III.
+MPEG-2 BC (compatível com os formatos de áudio MPEG-1)
+
+baixa taxa de bits de codificação com taxa de amostragem reduzida a metade (MPEG-1 Layer 1/2/3 LSF - também conhecido por MPEG-2 LSG - "Low Sampling Frequencies")
+codificação multicanal com até 5.1 canais, também conhecida como MPEG multicanal
+
+MPEG-2 Parte 7
+
+A Parte 7 (ISO/IEC 13818-7) do padrão MPEG-2 especifica um formato de áudio não compatível com versões anteriores. (também conhecido como MPEG-2 NBC). A Parte 7 é referida como MPEG-2 AAC. O AAC é mais eficiente do que os padrões de áudio MPEG anteriores e, de certa forma, menos complicado do que seu predecessor, MPEG-1 Audio, Layer 3, por não ter o banco de filtro híbrido. Ele suporta de 1 a 48 canais com taxas de amostragem de 8 a 96 kHz, com recursos de multicanal, multilíngue e multiprograma. Áudio avançado também é definido na Parte 3 do padrão MPEG-4.
+MPEG-2 NBC (não compatível com versões anteriores)
+
+MPEG-2 AAC
+codificação multicanal com até 48 canais
+
+ISO/IEC 13818
+Os padrões MPEG-2 são publicados como partes da ISO/IEC 13818. Cada parte cobre um certo aspecto de toda a especificação.
+
+Parte 1
+Sistemas - descreve a sincronização e multiplexação de vídeo e áudio. (Também é conhecido como ITU-T Rec. H.222.0.)
+Parte 2
+Vídeo - formato de codificação de vídeo para sinais de vídeo entrelaçados e não entrelaçados (Também conhecido como ITU-T Rec. H.262).
+Parte 3
+Áudio - formato de codificação de áudio para codificação perceptiva de sinais de áudio. Uma extensão habilitada para multicanais e extensão de taxas de bits e taxas de amostragem para MPEG-1 Audio Layer I, II e III.
+Parte 4
+Descreve os procedimentos para testar a conformidade.
+Parte 5
+Descreve sistemas para simulação de software.
+Parte 6
+Descreve extensões para DSM-CC (Comando de controle de mídia de armazenamento digital).
+Parte 7
+Codificação de áudio avançada(AAC).
+Parte 8
+Extensão de vídeo de 10 bits. A aplicação principal era o vídeo de estúdio, permitindo o processamento sem artefatos sem abrir mão da compactação. A Parte 8 foi retirada devido à falta de interesse da indústria.
+Parte 9
+Extensão para interfaces em tempo real.
+Parte 10
+Extensões de conformidade para DSM-CC.
+Parte 11
+Gestão de propriedade intelectual (IPMP).
+
+História
+O MPEG-2 evoluiu das deficiências do MPEG-1.
+Pontos fracos conhecidos do MPEG-1:
+
+Um sistema de compressão de áudio limitado a dois canais (estéreo).
+Não há suporte padronizado para vídeo entrelaçado com baixa compactação quando usado para vídeo entrelçado.
+Apenas um "perfil" padronizado (Fluxo de bits de parâmetros restritos), que não era adequado para vídeo de resolução mais alta. O MPEG-1 podia suportar vídeo 4k, mas não havia uma maneira fácil de codificar vídeo para resoluções mais altas e identificar hardware capaz de suportá-lo, já que as limitações de tal hardware não foram definidas.
+Suporte para apenas uma subamostragem de croma, 4:2:0.
+Sakae Okubo da NTT foi o coordenador ITU-T para desenvolver o padrão de codificação de vídeo H.262/MPEG-2 Parte 2 e o presidente de requisitos em MPEG para o conjunto de padrões MPEG-2. A maioria das patentes subjacentes à tecnologia MPEG-2 são propriedades de três empresas: Sony (311 patentes), Thomson (198 patentes) e Mitsubishi Electric (119 patentes). Hyundai Electronics (agora SK Hynix) desenvolveu o primeiro decodificador MPEG-2 SAVI (Sistema/Áudio/Vídeo) em 1995.
+
+Extensões de nome de arquivo
+.mpg, .mpeg, .m2v, .mp3 são algumas das várias extensões de nome de arquivo usadas para formatos de arquivo de áudio e vídeo MPEG-1 ou MPEG-2.
+
+Formulários
+
+DVD-Vídeo
+O padrão DVD-Video usa vídeo MPEG-2, mas impões algumas restrições:
+
+Dimensões Permitidas
+720 480, 704 480, 352 480, 352 240 pixel (NTSC)
+720 576, 704 576, 352 576, 352 288 pixel (PAL)
+relações de aspecto permitidas (Exibir AR)
+4:3 (para telas widescreen e não widescreen em formato letterbox)
+16:9 (para widescreen anamórfico)
+
+Taxas de quadros permitidas
+29.97 quadros entrelaçados (NTSC)
+23.978 frame/s progressivos (para NTSC 2:3 pull-down para 29.97)
+25 quadros entrelaçados (PAL)
+
+Taxa de bits de áudio + vídeo
+Pico de vídeo 9,8 Mbit/s
+Pico total de 10,08 Mbit/s
+Mínimo 300 kbit/s
+YUV 4:2:0
+Legendas adicionais possíveis
+Closed caption(somente NTSC)
+Áudio
+Linear Pulse Code Modulation (LPCM): 48 kHz ou 96 kHz; 16- ou 24-bit; até seis canais (nem todas as combinações possíveis devido a restrições de taxa de bits)
+MPEG Layer 2 (MP2): 48 kHz, até 5.1 canais (necessário apenas em reprodutores PAL)
+Dolby Digital (DD, também conhecido como AC-3): 48 kHz, 32-448 kbit/s, até 5.1 canais
+Digital Theater Systems (DTS): 754 kbit/s ou 1510 kbit/s (não necessário para compatibilidade com o reprodutor de DVD)
+Os DVDs NTSC devem conter pelo menos uma trilha de áudio LPCM ou Dolby Digital.
+Os DVDs PAL devem conter pelo menos uma trilha de áudio MPEG Layer 2, LPCM ou Dolby Digital.
+Os reprodutores não precisam reproduzir áudio com mais de dois canais, mas devem ser capazes de fazer downmix de áudio multicanal para dois canais.
+Estrutura GOP (grupo de imagens)
+O cabeçalho da sequência deve estar presente no início de cada GOP
+Quadros máximos por GOP: 18 (NTSC) / 15 (PAL), ou seja, 0,6 segundos máximo
+GOP fechado necessário para DVDs de vários ângulos
+
+HDV
+
+HDV é um formato para gravação e reprodução de vídeo MPEG-2 de alta definição em uma fita cassete DV.
+
+MOD e TOD
+MOD e TOD são formatos de gravação para uso em camcorders baseadas em arquivo digital de consumidor.
+
+XDCAM
+
+XDCAM é um formato profissional de gravação de vídeo baseado em arquivo.
+
+DVB
+Restrições específicas do aplicativo para vídeo MPEG-2 no padrão DVB:
+Resoluções permitidas para SDTV:
+
+720, 640, 544, 528, 480 ou 352 480 pixels, 24/1.001, 24, 30/1.001 ou 30 frame/s
+352 240 pixels, 24/1.001, 24, 30/1.001 ou 30 frame/s
+720, 704, 544, 528, 480 or 352 576 pixel, 25 frame/s
+352 288 pixels, 25 frame/s
+Para HDTV:
+
+720 x 576 x 50 frame/s progressivos (576p50)
+1280 x 720 x 25 ou 50 frame/s progressivos (720p50)
+1440 ou 1920 x 1080 x 25 frame/s progressivos (1080p25 = modo de filme)
+1440 ou 1920 x 1080 x 25 frame/s entrelaçado (1080i50)
+
+ATSC
+
+O padrão ATSC A/53 usado nos Estados Unidos usa vídeo MPEG-2 no Perfil Principal @ Alto Nível (MP @ HL), com restrições adicionais, como a taxa de bits máxima de 19,39 Mbit/s para transmissão de televisão e 38,8 Mbit/s para televisão a cabo, formato de subamostragem de croma 4:2:0 e informações de colorimetria obrigatórias.
+O ATSC permite as seguintes resoluções de vídeo, relações de aspecto e taxa de quadro/campo:
+
+1920 1080 pixels (16:9, pixels quadrados), a 30p, 29.97p, 24p, 23.976p, 60i, 59.94i.
+1280 720 pixel (16:9, pixels quadrados), a 60p, 59.94p, 30p, 29.97p, 24p, ou 23.976p
+704 480 pixel (4:3 or 16:9, pixels não quadrados), a 60p, 59.94p, 30p, 29.97p, 24p, 23.976p, 60i, ou 59.94i
+640 480 pixel (4:3, pixels quadrados), a 60p, 59.94p, 30p, 29.97p, 24p, 23.976p, 60i, ou 59.94i
+O padrão ATSC A/63 define resoluções adicionais e taxas de aspecto para sinal de 50 Hz (PAL).
+A especificação ATSC e o MPEG-2 permitem o uso de quadros progressivos, mesmo dentro de uma sequência de vídeo entrelaçada. Por exemplo, uma estação que transmite a sequência de vídeo 1080i60 pode usar um método de codificação onde esses 60 campos são codificados com 24 quadros progressivos e metadados instruem o decodificador para entrelaçá-los e executar o pulldown 3:2 antes da exibição. Isso permite que as emissoras alternem entre conteúdo entrelaçado 60 Hz (notícias, novelas) e conteúdo progressivo de 24 Hz (horário nobre) sem encerrar a sequência MPEG-2 e introduzir vários segundos de atraso conforme a TV muda de formato. Esta é a razão pela qual as sequências 1080p30 e 1080p24 permitidas pela especificação ATSC não são usadas na prática.
+Os formatos de 1080 linhas são codificados com matrizes luma de 1920 x 1088 pixels e matrizes de croma 960 x 540, mas as últimas 8 linhas são descartadas pelo processo de decodificação exibição MPEG-2.
+ATSC A/72 é a mais nova revisão dos padrões ATSC para televisão digital, que permite o uso do formato de codificação de vídeo H.262/AVC e sinal 1080p60.
+O áudio MPEG-2 era um candidato ao padrão ATSC durante o tiroteio da DTV "Grand Alliance", mas perdeu para o Dolby AC-3.
+
+ISDB-T
+Características técnicas do MPEG-2 em ATSC também são válidas para ISDB-T, exceto que no TS principal foi agregado um segundo programa para dispositivos móveis compactados em MPEG-4 H264 AVC para vídeo e AAC-LC para áudio, principalmente conhecido como 1seg.
+
+Blu-ray
+
+MPEG-2 é um dos três formatos de codificação de vídeo suportados pelo Blu-ray Disc. Os primeiros lançamentos de Blu-ray normalmente usavam vídeo MPEG-2, mas os lançamentos recentes quase sempre são em H.264 ou ocasionalmente VC-1. Apenas vídeo MPEG-2 (MPEG-2 parte 2) é compatível, Blu-ray não oferece suporte a áudio MPEG-2 (partes 3 e 7). Além disso, o formato de contêiner usado em discos Blu-ray é um fluxo de transporte MPEG-2, independentemente de quais codecs de áudio são usados.
+
+Pool de patentes
+Em 14 de fevereiro de 2020, as patentes MPEG-2 expiraram em todo o mundo, com exceção de apenas Malásia. A última patente dos EUA expirou em 23 de fevereiro de 2018.
+MPEG LA, uma organização privada de licenciamento de patentes, adquiriu direitos de mais de 20 corporações e uma universidade para licenciar um pool de patentes de aproximadamente 640 patentes mundiais que alegou serem "essenciais" para o uso da tecnologia MPEG-2. Os detentores de patentes incluíam Sony, Mitsubishi Electric, Fujitsu, Panasonic, Scientific Atlanta, Universidade Columbia, Philips, General Instrument, Canon, Hitachi, JVC Kenwood, LG Electronics, NTT, Samsung, Sanyo, Sharp e Toshiba. Onde a patenteabilidade do software é mantida e as patentes não expiram (apenas na Malásia), o uso do MPEG-2 requer o pagamento de taxas de licenciamento aos detentores da patente. Outras patentes foram licenciadas pela Audio MPEG, Inc. O desenvolvimento do padrão em si levou menos tempo do que as negociações da patente. O pool de patentes entre titulares de patentes essenciais e periféricas no pool MPEG-2 foi o assunto de um estudo da Universidade de Winsconsin.
+De acordo com o acordo de licenciamento MPEG-2, qualquer uso da tecnologia MPEG-2 em países com patentes ativas (Malásia) está sujeita a royalties. Codificadores e decodificadores MPEG-2 estão sujeitos a $0,35 por unidade. Além disso, qualquer mídia empacotada (DVDs/Streams de dados) está sujeita a taxas de licença de acordo com a duração da gravação/transmissão. Os royalties tinham preços mais elevados, mas foram reduzidos em vários pontos, mais recentemente em 1 de janeiro de 2018. Um crítica anterior ao pool de patentes MPEG-2 foi que, embora o número de patentes tenha diminuído de 1.048 para 416 em junto de 2013 a taxa de licença não diminuiu com a taxa de expiração de patentes MPEG-2.
+
+Detentores de patentes
+As seguintes organizações detêm patentes para MPEG-2, conforme listado na MPEG LA.

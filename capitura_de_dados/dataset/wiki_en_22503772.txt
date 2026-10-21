@@ -1,0 +1,59 @@
+Byssoloma
+
+Byssoloma is a genus of leaf-dwelling lichens in the family Ectolechiaceae.
+
+Taxonomy
+The genus was circumscribed by the Italian botanist Vittore Benedetto Antonio Trevisan de Saint-Léon in 1853.
+
+Description
+Species in genus Byssoloma form crustose, effuse (spreading) lichens that lack a cortex (outer protective layer). Their photobiont, or photosynthetic partner, is of the chlorococcoid type, a form of green algae.
+The apothecia (fruiting bodies), are sessile (directly attached to the thallus without a stalk) and approximately circular in shape. They lack a thalline margin (a rim formed by the lichen thallus) and possess a true exciple, which is a layer of loosely arranged hyphae that can appear hairy or web-like (tomentose-arachnoid) in some species. The hymenium, the spore-bearing tissue, reacts with iodine to turn blue (I+ blue). The hamathecium, consisting of paraphyses (filamentous support structures), is unbranched or slightly branched and not or only slightly thickened at the tips.
+The hypothecium, a layer beneath the hymenium, is dark red-brown and may turn purple when treated with potassium hydroxide (K) solution in European species. The asci, which are the sac-like structures where spores develop, typically contain eight spores. They have thick walls and a blue-staining apical dome with a darker blue tubular ring structure and an amyloid (starch-like) gelatinous coat.
+The ascospores are three-septate (having three internal partitions), colourless, and found in European species. Asexual reproductive structures, the pycnidia, are also sessile and roughly spherical, usually covered by a layer of loosely interwoven hyphae. The conidiophores (spore-producing cells) are unbranched, forming flask-shaped, bacillar (rod-like), or ellipsoidal conidia (asexual spores) that are constricted in the middle.
+Chemically, argopsin, a secondary metabolite (lichen product), is sometimes detected in one species, but otherwise, Byssoloma lacks lichen products.
+
+Species
+
+As of July 2024, Species Fungorum accepts 39 species of Byssoloma.
+
+Byssoloma annuum (Vain.) G.Thor, Lücking & Tat.Matsumoto (2000)
+Byssoloma aurantiacum Kalb & Vezda (1990)
+Byssoloma australiense P.M.McCarthy & Elix (2018)
+Byssoloma braulioi Lücking (2008)
+Byssoloma brunneodiscum W.C.Wang & J.C.Wei (2020) – China
+Byssoloma carneum Rain.Schub., Greber & Lücking (2003)
+Byssoloma catarinense L.I.Ferraro & Lücking (2008)
+Byssoloma catillariosporum M.Cáceres, M.W.O.Santos & Aptroot (2013)
+Byssoloma chlorinum (Vain.) Zahlbr. (1932)
+Byssoloma confusum Farkas & Vezda (1993)
+Byssoloma diederichii Sérus. (1998)
+Byssoloma dimerelloides Sipman & Aptroot (1991)
+Byssoloma discordans (Vain.) Zahlbr. (1923)
+Byssoloma fuscothallinum Lücking (2006)
+Byssoloma fuscum van den Boom (2016)
+Byssoloma humboldtianum Lücking & Kalb (2000)
+Byssoloma hypophyllum Lücking & Kalb (2000)
+Byssoloma kakouettae (Sérus.) Lücking & Sérus. (2002)
+Byssoloma kalbii Sérus. (1996) – Madeira
+Byssoloma laurisilvae Breuss (2013) – Europe
+Byssoloma leucoblepharum (Nyl.) Vain. (1926)
+Byssoloma llimonae Sérus., Gómez-Bolea, Longán & Lücking (2002)
+Byssoloma maderense Breuss (2014)
+Byssoloma marginatum (Arnold) Sérus. (1992)
+Byssoloma meadii (Tuck.) S.Ekman (1996)
+Byssoloma melanodiscocarpum W.C.Wang & J.C.Wei (2020) – China
+Byssoloma microcarpum Kalb & Vezda (1994)
+Byssoloma multipunctatum Lücking (2008)
+Byssoloma murinum Vezda (1987)
+Byssoloma orientale K.Miyaz. & Y.Ohmura (2023) – East Asia
+Byssoloma permutans (Nyl.) Lücking (2013)
+Byssoloma rubrofuscum W.C.Wang & J.C.Wei (2020) – China
+Byssoloma rubromarginatum Messuti & de la Rosa (2007)
+Byssoloma spinulosum Sérus. (2011)
+Byssoloma sprucei (C.Bab. ex Müll.Arg.) Lücking & M.Cáceres (2008)
+Byssoloma subdiscordans (Nyl.) P.James (1971)
+Byssoloma subleucoblepharum G.Thor, Lücking & Tat.Matsumoto (2000)
+Byssoloma subundulatum (Stirt.) Vezda (1986)
+Byssoloma tricholomum (Mont.) Zahlbr. (1923)
+Byssoloma vanderystii Sérus. (1979) – Africa
+Byssoloma xanthonicum Aptroot (2014) – New Caledonia

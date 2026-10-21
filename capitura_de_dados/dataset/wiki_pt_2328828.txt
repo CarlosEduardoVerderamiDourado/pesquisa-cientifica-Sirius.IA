@@ -1,0 +1,41 @@
+IOS
+
+iOS (antes chamado de iPhone OS) é um sistema operacional móvel da Apple Inc. desenvolvido para a linha de smartphones iPhone. Foi revelado em janeiro de 2007, junto com o iPhone (1ª geração), e lançado em junho de 2007. As versões principais do iOS são lançadas anualmente.
+Além do iPhone, o iOS se tornou base para outros três sistemas operacionais desenvolvidos pela Apple: iPadOS, tvOS e watchOS. Originalmente, o iOS foi desenvolvido para iPad até a introdução do iPadOS em 2019 e a linha de produtos iPod Touch até a sua descontinuação em 2022. A Apple não permite que o iOS seja executado em hardware de terceiros.
+A interface do usuário do iOS é baseada no conceito de manipulação direta, utilizando gestos em multitoque. A interação com o sistema operacional inclui gestos como apenas tocar na tela, deslizar o dedo, e o movimento de "pinça" utilizado para se ampliar ou reduzir a imagem. Acelerômetros internos são usados por alguns aplicativos para responder à agitação do aparelho (resultando comumente no comando desfazer) ou rotação do mesmo (resultando comumente na mudança do modo retrato para modo paisagem). O iOS consiste em quatro camadas de abstração: a camada Core OS, a camada Core Services, a camada mídia, e a camada Cocoa Touch.
+
+História
+O sistema operacional foi apresentado com o iPhone na Macworld Conference & Expo em 9 de janeiro de 2007, e lançado no mês de junho. Inicialmente, as aplicações de terceiros não eram permitidas. Steve Jobs argumentou que os desenvolvedores poderiam criar aplicativos na web que "se comportam como aplicações nativas no iPhone". Em 17 de outubro de 2007, a Apple anunciou que a SDK nativa estava em desenvolvimento e que eles esperassem para colocá-la nas "mãos dos desenvolvedores".
+Em 6 de março de 2008, a Apple lançou o primeiro beta, juntamente com um novo nome para o sistema operacional: o "iPhone OS". A rápida venda de dispositivos móveis da Apple acendeu interesse no SDK. A Apple também vendeu mais de um milhão de iPhones durante uma temporada de feriados de 2007. Em 27 de janeiro de 2010, a Apple anunciou o iPad, com uma tela bem maior do que o iPhone e iPod touch, e projetado para navegar na web, consumo de mídia, e da leitura de iBooks. O nome "iOS" foi usado pela Cisco Systems. Para evitar qualquer ação judicial em potencial, a Apple licenciou o "iOS" uma marca registrada da Cisco.
+
+Atualizações
+A Apple oferece diversas pequenas atualizações para o iOS de três em três meses, além das sub-atualizações para correções de segurança. Além disso, uma vez por ano há uma grande atualização do sistema, com novidades significativas. Estas grandes atualizações costumam acontecer na metade do segundo semestre (entre setembro e outubro).
+
+Funcionalidades
+
+Tela Inicial
+
+A tela inicial (conhecida também como "SpringBoard") mostra ícones de aplicações e um dock na parte inferior da tela onde os usuários podem fixar seus aplicativos mais utilizados. A tela inicial é exibida sempre que o usuário desbloqueia o dispositivo ou pressiona o botão "Home" enquanto em outro aplicativo. A tela possui uma barra de status na parte superior para exibir dados, tais como horário, nível de bateria e força do sinal de rede e Wi-Fi.
+Desde o iPhone OS 3, uma função de pesquisa está disponível na página à esquerda da página da tela inicial que permite aos usuários pesquisar mídia (músicas, vídeos, podcasts, etc), aplicações e-mails, contatos, mensagens, lembretes, eventos de calendário e arquivos similares existentes no aparelho. A partir do iOS 7, esse recurso pode ser acessado ao puxar para baixo qualquer lugar na tela inicial.
+A partir do iOS 4, o usuário pôde definir a imagem do fundo da tela inicial. Esta funcionalidade só esteve disponível a partir do iPhone 3GS, iPod Touch de 3ª geração e iPad.
+A partir do iOS 14, o usuário pôde adicionar widgets na tela inicial e organizar os apps instalados na biblioteca de aplicativos.
+
+Pastas
+Com iOS 4, foi introduzido um sistema de pastas. Qualquer aplicativo pode ser arrastado para cima de outro para criar uma pasta (com exceção da Banca, a partir do iOS 5, que age como uma pasta) e, a partir daí, mais aplicativos podem ser adicionados à pasta usando o mesmo procedimento. Um título para a pasta é automaticamente adicionado a partir da categoria de aplicações inseridas, porém o nome pode ser editado pelo usuário. Pastas não podem ser colocadas dentro de outras pastas.
+
+Central de Notificações
+A partir do iOS 5, as notificações aparecem na Central de Notificações que podem ser acessadas puxando para baixo a partir do canto superior da tela. As notificações podem ser entregues em pequenos banners que aparecem acima da barra de status. O usuário pode visualizar o conteúdo com um toque na notificação.
+Quando um aplicativo envia uma notificação enquanto fechado, um emblema vermelho aparecerá no canto do seu ícone. Este emblema informa ao usuário quantas notificações o aplicativo enviou. Abrindo-se o aplicativo, o emblema é limpo.
+
+Central de Controle
+Com o iOS 7 foi introduzido uma Central de Controle que pode ser acessada puxando para cima a partir do canto inferior da tela. Nela existem opções para ativar/desativar o modo avião, Wi-Fi, bluetooth, modo "não perturbe" e bloqueio de tela, além de opções de brilho, controles de música e audio, AirDrop, AirPlay e atalhos para lanterna, relógio, calculadora e câmera.
+
+Widgets, Biblioteca de Aplicativos e Picture in Picture (PiP)
+A partir do iOS 14, o sistema mudou bastante, a começar pela experiência, já que agora podemos colocar widgets na Tela de Início e temos uma Biblioteca de Apps que facilita a organização, caso você tenha uma infinidade de aplicativos instalados.
+A interface também está mais refinada, com chamadas compactas (que não ocupam mais a tela inteira), um novo visual para a Siri (também deixando a tela desobstruída), vídeos em Picture-in-Picture (PiP) e mais.
+
+Tela bloqueada com mais informações
+No iOS 16 a Apple passou a permitir uma maior configuração da tela bloqueada, sendo possível colocar pequenos widgets de informação inspirados nas Complicações do Apple Watch. O usuário poderá mudar a fonte usada no horário da tela e a imagem de fundo poderá ter um recorte que deixa um pedaço do horário coberto. O processo para alterar entre várias telas também é bastante similar ao visto na mudança de mostradores do Apple Watch.
+
+Aplicativos inclusos
+O sistema possui aplicativos nativos, que são instalados juntamente com o sistema e não podiam ser desinstalados até a chegada do iOS 10 em 2016 que passou a permitir a exclusão. Os apps nativos podem ser reinstalados indo até o aplicativo da App Store.

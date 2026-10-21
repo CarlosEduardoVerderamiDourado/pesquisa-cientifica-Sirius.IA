@@ -1,0 +1,5147 @@
+Spherical coordinate system
+
+In mathematics, a spherical coordinate system specifies a given point in three-dimensional space by using a distance and two angles as its three coordinates. These are
+
+the radial distance, r, along the line connecting the point to a fixed point called the origin.
+the polar angle, between this radial line and a given polar axis; and
+the azimuthal angle, which is the angle of rotation of the radial line around the polar axis.
+(See graphic regarding the "physics convention".) 
+Once the radius is fixed, the three coordinates , known as a 3-tuple, provide a coordinate system on a sphere, typically called the spherical polar coordinates.
+The plane passing through the origin and perpendicular to the polar axis (where the polar angle is a right angle) is called the reference plane (sometimes fundamental plane).
+
+Terminology
+
+The radial distance from the fixed point of origin is also called the radius, or radial line, or radial coordinate. The polar angle may be called inclination angle, zenith angle, normal angle, or the colatitude. The user may choose to replace the inclination angle by its complement, the elevation angle (or altitude angle), measured upward between the reference plane and the radial line—i.e., from the reference plane upward (towards to the positive z-axis) to the radial line. The depression angle is the negative of the elevation angle. (See graphic re the "physics convention"—not "mathematics convention".)
+Both the use of symbols and the naming order of tuple coordinates differ among the several sources and disciplines. This article will use the ISO convention frequently encountered in physics, where the triple of coordinates are listed in the naming order: (radial distance, polar angle, azimuthal angle), denoted by 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. (See graphic re the "physics convention".) 
+Confusingly, the conventions in many mathematics texts use a different naming order: (radial distance, azimuthal angle, polar angle), denoted by 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ or 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+—switching both the list order of the angle coordinates and the meaning of the letters 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ and 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. Other conventions may also be used, such as 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ for the radius from the z-axis, while using 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ for radius from the origin. The mathematics convention 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ and 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ has the advantage that its letters are consistent with cylindrical coordinates in space and polar coordinates in the plane. 
+
+According to the conventions of geographical coordinate systems, positions are measured by latitude, longitude, and height (altitude). There are a number of celestial coordinate systems based on different fundamental planes and with different terms for the various coordinates. The spherical coordinate systems used in mathematics normally use radians rather than degrees; (note 90 degrees equals 2 radians). And these systems of the mathematics convention may measure the azimuthal angle counterclockwise (i.e., from the south direction x-axis, or 180°, towards the east direction y-axis, or +90°)—rather than measure clockwise (i.e., from the north direction x-axis, or 0°, towards the east direction y-axis, or +90°), as done in the horizontal coordinate system. (See graphic re "mathematics convention".)
+The spherical coordinate system can be seen as an extension of the planar polar coordinate system to three-dimensional space, and it can be similarly extended to define a hyperspherical coordinate system in 
+ 
+ 
+ 
+ n
+ 
+ 
+ 
+ 
+-dimensional space.
+
+Definition
+To define a spherical coordinate system, one must designate an origin point in space, O, and two orthogonal directions: the zenith reference direction and the azimuth reference direction. These choices determine a reference plane that is typically defined as containing the point of origin and the x– and y–axes, either of which may be designated as the azimuth reference direction. The reference plane is perpendicular (orthogonal) to the zenith direction, and typically is designated "horizontal" to the zenith direction's "vertical". The spherical coordinates of a point P then are defined as follows:
+
+The radius or radial distance is the Euclidean distance from the origin O to P.
+The inclination (or polar angle) is the signed angle from the zenith reference direction to the line segment OP. (Elevation may be used as the polar angle instead of inclination; see below.)
+The azimuth (or azimuthal angle) is the signed angle measured from the azimuth reference direction to the orthogonal projection of the radial line segment OP on the reference plane.
+The sign of the azimuth is determined by designating the rotation that is the positive sense of turning about the zenith. This choice is arbitrary, and is part of the coordinate system definition. 
+(If the inclination is either zero or 180 degrees (= radians), the azimuth is arbitrary. If the radius is zero, both azimuth and inclination are arbitrary.)
+The elevation is the signed angle from the x-y reference plane to the radial line segment OP, where positive angles are designated as upward, towards the zenith reference. Elevation is 90 degrees (= /2 radians) minus inclination. Thus, if the inclination is 60 degrees (= /3 radians), then the elevation is 30 degrees (= /6 radians).
+In linear algebra, the vector from the origin O to the point P is often called the position vector of P.
+
+Conventions
+Several different conventions exist for representing spherical coordinates and prescribing the naming order of their symbols. The 3-tuple number set 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ denotes radial distance, the polar angle—"inclination", or as the alternative, "elevation"—and the azimuthal angle. It is the common practice within the physics convention, as specified by ISO standard 80000-2:2019, and earlier in ISO 31-11 (1992). 
+As stated above, this article describes the ISO "physics convention"—unless otherwise noted.
+However, some authors (including mathematicians) use the symbol (rho) for radius, or radial distance, for inclination (or elevation) and for azimuth—while others keep the use of r for the radius; all which "provides a logical extension of the usual polar coordinates notation". As to order, some authors list the azimuth before the inclination (or the elevation) angle. Some combinations of these choices result in a left-handed coordinate system. The standard "physics convention" 3-tuple set 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ conflicts with the usual notation for two-dimensional polar coordinates and three-dimensional cylindrical coordinates, where is often used for the azimuth.
+Angles are typically measured in degrees (°) or in radians (rad), where 360° = 2 rad. The use of degrees is most common in geography, astronomy, and engineering, where radians are commonly used in mathematics and theoretical physics. The unit for radial distance is usually determined by the context, as occurs in applications of the 'unit sphere', see applications.
+When the system is used to designate physical three-space, it is customary to assign positive to azimuth angles measured in the counterclockwise sense from the reference direction on the reference plane—as seen from the "zenith" side of the plane. This convention is used in particular for geographical coordinates, where the "zenith" direction is north and the positive azimuth (longitude) angles are measured eastwards from some prime meridian.
+
+Note: Easting (E), Northing (N), Upwardness (U). In the case of (U, S, E) the local azimuth angle would be measured counterclockwise from S to E.
+
+Unique coordinates
+Any spherical coordinate triplet (or tuple) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ specifies a single point of three-dimensional space. On the reverse view, any single point has infinitely many equivalent spherical coordinates. That is, the user can add or subtract any number of full turns to the angular measures without changing the angles themselves, and therefore without changing the point. It is convenient in many contexts to use negative radial distances, the convention being 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+, which is equivalent to 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ or 
+ 
+ 
+ 
+ (
+ r
+ ,
+ 
+ 180
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ,
+ 
+ 
+ +
+ 
+ 
+ 180
+ 
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+ for any r, and . Moreover, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ is equivalent to 
+ 
+ 
+ 
+ (
+ r
+ ,
+ 
+ 
+ +
+ 
+ 
+ 180
+ 
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+.
+When necessary to define a unique set of spherical coordinates for each point, the user must restrict the range, aka interval, of each coordinate. A common choice is:
+
+The azimuth is sometimes restricted to the half-open interval (180°, +180°], or (, + ] radians, which is the standard convention for geographic longitude, instead of the interval [0°, 360°).
+For the polar angle , the range (interval) for inclination is [0°, 180°], which is equivalent to elevation range (interval) [90°, +90°]. In geography, the latitude is the elevation.
+Even with these restrictions, if the polar angle (inclination) is 0° or 180°—elevation is 90° or +90°—then the azimuth angle is arbitrary; and if r is zero, both azimuth and polar angles are arbitrary. To define the coordinates as unique, the user can assert the convention that (in these cases) the arbitrary coordinates are set to zero.
+
+Plotting
+To plot any dot from its spherical coordinates , where is inclination, the user would: move r units from the origin in the zenith reference direction (z-axis); then rotate by the amount of the azimuth angle about the origin from the designated azimuth reference direction, (i.e., either the x- or y-axis, see Definition, above); and then rotate from the z-axis by the amount of the angle.
+
+Applications
+
+Just as the two-dimensional Cartesian coordinate system is useful—has a wide set of applications—on a planar surface, a two-dimensional spherical coordinate system is useful on the surface of a sphere. For example, one sphere that is described in Cartesian coordinates with the equation x2 + y2 + z2 = c2 can be described in spherical coordinates by the simple equation r = c. (In this system—shown here in the mathematics convention—the sphere is adapted as a unit sphere, where the radius is set to unity and then can generally be ignored, see graphic.)
+This (unit sphere) simplification is also useful when dealing with objects such as rotational matrices. Spherical coordinates are also useful in analyzing systems that have some degree of symmetry about a point, including: volume integrals inside a sphere; the potential energy field surrounding a concentrated mass or charge; or global weather simulation in a planet's atmosphere.
+
+Three dimensional modeling of loudspeaker output patterns can be used to predict their performance. A number of polar plots are required, taken at a wide selection of frequencies, as the pattern changes greatly with frequency. Polar plots help to show that many loudspeakers tend toward omnidirectionality at lower frequencies.
+An important application of spherical coordinates provides for the separation of variables in two partial differential equations—the Laplace and the Helmholtz equations—that arise in many physical problems. The angular portions of the solutions to such equations take the form of spherical harmonics. Another application is ergonomic design, where r is the arm length of a stationary person and the angles describe the direction of the arm as it reaches out. The spherical coordinate system is also commonly used in 3D game development to rotate the camera around the player's position
+
+In geography
+
+Instead of inclination, the geographic coordinate system uses elevation angle (or latitude), in the range (aka domain) 90° 90° and rotated north from the equator plane. Latitude (i.e., the angle of latitude) may be either geocentric latitude, measured (rotated) from the Earth's center—and designated variously by , q, c, g—or geodetic latitude, measured (rotated) from the observer's local vertical, and typically designated .
+The polar angle (inclination), which is 90° minus the latitude and ranges from 0 to 180°, is called colatitude in geography.
+The azimuth angle (or longitude) of a given position on Earth, commonly denoted by , is measured in degrees east or west from some conventional reference meridian (most commonly the IERS Reference Meridian); thus its domain (or range) is 180° 180° and a given reading is typically designated "East" or "West". For positions on the Earth or other solid celestial body, the reference plane is usually taken to be the plane perpendicular to the axis of rotation. 
+Instead of the radial distance r geographers commonly use altitude above or below some local reference surface (vertical datum), which, for example, may be the mean sea level. When needed, the radial distance can be computed from the altitude by adding the radius of Earth, which is approximately 6,360 11 km (3,952 7 miles).
+However, modern geographical coordinate systems are quite complex, and the positions implied by these simple formulae may be inaccurate by several kilometers. The precise standard meanings of latitude, longitude and altitude are currently defined by the World Geodetic System (WGS), and take into account the flattening of the Earth at the poles (about 21 km or 13 miles) and many other details.
+Planetary coordinate systems use formulations analogous to the geographic coordinate system.
+
+In astronomy
+A series of astronomical coordinate systems are used to measure the elevation angle from several fundamental planes. These reference planes include: 
+the observer's horizon, the galactic equator (defined by the rotation of the Milky Way), the celestial equator (defined by Earth's rotation), the plane of the ecliptic (defined by Earth's orbit around the Sun), and the plane of the earth terminator (normal to the instantaneous direction to the Sun).
+
+Coordinate system conversions
+
+As the spherical coordinate system is only one of many three-dimensional coordinate systems, there exist equations for converting coordinates between the spherical coordinate system and others.
+
+Cartesian coordinates
+The spherical coordinates of a point in the ISO convention (i.e. for physics: radius r, inclination , azimuth ) can be obtained from its Cartesian coordinates (x, y, z) by the formulae
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ =
+ 
+ 
+ 
+ x
+ 
+ 2
+ 
+ 
+ +
+ 
+ y
+ 
+ 2
+ 
+ 
+ +
+ 
+ z
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ arccos
+ 
+ 
+ 
+ z
+ 
+ 
+ x
+ 
+ 2
+ 
+ 
+ +
+ 
+ y
+ 
+ 2
+ 
+ 
+ +
+ 
+ z
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ =
+ arccos
+ 
+ 
+ 
+ z
+ r
+ 
+ 
+ =
+ 
+ 
+ {
+ 
+ 
+ 
+ arctan
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 2
+ 
+ 
+ +
+ 
+ y
+ 
+ 2
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ if 
+ 
+ z
+ >
+ 0
+ 
+ 
+ 
+ 
+ 
+ +
+ arctan
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 2
+ 
+ 
+ +
+ 
+ y
+ 
+ 2
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ if 
+ 
+ z
+ <
+ 0
+ 
+ 
+ 
+ 
+ +
+ 
+ 
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ if 
+ 
+ z
+ =
+ 0
+ 
+ and 
+ 
+ 
+ 
+ 
+ x
+ 
+ 2
+ 
+ 
+ +
+ 
+ y
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 0
+ 
+ 
+ 
+ 
+ 
+ undefined
+ 
+ 
+ 
+ 
+ if 
+ 
+ x
+ =
+ y
+ =
+ z
+ =
+ 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ sgn
+ 
+ (
+ y
+ )
+ arccos
+ 
+ 
+ 
+ x
+ 
+ 
+ x
+ 
+ 2
+ 
+ 
+ +
+ 
+ y
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ =
+ 
+ 
+ {
+ 
+ 
+ 
+ arctan
+ 
+ (
+ 
+ 
+ y
+ x
+ 
+ 
+ )
+ 
+ 
+ 
+ if 
+ 
+ x
+ >
+ 0
+ ,
+ 
+ 
+ 
+ 
+ arctan
+ 
+ (
+ 
+ 
+ y
+ x
+ 
+ 
+ )
+ +
+ 
+ 
+ 
+ 
+ if 
+ 
+ x
+ <
+ 0
+ 
+ and 
+ 
+ y
+ 
+ 0
+ ,
+ 
+ 
+ 
+ 
+ arctan
+ 
+ (
+ 
+ 
+ y
+ x
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+ 
+ if 
+ 
+ x
+ <
+ 0
+ 
+ and 
+ 
+ y
+ <
+ 0
+ ,
+ 
+ 
+ 
+ 
+ +
+ 
+ 
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ if 
+ 
+ x
+ =
+ 0
+ 
+ and 
+ 
+ y
+ >
+ 0
+ ,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ if 
+ 
+ x
+ =
+ 0
+ 
+ and 
+ 
+ y
+ <
+ 0
+ ,
+ 
+ 
+ 
+ 
+ 
+ undefined
+ 
+ 
+ 
+ 
+ if 
+ 
+ x
+ =
+ 0
+ 
+ and 
+ 
+ y
+ =
+ 0.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+where sgn(0) = 1.
+The inverse tangent denoted in = arctan y/x must be suitably defined, taking into account the correct quadrant of (x, y), as done in the equations above. See the article on atan2.
+Alternatively, the conversion can be considered as two sequential rectangular to polar conversions: the first in the Cartesian xy plane from (x, y) to , where R is the projection of r onto the xy-plane, and the second in the Cartesian zR-plane from (z, R) to . The correct quadrants for and are implied by the correctness of the planar rectangular to polar conversions.
+These formulae assume that the two systems have the same origin, that the spherical reference plane is the Cartesian xy plane, that is inclination from the z direction, and that the azimuth angles are measured from the Cartesian x axis (so that the y axis has = +90°). If measures elevation from the reference plane instead of inclination from the zenith the arccos above becomes an arcsin, and the cos and sin below become switched.
+Conversely, the Cartesian coordinates may be retrieved from the spherical coordinates (radius r, inclination , azimuth ), where r [0, ), [0, ], [0, 2), by
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ =
+ r
+ sin
+ 
+ 
+ 
+ cos
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+ y
+ 
+ 
+ 
+ =
+ r
+ sin
+ 
+ 
+ 
+ sin
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ =
+ r
+ cos
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Cylindrical coordinates
+
+Cylindrical coordinates (axial radius , azimuth , elevation z) may be converted into spherical coordinates (central radius r, inclination , azimuth ), by the formulas
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ =
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ 
+ +
+ 
+ z
+ 
+ 2
+ 
+ 
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ arctan
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ =
+ arccos
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 2
+ 
+ 
+ +
+ 
+ z
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ 
+ .
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Conversely, the spherical coordinates may be converted into cylindrical coordinates by the formulae
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ r
+ sin
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ 
+ ,
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ =
+ r
+ cos
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+These formulae assume that the two systems have the same origin and same reference plane, measure the azimuth angle in the same senses from the same axis, and that the spherical angle is inclination from the cylindrical z axis.
+
+Ellipsoidal coordinates
+
+It is also possible to deal with ellipsoids in Cartesian coordinates by using a modified version of the spherical coordinates. 
+Let P be an ellipsoid specified by the level set
+
+ 
+ 
+ 
+ a
+ 
+ x
+ 
+ 2
+ 
+ 
+ +
+ b
+ 
+ y
+ 
+ 2
+ 
+ 
+ +
+ c
+ 
+ z
+ 
+ 2
+ 
+ 
+ =
+ d
+ .
+ 
+ 
+ 
+ 
+
+The modified spherical coordinates of a point in P in the ISO convention (i.e. for physics: radius r, inclination , azimuth ) can be obtained from its Cartesian coordinates (x, y, z) by the formulae
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ =
+ 
+ 
+ 1
+ 
+ a
+ 
+ 
+ 
+ r
+ sin
+ 
+ 
+ 
+ cos
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+ y
+ 
+ 
+ 
+ =
+ 
+ 
+ 1
+ 
+ b
+ 
+ 
+ 
+ r
+ sin
+ 
+ 
+ 
+ sin
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ =
+ 
+ 
+ 1
+ 
+ c
+ 
+ 
+ 
+ r
+ cos
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ =
+ a
+ 
+ x
+ 
+ 2
+ 
+ 
+ +
+ b
+ 
+ y
+ 
+ 2
+ 
+ 
+ +
+ c
+ 
+ z
+ 
+ 2
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+An infinitesimal volume element is given by
+
+ 
+ 
+ 
+ 
+ d
+ 
+ V
+ =
+ 
+ |
+ 
+ 
+ 
+ 
+ (
+ x
+ ,
+ y
+ ,
+ z
+ )
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ |
+ 
+ 
+ d
+ r
+ 
+ d
+ 
+ 
+ d
+ 
+ =
+ 
+ 
+ 1
+ 
+ a
+ b
+ c
+ 
+ 
+ 
+ 
+ r
+ 
+ 2
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ d
+ 
+ r
+ 
+ 
+ d
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ =
+ 
+ 
+ 1
+ 
+ a
+ b
+ c
+ 
+ 
+ 
+ 
+ r
+ 
+ 2
+ 
+ 
+ 
+ 
+ d
+ 
+ r
+ 
+ 
+ d
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+The square-root factor comes from the property of the determinant that allows a constant to be pulled out from a column:
+
+ 
+ 
+ 
+ 
+ 
+ |
+ 
+ 
+ 
+ k
+ a
+ 
+ 
+ b
+ 
+ 
+ c
+ 
+ 
+ 
+ 
+ k
+ d
+ 
+ 
+ e
+ 
+ 
+ f
+ 
+ 
+ 
+ 
+ k
+ g
+ 
+ 
+ h
+ 
+ 
+ i
+ 
+ 
+ 
+ |
+ 
+ 
+ =
+ k
+ 
+ 
+ |
+ 
+ 
+ 
+ a
+ 
+ 
+ b
+ 
+ 
+ c
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ e
+ 
+ 
+ f
+ 
+ 
+ 
+ 
+ g
+ 
+ 
+ h
+ 
+ 
+ i
+ 
+ 
+ 
+ |
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+Integration and differentiation in spherical coordinates
+
+The following equations (Iyanaga 1977) assume that the colatitude is the inclination from the positive z axis, as in the physics convention discussed.
+The line element for an infinitesimal displacement from to (r + dr, + d, + d) is
+
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ r
+ 
+ =
+ 
+ d
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ ^
+ 
+ 
+ 
+ +
+ r
+ 
+ 
+ d
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ +
+ r
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+
+where
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ ^
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ sin
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ ^
+ 
+ 
+ 
+ +
+ sin
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y
+ 
+ ^
+ 
+ 
+ 
+ +
+ cos
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ ^
+ 
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ cos
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ ^
+ 
+ 
+ 
+ +
+ cos
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y
+ 
+ ^
+ 
+ 
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ ^
+ 
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ ^
+ 
+ 
+ 
+ +
+ cos
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y
+ 
+ ^
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+are the local orthogonal unit vectors in the directions of increasing r, and , respectively,
+and x, y, and z are the unit vectors in Cartesian coordinates. The linear transformation to this right-handed coordinate triplet is a rotation matrix,
+
+ 
+ 
+ 
+ R
+ =
+ 
+ 
+ (
+ 
+ 
+ 
+ sin
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ sin
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ 
+ cos
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ cos
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0
+ 
+ 
+ 
+ )
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+This gives the transformation from the Cartesian to the spherical, the other way around is given by its inverse.
+Note: the matrix is an orthogonal matrix, that is, its inverse is simply its transpose.
+The Cartesian unit vectors are thus related to the spherical unit vectors by:
+
+ 
+ 
+ 
+ 
+ 
+ [
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ ^
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y
+ ^
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ z
+ ^
+ 
+ 
+ 
+ 
+ 
+ 
+ ]
+ 
+ 
+ =
+ 
+ 
+ [
+ 
+ 
+ 
+ sin
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ cos
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ sin
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ cos
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0
+ 
+ 
+ 
+ ]
+ 
+ 
+ 
+ 
+ [
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ ^
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ 
+ 
+ 
+ ]
+ 
+ 
+ 
+ 
+ 
+ 
+
+The general form of the formula to prove the differential line element, is
+
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ r
+ 
+ =
+ 
+ 
+ 
+ i
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ i
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ x
+ 
+ i
+ 
+ 
+ =
+ 
+ 
+ 
+ i
+ 
+ 
+ 
+ |
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ i
+ 
+ 
+ 
+ 
+ 
+ |
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ i
+ 
+ 
+ 
+ 
+ 
+ |
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ i
+ 
+ 
+ 
+ 
+ 
+ |
+ 
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ x
+ 
+ i
+ 
+ 
+ =
+ 
+ 
+ 
+ i
+ 
+ 
+ 
+ |
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ i
+ 
+ 
+ 
+ 
+ 
+ |
+ 
+ 
+ 
+ d
+ 
+ 
+ x
+ 
+ i
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ ^
+ 
+ 
+ 
+ 
+ i
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+
+that is, the change in 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ is decomposed into individual changes corresponding to changes in the individual coordinates. 
+To apply this to the present case, one needs to calculate how 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ changes with each of the coordinates. In the conventions used, 
+
+ 
+ 
+ 
+ 
+ r
+ 
+ =
+ 
+ 
+ [
+ 
+ 
+ 
+ r
+ sin
+ 
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ sin
+ 
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ cos
+ 
+ 
+ 
+ 
+ 
+ ]
+ 
+ 
+ ,
+ 
+ x
+ 
+ 1
+ 
+ 
+ =
+ r
+ ,
+ 
+ x
+ 
+ 2
+ 
+ 
+ =
+ 
+ ,
+ 
+ x
+ 
+ 3
+ 
+ 
+ =
+ 
+ .
+ 
+ 
+ 
+ 
+
+Thus,
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ =
+ 
+ 
+ [
+ 
+ 
+ 
+ sin
+ 
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ 
+ sin
+ 
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ ]
+ 
+ 
+ =
+ 
+ 
+ 
+ r
+ ^
+ 
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ 
+ 
+ [
+ 
+ 
+ 
+ r
+ cos
+ 
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ cos
+ 
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ sin
+ 
+ 
+ 
+ 
+ 
+ ]
+ 
+ 
+ =
+ r
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ 
+ 
+ [
+ 
+ 
+ 
+ 
+ r
+ sin
+ 
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ sin
+ 
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ 
+ 0
+ 
+ 
+ 
+ ]
+ 
+ 
+ =
+ r
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+The desired coefficients are the magnitudes of these vectors:
+
+ 
+ 
+ 
+ 
+ |
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ |
+ 
+ =
+ 1
+ ,
+ 
+ 
+ |
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ |
+ 
+ =
+ r
+ ,
+ 
+ 
+ |
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ |
+ 
+ =
+ r
+ sin
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+The surface element spanning from to + d and to + d on a spherical surface at (constant) radius r is then
+
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ S
+ 
+ r
+ 
+ 
+ =
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ =
+ 
+ |
+ 
+ r
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ 
+ r
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ 
+ |
+ 
+ 
+ d
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ =
+ 
+ r
+ 
+ 2
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+Thus the differential solid angle is
+
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ =
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ S
+ 
+ r
+ 
+ 
+ 
+ 
+ r
+ 
+ 2
+ 
+ 
+ 
+ 
+ =
+ sin
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+The surface element in a surface of polar angle constant (a cone with vertex at the origin) is
+
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ S
+ 
+ 
+ 
+ 
+ =
+ r
+ sin
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ 
+ 
+ d
+ 
+ r
+ .
+ 
+ 
+ 
+ 
+
+The surface element in a surface of azimuth constant (a vertical half-plane) is
+
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ S
+ 
+ 
+ 
+ 
+ =
+ r
+ 
+ 
+ d
+ 
+ r
+ 
+ 
+ d
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+The volume element spanning from r to r + dr, to + d, and to + d is specified by the determinant of the Jacobian matrix of partial derivatives, 
+
+ 
+ 
+ 
+ J
+ =
+ 
+ 
+ 
+ 
+ (
+ x
+ ,
+ y
+ ,
+ z
+ )
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ 
+ 
+ (
+ 
+ 
+ 
+ sin
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ r
+ cos
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ r
+ sin
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ sin
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ r
+ cos
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ sin
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ r
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0
+ 
+ 
+ 
+ )
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+
+namely 
+
+ 
+ 
+ 
+ 
+ d
+ 
+ V
+ =
+ 
+ |
+ 
+ 
+ 
+ 
+ (
+ x
+ ,
+ y
+ ,
+ z
+ )
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ |
+ 
+ 
+ 
+ d
+ 
+ r
+ 
+ 
+ d
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ =
+ 
+ r
+ 
+ 2
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ d
+ 
+ r
+ 
+ 
+ d
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ =
+ 
+ r
+ 
+ 2
+ 
+ 
+ 
+ 
+ d
+ 
+ r
+ 
+ 
+ d
+ 
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+Thus, for example, a function f can be integrated over every point in R3 by the triple integral
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 0
+ 
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0
+ 
+ 
+ 
+ 
+ 
+ f
+ 
+ 
+ r
+ 
+ 2
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ d
+ 
+ r
+ 
+ 
+ d
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+The del operator in this system leads to the following expressions for the gradient and Laplacian for scalar fields,
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ f
+ 
+ 
+ 
+ =
+ 
+ 
+ 
+ 
+ f
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ ^
+ 
+ 
+ 
+ +
+ 
+ 
+ 1
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ f
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ +
+ 
+ 
+ 1
+ 
+ r
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ f
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ 
+ f
+ 
+ 
+ 
+ =
+ 
+ 
+ 1
+ 
+ r
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ (
+ 
+ 
+ r
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ f
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ )
+ 
+ +
+ 
+ 
+ 1
+ 
+ 
+ r
+ 
+ 2
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ f
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ )
+ 
+ +
+ 
+ 
+ 1
+ 
+ 
+ r
+ 
+ 2
+ 
+ 
+ 
+ sin
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ 
+ f
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ 
+ (
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ +
+ 
+ 
+ 2
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ )
+ 
+ f
+ +
+ 
+ 
+ 1
+ 
+ 
+ r
+ 
+ 2
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ )
+ 
+ f
+ +
+ 
+ 
+ 1
+ 
+ 
+ r
+ 
+ 2
+ 
+ 
+ 
+ sin
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ f
+ 
+ ,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+And it leads to the following expressions for the divergence and curl of vector fields,
+
+ 
+ 
+ 
+ 
+ 
+ 
+ A
+ 
+ =
+ 
+ 
+ 1
+ 
+ r
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ (
+ 
+ 
+ r
+ 
+ 2
+ 
+ 
+ 
+ A
+ 
+ r
+ 
+ 
+ 
+ )
+ 
+ +
+ 
+ 
+ 1
+ 
+ r
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (
+ 
+ sin
+ 
+ 
+ 
+ A
+ 
+ 
+ 
+ 
+ 
+ )
+ 
+ +
+ 
+ 
+ 1
+ 
+ r
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A
+ 
+ =
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ r
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ [
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (
+ 
+ 
+ A
+ 
+ 
+ 
+ 
+ sin
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ]
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ ^
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ +
+ 
+ 
+ 1
+ r
+ 
+ 
+ 
+ [
+ 
+ 
+ 
+ 1
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ (
+ 
+ r
+ 
+ A
+ 
+ 
+ 
+ 
+ 
+ )
+ 
+ 
+ ]
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ +
+ 
+ 
+ 1
+ r
+ 
+ 
+ 
+ [
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ (
+ 
+ r
+ 
+ A
+ 
+ 
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ]
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Further, the inverse Jacobian in Cartesian coordinates is
+
+ 
+ 
+ 
+ 
+ J
+ 
+ 
+ 1
+ 
+ 
+ =
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (
+ x
+ ,
+ y
+ ,
+ z
+ )
+ 
+ 
+ 
+ =
+ 
+ 
+ (
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ z
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ z
+ 
+ 
+ 
+ r
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 2
+ 
+ 
+ +
+ 
+ y
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y
+ z
+ 
+ 
+ 
+ r
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 2
+ 
+ 
+ +
+ 
+ y
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (
+ 
+ 
+ x
+ 
+ 2
+ 
+ 
+ +
+ 
+ y
+ 
+ 2
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+ r
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 2
+ 
+ 
+ +
+ 
+ y
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y
+ 
+ 
+ 
+ x
+ 
+ 2
+ 
+ 
+ +
+ 
+ y
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ x
+ 
+ 2
+ 
+ 
+ +
+ 
+ y
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0
+ 
+ 
+ 
+ )
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+The metric tensor in the spherical coordinate system is 
+ 
+ 
+ 
+ g
+ =
+ 
+ J
+ 
+ T
+ 
+ 
+ J
+ 
+ 
+ 
+ 
+.
+
+Distance and angle in spherical coordinates
+In spherical coordinates, given two points with being the azimuthal coordinate
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ =
+ 
+ ,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The distance between the two points can be expressed as
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ D
+ 
+ 
+ 
+ =
+ 
+ 
+ 
+ r
+ 
+ 2
+ 
+ 
+ +
+ 
+ r
+ 
+ 
+ 
+ 2
+ 
+ 
+ 
+ 
+ 2
+ r
+ 
+ r
+ 
+ 
+ (
+ sin
+ 
+ 
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ +
+ cos
+ 
+ 
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The angle 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ between the two points can be found from their dot product in Cartesian coordinates:
+
+ 
+ 
+ 
+ cos
+ 
+ 
+ =
+ cos
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ +
+ sin
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ (
+ cos
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ +
+ sin
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+
+which by the angle difference identity for cosine is
+
+ 
+ 
+ 
+ cos
+ 
+ 
+ =
+ cos
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ +
+ sin
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ 
+
+Kinematics
+In spherical coordinates, the position of a point or particle (although better written as a triple 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+) can be written as
+
+ 
+ 
+ 
+ 
+ r
+ 
+ =
+ r
+ 
+ 
+ 
+ r
+ ^
+ 
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+Its velocity is then
+
+ 
+ 
+ 
+ 
+ v
+ 
+ =
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ d
+ 
+ t
+ 
+ 
+ 
+ =
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ ^
+ 
+ 
+ 
+ +
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ +
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+and its acceleration is
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a
+ 
+ =
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ v
+ 
+ 
+ 
+ 
+ d
+ 
+ t
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ +
+ 
+ 
+ 
+ 
+ 
+ 
+ (
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ 
+ 
+ sin
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+ r
+ ^
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ +
+ 
+ (
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ +
+ 2
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ 
+ sin
+ 
+ 
+ cos
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ +
+ 
+ (
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ sin
+ 
+ 
+ +
+ 2
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ sin
+ 
+ 
+ +
+ 2
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ cos
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The angular momentum is 
+
+ 
+ 
+ 
+ 
+ L
+ 
+ =
+ 
+ r
+ 
+ 
+ 
+ p
+ 
+ =
+ 
+ r
+ 
+ 
+ m
+ 
+ v
+ 
+ =
+ m
+ 
+ r
+ 
+ 2
+ 
+ 
+ 
+ (
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+ 
+
+Where 
+ 
+ 
+ 
+ m
+ 
+ 
+ 
+ 
+ is mass. In the case of a constant or else = /2, this reduces to vector calculus in polar coordinates.
+The corresponding angular momentum operator then follows from the phase-space reformulation of the above,
+
+ 
+ 
+ 
+ 
+ L
+ 
+ =
+ 
+ i
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ =
+ i
+ 
+ 
+ (
+ 
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ )
+ 
+ .
+ 
+ 
+ 
+ 
+
+The torque is given as
+
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ L
+ 
+ 
+ 
+ 
+ d
+ 
+ t
+ 
+ 
+ 
+ =
+ 
+ r
+ 
+ 
+ 
+ F
+ 
+ =
+ 
+ m
+ 
+ (
+ 
+ 2
+ r
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ sin
+ 
+ 
+ +
+ 
+ r
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ sin
+ 
+ 
+ 
+ 
+ +
+ 2
+ 
+ r
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ +
+ m
+ 
+ (
+ 
+ 
+ r
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ +
+ 2
+ r
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ 
+ sin
+ 
+ 
+ cos
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+ 
+ ^
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The kinetic energy is given as
+
+ 
+ 
+ 
+ 
+ E
+ 
+ k
+ 
+ 
+ =
+ 
+ 
+ 1
+ 2
+ 
+ 
+ m
+ 
+ [
+ 
+ 
+ 
+ (
+ 
+ 
+ 
+ r
+ 
+ 
+ 
+ 
+ )
+ 
+ 
+ 2
+ 
+ 
+ +
+ 
+ 
+ (
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ )
+ 
+ 
+ 2
+ 
+ 
+ +
+ 
+ 
+ (
+ 
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ sin
+ 
+ 
+ 
+ )
+ 
+ 
+ 2
+ 
+ 
+ 
+ ]

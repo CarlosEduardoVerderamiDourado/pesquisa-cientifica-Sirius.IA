@@ -1,0 +1,550 @@
+Balanceamento de equações químicas
+
+O balanceamento de equações químicas consiste em ajustar os coeficientes de modo que o número de átomos de cada elemento na equação química seja conservado. Isto é, o número de átomos de um determinado elemento é o mesmo no reagente e no produto.
+Para realizar tal processo podemos seguir a ordem de ajustar primeiro: metais, ametais, hidrogênio, oxigênio. Caso se algum desse já estiver equilibrado se passa para o próximo da lista.
+
+Métodos de balanceamento
+
+Método das tentativas
+Consiste na escolha de números arbitrários para os coeficientes. Assim, apesar de mais simples, pode se tornar a forma mais trabalhosa de balancear uma equação.
+
+Método algébrico
+Consiste em atribuir a cada coeficiente estequiométrico desconhecido uma variável. Em seguida, obriga-se que a proporção atômica seja respeitada, isto é, que o número de átomos de um elemento no produto seja igual ao número de átomos do mesmo elemento no produto. Assim, obtém-se um sistema linear, que pode ser solucionado por diversos métodos como substituição ou escalonamento.
+Exemplo: Balancear a seguinte equação pelo método algébrico.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ NH
+ 
+ 4
+ 
+ 
+ 
+ 
+ 
+ 
+ NO
+ 
+ 3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ N
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ O
+ 
+ +
+ 
+ 
+ H
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ O
+ 
+ 
+ 
+ 
+ 
+ 
+
+Primeiramente, atribui-se as variáveis 
+ 
+ 
+ 
+ a
+ 
+ 
+ 
+ 
+, 
+ 
+ 
+ 
+ b
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ c
+ 
+ 
+ 
+ 
+ aos coeficientes desconhecidos:
+
+ 
+ 
+ 
+ 
+ a
+ 
+ 
+ NH
+ 
+ 4
+ 
+ 
+ 
+ 
+ 
+ 
+ NO
+ 
+ 3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ b
+ 
+ 
+ N
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ O
+ 
+ +
+ c
+ 
+ 
+ H
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ O
+ 
+ 
+ 
+ 
+ 
+ 
+
+Impõe-se, em seguida, a conservação do número de átomos de cada elemento. Como há três elementos, hidrogênio, nitrogênio e oxigênio, obter-se-á três equações, uma para cada elemento:
+Uma para o hidrogênio:
+
+ 
+ 
+ 
+ 4
+ a
+ =
+ 2
+ c
+ 
+ 
+ 
+ 
+;
+Outra para o nitrogênio:
+
+ 
+ 
+ 
+ 2
+ a
+ =
+ 2
+ b
+ 
+ 
+ 
+ 
+;
+E uma terceira para o oxigênio:
+
+ 
+ 
+ 
+ 3
+ a
+ =
+ b
+ +
+ c
+ 
+ 
+ 
+ 
+.
+Essas equações equivalem ao seguinte sistema linear:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ a
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ c
+ 
+ 
+ 
+ 
+ =
+ 
+ 
+ 
+ 
+ 0
+ 
+ 
+ 
+ 
+ 
+ a
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ b
+ 
+ 
+ 
+ 
+ =
+ 
+ 
+ 
+ 
+ 0
+ 
+ 
+ 
+ 
+ 
+ 3
+ a
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ b
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ c
+ 
+ 
+ 
+ 
+ =
+ 
+ 
+ 
+ 
+ 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Tal sistema pode ser resolvido por substituição ou escalonamento de matrizes. Percebe-se que a soma da primeira e da segunda equação é equivalente à terceira. Isso implica que existem infinitas soluções para esse sistema, sendo necessário parametrizar a equação a partir de uma das variáveis, isto é, obter as duas primeiras variáveis como função da terceira.
+Da primeira equação:
+
+ 
+ 
+ 
+ a
+ =
+ 
+ 
+ c
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+
+Combinando com a segunda:
+
+ 
+ 
+ 
+ a
+ =
+ b
+ =
+ 
+ 
+ c
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+
+Daí se obtém a tripla ordenada que é solução do problema:
+
+ 
+ 
+ 
+ S
+ =
+ 
+ (
+ a
+ ,
+ b
+ ,
+ c
+ )
+ 
+ =
+ 
+ (
+ 
+ 
+ c
+ 2
+ 
+ 
+ ,
+ 
+ 
+ c
+ 2
+ 
+ 
+ ,
+ c
+ )
+ 
+ 
+ 
+ 
+ 
+, 
+ 
+ 
+ 
+ c
+ 
+ 
+ R
+ 
+ 
+ 
+ 
+ 
+.
+Para achar a solução com os menores inteiros, assume-se que 
+ 
+ 
+ 
+ c
+ =
+ 2
+ 
+ 
+ 
+ 
+ para simplificar como os denominadores das frações. Logo, a solução é 
+ 
+ 
+ 
+ 
+ (
+ 1
+ ,
+ 1
+ ,
+ 2
+ )
+ 
+ 
+ 
+ 
+ 
+ e a equação balanceada é:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ NH
+ 
+ 4
+ 
+ 
+ 
+ 
+ 
+ 
+ NO
+ 
+ 3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ N
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ O
+ 
+ +
+ 2
+ 
+ 
+ 
+ H
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ O
+ 
+ 
+ 
+ 
+ 
+ 
+
+Método Oxi-Redução
+Balancear uma equação nada mais é do que acertar seus coeficientes de forma que o número de átomos de cada elemento reagente seja igual ao número final nos produtos. Por exemplo, na reação,há 1 átomo de hidrogênio que vai reagir com 1 átomo de cloro, então, no produto final essas quantidades devem se manter.
+Veja, agora, nesta outra reação:
+Repare que, apesar do coeficiente do oxigênio ser 1, há dois átomos de O, pois temos O2. Há, portanto, nesta reação, 1 átomo de carbono e 2 átomos de oxigênio, que vão gerar o gás CO2, composto por 1 átomo de carbono e dois de oxigênio.
+
+Quando o coeficiente for 1, não é necessário colocá-lo. Nos exemplos acima eles só foram evidenciados para que vocês visualizassem melhor a quantidade de átomos dos elementos.
+Há dois métodos para identificarmos os coeficientes das reações, o método das tentativas e o método da oxirredução.
+Método das tentativas:
+Como o próprio nome já diz, não há, neste método, nenhuma fórmula para determinar os coeficientes, pois eles serão encontrados por meio de tentativas. Porém, duas dicas práticas poderão ajudá-lo neste trabalho:
+Como exemplo, vamos balancear a seguinte equação química, que representa a queima do álcool:
+O carbono e o hidrogênio aparecem apenas uma vez no lado esquerdo e direito da reação. Vamos começar por um deles!
+Se temos 2 átomos de carbono no lado dos reagentes (C2), teremos que ter 2 átomos de carbono no lado dos produtos, porém, há apenas 1. Neste caso, devemos multiplicar o carbono dos produtos por 2 (2CO2).
+
+Atenção: nunca devemos alterar o índice colocado do lado direito inferior do elemento (ex: O2), pois assim alteraríamos as características das substâncias.
+Agora, vamos para o hidrogênio. No lado dos reagentes há 6 átomos, mas no lado dos produtos há apenas 2. Devemos, portanto, multiplicá-lo por 3 (3H2O).
+Por fim, temos que conferir os átomos de oxigênio. Nos reagentes há 3 (1 do “C2H6O” e 2 do “O2”), mas nos produtos ficamos com sete (4 do “2CO2” e 3 do “3 H2O”). Neste caso, para não alterarmos mais os coeficientes do carbono e hidrogênio, teremos que multiplicar o O2 dos reagentes por 3. Sendo assim, ficamos com a equação devidamente balanceada. Confira!
+Método da oxido-redução:
+Normalmente, nas reações de oxido-redução, o método das tentativas não é prático. Por isso, utilizamos este outro método. Vejamos como ele funciona!
+1. Primeiro devemos determinar o nox dos elementos na equação;
+2. Depois, identificamos os elementos que sofreram oxidação e redução, encontrando a variação de nox de cada um (ex.: se um elemento tinha nox +2 e passou para +4, sua variação será igual a 2).
+3. Agora você deverá multiplicar o valor de cada variação encontrada pelo número de átomos dos elementos que sofreram a variação.
+
+Se os valores forem múltiplos (ex.: 9 e 6), devemos simplificá-los (93, 63).
+4. O valor da variação total do elemento que sofreu oxidação deve ser transportado para onde houve redução e vice-versa.
+
+A substância que deve receber o coeficiente é aquela que possui o maior número de átomos que efetivamente se oxidaram ou reduziram.
+5. Terminar o balanceamento pelo método da tentativa.
+Vamos ver como isso funciona na prática? Vamos balancear a equação abaixo. Comece pelo nox dos elementos.
+O nox do nitrogênio era +5 e diminuiu para +2, portanto, ele sofreu redução. Sua variação será de 3.
+O nox do fósforo era 0 e aumentou para +5, portanto, ele foi oxidado. Sua variação será de 5.
+Temos 1 átomo de N, então, 1 x 3 = 3 (variação total).
+Temos 4 átomos de P, então, 4 x 5 = 20 (variação total).
+Agora é só colocar a total do N na frente do P que tiver maior número de átomos e a total do P na frente do N que tiver maior número de átomos (como, neste caso, o N dos reagentes tem o mesmo número do N dos produtos, colocamos o coeficiente na frente dos dois). Teremos, então:
+Agora que o mais difícil já foi feito, é só terminar o balanceamento pelo método das tentativas!
+Se temos 12 P nos reagentes, devemos ter o mesmo nos produtos. Para isso, vamos colocar 12 na frente do H3PO4. Agora ficamos com 68 O nos produtos e 61 nos reagentes. Para igualar esses números basta que coloquemos o 8 na frente da água. Pronto, sua equação já está balanceada. Pode conferir!
+
+Conceitos importantes
+Oxidação: A oxidação pode ocorrer em três circunstâncias: quando se adiciona oxigênio à substância, quando uma substância perde hidrogênio ou quando a substância perde elétrons.
+Redução: A redução, por sua vez, é o inverso e ocorre também de três maneiras: quando uma substância perde oxigênio, quando ganha hidrogênio ou quando ganha elétrons.
+Agente Redutor: Agente redutor é a espécie química que age causando a redução de algum elemento presente nos reagentes. O agente redutor é, portanto, a espécie que contém o elemento que perde elétrons, ou seja, que sofre oxidação.
+Agente Oxidante: Agente oxidante é a espécie química que age causando a oxidação de algum elemento presente nos reagentes. O agente oxidante é, portanto, a espécie que contém o elemento que recebe elétrons, ou seja, que sofre redução.
+
+Regra
+Calcular o nox dos elementos;
+Identificar o oxidante e o redutor;
+Calcular o nox do oxidante/redutor;
+Multiplicar o nox(diferença numérica do nox do reagente/produto) pelo número de elementos;
+Tomar o resultado anterior como coeficiente do oxidante/redutor, invertendo-os;
+Balancear os demais elementos pelo método das tentativas.
+O balanceamento de equações químicas consiste em igualar o número de elementos do produto com os reagentes.
+
+Exemplos
+a) PCl5 + H2O H3PO4 + HCl
+Bi(+2) Bi(+1): Oxidação/Agente Redutor nox 4 x 2 = 8
+Cl(+1) Cl(-1): Redução/Agente Oxidante nox = 2 x 1 = 2
+M.M.C. = 8
+b) 1 Bi2O3 + 4 NaClO + NaOH --> 4 NaCl + H2O + 2 NaBiO4
+(M.M.C. dividido pelo número de eletrons ganhados ou perdidos na substancia analisada)
+E agora por tentativa:
+c) 1 Bi2O3 + 4 NaClO + 2 NaOH 4 NaCl + 1 H2O + 2 NaBiO4

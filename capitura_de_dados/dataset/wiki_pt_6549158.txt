@@ -1,0 +1,59 @@
+Ubuntu Unity
+
+Ubuntu Unity é uma distribuição Linux baseada no Ubuntu, usando a interface Unity no lugar do GNOME Shell utilizado pelo Ubuntu. O primeiro lançamento inicial foi a versão 20.04 LTS - Focal Fossa em 7 de maio de 2020. Antes do lançamento inicial, ele tinha dois nomes provisórios: Unubuntu e Ubuntu Unity Remix.
+
+História
+A interface Unity foi originalmente desenvolvida pela Canonical e incluída pela primeira vez como a interface padrão no Ubuntu 11.04, que foi lançado em abril de 2011. O Unity foi desenvolvido como uma alternativa ao GNOME Shell, que substituiu a interface do GNOME 2. Naquela época, a Canonical planejava convergir as interfaces de desktop, celular e tablet para o Unity 8, um projeto que foi abandonado em 2017 quando o Ubuntu mudou para o ambiente de desktop GNOME 3, encerrando assim o desenvolvimento do Unity na versão 7, enquanto a versão 8 estava incompleta. O Ubuntu 17.04 introduziu o ambiente de desktop GNOME 3 em abril de 2017, mas ele não foi universalmente aceito pelos usuários e pelos desenvolvedores do Ubuntu. Uma série de bifurcações foram propostas, com a UBports assumindo o desenvolvimento do Unity 8 por seu valor como uma interface convergente e renomeando-o como Lomiri em fevereiro de 2020. Em 2019, a Canonical deu sua aprovação para o uso de marcas registradas para uma versão remix do Ubuntu com o Unity 7.
+O desenvolvedor certificado pela Linux Foundation e membro da equipe Ubuntu Rudra B. Saraswat, que mora perto de Nova Deli, Índia, iniciou o projeto Ubuntu Unity. Ele consultou o feedback dos usuários e usou uma interface padrão do Unity 7 com o back-end do Ubuntu possuindo alterações mínimas. Ele incluiu o gerenciador de arquivos Nemo como uma alternativa ao GNOME Files e implementou o gerenciador de exibição LightDM X para substituir o gerenciador de exibição GNOME utilizado no Ubuntu..
+Saraswat já havia criado várias outras distribuições Linux, como a distro o Krob Linux, focada em servidores. Sobre as suas motivações para iniciar o Ubuntu Unity, Saraswat declarou: "Eu tinha usado o Ubuntu 17.04 quando tinha 8 [anos] e realmente amava o Unity 7, então quando o Unity 7 foi descontinuado pela Canonical, não fiquei feliz e quis trazê-lo de volta. Eu criei este projeto para dar uma nova vida ao Unity 7. " Saraswat tinha dez anos em 2020 quando lançou o Ubuntu Unity pela primeira vez. Ele indicou que seu objetivo é eventualmente ter a distribuição aceita como um "sabor" oficial do Ubuntu..
+
+Lançamentos
+
+Ubuntu Unity 20.04 LTS - Focal Fossa
+
+Esta foi a primeira versão do Ubuntu Unity lançada, bem como a primeira versão de suporte de longo prazo (LTS). Foi lançado em 7 de maio de 2020, duas semanas após o lançamento do Ubuntu 20.04 LTS . Ele usa o tema padrão do Yaru com ícones Papirus, incluso com os temas Adwaita, Ambiance, Radiance e High Contrast disponíveis para uso..
+Este lançamento inicial atraiu a atenção da imprensa tecnológica especializada e foi amplamente divulgado..
+Em um review na Forbes, Jason Evangelho afirmou: "Se você está ansioso pelos bons e velhos dias do Unity e do Compiz, eu trago notícias incríveis: alguém está dando um novo holofote para eles, e o palco abaixo é uma nova distribuição Linux chamada Ubuntu Unity Remix 20.04."
+Jack Wallen, do TechRepublic, escreveu: "O Unity está de volta e sua passagem para fora de um mundo de interfaces de desktop ineficientes que tornaram o uso de um laptop uma proposta menos do que ideal. Para aqueles que elogiaram a escolha do Ubuntu de mudar para o GNOME, não tema - o Ubuntu está se mantendo com o GNOME. O Unity, por outro lado, está de volta, graças aos gostos da distribuição Ubuntu Unity para desktop. É uma nova versão de um antigo favorito, antes extinto."
+Marius Nestor analisou o lançamento em 9to5Linux, afirmando: "Eu dei uma volta no Ubuntu Unity Remix 20.04 e ele me trouxe boas e velhas memórias. O spin parece ótimo e funciona perfeitamente.".
+Eric Londo, do Linux ++, analisou o novo lançamento, dizendo: "Sim, esse era o antigo Unity que eu conhecia e amava, mas que de alguma forma parecia mais novo. Enquanto eu trabalhava para recuperar a memória muscular com as teclas (o GNOME realmente pode assumir a maneira como você controla o seu sistema XD), a experiência foi suave, graciosa e divertida de uma forma que é única para a experiência do Unity. Durante o teste, não encontrei um único problema que considerasse prejudicial ou mesmo irritante..Tudo, desde o dash até o gerenciador de arquivos e temas, parecia estar exatamente de onde eu havia parado, sem perder o ritmo. Parabéns a Rudra Saraswat por trazer o Ubuntu Unity de volta à vida."
+Adam Hunt, da revista Full Circle, escreveu: "este lançamento não pode ser chamado de "inovador" ou "uma virada de jogo", mas mostra exatamente onde o Ubuntu poderia estar hoje se não tivesse deixado o Unity 7 para trás por ter trocado pelo GNOME Shell."
+O primeiro lançamento pontual foi feito em 6 de agosto de 2020, no mesmo dia que os outros sabores oficiais do Ubuntu e incluiu várias correções para uma série de pequenos bugs.
+Uma análise de 19 de outubro de 2020 por John Perkins em Make Tech Easier, culpou o lançamento por sua alta ociosidade do uso de memória RAM e uso de CPU, e notou que, "a principal coisa que se destaca como um contra para mim é o fator incômodo. Nada sobre o Unity realmente se destaca. Além da função de pesquisa, a aparência, look e comportamento do Unity não tem nada de especial o suficiente para me fazer voltar a usá-lo."
+
+Ubuntu Unity 20.10 - Groovy Gorilla
+
+Esta versão foi lançada em 22 de outubro de 2020.
+A versão traz o kernel Linux em sua versão 5.8 e usa o GNU GRUB para inicialização do BIOS e UEFI. Ele também adiciona várias correções e atualizações para muitos dos bugs de interface, incluindo a adição do gerenciador de configurações do Compiz (Compiz Settings Manager), com muitos plug-ins e efeitos. Ele também apresenta um novo tema padrão do Arc-dark, um novo papel de parede e um novo tema Yaru-Purple com um tema de ícones derivado.
+Em uma análise da primeira versão alfa, Marius Nestor escreveu no 9to5 Linux : "Eu o levei para um test drive e, para minha surpresa, tudo funciona muito mais rápido do que na versão 20.04."
+Uma revisão da versão final do Debug Point, Arandam Giri elogiou a eficiência do Ubuntu Unity e como ele melhorou a produtividade do usuário.
+Um review de janeiro de 2021 feito pela revista Full Circle declarou: "Ubuntu Unity 20.10 é um lançamento muito forte. Ele se baseia no sucesso e em toda a atenção da imprensa de tecnologia que o primeiro lançamento atraiu e mostra o compromisso do desenvolvedor em levar o Ubuntu Unity adiante, com o objetivo de ganhar o status de sabor oficial do Ubuntu. Adicionar o gerenciador de configurações Compiz Settings Manager, mais temas de janela e ícone e uma ampla gama de opções de papel de parede, além de escolher o Thunderbird para ser o cliente de e-mail e o Nemo como o gerenciador de arquivos padrão, mostra que este ciclo de desenvolvimento terá como foco aprimorar a experiência do usuário. Isso faz com que valha a pena acompanhar essa distribuição ao longo do caminho para a próxima versão LTS (22.04 LTS), com lançamento previsto para abril de 2022. Se este lançamento for qualquer indicação, devemos ver coisas boas no futuro."
+
+Ubuntu Unity 21.04 - Hirsute Hippo
+
+Esta versão foi lançada no dia 22 de abril de 2021.
+Esta versão usa o kernel Linux 5.11 e incluiu um novo tema Yaru-Unity, além de um novo ícone de launcher transparente. Ele também incluiu novos papéis de parede e um novo tema Plymouth para inicialização, além também de algumas correções de bugs.
+
+Ubuntu Unity 21.10 - Impish Indri
+
+O Ubuntu Unity 21.10 é uma versão padrão, lançada em 14 de outubro de 2021.
+Esta versão incluiu uma versão atualizada da interface de usuário do Unity da versão 7.5.0 para 7.5.1, incorporando indicadores atualizados e migração dos esquemas glib-2.0 para o gsettings-ubuntu-schemas.
+O Ubuntu Unity 21.10 usa a versão Snap do navegador web Firefox, no lugar da versão anterior Deb, um movimento que corresponde ao Ubuntu 21.10. Uma nova tela de inicialização Plymouth e novos trabalhos de arte foram introduzidos, incluindo o papel de parede padrão com o tema Indri.
+O projeto também adotou um novo logotipo simplificado do Ubuntu Unity de Muqtadir e Allan Carvalho.
+Este lançamento também marcou o início da migração do projeto para o GitLab e o design de um novo site, devido à necessidade de expansão e aumento de tráfego. Os desenvolvedores também indicaram que o projeto estava começando uma mudança para a loja lol Snap, como uma alternativa à loja Canonical Snap existente em snapcraft.io.
+Uma análise na edição de fevereiro de 2022 do Full Circle observou: "O Ubuntu Unity 21.10 não é um lançamento tão forte quanto o esperado e tem alguns problemas pendentes que estavam presentes no momento de seu lançamento. A falta da ferramenta Unity Tweak, instalada por padrão ou mesmo que possa ser instalada e executada, significa que os temas fornecidos não podem ser acessados corretamente. Acho que não há problema em lançar uma versão "padrão" que tenha bugs não resolvidos como este, mas os desenvolvedores precisam explicar claramente o problema no anúncio de lançamento e indicar quando se espera que seja corrigido".
+
+Ubuntu Unity 22.04 LTS - Jammy Jellyfish
+
+Esta quinta versão do Ubuntu Unity foi lançada em 21 de abril de 2022 e é uma versão de suporte de longo prazo, com suporte por três anos, até abril de 2025.
+As mudanças nesta versão incluem a adição de repositórios Flatpak e Flathub por padrão. Diferentes arquivos de instalação para hardware BIOS e UEFI também foram mesclados em um download de arquivo .ISO.
+Uma série de mudanças no aplicativo foram feitas, com os aplicativos do MATE substituindo amplamente os do GNOME. O visualizador de PDF Atril substituiu o Evince, o editor de texto pluma substituiu o gedit, o visualizador de imagens Eye of MATE substituiu o Eye of GNOME, o monitor do sistema MATE substituiu o GNOME System Monitor e o VLC media player substituiu o GNOME Videos. Assim como Synaptic e GDebi foram removidos.
+Uma análise na revista Full Circle observou: "Ubuntu Unity 22.04 LTS é uma versão sólida sem maus hábitos ou problemas óbvios identificados. O retorno da ferramenta Unity Tweak é uma adição bem-vinda a esta versão, pois funciona bem, e isso significa que o Ubuntu Unity 22.04 LTS é melhor que seu antecessor, 21.10. O Ubuntu Unity continua a oferecer a seus usuários muitas opções de personalização, além de uma combinação exclusiva de aplicativos padrão dos desktops GNOME e MATE".
+
+Ubuntu Unity 22.10 - Kinetic Kudu
+O Ubuntu Unity 22.10 é o primeiro lançamento como um sabor oficial e foi lançado em 20 de outubro de 2022.
+
+Aplicativos Inclusos
+Alguns dos aplicativos incluídos por padrão no Ubuntu Unity são:
+
+Tabela de lançamentos

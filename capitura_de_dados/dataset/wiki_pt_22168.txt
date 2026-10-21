@@ -1,0 +1,431 @@
+Buraco negro
+
+Buraco negro é um objeto astronômico denso e massivo cujo intenso campo gravitacional impede qualquer coisa de escapar, inclusive a luz. A teoria da relatividade geral prevê que uma massa suficientemente compacta pode deformar o espaço-tempo para formar um buraco negro. O limite da região da qual não é possível escapar é chamado de horizonte de eventos e que, embora o horizonte de eventos tenha um efeito enorme sobre o destino e as circunstâncias de um objeto que o atravessa, não tem nenhuma característica local detectável. De muitas maneiras, um buraco negro age como um corpo negro ideal, pois não reflete luz. A teoria quântica de campos no espaço-tempo curvo prevê que os horizontes de eventos emitem radiação Hawking, com o mesmo espectro que um corpo negro de temperatura inversamente proporcional à sua massa. Essa temperatura é da ordem dos bilionésimos de um kelvin para buracos negros de massa estelar, o que a torna praticamente impossível de observar.
+Objetos cujos campos gravitacionais são fortes demais para a luz escapar foram considerados pela primeira vez no século XVIII por John Michell e Pierre-Simon Laplace. A primeira solução moderna da relatividade geral que caracterizaria um buraco negro foi encontrada por Karl Schwarzschild em 1916, embora sua interpretação como uma região do espaço da qual nada possa escapar tenha sido publicada pela primeira vez por David Finkelstein em 1958. Os buracos negros eram há muito considerados uma curiosidade matemática; foi na década de 1960 que o trabalho teórico mostrou que eram uma previsão genérica da relatividade geral. A descoberta de estrelas de nêutrons por Jocelyn Bell Burnell em 1967 despertou o interesse em objetos compactos em colapso gravitacional como uma possível realidade astrofísica.
+Espera-se a formação de buracos negros de massa estelar quando estrelas muito massivas colapsam no final de seu ciclo de vida. Um buraco negro pode se formar também a partir da condensação de nuvens de gás. Uma descoberta de novembro de 2023 é consistente com essa hipótese. Após a formação de um buraco negro, ele pode continuar a crescer absorvendo a massa do ambiente. Ao absorver outras estrelas e se fundir com outros buracos negros, buracos negros supermassivos de milhões de massas solares (M) podem se formar. Há consenso de que existem buracos negros supermassivos no centro da maioria das galáxias. A presença de um buraco negro pode ser inferida por meio da interação com outra matéria e com radiação eletromagnética, como a luz visível. A matéria que cai em um buraco negro pode formar um disco de acreção externa aquecido por fricção, formando alguns dos objetos mais brilhantes do universo. Se houver outras estrelas orbitando um buraco negro, suas órbitas podem ser usadas para determinar a massa e a localização do buraco negro. Tais observações podem ser usadas para excluir possíveis alternativas, como estrelas de nêutrons. Dessa maneira, os astrônomos identificaram inúmeros candidatos a buracos negros estelares em sistemas binários e estabeleceram que a fonte de rádio conhecida como Sagitário A*, no núcleo da Via Láctea, contém um buraco negro supermassivo de cerca de 4,3 milhões de massas solares.
+Em 11 de fevereiro de 2016, a colaboração do LIGO anunciou a primeira detecção direta de ondas gravitacionais, o que também representou a primeira observação de uma fusão de buracos negros. Em dezembro de 2018, foram observados onze ondas gravitacionais originadas de dez buracos negros em fusão (junto com uma fusão binária de estrela de nêutrons). Em 10 de abril de 2019, a primeira imagem direta de um buraco negro e sua vizinhança foi publicada, após observações feitas pelo Event Horizon Telescope em 2017 do buraco negro supermassivo no centro galáctico de Messier 87.
+
+História
+
+A ideia de um corpo tão massivo que nem a luz poderia escapar foi brevemente proposta pelo pioneiro astronômico e clérigo inglês John Michell em uma carta publicada em novembro de 1784. Os cálculos simplistas de Michell supunham que esse corpo pudesse ter a mesma densidade que o Sol e concluíram que esse corpo se formaria quando o diâmetro de uma estrela excedesse o do Sol por um fator de 500 e a velocidade de escape da superfície excedesse a velocidade usual da luz. Michell observou corretamente que esses corpos supermassivos, mas não irradiantes, podem ser detectados por seus efeitos gravitacionais em corpos visíveis próximos. Os estudiosos da época ficaram inicialmente empolgados com a proposta de que estrelas gigantes, mas invisíveis, pudessem estar escondidas à vista de todos, mas o entusiasmo diminuiu quando a natureza ondulatória da luz se tornou aparente no início do século XIX.
+Se a luz fosse uma onda e não um "corpúsculo", não está claro o que, se houver, influenciaria a gravidade na fuga das ondas de luz. A relatividade moderna desacredita a noção de Michell de um raio de luz disparando diretamente da superfície de uma estrela supermassiva, sendo desacelerado pela gravidade da estrela, parando e caindo livremente de volta à superfície da estrela.
+
+Relatividade geral
+Em 1915, Albert Einstein desenvolveu sua teoria da relatividade geral, tendo demonstrado anteriormente que a gravidade influencia o movimento da luz. Apenas alguns meses depois, Karl Schwarzschild encontrou uma solução para as equações do campo de Einstein, que descrevem o campo gravitacional de uma massa pontual e de uma massa esférica. Alguns meses depois de Schwarzschild, Johannes Droste, um estudante de Hendrik Lorentz, deu a mesma solução para a massa pontual de forma independente e escreveu mais extensivamente sobre suas propriedades. Essa solução tinha um comportamento peculiar no que hoje é chamado raio de Schwarzschild, onde se tornou singular, significando que alguns dos termos nas equações de Einstein se tornaram infinitos. A natureza dessa superfície ainda não era totalmente compreendida. Em 1924, Arthur Eddington mostrou que a singularidade desapareceu após uma mudança de coordenadas, embora Georges Lemaître demorasse até 1933 a perceber que isso significava que a singularidade no raio de Schwarzschild era uma singularidade de coordenadas não físicas. Arthur Eddington, no entanto, comentou em um livro de 1926 sobre a possibilidade de uma estrela com massa comprimida no raio de Schwarzschild, observando que a teoria de Einstein nos permite descartar densidades excessivamente grandes para estrelas visíveis como Betelgeuse porque "uma estrela de 250 milhões de quilômetros poderia não ter uma densidade tão alta quanto o Sol. Em primeiro lugar, a força da gravitação seria tão grande que a luz seria incapaz de escapar dela, os raios voltando à estrela como uma pedra na Terra. Em segundo lugar, o desvio para o vermelho das linhas espectrais seria tão grande que o espectro seria retirado da existência. Em terceiro lugar, a massa produziria tanta curvatura da métrica do espaço-tempo que o espaço se fecharia ao redor da estrela, deixando-nos do lado de fora (isto é, nenhum lugar).".
+Em 1931, Subrahmanyan Chandrasekhar calculou, usando relatividade especial, que um corpo não rotativo de matéria degenerada por elétrons acima de uma certa massa limitante (agora chamada de limite de Chandrasekhar em 1,4 massa solar) não possui soluções estáveis. Seus argumentos foram contestados por muitos de seus contemporâneos, como Eddington e Lev Landau, que argumentavam que algum mecanismo ainda desconhecido impediria o colapso. Eles estavam parcialmente corretos: uma anã branca levemente mais massiva que o limite de Chandrasekhar entrará em colapso e se transformará em uma estrela de nêutrons, que é estável em si mesma. Mas em 1939, Robert Oppenheimer e outros previram que as estrelas de nêutrons que ultrapassassem outro limite (o limite de Tolman-Oppenheimer-Volkoff) colapsariam ainda mais pelas razões apresentadas por Chandrasekhar, de maneira que nenhuma lei da física poderia interromper esse colapso, resultando na formação de um buraco negro. Seus cálculos originais, baseados no princípio de exclusão de Pauli, deram como 0,7 massa solar; a consideração subsequente de forte repulsão nêutron-nêutron mediada pela força elevou a estimativa para aproximadamente 1,5 a 3,0 massas solares. Observações da fusão da estrela de nêutrons GW170817, que se acredita ter gerado um buraco negro logo depois, refinaram a estimativa do limite de TOV para ~ 2,17 massas solares.
+Oppenheimer e seus coautores interpretaram a singularidade na fronteira do raio de Schwarzschild como indicador de que essa era a fronteira de uma bolha na qual o tempo parou. Este é um ponto de vista válido para observadores externos, mas não para observadores que cruzam esse raio. Por causa dessa propriedade, as estrelas colapsadas eram chamadas de "estrelas congeladas", porque um observador externo veria a superfície da estrela congelada no tempo no instante em que seu colapso a levasse ao raio de Schwarzschild.
+
+Era de ouro
+Em 1958, David Finkelstein identificou a superfície de Schwarzschild como um horizonte de eventos, "uma perfeita membrana unidirecional: influências causais podem atravessá-la em apenas uma direção". Isso não contradizia estritamente os resultados de Oppenheimer, mas os estendia para incluir o ponto de vista dos observadores que atravessam o horizonte de eventos. A solução proposta por Arthur Stanley Eddington e David Finkelstein estendeu a solução de Schwarzschild para o futuro dos observadores que caem em um buraco negro. Uma extensão completa já havia sido encontrada por Martin Kruskal, que foi instado a publicá-la.
+Esses resultados surgiram no início da era de ouro da relatividade geral, marcada pela relatividade geral e pelos buracos negros, tornando-se os principais objetos de pesquisa. Esse processo foi ajudado pela descoberta de pulsares por Jocelyn Bell Burnell em 1967, que, em 1969, demonstraram ser estrelas de nêutrons em rotação rápida.
+Nesse período, foram encontradas soluções mais gerais de buraco negro. Em 1963, Roy Kerr encontrou a solução exata para um buraco negro em rotação. Dois anos depois, Ezra Newman encontrou a solução axissimétrica para um buraco negro que é rotativo e carregado eletricamente. Através do trabalho de Werner Israel, Brandon Carter e David Robinson, o teorema da calvície surgiu, afirmando que uma solução estacionária de buraco negro é completamente descrita pelos três parâmetros da métrica de Kerr-Newman: massa, momento angular e carga elétrica.
+Inicialmente, suspeitava-se que as características estranhas das soluções dos buracos negros fossem artefatos patológicos das condições de simetria impostas e que as singularidades não apareciam em situações genéricas. Essa opinião foi defendida em particular por Vladimir Belinsky, Isaak Khalatnikov e Evgeny Lifshitz, que tentaram provar que nenhuma singularidade aparecia em soluções genéricas. No entanto, no final da década de 1960, Roger Penrose e Stephen Hawking usaram técnicas globais para provar que as singularidades aparecem genericamente.
+O trabalho de James Bardeen, Jacob Bekenstein, Carter e Hawking no início dos anos 1970 levou à formulação da termodinâmica dos buracos negros. Essas leis descrevem o comportamento de um buraco negro em estreita analogia com as leis da termodinâmica, relacionando massa à energia, área à entropia e gravidade da superfície à temperatura. A analogia foi concluída quando Hawking, em 1974, mostrou que a teoria quântica de campos implica que os buracos negros irradiam como um corpo negro com uma temperatura proporcional à gravidade na superfície do buraco negro, prevendo o efeito agora conhecido como radiação Hawking.
+
+Etimologia
+John Michell usou o termo "estrela negra" e, no início do século XX, os físicos usaram o termo "objeto gravitacionalmente colapsado". A escritora científica Marcia Bartusiak relacionou o termo "buraco negro" ao físico Robert H. Dicke, que no início dos anos 1960 comparou o fenômeno ao Buraco Negro de Calcutá, notório como uma prisão onde as pessoas entravam, mas nunca saíam vivas.
+O termo "buraco negro" foi usado nas publicações da Life and Science News em 1963 e pela jornalista científica Ann Ewing em seu artigo "'Black Holes' in Space", datado de 18 de janeiro de 1964, que era um relatório sobre uma reunião da Associação Americana para o Avanço da Ciência, realizada em Cleveland, nos Estados Unidos.
+Em dezembro de 1967, um estudante sugeriu a expressão "buraco negro" em uma palestra de John Wheeler; Wheeler adotou o termo por sua brevidade e "valor publicitário", o que levou alguns a atribuírem crédito a Wheeler por cunhar o termo.
+
+Propriedades e estrutura
+
+O teorema da calvície postula que, uma vez atingida uma condição estável após a formação, um buraco negro tem apenas três propriedades físicas independentes: massa, carga e momento angular; o buraco negro é de outra maneira inexpressivo. Se a conjectura for verdadeira, quaisquer dois buracos negros que compartilhem os mesmos valores para essas propriedades ou parâmetros são indistinguíveis um do outro. O grau em que a conjectura é verdadeira para buracos negros reais sob as leis da física moderna é atualmente um problema não resolvido.
+Essas propriedades são especiais porque são visíveis do lado de fora de um buraco negro. Por exemplo, um buraco negro carregado repele outras cargas iguais, como qualquer outro objeto carregado. Da mesma forma, a massa total dentro de uma esfera contendo um buraco negro pode ser encontrada usando o análogo gravitacional da lei de Gauss.
+Quando um objeto cai em um buraco negro, qualquer informação sobre a forma do objeto ou a distribuição de carga nele é distribuída uniformemente ao longo do horizonte do buraco negro e é perdida para os observadores externos. O comportamento do horizonte nessa situação é um sistema dissipativo que é estreitamente análogo ao de uma membrana elástica condutora com atrito e resistência elétrica — o paradigma da membrana. Isso é diferente de outras teorias de campo, como o eletromagnetismo, que não têm atrito ou resistividade no nível microscópico, porque são reversíveis no tempo. Como um buraco negro atinge um estado estável com apenas três parâmetros, não há como evitar a perda de informações sobre as condições iniciais: os campos gravitacionais e elétricos de um buraco negro fornecem muito pouca informação sobre o que ocorreu. As informações perdidas incluem todas as quantidades que não podem ser medidas distante do horizonte do buraco negro, incluindo números quânticos aproximadamente conservados, como o total do número bariônico e do número leptônico. Esse comportamento é tão intrigante que foi chamado de paradoxo da informação em buracos negros.
+
+Propriedades físicas
+
+Os buracos negros estáticos mais simples têm massa, mas não têm nem carga elétrica nem momento angular. Esses buracos negros são frequentemente chamados de buracos negros de Schwarzschild, em homenagem a Karl Schwarzschild, que descobriu essa solução em 1916. Segundo o teorema de Birkhoff, é a única solução a vácuo esfericamente simétrica. Isso significa que não há diferença observável à distância entre o campo gravitacional de um buraco negro e o de qualquer outro objeto esférico da mesma massa. A noção popular de um buraco negro "sugando tudo" em seus arredores é, portanto, correta apenas perto do horizonte de um buraco negro; distante, o campo gravitacional externo é idêntico ao de qualquer outro corpo da mesma massa.
+Também existem soluções que descrevem buracos negros mais gerais. Buracos negros carregados sem rotação são descritos pela métrica de Reissner-Nordström, enquanto a métrica de Kerr descreve um buraco negro rotativo sem carga. A solução estacionária mais geral de buraco negro conhecida é a métrica de Kerr-Newman, que descreve um buraco negro com carga e momento angular.
+Enquanto a massa de um buraco negro pode assumir qualquer valor positivo, a carga e o momento angular são restringidos pela massa. Nas unidades de Planck, a carga elétrica total Q e o momento angular total J devem satisfazer
+
+ 
+ 
+ 
+ 
+ Q
+ 
+ 2
+ 
+ 
+ +
+ 
+ 
+ (
+ 
+ 
+ 
+ J
+ M
+ 
+ 
+ 
+ )
+ 
+ 
+ 2
+ 
+ 
+ 
+ 
+ M
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+para um buraco negro de massa M. Buracos negros com a massa mínima possível que satisfazem essa desigualdade são chamados extremais. Existem soluções das equações de Einstein que violam essa desigualdade, mas elas não possuem um horizonte de eventos. Essas soluções têm as chamadas singularidades nuas, que podem ser observadas do lado de fora e, portanto, são consideradas não físicas. A hipótese da censura cósmica exclui a formação de tais singularidades, quando elas são criadas através do colapso gravitacional da matéria realista. Isso é apoiado por simulações numéricas.
+Devido à força relativamente grande do eletromagnetismo, espera-se que os buracos negros formados pelo colapso das estrelas retenham a carga quase neutra da estrela. Espera-se que a rotação seja uma característica universal de objetos astrofísicos compactos. A fonte de raios X binária candidata a buraco negro GRS 1915 + 105 parece ter um momento angular próximo ao valor máximo permitido. Esse limite sem carga é
+
+ 
+ 
+ 
+ J
+ 
+ 
+ 
+ 
+ G
+ 
+ M
+ 
+ 2
+ 
+ 
+ 
+ c
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+
+permitindo a definição de um parâmetro de rotação adimensional, tal que
+
+ 
+ 
+ 
+ 0
+ 
+ 
+ 
+ 
+ c
+ J
+ 
+ 
+ G
+ 
+ M
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.
+ 
+ 
+ 
+ 
+
+Buracos negros são comumente classificados de acordo com sua massa, independente do momento angular, J. O tamanho de um buraco negro, conforme determinado pelo raio do horizonte de eventos, ou raio de Schwarzschild, é proporcional à massa M, através de
+
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ s
+ 
+ 
+ 
+ =
+ 
+ 
+ 
+ 2
+ G
+ M
+ 
+ 
+ c
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 2
+ ,
+ 95
+ 
+ 
+ 
+ M
+ 
+ M
+ 
+ 
+ S
+ o
+ l
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ k
+ m
+ ,
+ 
+ 
+ 
+ 
+ 
+
+onde rs é o raio de Schwarzschild e MSol é a massa do Sol. Para um buraco negro com rotação diferente de zero e/ou carga elétrica, o raio é menor, até que um buraco negro extremo possa ter um horizonte de eventos próximo a
+
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ +
+ 
+ 
+ 
+ =
+ 
+ 
+ 
+ G
+ M
+ 
+ 
+ c
+ 
+ 2
+ 
+ 
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+Horizonte de eventos
+
+A característica definidora de um buraco negro é o surgimento de um horizonte de eventos — um limite no espaço-tempo através do qual matéria e luz podem passar apenas para dentro em direção à massa do buraco negro. Nada, nem mesmo a luz, pode escapar de dentro do horizonte de eventos. O horizonte de eventos é referido como tal porque se um evento ocorrer dentro dos limites, as informações desse evento não poderão alcançar um observador externo, tornando impossível determinar se esse evento ocorreu.
+Como previsto pela relatividade geral, a presença de uma massa deforma o espaço-tempo de tal maneira que os caminhos percorridos pelas partículas se inclinam em direção à massa. No horizonte de eventos de um buraco negro, essa deformação se torna tão forte que não há caminhos que se afastem do buraco negro.
+Para um observador distante, os relógios perto de um buraco negro parecem marcar mais lentamente do que os que estão mais distantes do buraco negro. Devido a esse efeito, conhecido como dilatação do tempo gravitacional, um objeto que cai em um buraco negro parece diminuir à medida que se aproxima do horizonte de eventos, levando um tempo infinito para alcançá-lo. Ao mesmo tempo, todos os processos nesse objeto diminuem a velocidade, do ponto de vista de um observador externo fixo, fazendo com que qualquer luz emitida pelo objeto pareça mais vermelha e mais escura, um efeito conhecido como desvio gravitacional para o vermelho. Por fim, o objeto em queda desaparece até não poder mais ser visto. Normalmente, esse processo acontece muito rapidamente, com um objeto desaparecendo da vista em menos de um segundo.
+Por outro lado, observadores indestrutíveis que caem em um buraco negro não percebem nenhum desses efeitos à medida que cruzam o horizonte de eventos. De acordo com seus próprios relógios, que lhes parecem marcar normalmente, eles cruzam o horizonte de eventos após um tempo finito sem notar nenhum comportamento singular; na relatividade geral clássica, é impossível determinar a localização do horizonte de eventos a partir de observações locais, devido ao princípio de equivalência de Einstein.
+A topologia do horizonte de eventos de um buraco negro é sempre aproximadamente esférica. Para buracos negros não rotativos (estáticos), a geometria do horizonte de eventos é precisamente esférica, enquanto para buracos negros rotativos o horizonte de eventos é oblato.
+
+Singularidade
+
+No centro de um buraco negro, conforme descrito pela relatividade geral, pode estar uma singularidade gravitacional, uma região onde a curvatura do espaço-tempo se torna infinita. Para um buraco negro não rotativo, essa região assume a forma de um único ponto e, para um buraco negro rotativo, é borrada para formar uma singularidade de anel que fica no plano de rotação. Nos dois casos, a região singular possui volume zero. Também pode ser mostrado que a região singular contém toda a massa da solução do buraco negro. A região singular pode assim ser pensada como tendo densidade infinita.
+Observadores que caem em um buraco negro de Schwarzschild (ou seja, que não são rotativos e não são carregados) não podem evitar serem transportados para a singularidade, uma vez que cruzam o horizonte de eventos. Eles podem prolongar a experiência acelerando para desacelerar sua descida, mas apenas até um limite. Quando atingem a singularidade, são esmagados em densidade infinita e sua massa é adicionada ao total do buraco negro. Antes que isso aconteça, eles serão dilacerados pelas crescentes forças das marés em um processo às vezes chamado de espaguetificação ou "efeito macarrão".
+No caso de um buraco negro carregado (Reissner–Nordström) ou rotativo (Kerr), é possível evitar a singularidade. Estender essas soluções o máximo possível revela a possibilidade hipotética de sair do buraco negro em um espaço-tempo diferente, com o buraco atuando como um buraco de minhoca. A possibilidade de viajar para outro universo é, no entanto, apenas teórica, pois qualquer perturbação destruiria essa possibilidade. Também parece ser possível seguir curvas fechadas de tipo tempo (retornando ao próprio passado) em torno da singularidade de Kerr, o que leva a problemas de causalidade como o paradoxo do avô. Espera-se que nenhum desses efeitos peculiares sobreviva em um tratamento quântico adequado de buracos negros rotativos e carregados.
+O aparecimento de singularidades na relatividade geral é geralmente percebido como sinalizador do colapso da teoria. Esse colapso, no entanto, é esperado; ocorre em uma situação em que os efeitos quânticos devem descrever essas ações, devido à densidade extremamente alta e, portanto, às interações de partículas. Até o momento, não foi possível combinar efeitos quânticos e gravitacionais em uma única teoria, embora existam tentativas de formular tal teoria da gravidade quântica. Geralmente, espera-se que tal teoria não apresente singularidades.
+
+Esfera de fótons
+
+A esfera de fótons é um limite esférico de espessura zero, na qual os fótons que se movem tangentes a essa esfera ficam presos em uma órbita circular em torno do buraco negro. Para buracos negros não rotativos, a esfera de fótons tem um raio de 1,5 vez o raio de Schwarzschild. Suas órbitas seriam dinamicamente instáveis, portanto, qualquer pequena perturbação, como uma partícula incidente de matéria, causaria uma instabilidade que aumentaria ao longo do tempo, colocando o fóton em uma trajetória externa, fazendo com que ele escapasse do buraco negro ou em uma espiral interior que o levaria a atravessar o horizonte de eventos em um dado momento.
+Embora a luz ainda possa escapar da esfera de fótons, qualquer luz que a atravesse em uma trajetória de entrada será capturada pelo buraco negro. Portanto, qualquer luz que alcance um observador externo da esfera de fótons deve ter sido emitida por objetos entre a esfera de fótons e o horizonte de eventos.
+
+Ergosfera
+
+Buracos negros em rotação são cercados por uma região do espaço-tempo na qual é impossível ficar parado, chamada de ergosfera. Este é o resultado de um processo conhecido como arrasto de referenciais; a relatividade geral prevê que qualquer massa em rotação tenderá a "arrastar" levemente ao longo do espaço-tempo imediatamente ao seu redor. Qualquer objeto próximo à massa rotativa tenderá a começar a se mover na direção da rotação. Para um buraco negro rotativo, esse efeito é tão forte perto do horizonte de eventos que um objeto precisaria se mover mais rápido que a velocidade da luz na direção oposta para ficar parado.
+A ergosfera de um buraco negro é um volume cujo limite interno é o horizonte de eventos esferoide do buraco negro e um limite externo em forma de abóbora, que coincide com o horizonte de eventos nos polos, mas notavelmente mais amplo ao redor do equador. O limite externo às vezes é chamado de ergossuperfície.
+Objetos e radiação podem escapar normalmente da ergosfera. Através do processo Penrose, os objetos podem emergir da ergosfera com mais energia do que entraram. Essa energia é retirada da energia rotacional do buraco negro, causando a desaceleração do último. Uma variação do processo Penrose na presença de fortes campos magnéticos, o processo Blandford-Znajek é considerado um mecanismo provável para a enorme luminosidade e jatos relativísticos de quasares e outros núcleos ativos de galáxias.
+
+Órbita circular estável mais interna (ISCO)
+Na gravidade newtoniana, as partículas de teste podem orbitar estavelmente a distâncias arbitrárias de um objeto central. Na relatividade geral, no entanto, existe uma órbita circular estável mais interna (frequentemente chamada de ISCO, sigla em inglês), dentro da qual quaisquer perturbações infinitesimais a uma órbita circular levarão as partículas a espiralar na direção do buraco negro. A localização do ISCO depende da rotação do buraco negro, no caso de um buraco negro de Schwarzschild (rotação zero) é:
+
+ 
+ 
+ 
+ 
+ r
+ 
+ i
+ s
+ c
+ o
+ 
+ 
+ =
+ 3
+ 
+ 
+ r
+ 
+ s
+ 
+ 
+ =
+ 
+ 
+ 
+ 6
+ 
+ G
+ M
+ 
+ 
+ c
+ 
+ 2
+ 
+ 
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+
+e diminui com o aumento da rotação do buraco negro para partículas que orbitam na mesma direção que a rotação.
+
+Formação e evolução
+
+Dado o caráter bizarro dos buracos negros, foi questionado há muito tempo se tais objetos poderiam realmente existir na natureza ou se eram apenas soluções patológicas para as equações de Einstein. O próprio Einstein pensou erroneamente que os buracos negros não se formariam, porque sustentava que o momento angular das partículas em colapso estabilizaria seus movimentos em algum raio. Isso levou a comunidade da relatividade geral a descartar todos os resultados contrários por muitos anos. No entanto, uma minoria de relativistas continuou a afirmar que os buracos negros eram objetos físicos.
+Penrose demonstrou que, uma vez que um horizonte de eventos se forme, a relatividade geral sem a mecânica quântica exige que uma singularidade se forme dentro. Logo depois, Hawking mostrou que muitas soluções cosmológicas que descrevem o Big Bang têm singularidades sem campos escalares ou outra matéria exótica (consulte teoremas da singularidade de Penrose-Hawking). A solução de Kerr, o teorema da calvície e as leis da termodinâmica dos buracos negros mostraram que as propriedades físicas dos buracos negros eram simples e compreensíveis, tornando-os assuntos respeitáveis para pesquisa. Buracos negros convencionais são formados pelo colapso gravitacional de objetos pesados, como estrelas, mas também podem, em teoria, ser formados por outros processos.
+
+Colapso gravitacional
+
+O colapso gravitacional ocorre quando a pressão interna de um objeto é insuficiente para resistir à sua própria gravidade. Para as estrelas, isso geralmente ocorre porque uma estrela tem muito pouco "combustível" para manter sua temperatura através da nucleossíntese estelar ou porque uma estrela que seria estável recebe matéria extra de uma maneira que não eleva sua temperatura central. Em ambos os casos, a temperatura da estrela não é mais alta o suficiente para impedir que ela entre em colapso com seu próprio peso. O colapso pode ser interrompido pela pressão de degenerescência dos constituintes da estrela, permitindo a condensação da matéria em um estado exótico mais denso. O resultado é um dos vários tipos de estrelas compactas. Quais tipos formam isso depende da massa remanescente da estrela original, deixada depois que as camadas externas foram removidas. Tais explosões e pulsações levam à nebulosa planetária. Essa massa pode ser substancialmente menor que a estrela original. Restos superiores a 5 massas solares são produzidos por estrelas com mais de 20 massas solares antes do colapso.
+
+Se a massa remanescente exceder cerca de 3–4 massas solares (o limite de Tolman-Oppenheimer-Volkoff), seja porque a estrela original era muito massiva ou porque a remanescente coletava massa adicional através da acumulação de matéria, até a pressão de degenerescência dos nêutrons é insuficiente para impedir o colapso. Nenhum mecanismo conhecido (exceto possivelmente a pressão de degeneração dos quarks, veja estrela de quarks) é poderoso o suficiente para parar a implosão e o objeto inevitavelmente entrará em colapso para formar um buraco negro.
+Presume-se que o colapso gravitacional de estrelas pesadas seja responsável pela formação de buracos negros de massa estelar. A formação de estrelas no universo primitivo pode ter resultado em estrelas muito massivas, que após o colapso teriam produzido buracos negros de até 10 massas solares. Esses buracos negros podem ser as sementes dos buracos negros supermassivos encontrados no centro da maioria das galáxias. Foi sugerido ainda que buracos negros supermassivos com massas típicas de ~ 10 massas solares poderiam ter se formado a partir do colapso direto das nuvens de gás na fase inicial do universo. Alguns candidatos a esses objetos foram encontrados em observações do universo jovem.
+Enquanto a maior parte da energia liberada durante o colapso gravitacional é emitida muito rapidamente, um observador externo na verdade não vê o fim desse processo. Embora o colapso leve uma quantidade finita de tempo a partir do referencial da matéria que cai em direção ao buraco negro, um observador distante verá essa matéria lenta e parada logo acima do horizonte de eventos, devido à dilatação do tempo gravitacional. A luz da matéria em colapso leva cada vez mais tempo para chegar ao observador, com a luz emitida pouco antes da formação do horizonte de eventos atrasar uma quantidade infinita de tempo. Assim, o observador externo nunca vê a formação do horizonte de eventos; em vez disso, a matéria em colapso parece ficar mais escura e cada vez mais deslocada para o vermelho, até que desapareça.
+
+Buracos negros primordiais e o Big Bang
+O colapso gravitacional requer grande densidade. Na época atual do universo, essas altas densidades são encontradas apenas nas estrelas, mas no universo inicial, logo após o Big Bang as densidades eram muito maiores, possivelmente permitindo a criação de buracos negros. A alta densidade por si só não é suficiente para permitir a formação de buracos negros, uma vez que uma distribuição uniforme de massa não permitirá que ela se agrupe. Para que os buracos negros primordiais se formassem em um meio tão denso, deve ter havido perturbações iniciais na densidade que poderiam então crescer sob sua própria gravidade. Diferentes modelos para o universo primitivo variam amplamente em suas previsões da escala dessas flutuações. Vários modelos preveem a criação de buracos negros primordiais, variando em tamanho, de uma massa de Planck a centenas de milhares de massas solares.
+Apesar de o universo primitivo ser extremamente denso (muito mais denso do que normalmente é necessário para formar um buraco negro), ele não voltou a colapsar em um buraco negro durante o Big Bang. Modelos para o colapso gravitacional de objetos de tamanho relativamente constante, como estrelas, não se aplicam necessariamente da mesma maneira à rápida expansão do espaço, como o Big Bang.
+
+Colisões de alta energia
+
+O colapso gravitacional não é o único processo que pode criar buracos negros. Em princípio, buracos negros podem ser formados em colisões de alta energia que atingem densidade suficiente. A partir de 2002, nenhum desses eventos foi detectado, direta ou indiretamente, como uma deficiência do balanço de massa em experimentos com aceleradores de partículas. Isso sugere que deve haver um limite inferior para a massa de buracos negros. Teoricamente, espera-se que esse limite esteja ao redor da massa de Planck, onde se espera que efeitos quânticos invalidem as previsões da relatividade geral. Isso colocaria a criação de buracos negros firmemente fora do alcance de qualquer processo de alta energia que ocorra na Terra ou próximo a ela. No entanto, certos desenvolvimentos na gravidade quântica sugerem que a massa de Planck poderia ser muito menor: alguns cenários do mundo das P-branas, por exemplo, colocam a fronteira tão baixa quanto 1 TeV/c2. Isso tornaria possível a criação de microburacos negros nas colisões de alta energia que ocorrem quando os raios cósmicos atingem a atmosfera da Terra, ou possivelmente no Large Hadron Collider do CERN. Essas teorias são muito especulativas e a criação de buracos negros nesses processos é considerada improvável por muitos especialistas. Mesmo que microburacos negros pudessem ser formados, espera-se que eles evaporassem em cerca de 10 25 segundos, não ameaçando a Terra.
+
+Crescimento
+Depois que um buraco negro se forma, ele pode continuar a crescer absorvendo matéria adicional. Qualquer buraco negro absorve continuamente gás e poeira interestelar de seus arredores. Esse é o processo principal pelo qual os buracos negros supermassivos parecem ter crescido. Um processo semelhante foi sugerido para a formação de buracos negros de massa intermediária encontrados em aglomerados globulares. Os buracos negros também podem se fundir com outros objetos, como estrelas ou até outros buracos negros. Pensa-se que isso tenha sido importante, especialmente no crescimento inicial de buracos negros supermassivos, que poderiam ter se formado a partir da agregação de muitos objetos menores. O processo também foi proposto como a origem de alguns buracos negros de massa intermediária.
+
+Evaporação
+
+Em 1974, Hawking previu que os buracos negros não são totalmente negros, mas emitem pequenas quantidades de radiação térmica; esse efeito ficou conhecido como radiação Hawking. Ao aplicar a teoria quântica de campos a um fundo estático de um buraco negro, ele determinou que um buraco negro deveria emitir partículas que exibissem uma radiação de corpo negro. Desde a publicação de Hawking, muitos outros verificaram o resultado através de várias abordagens. Se a teoria de Hawking da radiação do buraco negro estiver correta, espera-se que os buracos negros encolham e evaporem com o tempo, à medida que perdem massa pela emissão de fótons e outras partículas. A temperatura desse espectro térmico (temperatura de Hawking) é proporcional à gravidade na superfície do buraco negro, que, para um buraco negro de Schwarzschild, é inversamente proporcional à massa. Portanto, grandes buracos negros emitem menos radiação do que pequenos buracos negros.
+Um buraco negro estelar de 1 massa solar tem uma temperatura Hawking de 62 nanokelvins. Isso é muito menor do que os 2,7 kelvins da temperatura da radiação cósmica de fundo de micro-ondas. Buracos negros de massa estelar ou maior recebem mais massa do fundo cósmico de micro-ondas do que emitem pela radiação Hawking e, portanto, crescerão em vez de encolher. Para ter uma temperatura Hawking maior que 2,7 K (e conseguir evaporar), um buraco negro precisaria de uma massa menor que a da Lua. Tal buraco negro teria um diâmetro menor que um décimo de milímetro.
+Se um buraco negro é muito pequeno, espera-se que os efeitos da radiação se tornem muito fortes. Um buraco negro com a massa de um carro teria um diâmetro de cerca de 10 24 m e levaria um nanossegundo para evaporar, período durante o qual teria brevemente uma luminosidade superior a 200 vezes a do Sol. Espera-se que os buracos negros de menor massa evaporem ainda mais rápido; por exemplo, um buraco negro de massa 1 TeV / c 2 levaria menos de 10 88 segundos para evaporar completamente. Para um buraco negro tão pequeno, espera-se que os efeitos da gravitação quântica desempenhem um papel importante e possam hipoteticamente tornar estável um buraco negro tão pequeno, embora os desenvolvimentos atuais na gravidade quântica não indiquem que esse seja o caso.
+Prevê-se que a radiação Hawking para um buraco negro astrofísico seja muito fraca e, portanto, seria extremamente difícil de detectar a partir da Terra. Uma possível exceção, no entanto, é a explosão de raios gama emitida no último estágio da evaporação de buracos negros primordiais. As pesquisas por esses flashes não tiveram êxito e fornecem limites rigorosos à possibilidade de existência de buracos negros primordiais de baixa massa. O Telescópio Espacial Fermi de raios gama da NASA, lançado em 2008, continuará a busca por esses flashes.
+Se os buracos negros evaporarem por meio da radiação Hawking, um buraco negro de massa solar evaporará (começando quando a temperatura do fundo cósmico de micro-ondas cair abaixo da temperatura do buraco negro) durante um período de 1064 anos. Um buraco negro supermassivo com uma massa de 1011 (100 bilhões) M evaporará em cerca de 210100 anos. Prevê-se que alguns buracos negros monstruosos no universo continuem a crescer até 1014 M durante o colapso dos superaglomerados de galáxias. Mesmo estes evaporariam em uma escala de tempo de até 10106 anos.
+
+Evidência observacional
+
+Por natureza, os próprios buracos negros não emitem nenhuma radiação eletromagnética além da hipotética radiação Hawking, de modo que os astrofísicos que procuram buracos negros geralmente devem confiar em observações indiretas. Por exemplo, a existência de um buraco negro às vezes pode ser inferida observando sua influência gravitacional sobre o ambiente ao redor dele.
+
+O Event Horizon Telescope (EHT), administrado pelo Haystack Observatory do MIT, é um programa ativo que observa diretamente o ambiente imediato do horizonte de eventos dos buracos negros, como o buraco negro no centro da Via Láctea. Em abril de 2017, o EHT iniciou a observação do buraco negro no centro de Messier 87. "No total, oito observatórios de rádio em seis montanhas e quatro continentes observaram a galáxia em Virgo por 10 dias em abril de 2017" para fornecer os dados que renderam a imagem dois anos depois, em abril de 2019. Após dois anos de processamento de dados, a EHT divulgou a primeira imagem direta de um buraco negro, especificamente o buraco negro supermassivo que fica no centro da galáxia acima mencionada. O que é visível não é o buraco negro, que se mostra preto por causa da perda de toda a luz nessa região escura, mas sim os gases na borda do horizonte de eventos, exibidos em laranja ou vermelho, que definem a forma do buraco negro.
+Pensa-se que o brilho deste material na metade 'inferior' da imagem EHT processada é causado pelo efeito Doppler, pelo qual o material que se aproxima do espectador a velocidades relativísticas é percebido como mais brilhante do que o material que se afasta. No caso de um buraco negro, esse fenômeno implica que o material visível está girando a velocidades relativísticas (>1 000 km/s), as únicas velocidades nas quais é possível equilibrar centrifugamente a imensa atração gravitacional da singularidade e, assim, permanecer em órbita acima do horizonte de eventos. Essa configuração de material brilhante implica que o EHT observou o M87 * de uma perspectiva que captura o disco de acreção do buraco negro quase de ponta a ponta, enquanto todo o sistema girava no sentido horário.
+Antes disso, em 2015, o EHT detectou campos magnéticos fora do horizonte de eventos de Sagitário A* e até discerniu algumas de suas propriedades. As linhas de campo que passam pelo disco de acreção foram consideradas uma mistura complexa de ordenadas e emaranhadas. A existência de campos magnéticos havia sido prevista por estudos teóricos de buracos negros.
+
+Detecção de ondas gravitacionais da fusão de buracos negros
+
+Em 14 de setembro de 2015, o observatório de ondas gravitacionais LIGO fez a primeira observação direta bem-sucedida de ondas gravitacionais. O sinal foi consistente com as previsões teóricas para as ondas gravitacionais produzidas pela fusão de dois buracos negros: um com cerca de 36 massas solares e o outro com 29 massas solares.
+Mais importante, o sinal observado pelo LIGO também incluiu o início do toque pós-fusão, o sinal produzido quando um objeto compacto recém-formado se estabiliza em um estado estacionário. Indiscutivelmente, o toque é a maneira mais direta de observar um buraco negro. A partir do sinal LIGO, é possível extrair a frequência e o tempo de amortecimento do modo dominante do toque. A partir disso, é possível inferir a massa e o momento angular do objeto final, que correspondem a previsões independentes a partir de simulações numéricas da fusão. A frequência e o tempo de decaimento do modo dominante são determinados pela geometria da esfera de fótons. Portanto, a observação desse modo confirma a presença de uma esfera de fótons, no entanto, não pode excluir possíveis alternativas exóticas aos buracos negros que são compactos o suficiente para ter uma esfera de fótons.
+A observação também fornece a primeira evidência observacional da existência de buracos negros binários de massa estelar. Além disso, é a primeira evidência observacional de buracos negros de massa estelar pesando 25 massas solares ou mais.
+Em 15 de junho de 2016, foi anunciada uma segunda detecção de um evento de onda gravitacional em colisão de buracos negros e outros eventos de ondas gravitacionais foram observados desde então.
+
+Movimentos de estrelas orbitando Sagitário A*
+
+Os movimentos de algumas estrelas próximas do centro da Via Láctea fornecem fortes evidências observacionais de que essas estrelas estejam orbitando um buraco negro supermassivo. Desde 1995, os astrônomos acompanham os movimentos de 90 estrelas que orbitam um objeto invisível coincidente com a fonte de rádio Sagitário A*. Ao ajustar suas trajetórias a órbitas keplerianas, os astrônomos foram capazes de inferir, em 1998, que um objeto de 2,6 milhões de massas solares deve ser contido num volume com um raio de 0,02 anos-luz para fazer os movimentos das referidas estrelas. Desde então, uma das estrelas — chamada S2 — completou uma órbita completa. A partir dos dados orbitais, os astrônomos foram capazes de refinar os cálculos da massa de 4,3 milhões de massas solares e um raio de menos de 0,002 anos-luz para o objeto causar o movimento orbital dessas estrelas. O limite superior no tamanho do objeto ainda é muito grande para testar se é menor que o raio de Schwarzschild; no entanto, essas observações sugerem fortemente que o objeto central é um buraco negro supermassivo, pois não há outros cenários plausíveis para confinar tanta massa invisível em um volume tão pequeno. Além disso, existem algumas evidências observacionais de que esse objeto pode possuir um horizonte de eventos, um recurso exclusivo dos buracos negros.
+
+Acreção de matéria
+
+Devido à conservação do momento angular, o gás que cai no poço gravitacional criado por um objeto maciço geralmente forma uma estrutura semelhante a um disco ao redor do objeto. As impressões de artistas, como a representação que acompanha um buraco negro com uma coroa, geralmente descrevem o buraco negro como se fosse um corpo de espaço plano escondendo a parte do disco logo atrás dele, mas, na realidade, as lentes gravitacionais distorceriam bastante a imagem do disco de acreção do buraco negro.
+Dentro desse disco, o atrito faria com que o momento angular fosse transportado para fora, permitindo que a matéria caísse ainda mais para dentro, liberando energia potencial e aumentando a temperatura do gás.
+Quando o objeto acumulador é uma estrela de nêutrons ou um buraco negro, o gás no disco interno de acumulação orbita em velocidades muito altas devido à sua proximidade com o objeto compacto. O atrito resultante é tão significativo que aquece o disco interno a temperaturas nas quais emite grandes quantidades de radiação eletromagnética (principalmente raios X). Essas fontes brilhantes de raios-X podem ser detectadas por telescópios. Esse processo de acreção é um dos processos de produção de energia mais eficientes conhecidos; até 40% da massa restante do material acumulado pode ser emitida como radiação. (Na fusão nuclear, apenas cerca de 0,7% da massa restante será emitida como energia.) Em muitos casos, os discos de acreção são acompanhados por jatos relativísticos emitidos ao longo dos polos, que consomem grande parte da energia. O mecanismo para a criação desses jatos atualmente não é bem conhecido, em parte devido a dados insuficientes.
+Como tal, muitos dos fenômenos mais energéticos do universo foram atribuídos à acumulação de matéria nos buracos negros. Em particular, acredita-se que núcleos e quasares galácticos ativos sejam os discos de acreção de buracos negros supermassivos. Da mesma forma, os binários de raios-X são geralmente aceitos como sistemas estelares binários nos quais uma das duas estrelas é um objeto compacto que agrega matéria de seu companheiro. Também foi sugerido que algumas fontes de raios X ultraluminosas podem ser os discos de acreção de buracos negros de massa intermediária.
+Em novembro de 2011, foi relatada a primeira observação direta de um disco de acreção de um quasar ao redor de um buraco negro supermassivo.
+
+Binários de raio-X
+
+Os binários de raios-X são sistemas estelares binários que emitem a maior parte de sua radiação na forma de raios-X do espectro. Pensa-se que essas emissões de raios-X resultem quando uma das estrelas (objeto compacto) acumula matéria de outra estrela (regular). A presença de uma estrela comum em tal sistema oferece uma oportunidade para estudar o objeto central e determinar se ele pode ser um buraco negro.
+Se esse sistema emitir sinais que podem ser rastreados diretamente de volta ao objeto compacto, não poderá ser um buraco negro. A ausência de tal sinal, no entanto, não exclui a possibilidade de o objeto compacto ser uma estrela de nêutrons. Ao estudar a estrela companheira, muitas vezes é possível obter os parâmetros orbitais do sistema e uma estimativa da massa do objeto compacto. Se for muito maior que o limite de Tolman-Oppenheimer-Volkoff (a massa máxima que uma estrela pode ter sem desmoronar), então o objeto não pode ser uma estrela de nêutrons e geralmente se espera que seja um buraco negro.
+O primeiro forte candidato a um buraco negro, Cygnus X-1, foi descoberto por Charles Thomas Bolton, Louise Webster e Paul Murdin em 1972. Alguma dúvida, no entanto, permaneceu devido às incertezas resultantes da estrela companheira ser muito mais pesada que o buraco negro candidato. Atualmente, melhores candidatos a buracos negros são encontrados em uma classe de binários de raios-X chamados transientes de raios-X moles. Nesta classe de sistema, a estrela companheira é de massa relativamente baixa, permitindo estimativas mais precisas da massa do buraco negro. Além disso, esses sistemas emitem ativamente raios X por apenas alguns meses, uma vez a cada 10 a 50 anos. Durante o período de baixa emissão de raios X (chamado quiescência), o disco de acreção é extremamente fraco, permitindo observação detalhada da estrela companheira durante esse período. Um dos melhores candidatos é o V404 Cygni.
+
+Quiescência e fluxo de acreção dominado por advecção
+Suspeita-se que a fraqueza do disco de acréscimo de um binário de raios-X durante a inatividade seja causada pelo fluxo de massa que entra em um modo chamado fluxo de acreção dominado por advecção (ADAF, sigla em inglês). Nesse modo, quase toda a energia gerada pelo atrito no disco é varrida junto com o fluxo, em vez de ser irradiada. Se esse modelo estiver correto, ele formará fortes evidências qualitativas para a presença de um horizonte de eventos, porque, se o objeto no centro do disco tivesse uma superfície sólida, ele emitiria grandes quantidades de radiação como gás altamente energético. atinge a superfície, um efeito observado para estrelas de nêutrons em um estado semelhante.
+Às vezes, as emissões de raios-X dos discos de acúmulo piscam em determinadas frequências. Esses sinais são chamados de oscilações quase periódicas e acredita-se que sejam causados pelo movimento do material ao longo da borda interna do disco de acreção (a órbita circular estável mais interna). Como tal, sua frequência está ligada à massa do objeto compacto. Assim, eles podem ser usados como uma maneira alternativa de determinar a massa de buracos negros candidatos.
+
+Núcleos galácticos
+
+Os astrônomos usam o termo "galáxia ativa" para descrever galáxias com características incomuns, como emissão de linhas espectrais incomuns e emissão de rádio muito forte. Estudos teóricos e observacionais mostraram que a atividade nesses núcleos galácticos ativos (AGN, sigla em inglês) pode ser explicada pela presença de buracos negros supermassivos, que podem ser milhões de vezes mais massivos que os estelares.
+Os modelos desses AGN consistem em um buraco negro central que pode ser milhões ou bilhões de vezes mais massivo que o Sol; um disco de gás e poeira chamado disco de acreção; e dois jatos perpendiculares ao disco de acreção.
+Embora se espere encontrar buracos negros supermassivos na maioria dos AGN, apenas os núcleos de algumas galáxias foram estudados com mais cuidado na tentativa de identificar e medir as massas reais dos candidatos a buracos negros supermassivos centrais. Algumas das galáxias mais notáveis com candidatos a buracos negros supermassivos incluem a Galáxia de Andrômeda, M32, M87, NGC 3115, NGC 3377, NGC 4258, NGC 4889, NGC 1277, OJ 287, APM 08279 + 5255 e a Galáxia do Sombreiro.
+Hoje é amplamente aceito que o centro de quase todas as galáxias, não apenas as ativas, contém um buraco negro supermassivo. A estreita correlação observacional entre a massa desse buraco e a dispersão da velocidade da protuberância da galáxia hospedeira, conhecida como relação M-sigma, sugere fortemente uma conexão entre a formação do buraco negro e a própria galáxia.
+
+Microlente (proposto)
+
+Outra maneira de testar a natureza de um buraco negro no futuro é através da observação de efeitos causados por um forte campo gravitacional nas proximidades. Um desses efeitos é a lente gravitacional: a deformação do espaço-tempo em torno de um objeto maciço faz com que os raios de luz sejam desviados tanto quanto a luz que passa através de uma lente óptica. Foram feitas observações de lentes gravitacionais fracas, nas quais os raios de luz são desviados em apenas alguns segundos de arco. No entanto, nunca foi observado diretamente para um buraco negro. Uma possibilidade para observar as lentes gravitacionais por um buraco negro seria observar estrelas em órbita ao redor do buraco negro. Existem vários candidatos para essa observação em órbita em torno de Sagitário A*.
+
+Alternativas
+
+A evidência para buracos negros estelares depende fortemente da existência de um limite superior para a massa de uma estrela de nêutrons. O tamanho desse limite depende muito das suposições feitas sobre as propriedades da matéria densa. Novas fases exóticas da matéria poderiam elevar esse limite. Uma fase de quarks livres em alta densidade pode permitir a existência de estrelas quark densas e alguns modelos supersimétricos preveem a existência de estrelas Q. Algumas extensões do modelo padrão postulam a existência de préons como blocos fundamentais de quarks e leptons, que poderiam hipoteticamente formar estrelas de préon. Esses modelos hipotéticos poderiam potencialmente explicar uma série de observações de candidatos a buracos negros estelares. No entanto, pode ser demonstrado a partir de argumentos na relatividade geral que qualquer objeto desse tipo terá uma massa máxima.
+Como a densidade média de um buraco negro dentro de seu raio de Schwarzschild é inversamente proporcional ao quadrado de sua massa, os buracos negros supermassivos são muito menos densos que os buracos negros estelares (a densidade média de 108 massas solares de um buraco negro é comparável com a da água). Consequentemente, a física da matéria que forma um buraco negro supermassivo é muito melhor compreendida e as possíveis explicações alternativas para observações de um buraco negro supermassivo são muito mais mundanas. Por exemplo, um buraco negro supermassivo pode ser modelado por um grande aglomerado de objetos muito escuros. No entanto, essas alternativas geralmente não são estáveis o suficiente para explicar os candidatos a buracos negros supermassivos.
+A evidência da existência de buracos negros estelares e supermassivos implica que, para que os buracos negros não se formem, a relatividade geral deve falhar como uma teoria da gravidade, talvez devido ao início de correções mecânicas quânticas. Uma característica muito antecipada de uma teoria da gravidade quântica é que ela não apresentará singularidades ou horizontes de eventos e, portanto, os buracos negros não seriam artefatos reais. Por exemplo, no modelo de fuzzball baseado na teoria das cordas, os estados individuais de uma solução de buraco negro geralmente não têm horizonte de eventos ou singularidade, mas para um observador clássico/semiclássico, a média estatística de tais estados aparece como um ordinário buraco negro deduzido da relatividade geral.
+Alguns objetos teóricos foram conjecturados para corresponder às observações de candidatos astronômicos a buracos negros de forma idêntica ou quase idêntica, mas que funcionam por meio de um mecanismo diferente. Isso inclui a gravastar, a estrela negra e a estrela de energia escura.
+
+Perguntas em aberto
+
+Entropia e termodinâmica
+
+Em 1971, Hawking mostrou em condições gerais que a área total dos horizontes de eventos de qualquer coleção de buracos negros clássicos nunca pode diminuir, mesmo que colidam e se fundam. Esse resultado, agora conhecido como a segunda lei da mecânica dos buracos negros, é notavelmente semelhante à segunda lei da termodinâmica, que afirma que a entropia total de um sistema isolado nunca pode diminuir. Assim como os objetos clássicos em temperatura zero absoluta, assumiu-se que os buracos negros tinham entropia zero. Se fosse esse o caso, a segunda lei da termodinâmica seria violada pela matéria carregada de entropia entrando em um buraco negro, resultando em uma diminuição da entropia total do universo. Portanto, Bekenstein propôs que um buraco negro deveria ter uma entropia e ser proporcional à sua área do horizonte.
+O vínculo com as leis da termodinâmica foi reforçado pela descoberta de Hawking de que a teoria quântica de campos prevê que um buraco negro irradia radiação do corpo negro a uma temperatura constante. Aparentemente, isso causa uma violação da segunda lei da mecânica dos buracos negros, uma vez que a radiação retira energia do buraco negro, causando seu encolhimento. A radiação, no entanto, também elimina a entropia e pode-se provar, sob suposições gerais, que a soma da entropia da matéria em torno de um buraco negro e um quarto da área do horizonte, medida em unidades de Planck, está sempre aumentando. Isso permite a formulação da primeira lei da mecânica dos buracos negros como um análogo da primeira lei da termodinâmica, com a massa atuando como energia, a gravidade na superfície como temperatura e a área como entropia.
+Uma característica intrigante é que a entropia de um buraco negro escala com sua área e não com seu volume, uma vez que a entropia é normalmente uma quantidade extensa que escala linearmente com o volume do sistema. Essa propriedade estranha levou Gerard 't Hooft e Leonard Susskind a propor o princípio holográfico, o que sugere que tudo o que acontece em um volume do espaço-tempo que pode ser descrito por dados na fronteira desse volume.
+Embora a relatividade geral possa ser usada para realizar um cálculo semiclássico da entropia do buraco negro, essa situação é teoricamente insatisfatória. Na mecânica estatística, a entropia é entendida como a contagem do número de configurações microscópicas de um sistema que possui as mesmas qualidades macroscópicas (como massa, carga, pressão etc.) Sem uma teoria satisfatória da gravidade quântica, não se pode realizar tal cálculo para buracos negros. Algum progresso foi feito em várias abordagens da gravidade quântica. Em 1995, Andrew Strominger e Cumrun Vafa mostraram que a contagem dos microestados de um buraco negro supersimétrico específico na teoria das cordas reproduzia a entropia de Bekenstein-Hawking. Desde então, resultados semelhantes foram relatados para diferentes buracos negros, tanto na teoria das cordas quanto em outras abordagens da gravidade quântica, como a gravidade quântica em loop.
+
+Paradoxo da perda de informações
+
+Como um buraco negro possui apenas alguns parâmetros internos, a maioria das informações sobre a matéria que foi usada para formar o buraco negro é perdida. Independentemente do tipo de matéria que entra em um buraco negro, parece que apenas as informações relativas à massa total, carga e momento angular são conservadas. Enquanto se pensava que os buracos negros persistissem para sempre, essa perda de informação não é tão problemática, pois pode-se pensar que a informação existe dentro do buraco negro, inacessível do lado de fora, mas representada no horizonte de eventos de acordo com o princípio holográfico. No entanto, os buracos negros evaporam lentamente emitindo radiação Hawking. Essa radiação parece não conter nenhuma informação adicional sobre o assunto que formou o buraco negro, o que significa que essa informação parece ter desaparecido para sempre.
+A questão de saber se a informação é realmente perdida nos buracos negros (o paradoxo da informação sobre os buracos negros) dividiu a comunidade teórica da física. Na mecânica quântica, a perda de informações corresponde à violação de propriedades vitais denominada unitariedade, que tem a ver com a conservação da probabilidade. Argumentou-se que a perda de unidade também implicaria violação da conservação de energia. Nos últimos anos, foram construídas evidências de que, de fato, a informação e a unitariedade são preservadas em um tratamento gravitacional quântico completo do problema.
+
+Paradoxo do firewall
+De acordo com a teoria quântica de campos no espaço-tempo curvo, uma única emissão de radiação Hawking envolve duas partículas mutuamente entrelaçadas. A partícula de saída escapa e é emitida como um quantum de radiação Hawking; a partícula que se dirige ao buraco negro é engolida por ele. Suponha que um buraco negro formou um tempo finito no passado e evapore completamente em algum tempo finito no futuro. Então, ele emitirá apenas uma quantidade finita de informações codificadas dentro da radiação Hawking. Suponha que no momento 
+ 
+ 
+ 
+ t
+ 
+ 
+ 
+ 
+, mais da metade das informações já foram emitidas. De acordo com pesquisas amplamente aceitas por físicos como Don Page e Leonard Susskind, uma partícula emitida no momento 
+ 
+ 
+ 
+ t
+ 
+ 
+ 
+ 
+ deve estar emaranhada com toda a radiação Hawking que o buraco negro emitiu anteriormente. Isso cria um paradoxo: um princípio chamado "monogamia do enredamento" exige que, como qualquer sistema quântico, a partícula que sai não possa ser totalmente enredada com dois sistemas independentes ao mesmo tempo; no entanto, aqui a partícula de saída parece estar enredada tanto com a partícula que entra quanto, independentemente, com a radiação Hawking do passado.
+Para resolver o paradoxo, os físicos podem eventualmente ser forçados a desistir de uma das três teorias testadas pelo tempo: princípio da equivalência de Einstein, unitariedade ou teoria quântica de campos existente. Uma solução possível, que viola o princípio da equivalência, é que uma parede de fogo ("firewall") destrói as partículas recebidas no horizonte de eventos. Uma análise de 2016 dos dados do LIGO mostra sinais experimentais de ecos causados por um horizonte de eventos nebulosos; esses ecos podem ser possíveis nas teorias do firewall ou do fuzzball, mas não devem ocorrer na relatividade geral clássica.

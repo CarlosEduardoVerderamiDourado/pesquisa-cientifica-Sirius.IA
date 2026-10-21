@@ -1,0 +1,857 @@
+Gödel's ontological proof
+
+Gödel's ontological proof is a formal argument by the mathematician Kurt Gödel (1906–1978) for the existence of God. The argument is in a line of development that goes back to Anselm of Canterbury (1033–1109). St. Anselm's ontological argument, in its most succinct form, is as follows: God, if He does exist, is that than which no greater can be conceived. God exists in the understanding. If God exists in the understanding, we could imagine Him to be greater by existing in reality. Therefore, God must exist. A more elaborate version was given by Gottfried Leibniz (1646–1716); this is the version that Gödel studied and attempted to clarify with his ontological argument.
+The argument uses modal logic, which deals with statements about what is necessarily true or possibly true. From the axioms that a property can only be positive if not-having-it is not positive, and that properties implied by a positive property must all also be themselves positive, it concludes that (since positive properties do not involve contradiction) for any positive property, there is possibly a being that instantiates it. It defines God as the being instantiating all positive properties. After defining what it means for a property to be "the essence" of something (the one property that necessarily implies all its other properties), it concludes that God's instantiation of all positive properties must be the essence of God. After defining a property of "necessary existence" and taking it as an axiom that it is positive, the argument concludes that, since God must have this property, God must exist necessarily.
+
+History
+Gödel left a fourteen-point outline of his philosophical beliefs in his papers. Points relevant to the ontological proof include:
+
+4. There are other worlds and rational beings of a different and higher kind.
+5. The world in which we live is not the only one in which we shall live or have lived.
+13. There is a scientific (exact) philosophy and theology, which deals with concepts of the highest abstractness; and this is also most highly fruitful for science.
+14. Religions are, for the most part, bad—but religion is not.
+The first version of the ontological proof in Gödel's papers is dated "around 1941". Gödel is not known to have told anyone about his work on the proof until 1970, when he thought he was dying. In February, he allowed Dana Scott to copy out a version of the proof, which circulated privately. In August 1970, Gödel told Oskar Morgenstern that he was "satisfied" with the proof, but Morgenstern recorded in his diary entry for 29 August 1970, that Gödel would not publish because he was afraid that others might think "that he actually believes in God, whereas he is only engaged in a logical investigation (that is, in showing that such a proof with classical assumptions (completeness, etc.) correspondingly axiomatized, is possible)." Gödel died January 14, 1978. Another version, slightly different from Scott's, was found in his papers. It was finally published, together with Scott's version, in 1987.
+In letters to his mother, who was not a churchgoer and had raised Kurt and his brother as freethinkers, Gödel argued at length for a belief in an afterlife. He did the same in an interview with a skeptical Hao Wang, who said: "I expressed my doubts as G spoke [...] Gödel smiled as he replied to my questions, obviously aware that his answers were not convincing me." Wang reports that Gödel's wife, Adele, two days after Gödel's death, told Wang that "Gödel, although he did not go to church, was religious and read the Bible in bed every Sunday morning." In an unmailed answer to a questionnaire, Gödel described his religion as "baptized Lutheran (but not member of any religious congregation). My belief is theistic, not pantheistic, following Leibniz rather than Spinoza."
+
+Outline
+The proof uses modal logic, which distinguishes between necessary truths and contingent truths. In the most common semantics for modal logic, many "possible worlds" are considered. A truth is necessary if it is true in all possible worlds. By contrast, if a statement happens to be true in our world, but is false in another world, then it is a contingent truth. A statement that is true in some world (not necessarily our own) is called a possible truth.
+Furthermore, the proof uses higher-order (modal) logic because the definition of God employs an explicit quantification over properties.
+First, Gödel axiomatizes the notion of a "positive property": for each property , either or its negation must be positive, but not both (axiom 2). If a positive property implies a property in each possible world, then is positive, too (axiom 1). Gödel then argues that each positive property is "possibly exemplified", i.e. applies at least to some object in some world (theorem 1). Defining an object to be Godlike if it has all positive properties (definition 1), and requiring that property to be positive itself (axiom 3), Gödel shows that in some possible world a Godlike object exists (theorem 2), called "God" in the following. Gödel proceeds to prove that a Godlike object exists in every possible world.
+To this end, he defines essences: if x is an object in some world, then a property is said to be an essence of x if (x) is true in that world and if necessarily entails all other properties that x has in that world (definition 2). Requiring positive properties being positive in every possible world (axiom 4), Gödel can show that Godlikeness is an essence of a Godlike object (theorem 3). Now, x is said to exist necessarily if, for every essence of x, there is an element y with property in every possible world (definition 3). Axiom 5 requires necessary existence to be a positive property.
+Hence, it must follow from Godlikeness. Moreover, Godlikeness is an essence of God, since it entails all positive properties, and any non-positive property is the negation of some positive property, so God cannot have any non-positive properties. Since necessary existence is also a positive property (axiom 5), it must be a property of every Godlike object, as every Godlike object has all the positive properties (definition 1). Since any Godlike object is necessarily existent, it follows that any Godlike object in one world is a Godlike object in all worlds, by the definition of necessary existence. Given the existence of a Godlike object in one world, proven above, we may conclude that there is a Godlike object in every possible world, as required (theorem 4). Besides axiom 1-5 and definition 1–3, a few other axioms from modal logic were tacitly used in the proof.
+From these hypotheses, it is also possible to prove that there is only one God in each world by Leibniz's law, the identity of indiscernibles: two or more objects are identical (the same) if they have all their properties in common, and so, there would only be one object in each world that possesses property G. Gödel did not attempt to do so however, as he purposely limited his proof to the issue of existence, rather than uniqueness.
+
+Argument
+The following is the original argument in symbolic notation, then an explanation of each individual symbol used, and then a translation into English of the full argument.
+
+Original formal argument
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ax. 1.
+ 
+ 
+ 
+ 
+ (
+ 
+ P
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ (
+ 
+ (
+ x
+ )
+ 
+ 
+ (
+ x
+ )
+ )
+ 
+ )
+ 
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+ 
+ 
+ Ax. 2.
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+ 
+ 
+ Th. 1.
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+ 
+ Df. 1.
+ 
+ 
+ 
+ G
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+ 
+ (
+ P
+ 
+ 
+ 
+ (
+ x
+ )
+ )
+ 
+ 
+ 
+ 
+ 
+ Ax. 3.
+ 
+ 
+ 
+ P
+ (
+ G
+ )
+ 
+ 
+ 
+ 
+ 
+ Th. 2.
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ G
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+ 
+ Df. 2.
+ 
+ 
+ 
+ 
+ 
+ ess 
+ 
+ x
+ 
+ 
+ 
+ 
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+ (
+ 
+ 
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+ y
+ (
+ 
+ (
+ y
+ )
+ 
+ 
+ (
+ y
+ )
+ )
+ 
+ )
+ 
+ 
+ 
+ 
+ 
+ 
+ Ax. 4.
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+ 
+ 
+ Th. 3.
+ 
+ 
+ 
+ G
+ (
+ x
+ )
+ 
+ 
+ 
+ G
+ 
+ ess 
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ Df. 3.
+ 
+ 
+ 
+ E
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+ 
+ (
+ 
+ 
+ ess 
+ 
+ x
+ 
+ 
+ 
+ 
+ y
+ 
+ 
+ (
+ y
+ )
+ )
+ 
+ 
+ 
+ 
+ 
+ Ax. 5.
+ 
+ 
+ 
+ P
+ (
+ E
+ )
+ 
+ 
+ 
+ 
+ 
+ Th. 4.
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ G
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Translation of individual symbols
+Common notation in symbolic logic:
+
+ 
+ 
+ 
+ 
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+: "Object 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ has property 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+" (notation for first-order predicates)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+: "implies" (material implication)
+
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+: "For every 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+", or "for all 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+" (universal quantifier)
+
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+: "There exists an 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+", or "for some 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+" (existential quantifier)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+: "The negation of 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+" (i.e., not 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+)
+Modal operators (used in modal logic):
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+: "It is possible that...", or, "in at least one possible world, it is true that..." (modal operator for possibility)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+: "It is necessary that...", or, "in all possible worlds, it is true that..." (modal operator for necessity)
+Primitive predicate in this argument:
+
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+ 
+: "Property 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ is positive" (since it applies to properties, "being positive" is a second-order property)
+Derived predicates (defined in terms of other predicates within the argument):
+
+ 
+ 
+ 
+ G
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+: "
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ is God-like". (Definition 1)
+
+ 
+ 
+ 
+ 
+ 
+ ess 
+ 
+ x
+ 
+ 
+ 
+ 
+: "
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ is an essential property of 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+" (Definition 2)
+
+ 
+ 
+ 
+ E
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+: "Object 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ exists necessarily" (Definition 3)
+
+Translation of full argument
+Possible-worlds readings of modal terms have been added in parentheses, i.e., "in all possible worlds" for "necessarily" and "in at least one possible world" for "possibly". For completeness, "in the actual world" should be added to all sentences that were said without "necessarily" or "possibly", but this has been skipped since it might make the text difficult to read.
+
+Axiom 1: If 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ is a positive property, and if it is necessarily true (true in all possible worlds) that every object with property 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ also has property 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+, then 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ is also a positive property.
+Axiom 2: The negation of a property 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ is positive if, and only if, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ is not positive.
+Theorem 1: If a property 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ is positive, then it is possible that there exists an object 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ that has this property (in at least one possible world, there exists an object 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ that has this property).
+Definition 1: An object 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ is God-like if, and only if, 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ has all positive properties.
+Axiom 3: The property of being God-like is itself a positive property.
+Theorem 2: It is possible that there exists a God-like object 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ (in at least one possible world, there exists a God-like object 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+).
+Definition 2: A property 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ is an essential property of an object 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ if, 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ has property 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+, and every property 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ of 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ necessarily (in all possible worlds) and generally (for all objects) follows from 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.
+Axiom 4: If a property 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ is positive, then it is necessarily positive (positive in all possible worlds).
+Theorem 3: If 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ is God-like, then being God-like is an essential property of 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+.
+Definition 3: An object 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ "exists necessarily" if each of its essential properties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ applies, in each possible world, to some object 
+ 
+ 
+ 
+ y
+ 
+ 
+ 
+ 
+.
+Axiom 5: "Necessary existence" is a positive property.
+Theorem 4: It is necessarily true (true in all possible worlds) that a God-like object exists.
+
+Criticism
+Most criticism of Gödel's proof is aimed at its axioms: as with any proof in any logical system, if the axioms the proof depends on are doubted, then the conclusions can be doubted. It is particularly applicable to Gödel's proof – because it rests on five axioms, some of which are considered questionable. A proof does not necessitate that the conclusion be correct, but rather that by accepting the axioms, the conclusion follows logically.
+Many philosophers have called the axioms into question. The first layer of criticism is simply that there are no arguments presented that give reasons why the axioms are true. A second layer is that these particular axioms lead to unwelcome conclusions. This line of thought was argued by Jordan Howard Sobel, showing that if the axioms are accepted, they lead to a "modal collapse" where every statement that is true is necessarily true, i.e. the sets of necessary, of contingent, and of possible truths all coincide (provided there are accessible worlds at all). According to Robert Koons, Sobel suggested in a 2005 conference paper that Gödel might have welcomed modal collapse.
+There are suggested amendments to the proof, presented by C. Anthony Anderson, but argued to be refutable by Anderson and Michael Gettings. Sobel's proof of modal collapse has been questioned by Koons, but a counter-defence by Sobel has been given.
+Gödel's proof has also been questioned by Graham Oppy, asking whether many other almost-gods would also be "proven" through Gödel's axioms. This counter-argument has been questioned by Gettings, who agrees that the axioms might be questioned, but disagrees that Oppy's particular counter-example can be shown from Gödel's axioms.
+Religious scholar Fr. Robert J. Spitzer accepted Gödel's proof, calling it "an improvement over the Anselmian Ontological Argument (which does not work)."
+There are, however, many more criticisms, most of them focusing on the question of whether these axioms must be rejected to avoid odd conclusions. The broader criticism is that even if the axioms cannot be shown to be false, that does not mean that they are true. Hilbert's famous remark about interchangeability of the primitives' names applies to those in Gödel's ontological axioms ("positive", "god-like", "essence") as well as to those in Hilbert's geometry axioms ("point", "line", "plane"). According to André Fuhrmann (2005) it remains to show that the dazzling notion prescribed by traditions and often believed to be essentially mysterious satisfies Gödel's axioms. This is not a mathematical, but a theological task. It is this task which decides which religion's god has been proven to exist.
+
+Computationally verified versions
+Christoph Benzmüller and Bruno Woltzenlogel Paleo formalized Gödel's proof to a level that is suitable for automated theorem proving or at least computational verification via proof assistants. The effort made headlines in German newspapers. According to the authors of this effort, they were inspired by Melvin Fitting's book. The formalization was subsequently accepted in the Archive of Formal Proofs, a peer-reviewed repository of machine-checked mathematical proofs. 
+In 2014, they computationally verified Gödel's proof (in the above version). They also proved that this version's axioms are consistent, but imply modal collapse, thus confirming Sobel's 1987 argument. In the same paper, they suspected Gödel's original version of the axioms to be inconsistent, as they failed to prove their consistency.
+In 2016, they gave an automated proof that the original version implies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+, i.e., is inconsistent in every modal logic with a reflexive or symmetric accessibility relation. Moreover, they gave an argument that this version is inconsistent in every logic at all, and shortly afterwards provided a formal proof. They were also able to verify Melvin Fitting's reformulation of the argument and guarantee its consistency.
+In 2025, Benzmüller and Dana Scott used the Isabelle proof assistant to generate and verify Gödel's original version of the modal ontological argument (as set out in Gödel's 1970 manuscript) and Scott's variant of it.

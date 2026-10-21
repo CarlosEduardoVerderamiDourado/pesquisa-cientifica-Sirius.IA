@@ -1,0 +1,62 @@
+Observatório Astronômico de Córdoba
+
+O Observatório Astronômico de Córdoba é uma instituição de investigação, docência e extensão astronômica argentina pertencente à Universidade Nacional de Córdoba, fundada em 24 de outubro de 1871 pelo presidente Domingo Faustino Sarmiento e as gestões de seu Ministro Nicolás Avellaneda, que permitiu ao seu povo ter um contato direto com a astronomia.
+
+Historia
+O início dos estudos astronômicos na Argentina é obra indiscutível de Domingo Faustino Sarmiento. Quando era representante de seu país nos Estados Unidos, teve a oportunidade de conhecer o astrônomo Benjamin Apthorp Gould que, na época, tinha vontade de viajar para a Argentina para realizar seus estudos estelares no Hemisfério Sul, oferecendo seus serviços científicos com essa finalidade.
+Já empossado como presidente de seu país, Sarmiento convidou, em 1869, o ilustre cientista e seus assistentes contratados, a viajar para a Argentina, concedendo todo seu apoio para organizar um observatório. Gould chegou em Buenos Aires em 1870 e teve que esperar a chegada dos equipamentos encomendados a uma empresa européia.
+No entanto, enquanto aguardava o instrumental científico, iniciou — a olho nu e com o auxílio de um binóculo de teatro — a elaboração de um mapa do céu austral que, em 24 de outubro de 1871 (data de inauguração do Observatório Nacional de Córdoba), já contava com mais de 7.000 estrelas registradas, sendo posteriormente publicado sob o título de Uranometría Argentina em 1877. 
+Como diretor do observatório, seu trabalho como organizador e cientista estendeu-se até 1885, ano que marca seu retorno aos Estados Unidos. Entre seus trabalhos, devemos mencionar o estudo de estrelas de até magnitude 10, que resultou nas publicações Catálogo de Zonas (1884) — no qual registrou mais de 70 000 estrelas do hemisfério austral — e o Catálogo Geral Argentino, que contém cerca de 35 000 estrelas cujas posições foram determinadas com grande precisão. 
+Foi também graças a Gould que se obtiveram, no observatório, aquelas que seriam algumas das primeiras fotografias estelares do mundo. Para esse trabalho, foram feitas centenas de chapas de aglomerados estelares abertos do hemisfério sul com o "Grande Equatorial" — um telescópio refrator de 28 cm de diâmetro —, as quais foram posteriormente medidas para determinar as posições de suas estrelas. Esse foi o primeiro trabalho sistemático e de grande porte realizado na astronomia com o uso da técnica fotográfica. Foi publicado em 1896 sob o título Fotografias Cordobesas.
+
+A publicação dos primeiros mapeamentos importantes do céu austral teve seu ponto alto com a conclusão, em 1908, do monumental Córdoba Durchmusterung. Esse catálogo de 613.718 estrelas permanece, até hoje, como uma referência fundamental na história da Astronomia mundial. Entre as contribuições mais notáveis do Observatório Astronômico de Córdoba no início do século XX, destacam-se a elaboração — em parceria com observatórios de outras latitudes — do primeiro grande levantamento fotográfico dos céus (Carte du Ciel) e a determinação da órbita do asteroide Eros, realizada em conjunto com 35 observatórios de todo o mundo; essa tarefa permitiu aprimorar substancialmente a determinação da distância entre a Terra e o Sol.
+
+Historicamente, o Observatório Astronômico de Córdoba contribuiu não apenas para a área da astronomia, mas também para diversos aspectos sociais:
+
+Os catálogos estelares de precisão, analisados com o Círculo Meridiano desde a época de Gould, serviram para a determinação da hora e para a navegação em todo o hemisfério sul.
+O Serviço Meteorológico Nacional teve origem na Repartição Meteorológica criada por Sarmiento, por proposta de Gould, em 1872, como parte do Observatório Astronômico de Córdoba. Também sob a direção de Gould, foram realizadas as primeiras determinações precisas de diferenças de longitude e altitude entre Buenos Aires, Rosário, Córdoba e Santiago do Chile. Além disso, as primeiras operações exatas de aferição de pesos e medidas foram feitas no observatório, por encargo do Governo Nacional, assim como medições do campo magnético terrestre.
+O serviço telegráfico da hora oficial ficou a cargo do observatório por muitos anos, passando posteriormente para o Observatório Naval.
+
+Sob a direção de Enrique Gaviola (entre 1940 e 1947 e de 1956 a 1957), o Observatório Astronômico de Córdoba transformou-se em um centro científico de primeira linha, com o projeto e a construção da Estação Astrofísica de Bosque Alegre, inaugurada em 1942. Ela está situada nas Sierras Chicas, a 25 quilômetros da cidade de Alta Gracia, a 1.250 metros acima do nível do mar. Gaviola promoveu a vinculação do observatório com a Associação Física Argentina e obteve pessoal e cientistas em regime de dedicação exclusiva, além de uma excelente oficina de óptica. Ali se formaram, entre outros, Mario Bunge, Ernesto Sabato e José Antonio Balseiro.
+Atualmente, nesta instituição são desenvolvidas atividades de pesquisa científica, ensino de graduação e pós-graduação e extensão à comunidade. Na Estação Astrofísica de Bosque Alegre, realizam-se observações com instrumentos de fotometria e espectroscopia.
+Desde 1955, o observatório astronômico e sua estação astrofísica estão vinculados à Universidade Nacional de Córdoba. A União Astronômica Internacional atribuiu-lhe o Código 822.
+
+Pesquisa e desenvolvimento de instrumentação
+
+Os pesquisadores desta instituição são, em sua maioria, formados pela Universidade Nacional de Córdoba e especializados em centros de alto nível acadêmico ao redor do mundo. No Observatório Astronômico de Córdoba, realizam-se pesquisas em astronomia sob diferentes perspectivas: observacional, estatística, teórica e de desenvolvimento instrumental. As principais áreas de estudo são: 'Física Solar', 'Sistemas Planetários', 'Astrofísica Estelar', 'Astrometria, instrumentação e técnicas observacionais', 'Meio Interestelar e Estrutura Galáctica', 'Astronomia Extragaláctica e Cosmologia' e 'História da Astronomia'. Os resultados dessas pesquisas são divulgados em publicações internacionais e em reuniões científicas das respectivas áreas.
+O Observatório Astronômico de Córdoba conta com uma equipe técnica e de engenharia que desenvolve técnicas e instrumentos necessários para a pesquisa astronômica. A equipe de instrumentação construiu integralmente um telescópio de 0,76 metro de diâmetro que, em 2012, foi instalado em uma cúpula secundária da Estação Astrofísica de Bosque Alegre. Além disso, a equipe participa ativamente da construção de um novo observatório localizado em Tolar Grande, na província de Salta, e da implementação de sistemas de operação remota para os telescópios disponíveis tanto na Estação Astrofísica de Bosque Alegre quanto na sede central do Observatório Astronômico de Córdoba.
+
+Projetos observacionais
+Desde 1992, a Argentina participa — juntamente com Estados Unidos, Inglaterra, Canadá, França, Austrália, Brasil e Chile — de um acordo internacional denominado Projeto Gemini, que consistiu na construção de dois grandes telescópios de 8 metros de diâmetro cada, localizados no Havaí e no Chile. O tempo de observação em ambos os telescópios é compartilhado pelos astrônomos dos países participantes, em uma proporção correspondente à contribuição econômica de cada país. A Argentina dispõe de 2,5% do tempo total disponível para atividades científicas em cada telescópio. Esses poderosos telescópios entraram em operação no final do século passado e representaram um novo e grande passo rumo ao conhecimento.
+A globalização permitiu modificar a forma como a informação é obtida e analisada. Os astrônomos observacionais do Observatório Astronômico de Córdoba têm acesso a diversos observatórios ao redor do mundo mediante a apresentação de um projeto de observação, sujeito à avaliação por seus pares para a alocação de tempo de observação. Em alguns observatórios internacionais, realizam-se observações "à distância" — ou seja, contam com engenheiros operadores de telescópios encarregados de executar as observações, sendo os dados coletados posteriormente enviados aos pesquisadores líderes do projeto —, dispensando assim o deslocamento dos astrônomos até os locais de observação.
+Os astrônomos do OAC têm, além disso, a possibilidade de utilizar as instalações do telescópio de 2,15 metros de diâmetro do Complexo Astronômico Leoncito, localizado em San Juan, e do telescópio de 1,54 metros de diâmetro da Estação Astrofísica de Bosque Alegre, pertencente ao Observatório Astronômico de Córdoba.
+Por ocasião do 70º aniversário da Estação Astrofísica de Bosque Alegre, foram realizadas, durante o mês de novembro de 2012, obras de reforma em duas das cúpulas menores. Em uma delas, foi instalado um telescópio CELESTRON de 11 polegadas — fornecido pelo Instituto de Astronomia Teórica e Experimental (IATE) e robotizado —, denominado Observatório Remoto Bosque Alegre (ORBA); na segunda cúpula, instalou-se um telescópio de 0,76 m de diâmetro, batizado de "Charles Perrine".
+Em 5 de maio de 2013, o Minor Planet Center atribuiu ao ORBA o código de observatório MPC X13.
+
+Docência e formação de recursos humanos
+Embora o Observatório não seja uma unidade acadêmica, os pesquisadores do Observatório Astronômico que ocupam cargos docentes na Universidade Nacional de Córdoba participam das atividades de ensino da Faculdade de Matemática, Astronomía e Física (FaMAF), com a qual existe um convênio que estabelece esse acordo. Os docentes do OAC ministram disciplinas de graduação e pós-graduação nos cursos da FaMAF, bem como em outras unidades acadêmicas com as quais a FaMAF mantém convênios.
+Os pesquisadores do Observatório atuam como orientadores ou coorientadores de trabalhos de conclusão de curso e teses de alunos da Licenciatura em Astronomia e do Doutorado em Astronomia, ambos vinculados à FaMAF.
+
+Extensão e divulgação de astronomia
+
+Historicamente, esta instituição tem se destacado por seu trabalho de divulgação da astronomia, com o objetivo de ajudar a comunidade a compreender as maravilhas do Universo e a importância da ciência na vida cotidiana. Além disso, em consonância com a política de extensão promovida pela Universidade Nacional de Córdoba durante a gestão da Dra. Carolina Scotto, foram incorporados projetos de extensão voltados principalmente para o ensino de astronomia nos níveis pré-universitários.
+A partir do OAC, são desenvolvidos os seguintes programas:
+
+Grupo de Astrometria e Fotometria, do qual participam pesquisadores, astrônomos amadores, estudantes e professores do ensino pré-universitário, contribuindo para pesquisas científicas em nível mundial.
+Olimpíada Argentina de Astronomia, destinada a estudantes do ensino médio e a instituições com modalidade de educação especial.
+Cursos de articulação com pontuação docente, destinados a professores do ensino médio.
+Oficinas sobre o manuseio de telescópios portáteis.
+Entre as atividades de divulgação realizadas pelo Observatório Astronômico para o público em geral, destacam-se:
+
+Atendimento ao público em geral na sede central, uma vez por semana, no período da tarde
+Atendimento ao público em geral na Estação Astrofísica de Bosque Alegre, aos fins de semana, durante o dia e à noite
+Atendimento a visitas de instituições de ensino na sede central
+Atendimento a instituições de ensino na Estação Astrofísica de Bosque Alegre
+Telescópio itinerante que percorre diversas cidades do interior de Córdoba e da Argentina
+Palestras para o público em geral, uma vez por mês
+Palestras itinerantes em instituições de ensino da cidade de Córdoba
+Divulgação diária de astronomia, ciência em geral e das atividades do OAC por meio de redes sociais (Facebook, G+, blog, Twitter).
+
+O Museu do Observatório Astronômico funciona desde 2003 no edifício principal da instituição. Atualmente, são realizadas visitas guiadas para grupos escolares de segunda a quinta-feira, a partir das 18h30. O atendimento ao público em geral ocorre às sextas-feiras e aos sábados, no mesmo horário. Além disso, o museu participa anualmente das tradicionais Noites dos Museus.
+
+Diretores

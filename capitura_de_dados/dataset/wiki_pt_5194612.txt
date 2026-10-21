@@ -1,0 +1,56 @@
+Grupo solúvel
+
+Em matemática, mais especificamente na teoria dos grupos, um grupo solúvel é um grupo que pode ser construído a partir de grupos abelianos usando extensões. Equivalentemente, um grupo solúvel é um grupo cuja série derivada termina no subgrupo trivial.
+Historicamente, a palavra "solúvel" surgiu a partir da teoria de Galois e da prova de que não existe solução geral para equações do quinto grau. Especificamente, uma equação polinomial é solúvel por radicais se e somente se o grupo de Galois correspondente é solúvel.
+
+Definição
+Um grupo G é dito solúvel se ele tem uma série subnormal em que todos os grupos fatores (quocientes de grupos) são abelianos, isto é, se existem subgrupos {1} = G0 < G1 < < Gk = G tais que Gj 1 é normal em Gj, e Gj/Gj 1 é um grupo abeliano, para j= 1, 2, ..., k. j = {1}, {2}, ... , k.
+Ou equivalentemente, se a sua série derivada, a série normal descendente
+em que cada subgrupo é o subgrupo comutador do anterior, eventualmente chega ao subgrupo trivial {1} de G. Essas duas definições são equivalentes, uma vez que para cada grupo H e cada subgrupo normal N de H, o quociente HN é abeliano se, e somente se, N inclui H(1). O menor n tal que G(n) = {1} é chamado de comprimento derivado do grupo solúvel G.
+Para grupos finitos, uma definição equivalente é que um grupo solúvel é um grupo com uma série de composição em que todos os fatores são grupos cíclicos de ordem prima. Isto é equivalente porque um grupo finito tem comprimento de composição finito, e todo grupo abeliano simples é cíclico de ordem prima. O teorema de Jordan–Hölder garante que se uma série de composição tem esta propriedade, então todas as séries de composição também têm esta propriedade. Para o grupo de Galois de um polinômio, estes grupos cíclicos correspondem a raízes (radicais) n-ésimas sobre algum corpo. A equivalência não vale necessariamente para grupos infinitos: por exemplo, como todo subgrupo não trivial do grupo Z dos números inteiros sob a adição é isomorfo ao próprio Z, ele não possui uma série de composição, exceto a série normal {0, Z}, com o seu único grupo quociente isomorfo a Z, isso mostra que ele de fato é solúvel.
+
+Exemplos
+Todos os grupos abelianos são trivialmente solúveis – uma série subnormal é dada considerando apenas o próprio grupo e o grupo trivial. Mas grupos não abelianos pode ou não ser solúveis.
+De modo mais geral, todos os grupos nilpotentes são solúveis. Em particular, p-grupos finitos são solúveis, pois todos os p-grupos finitos são nilpotentes.
+Um exemplo pequeno de um grupo solúvel, não nilpotente é o grupo simétrico S3. De fato, como o menor grupo simples não-abeliano é A5 (o grupo alternado de grau 5) segue-se que todo grupo de ordem menor do que 60 é solúvel.
+O grupo S5 não é solúvel — ele tem uma série de composição {E, Um5, S5} (e o teorema de Jordan–Hölder afirma que qualquer outra série de composição é equivalente a esta), produzindo grupos quocientes isomorfos a A5 e C2; e A5 não é abeliano. Generalizando este argumento, e considerando também o fato de que An é um subgrupo normal, maximal, não abeliano simples de Sn para n > 4, vemos que Sn não é solúvel para n > 4. Este é um passo fundamental na demonstração de que para n > 4, existem polinômios de grau n que não são solúveis por radicais (teorema de Abel–Ruffini). Esta propriedade também é usada na teoria da complexidade na prova do teorema de Barrington.
+O célebre teorema de Feit–Thompson afirma que todo grupo finito de ordem ímpar é solúvel. Em particular, isto implica que se um grupo finito é simples, então ou ele é cíclico de ordem prima ou ele tem ordem par.
+Todo grupo finito cujos p-subgrupos de Sylow são cíclicos é um produto semidireto de dois grupos cíclicos e, em particular, é solúvel. Tais grupos são chamados de Z-grupos.
+Os números de grupos solúveis de ordem n são (começando com n = 0)
+
+0, 1, 1, 1, 2, 1, 2, 1, 5, 2, 2, 1, 5, 1, 2, 1, 14, 1, 5, 1, 5, 2, 2, 1, 15, 2, 2, 5, 4, 1, 4, 1, 51, 1, 2, 1, 14, 1, 2, 2, 14, 1, 6, 1, 4, 2, 2, 1, 52, 2, 5, 1, 5, 1, 15, 2, 13, 2, 2, 1, 12, 1, 2, 4, 267, 1, 4, 1, 5, 1, 4, 1, 50, ... (sequência A201733 na OEIS)
+As ordens dos grupos não solúveis são
+
+60, 120, 168, 180, 240, 300, 336, 360, 420, 480, 504, 540, 600, 660, 672, 720, 780, 840, 900, 960, 1008, 1020, 1080, 1092, 1140, 1176, 1200, 1260, 1320, 1344, 1380, 1440, 1500, ... (sequência A056866 na OEIS)
+
+Propriedades
+A solubilidade é fechada sob várias operações.
+
+Se G é solúvel, e há um homomorfismo de G sobre H, então H é solúvel; equivalentemente (pelo primeiro teorema do isomorfismo), se G é solúvel, e N é um subgrupo normal de G, então G/N é solúvel.
+A propriedade anterior pode ser expandida para a seguinte propriedade: G é solúvel se e somente se N e G/N são solúveis.
+Se G é solúvel, e H é um subgrupo de G, então H é solúvel.
+Se G e H são solúveis, o produto direto G H é solúvel.
+A solubilidade é fechada sob extensão de grupos:
+
+Se H e G/H são solúveis, então G também é; em particular, se N e H são solúveis, o seu produto semidireto também é solúvel.
+Ela também é fechada sob o produto entrelaçado:
+
+Se G e H são solúveis, e X é um G-conjunto então o produto entrelaçado de G e H com respeito a X também é solúvel.
+Para qualquer inteiro positivo N, os grupos solúveis de comprimento derivado no máximo N formam uma subvariedade da variedade de grupos, já que eles são fechados sob a obtenção de imagens homomorfas, subálgebras, e produtos (diretos). O produto direto de uma sequência de grupos solúveis com comprimento derivado limitado não é solúvel, então a classe de todos os grupos solúveis não é uma variedade.
+
+Teorema de Burnside
+O teorema de Burnside afirma que se G é um grupo finito de ordem paqb , em que p e q são números primos, e a e b são inteiros não-negativos, então G é solúvel.
+
+Conceitos relacionados
+
+Grupos supersolúveis
+Como um condição mais forte do que a solubilidade, tem-se que um grupo G é supersolúvel se ele tiver uma série normal invariantes em que todos os fatores são cíclicos. Uma vez que uma série normal tem comprimento finito por definição, grupos não contáveis não são supersolúveis. Na verdade, todos os grupos supersolúveis são finitamente gerados, e um grupo abeliano é supersolúvel se e somente se ele é finitamente gerado. O grupo alternado A4 é um exemplo de um grupo finito solúvel que não é supersolúvel.
+Restringindo-se apenas aos grupos finitamente gerados, as classes de grupos podem ser organizadas como segue:
+
+cíclico < abeliano < nilpotente < supersolúvel < policíclicos < solúveis < grupos finitamente gerados.
+
+Grupos virtualmente solúveis
+Um grupo G é chamado de virtualmente solúvel se ele tem um subgrupo solúvel de índice finito. Isso é semelhante a ser virtualmente abeliano. Claramente todos os grupos solúveis são virtualmente solúveis, pois pode-se escolher apenas o próprio grupo, que tem índice 1.
+
+Hipoabeliano
+Um grupo solúvel é um grupo cuja série derivada chega ao subgrupo trivial em um número finito de etapas. Para um grupo infinito, a série derivada finita pode não se estabilizar, mas a série derivada transfinita sempre se estabiliza. Um grupo cuja série derivada transfinita chega ao grupo trivial é chamado de grupo hipoabeliano, e todos os grupos solúveis são hipoabelianos. O primeiro ordinal tal que G = G(+1) é chamado de comprimento derivado (transfinito) do grupo G, e foi demonstrado que todo ordinal é o comprimento derivado de algum grupo (Malcev 1949).

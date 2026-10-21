@@ -1,0 +1,173 @@
+Simulação sequencial directa
+
+Simulação sequencial directa (SSD, ou seu acrónimo em inglês - DSS) é um tipo de simulação sequencial habitualmente utilizada no ramo da geoestatística. É utilizada para estimação e especialmente simulação estocástica dos nós de uma malha (ou Grid) na qual cada um deles está condicionado aos restantes simulados anteriormente. É chamada de directa porque ao contrátio de outras metodologias, como é o caso da simulação sequencial gaussiana ou simulação sequencial da indicatriz, não necessita de qualquer transformação da variável original (Soares, 2001). Foi originalmente conceptualizada por Andre Journel em 1994 mas só em 2001 com Amílcar Soares foi avançada um implementação que corresponda aos critérios de uma simulação sequencial. Embora menos utilizada que a sua par, simulação sequencial gaussiana, é hoje utilizada em processos nas mais diferentes áreas: caracterização de reservatórios petróliferos, ciências da agricultura e agronomia, estudos ambientais, etc..
+
+Nota histórica
+Um método de simulação sequencial directa foi originalmente conceptualizado por Andre Journel em 1994. Embora este tivesse demonstrado que, desde que as distribuições locais utilizadas para simulação fossem centradas no estimadores média e variância de krigagem simples, a reprodução do modelo de covariância (modelo de variografia) estaria assegurada nesta implementação ainda que o mesmo não poderia ser dito da distribuição de probabilidades da variável original (histograma). Esta constatação foi mais tarde denominada de teorema de Journel (i.e. Journels Theorem, Caers, 2000) e acabou por ser o obstáculo mais sério à sua utilização.
+Em 1999 Jef Caers propôs a utilização de uma técnica de pós-processamento das simulações para transformar os valores simulados para uma nova distribuição de probabilidades. Ainda anteriormente fora proposto uma metodologia semelhante por Journel e Xu no entanto verificou-se que em alguns casos esta transformação poderia destruir a reprodução do modelo de variograma (Nowak & Srivastava, 1997).
+Em 2001 Amílcar Soares avançou com uma nova implementação que consiste em usar a média e variância de krigagem simples não para definir uma distribuição local (à semelhança da simulação sequencial gaussiana) mas para re-amostrar uma distribuição local a partir da total. Os valores são depois simulados dentro desta re-amostragem. Com esta metodologia conseguiu tanto a reprodução do modelo de variograma como a reprodução do histograma.
+Em 2003 foi feita uma nova implementação deste algoritmo muito semelhante à descrita por Amílcar Soares. A sua principal diferença está na maneira com se calculam os estimadores de média e variância da krigagem simples para posterior re-amostragem da distribuição da variável original (Oz, et al., 2003).
+
+Definição
+A simulação sequencial directa deverá corresponder aos passos determinados num processo de simulação sequencial no qual existem dois passos com métodos estocásticos fundamentais:
+
+(Passo 5) Geração de um caminho aleatório sem repetição
+(Passo 7) Escolha aleatória sobre a fdp local no nó a simular (Ripley, 1987)
+O seu procedimento é o seguinte:
+
+Definição do caminho aleatório sem repetição.
+Calcular a função de distribuição cumulativa de probabilidades local para cada nó a partir dos estimadores da krigagem simples.
+Simular um valor a partir da distribuição cumulativa de probabilidades local.
+No passo 3 da geração aleatória sobre uma função de distribuição de probabilidades o método de simulação sequencial directa implementada por A.Soares (2001) segue o seguinte modelo:
+
+O esquema acima demonstra a re-amostragem da distribuição 
+ 
+ 
+ 
+ 
+ F
+ 
+ z
+ 
+ 
+ (
+ z
+ )
+ 
+ 
+ 
+ 
+ pelos intervalos definidos pelos estimadores locais (médias e variâncias de krigagem simples) de 
+ 
+ 
+ 
+ z
+ (
+ 
+ x
+ 
+ 0
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+: 
+ 
+ 
+ 
+ y
+ (
+ 
+ x
+ 
+ u
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ 
+ 
+ 
+ k
+ 
+ 
+ 
+ s
+ 
+ 2
+ 
+ 
+ (
+ 
+ x
+ 
+ u
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. Aqui é simulado um valor na função equivalente de 
+ 
+ 
+ 
+ G
+ (
+ y
+ )
+ =
+ G
+ (
+ y
+ (
+ 
+ x
+ 
+ u
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+ ,
+ 
+ 
+ 
+ k
+ 
+ 
+ 
+ s
+ 
+ 2
+ 
+ 
+ (
+ 
+ x
+ 
+ u
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+.
+
+Discussão
+Em 2003 foi feito um estudo comparativo entre as implementações feitas na biblioteca de geoestatística de programação, GSLIB para simulação sequencial directa, e a implementação feita em 2003 (Oz, et al., 2003). As conclusões revelam que as diferentes implementações têm resultados muito semelhantes.
+A SSD pode ser utilizada também em co-simulação nas suas vertentes co-simulação co-localizada sequencial directa e co-simulação co-localizada sequencial directa com distribuições de probabilidade conjuntas.
+Foi implementada também uma versão da SSD com anisotropias locais, simulação sequencial directa com anisotropias locais na qual um modelo de variografia é descritizado para cada bloco ao invés da utilização de um modelo global para todas as localizações.

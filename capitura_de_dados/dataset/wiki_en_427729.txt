@@ -1,0 +1,70 @@
+Missa solemnis (Beethoven)
+
+The Missa solemnis in D major, Op. 123, is a Solemn Mass composed by Ludwig van Beethoven from 1819 to 1823. It was first performed on 7 April 1824 in Saint Petersburg, Russia, under the auspices of Beethoven's patron Prince Nikolai Golitsyn; an incomplete performance was given in Vienna on 7 May 1824, when the Kyrie, Credo, and Agnus Dei were conducted by the composer. It is generally considered one of the composer's supreme achievements and, along with Bach's Mass in B minor, one of the most significant Mass settings of the common practice period.
+Written around the same time as his Ninth Symphony, it is Beethoven's second setting of the Mass, after his Mass in C major, Op. 86. The work was dedicated to Archduke Rudolf of Austria, Archbishop of Olomouc, Beethoven's foremost patron as well as pupil and friend. The copy presented to Rudolf was inscribed "Von Herzen—Möge es wieder—Zu Herzen gehn!" ("From the heart – may it return to the heart!")
+
+History
+
+Composition history
+The Missa Solemnis is Beethoven's third choral composition on a sacred subject, after the oratorio Christus am Ölberge (1802), and his earlier mass setting, the Mass in C major (1807). The new composition was written to celebrate the investiture of Rudolph of Habsburg-Lorraine as Archbishop of Olomouc, which took place on 9 March 1820.
+The sketchbooks and the correspondence reveal that the composer worked on the Missa solemnis for a period of four years, starting on the spring of 1819; it is also of the same year the text of the Ordinary that Beethoven chose for the composition: it contains the Latin text, with the signs of the words' accentuation and the simultaneous translation in German. The autograph score was completed on the spring of 1823.
+As a preparation for the Mass, Beethoven extensively studied monophonic plainchant, as well as the Renaissance and Baroque sacred music of composers such as Palestrina, J. S. Bach and Handel, and the rich tradition of Austrian Masses.
+It is known that in 1820, while working on the mass, Beethoven studied church modes by referring to Glareanus' Dodekachordon and Gioseffo Zarlino's Istitutioni Harmoniche; these are two of the most influential music treatises from the Renaissance, of which the Lobkowitz library possessed copies.
+In a letter dated June 5, 1822, Beethoven called the Missa solemnis "his greatest work".
+
+Performance history
+The first performance took place in a secular setting, at the Philharmonic Society in Saint Petersburg, on the initiative of the Russian nobleman and patron Nikolai Golitsyn, on 7 April 1824 (March 26 Old Style). The premiere was originally planned for Christmas 1823; it was delayed by rehearsing the demanding choral parts, which proved to be unexpectedly time-consuming, and also by incorrectly copied parts. The conductor of the premiere on 7 April 1824 is unknown.
+Parts of the mass (Kyrie, Credo, Agnus Dei) were performed on 7 May 1824, under the direction of Kapellmeister Michael Umlauf at the Kärntnertor Theater in Vienna, together with the overture The Consecration of the House and the premiere of Symphony No. 9. The three performed movements of the mass were designated as "hymns", because the Viennese censorship authorities objected to the performance of mass settings in a secular venue.
+Another performance of the full mass took place in a liturgical setting in 1830, in the Church of St. Peter and Paul in the Bohemian town of Varnsdorf.
+
+Scoring and instrumentation
+The mass is scored for a quartet of vocal soloists, a substantial chorus, and the full orchestra. Each element is used at times in virtuosic, textural, or melodic capacities. The full roster consists of 2 flutes; 2 oboes, 2 clarinets (in A, C, and B); 2 bassoons; contrabassoon; 4 horns (in D, E, B basso, E, and G); 2 trumpets (D, B, and C); alto, tenor, and bass trombone; timpani; organ continuo; strings (violins I and II, violas, cellos, and basses); soprano, alto, tenor, and bass soloists; and mixed choir.
+
+Structure
+The Missa solemnis consists of five movements, corresponding to the first five sections of the Ordinary.
+Note: In the "Scoring" column below, performers are indicated by the following abbreviations: "S" vocal soloists, "C" chorus, "O" orchestra. Additionally, "T" stands for the tenor soloist in 'Et homo factus est', and "V" the violinist in the Benedictus. In the "Note" column, the remarks in italics were written into the score by the composer.
+
+Duration: a performance of the complete work runs between 70 and 80 minutes.
+
+Analysis
+The writing displays Beethoven's characteristic disregard for the performer; this writing is in several places both technically and physically exacting, with sudden changes of dynamic, metre and tempo. This approach is consistent throughout, starting with the opening Kyrie, where the syllables Ky-ri are delivered either forte or with sforzando, but the final e is piano. As noted below, the reprise of the Et vitam venturi fugue is particularly taxing, being both subtly different from previous statements of the theme and counter-theme, and delivered at approximately twice the speed. The orchestral parts also include many demanding sections, including the violin solo in the Sanctus and some of the most demanding work in the repertoire for bassoon and contrabassoon. The difficulty of the piece—together with the requirements for a full orchestra, large chorus, and highly trained soloists (both vocal and instrumental)—causes it to be rarely performed by amateur or semi-professional ensembles.
+
+Kyrie
+Perhaps the most traditional movement, the Kyrie has a traditional ABA structure. The grand opening, with a motif of three D-major chords, contrasts sharply with the fourth pianissimo response: (GOD/man) followed by quiet, stately, choral writing in the first section and more contrapuntal vocal textures in the Christe section. The four (SATB) vocal soloists and chorus share the thematic material throughout dialoguing in antiphony, the soloists particularly in the Christe Eleison section. The Kyrie is closed by a plagal-tending coda.
+
+Gloria
+Quickly shifting textures and themes highlight each portion of the Gloria text, as a beginning for the movement that is almost encyclopedic in its exploration of 34 time. The movement ends with the first of the work's two major fugues, on the text "In gloria Dei patris. Amen": at first rigid in tonality and metre, the fugue, which is progressively enriched by a choral cantus firmus bass and plagal cadences, disintegrates into three frustrated attempts at contrapuntal order that lead to two codas; this finally leads into a recapitulation of the initial Gloria text and music.
+
+Credo
+The form of the Credo may be divided into four parts:
+
+'Credo in unum Deum' through 'descendit de coelis' in B
+'Et incarnatus est' through 'Resurrexit' in D
+'Et ascendit' through the Credo recapitulation in F
+Fugue and coda 'Et vitam venturi saeculi. Amen' in B.
+The movement opens with a chord sequence that will be used later in the movement to effect modulation. The word "Credo" is sung repeatedly in a two-note motif; the work thereby joins a tradition of so-called "Credo Masses", including Wolfgang Amadeus Mozart's Missa brevis in F major, K. 192 and Mass in C major, K. 257 "Credo". The Credo, like the Gloria, is an often disorienting, hectic rush through the text. The "Et incarnatus" is a hymn-aria embedded in archaic and austere Dorian polyphony, which is filled with paradisal trills. The poignant modal harmonies of the "Et incarnatus" yield to increasingly expressive heights through the Crucifixus, and then into a remarkable a cappella setting of the "Et resurrexit". Most notable about the movement is the closing double fugue on "Et vitam venturi saeculi", which includes one of the most difficult passages in the choral repertoire, when the subject returns at doubled tempo for a stirring conclusion.
+
+Sanctus
+Until the Benedictus of the Sanctus, the Missa solemnis has fairly typical classical proportions. But after an orchestral preludio, a solo violin enters in its highest range—representing the Holy Spirit descending to earth in a remarkably long extension of the text. This music is markedly slow, close-textured and chromatic, recalling the improvised pieces for organ created specifically for the Elevation of the Host rite by composers such as Girolamo Frescobaldi or the French organ school members.
+
+Agnus Dei
+The movement begins with a setting of the plea "miserere nobis" ("have mercy on us") in B minor for male voices only; this section eventually yields to a bright D-major prayer, "dona nobis pacem" ("grant us peace"), in pastoral mode. After fugal development, the movement is dramatically interrupted by martial sounds; such interruption was a convention in the 18th century, e.g., in Haydn's Missa in tempore belli. However, after repeated pleas of "miserere", the movement eventually recovers equilibrium and draws to a conclusion.
+
+Critical reception
+Some critics have been troubled, as Theodor W. Adorno wrote, that "there is something peculiar about the Missa solemnis." In many ways it is an atypical work: it lacks the sustained thematic development that is one of Beethoven's hallmarks. The fugues at the end of the Gloria and Credo align the mass with work from his late period—but his simultaneous interest in the theme and variations form is absent. Instead, the Missa presents a continuous musical narrative, almost without repetition, particularly in the Gloria and Credo (the two longest movements). The style, Adorno noted, resembles the treatment of themes in imitation that one finds in Franco-Flemish masters such as Josquin des Prez and Johannes Ockeghem; but it is unclear whether Beethoven was consciously imitating their techniques to meet the demands of the Mass text.
+Donald Tovey has connected Beethoven to the earlier tradition in a different way:
+
+Not even Bach or Handel can show a greater sense of space and of sonority. There is no earlier choral writing that comes so near to recovering some of the lost secrets of the style of Palestrina. There is no choral and no orchestral writing, earlier or later, that shows a more thrilling sense of the individual colour of every chord, every position, and every doubled third or discord.
+
+Michael Spitzer presents an alternative view of the historical context of Beethoven's mass composition:
+
+Gregorian melodies, of course, continued to be used in the Mass throughout the eighteenth century; but by Beethoven's time they were relatively rare, especially in orchestral Masses. The one composer who still used them extensively is Michael Haydn, in his a cappella Masses for Advent and Lent. It is significant that in some of these he limits the borrowed melody to the Incarnatus and expressly labels it "Corale." In the Missa dolorum B. M. V. (1762) it is set in the style of a harmonized chorale, in the Missa tempore Quadragesimae of 1794 note against note, with the Gregorian melody (Credo IV of the Liber Usualis) appearing in the soprano. I have little doubt that Beethoven knew such works of Michael Haydn, at that time the most popular composer of sacred music in Austria.
+Maynard Solomon has written about Beethoven's influences and compositional method:
+
+Beethoven's musical archaisms and reminiscences—Dorian and Mixolydian modes, Gregorian "fossils", quotations from Handel's Messiah in the Gloria and Agnus Dei—and his employment of procedures and musical imagery derived from older liturgical styles are, in context, modernistic devices that also serve to stretch the expressiveness of his music beyond the boundaries set for liturgical music by his contemporaries.
+
+Recordings
+
+Audio
+
+Video

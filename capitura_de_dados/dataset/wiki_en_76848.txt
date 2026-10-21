@@ -1,0 +1,916 @@
+Periodic function
+
+A periodic function is a function that repeats its values at regular intervals. For example, the trigonometric functions, which are used to describe waves and other repeating phenomena, are periodic. Many aspects of the natural world have periodic behavior, such as the phases of the Moon, the swinging of a pendulum, and the beating of a heart.
+The length of the interval over which a periodic function repeats is called its period. Any function that is not periodic is called aperiodic.
+
+Definition
+
+A function is defined as periodic if its values repeat at regular intervals. For example, the positions of the hands on a clock display periodic behavior as they cycle through the same positions every 12 hours. This repeating interval is known as the period.
+More formally, a function 
+ 
+ 
+ 
+ f
+ 
+ 
+ 
+ 
+ is periodic if there exists a nonzero constant 
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+ such that
+
+ 
+ 
+ 
+ f
+ (
+ x
+ +
+ P
+ )
+ =
+ f
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+
+for all values of 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ in the domain. A nonzero constant 
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+ for which this condition holds is called a period of the function.
+If a period 
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+ exists, any integer multiple 
+ 
+ 
+ 
+ n
+ P
+ 
+ 
+ 
+ 
+ (for a positive integer 
+ 
+ 
+ 
+ n
+ 
+ 
+ 
+ 
+) is also a period. If there is a least positive period, it is called the fundamental period (also primitive period or basic period). Often, "the" period of a function is used to refer to its fundamental period.
+Geometrically, a periodic function's graph exhibits translational symmetry. Its graph is invariant under translation in the 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+-direction by a distance of 
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+. This implies that the entire graph can be formed from copies of one particular portion, repeated at regular intervals.
+
+Examples
+Periodic behavior can be illustrated through both common, everyday examples and more formal mathematical functions.
+
+Real-valued functions
+Functions that map real numbers to real numbers can display periodicity, which is often visualized on a graph.
+
+Sawtooth wave
+An example is the function 
+ 
+ 
+ 
+ f
+ 
+ 
+ 
+ 
+ that represents the "fractional part" of its argument. Its period is 1. For instance,
+
+ 
+ 
+ 
+ f
+ (
+ 0.5
+ )
+ =
+ f
+ (
+ 1.5
+ )
+ =
+ f
+ (
+ 2.5
+ )
+ =
+ 
+ =
+ 0.5
+ 
+ 
+ 
+ 
+
+The graph of the function 
+ 
+ 
+ 
+ f
+ 
+ 
+ 
+ 
+ is a sawtooth wave.
+
+Trigonometric functions
+
+The trigonometric functions are common examples of periodic functions. The sine function and cosine function are periodic with a fundamental period of 
+ 
+ 
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+, as illustrated in the figure to the right. For the sine function, this is expressed as:
+
+ 
+ 
+ 
+ sin
+ 
+ (
+ x
+ +
+ 2
+ 
+ )
+ =
+ sin
+ 
+ x
+ 
+ 
+ 
+ 
+
+for all values of 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+.
+The field of Fourier series investigates the concept that an arbitrary periodic function can be expressed as a sum of trigonometric functions with matching periods.
+
+Exotic functions
+Some functions are periodic but possess properties that make them less intuitive. The Dirichlet function, for example, is periodic, with any nonzero rational number serving as a period. However, it does not possess a fundamental period.
+
+Complex-valued functions
+Functions with a domain in the complex numbers can exhibit more complex periodic properties.
+
+Complex exponential
+The complex exponential function is a periodic function with a purely imaginary period:
+
+ 
+ 
+ 
+ 
+ e
+ 
+ i
+ k
+ x
+ 
+ 
+ =
+ cos
+ 
+ k
+ x
+ +
+ i
+ 
+ sin
+ 
+ k
+ x
+ 
+ 
+ 
+ 
+
+Given that the cosine and sine functions are both periodic with period 
+ 
+ 
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+, Euler's formula demonstrates that the complex exponential function has a period 
+ 
+ 
+ 
+ L
+ 
+ 
+ 
+ 
+ such that
+
+ 
+ 
+ 
+ L
+ =
+ 
+ 
+ 
+ 2
+ 
+ 
+ k
+ 
+ 
+ 
+ 
+ 
+ 
+.
+
+Double-periodic functions
+A function on the complex plane can have two distinct, incommensurate periods without being a constant function. The elliptic functions are a primary example of such functions. ("Incommensurate" in this context refers to periods that are not real multiples of each other.)
+
+Properties
+Periodic functions can take on values many times. More specifically, if a function 
+ 
+ 
+ 
+ f
+ 
+ 
+ 
+ 
+ is periodic with period 
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+, then for all 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ in the domain of 
+ 
+ 
+ 
+ f
+ 
+ 
+ 
+ 
+ and all positive integers 
+ 
+ 
+ 
+ n
+ 
+ 
+ 
+ 
+,
+
+ 
+ 
+ 
+ f
+ (
+ x
+ +
+ n
+ P
+ )
+ =
+ f
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+
+A significant property related to integration is that if 
+ 
+ 
+ 
+ f
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+ is an integrable periodic function with period 
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+, then its definite integral over any interval of length 
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+ is the same. That is, for any real number 
+ 
+ 
+ 
+ a
+ 
+ 
+ 
+ 
+:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ a
+ 
+ 
+ a
+ +
+ P
+ 
+ 
+ f
+ (
+ x
+ )
+ 
+ d
+ x
+ =
+ 
+ 
+ 
+ 0
+ 
+ 
+ P
+ 
+ 
+ f
+ (
+ x
+ )
+ 
+ d
+ x
+ 
+ 
+ 
+ 
+
+This property is crucial in areas such as Fourier series, where the coefficients are determined by integrals over one period.
+If 
+ 
+ 
+ 
+ f
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+ is a function with period 
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+, then 
+ 
+ 
+ 
+ f
+ (
+ a
+ x
+ )
+ 
+ 
+ 
+ 
+, where 
+ 
+ 
+ 
+ a
+ 
+ 
+ 
+ 
+ is a non-zero real number such that 
+ 
+ 
+ 
+ a
+ x
+ 
+ 
+ 
+ 
+ is within the domain of 
+ 
+ 
+ 
+ f
+ 
+ 
+ 
+ 
+, is periodic with period 
+ 
+ 
+ 
+ 
+ 
+ P
+ 
+ 
+ |
+ 
+ a
+ 
+ |
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. For example, 
+ 
+ 
+ 
+ f
+ (
+ x
+ )
+ =
+ sin
+ 
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+ has period 
+ 
+ 
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ and, therefore, 
+ 
+ 
+ 
+ sin
+ 
+ (
+ 5
+ x
+ )
+ 
+ 
+ 
+ 
+ will have period 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ 
+ 5
+ 
+ 
+ 
+ 
+ 
+ 
+.
+A key property of many periodic functions is that they can be described by a Fourier series. This series represents a periodic function as a sum of simpler periodic functions, namely sines and cosines. For example, a sound wave from a musical instrument can be broken down into the fundamental note and various overtones. This decomposition is a powerful tool in fields like physics and signal processing. While most "well-behaved" periodic functions can be represented this way, Fourier series can only be used for periodic functions or for functions defined on a finite length. If 
+ 
+ 
+ 
+ f
+ 
+ 
+ 
+ 
+ is a periodic function with period 
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+ that can be described by a Fourier series, the coefficients of the series can be described by an integral over an interval of length 
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+.
+Any function that is a combination of periodic functions with the same period is also periodic (though its fundamental period may be smaller). This includes:
+
+addition, subtraction, multiplication and division of periodic functions, and
+taking a power or a root of a periodic function (provided it is defined for all 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+)
+
+Generalizations
+The concept of periodicity can be generalized beyond functions on the real number line. For example, the idea of a repeating pattern can be applied to shapes in multiple dimensions, such as a periodic tessellation of the plane. A sequence can also be viewed as a function defined on the natural numbers, and the concept of a periodic sequence is defined accordingly.
+
+Antiperiodic functions
+One subset of periodic functions is that of antiperiodic functions. This is a function 
+ 
+ 
+ 
+ f
+ 
+ 
+ 
+ 
+ such that 
+ 
+ 
+ 
+ f
+ (
+ x
+ +
+ P
+ )
+ =
+ 
+ f
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+ for all 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+. For example, the sine and cosine functions are 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-antiperiodic and 
+ 
+ 
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+-periodic. While a 
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+-antiperiodic function is a 
+ 
+ 
+ 
+ 2
+ P
+ 
+ 
+ 
+ 
+-periodic function, the converse is not necessarily true.
+
+Bloch-periodic functions
+A further generalization appears in the context of Bloch's theorems and Floquet theory, which govern the solution of various periodic differential equations. In this context, the solution (in one dimension) is typically a function of the form
+
+ 
+ 
+ 
+ f
+ (
+ x
+ +
+ P
+ )
+ =
+ 
+ e
+ 
+ i
+ k
+ P
+ 
+ 
+ f
+ (
+ x
+ )
+ 
+ ,
+ 
+ 
+ 
+ 
+
+where 
+ 
+ 
+ 
+ k
+ 
+ 
+ 
+ 
+ is a real or complex number (the Bloch wavevector or Floquet exponent). Functions of this form are sometimes called Bloch-periodic in this context. A periodic function is the special case 
+ 
+ 
+ 
+ k
+ =
+ 0
+ 
+ 
+ 
+ 
+, and an antiperiodic function is the special case 
+ 
+ 
+ 
+ k
+ =
+ 
+ 
+ /
+ 
+ P
+ 
+ 
+ 
+ 
+. Whenever 
+ 
+ 
+ 
+ k
+ P
+ 
+ /
+ 
+ 
+ 
+ 
+ 
+ 
+ is rational, the function is also periodic.
+
+Quotient spaces as domain
+In signal processing you encounter the problem, that Fourier series represent periodic functions and that Fourier series satisfy convolution theorems (i.e. convolution of Fourier series corresponds to multiplication of represented periodic function and vice versa), but periodic functions cannot be convolved with the usual definition, since the involved integrals diverge. A possible way out is to define a periodic function on a bounded but periodic domain. To this end you can use the notion of a quotient space:
+
+ 
+ 
+ 
+ 
+ 
+ R
+ 
+ 
+ /
+ 
+ 
+ Z
+ 
+ 
+ =
+ {
+ x
+ +
+ 
+ Z
+ 
+ :
+ x
+ 
+ 
+ R
+ 
+ }
+ =
+ {
+ {
+ y
+ :
+ y
+ 
+ 
+ R
+ 
+ 
+ y
+ 
+ x
+ 
+ 
+ Z
+ 
+ }
+ :
+ x
+ 
+ 
+ R
+ 
+ }
+ 
+ 
+ 
+ 
+.
+That is, each element in 
+ 
+ 
+ 
+ 
+ 
+ R
+ 
+ 
+ /
+ 
+ 
+ Z
+ 
+ 
+ 
+ 
+ 
+ 
+ is an equivalence class of real numbers that share the same fractional part. Thus a function like 
+ 
+ 
+ 
+ f
+ :
+ 
+ 
+ R
+ 
+ 
+ /
+ 
+ 
+ Z
+ 
+ 
+ 
+ 
+ R
+ 
+ 
+ 
+ 
+ 
+ is a representation of a 1-periodic function.
+
+Calculating period
+Consider a real waveform consisting of superimposed frequencies, expressed in a set as ratios to a fundamental frequency, f: F = 1f [f1 f2 f3 ... fN] where all non-zero elements 1 and at least one of the elements of the set is 1. To find the period, T, first find the least common denominator of all the elements in the set. Period can be found as T = LCDf. Consider that for a simple sinusoid, T = 1f. Therefore, the LCD can be seen as a periodicity multiplier.
+
+For set representing all notes of Western major scale: [1 98 54 43 32 53 158] the LCD is 24 therefore T = 24f.
+For set representing all notes of a major triad: [1 54 32] the LCD is 4 therefore T = 4f.
+For set representing all notes of a minor triad: [1 65 32] the LCD is 10 therefore T = 10f.
+If no least common denominator exists, for instance if one of the above elements were irrational, then the wave would not be periodic.

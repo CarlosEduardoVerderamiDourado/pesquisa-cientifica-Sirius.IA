@@ -1,0 +1,52 @@
+Sigurd Johannes Savonius
+
+Sigurd Johannes Savonius (2 November 1884 – 31 May 1931) was a Finnish architect and inventor. He is known especially for the Savonius wind turbine, which he invented in 1924.
+
+Life and work
+Savonius was born in Hämeenlinna, Grand Duchy of Finland, to Albin Laurentius Johannes Savonius (1856–1906) and his wife Anna Elisabeth née Rydman (1859–1921). He was one of three sons, together with his brothers Maximilian Lars Helge and Odert Albin.
+As a young man he enjoyed experimenting with explosives. One such experiment, an attempt to mix red phosphorus with a knife and fork, cost him two fingers and the sight in his right eye.
+Savonius graduated from secondary school in Helsinki in 1901. Although he had originally planned to become an engineer, he decided to study architecture and graduated in 1906 with a degree in architecture from Helsinki Polytechnic. Nevertheless, he usually referred to himself as an engineer and occupied himself mainly with technical projects.
+He met his future wife, the Englishwoman Mary Appleyard (born 1884), through his brothers, who were students in her English class. He and his wife had seven children: four daughters (Moira Angela Hjördis (born 1914), Ann-Mari, Mary Henrietta and Gustava Elisabeth) and three sons (Klas Albin, Mark Adrian Briggs and Johannes Anthony (born 1916), who died in hospital on 8 March 1940 from wounds sustained in the Winter War).
+The family's house was in the town of Ingå in Southern Finland, which Savonius designed himself.
+
+On 8 October 1920 Savonius founded Savonius & Company, with his wife as a shareholder.
+Seven years after graduating from the polytechnic, he registered his first patent, for a snow melting device to produce drinking water from snow, and in 1920 he patented an optimized version of the device. In 1921, he patented a cooking device for rock fireplaces.
+In the early 1920s, Savonius concentrated on the control of air flows and the use of wind power. In 1923, his attention was attracted by a rotor ship built by the German engineer Anton Flettner. The ship was propelled by two large cylindrical rotorsails, which stood as tall as masts and were rotated by an engine. The idea was to take advantage of the Magnus effect: the perpendicular force exerted on the enclosed cylinders as they spun at greater than wind speed. Savonius wondered whether the ship could be driven by a rotor apparatus operating by wind power alone, without the aid of an engine.
+He met with Flettner in the offices of his firm, Savonius & Company, on Lönnrotinkatu Street in Helsinki, and the two engineers conducted experiments there.
+By early 1924, Savonius had developed a rotor with a cylinder open to airflow. The two oppositely arranged vanes in this cylinder produced a high rotor torque that could be used directly for energy production. It is not known whether he succeeded in propelling a ship primarily through the Magnus effect, as originally intended. But a short biography of Savonius has suggested that such an application could be possible, provided that a technical solution is found to convert the rotational motion of the cylinders into thrust. This suggests a successful outcome for his research into the rotor as a suitable mechanism for ship propulsion. Savonius-like rotor kites demonstrate that the operating principle is useful and that in principle the rotor makes the Magnus effect available.
+This invention for the use of wind energy was patented in Finland in 1926 and later in many other countries. The name "Savonius-Rotor", under which the invention is still known today, was bestowed by the German patent authorities. In the same year that the Finnish patent was granted, Savonius published his book The wing-rotor in theory and practice.
+In addition to his eponymous rotor, Savonius also filed patents for inventions such as a wind turbine with autonomously regulated rotational speed, a system for light displays and showcases, and a ventilation system based on his rotor. Savonius’ interest in wind flows ultimately became his undoing. He caught a chill in the wind tunnel that he had built on the premises of his business (Finland’s first wind tunnel) and died from the resulting pneumonia at the age of 46. His brother Odert took over the company and expanded its offerings. The patent for the ventilation system was acquired by Flettner’s firm Flettner Ventilator Limited, which continues to manufacture modern derivatives in Britain.
+
+Patents filed by Savonius
+
+"Apparatus for melting snow and the like", US Patent 1125732, 19 January 1915 (pdf)
+"Snow Melter Apparatus / Appareil A Fondre La Neige", CanadianPatent CA000000196319A, 20 January 1920
+"Apparatus for melting snow and the like", US Patent US000001339719A, 11 May 1920
+"Anordning för åstadkommande av konstgjort drag på snösmältare utan användning av bläster", Finnish Patent FI000000008437A, 1 April 1921
+"Kakelugnsinsats", Finnish Patent FI000000008502A, 22 June 1921
+"Bränslebrikett eller stycke jämte härför avsedd ugn eller kamin, användbar även för löst bränsle", Finnish Patent FI000000008501A, 22 June 1921
+"Kokapparat för hällspisar", Finnish Patent FI000000008500A, 22 June 1921
+"Cheminée ou poele pour combustion centrale", French Patent FR000000528762A, 18 November 1921
+"Förbränningsanordning", Finnish Patent FI000000009093A, 18 July 1922
+"Machine à fondre la neige ", French Patent FR000000592249A, 29 July 1925
+"", Greek Patent GR250100998, 14 August 1925
+"Schneeschmelzmaschine", Austrian Patent AT000000102020B, 10 December 1925
+"Rotor", French Patent FR000000601266A, 26 February 1926
+"Rotor", Finnish Patent FI000000011121A, 10 April 1926
+"Rotor", Austrian Patent AT000000103819B, 26 July 1926
+"Improvements in or relating to wind rotors for producing rotary power and generating cross drive", British Patent GB000000244414A, 9 September 1926
+"Improvements in or relating to wind rotors", British Patent GB000000264219A, 13 January 1927
+"Rotor eller roterende Drivanordning", Danish Patent DK000000037015C, 17 January 1927
+"Schneeschmelzvorrichtung ", German Patent DE000000452742A, 21 November 1927
+"Rotor / Rotor", Canadian Patent CA000000278888A, 27 March 1928
+"Windrad", German Patent DE000000462462A, 17 July 1928
+"Improvements in or relating to wind rotors", British Patent GB000000299634A, 1 November 1928
+"Rotor adapted to be driven by wind or flowing water", US Patent US000001697574A, 1 January 1929
+"Reklamanordning ", Finnish Patent FI000000012540A, 19 July 1929
+"Windrad mit zwei Hohlfluegeln, deren Innenkanten einen zentralen Winddurchlassspalt freigeben und sich uebergreifen", German Patent DE000000495518A, 14 April 1930
+"Wind rotor", US Patent US000001766765A, 24 June 1930
+"Anordnung fuer Lichtschilder, Schaukaesten o. dgl.", German Patent DE000000512187A, 10 November 1930
+"Durch Luftströmung angetriebene Vorrichtung zur Ventilation von geschlossenen Räumen oder zur Verbesserung, bezw. Erhaltung eines Schornsteinzuges.", Swiss Patent CH000000147730A, 30 June 1931
+
+Publications
+The wing-rotor in theory and practice. Reprint of edition Helsingfors, 1926, (Omnia-Mikrofilm-Technik), Munich, ca. 1981 (pdf: 11.80 MB)

@@ -1,0 +1,94 @@
+Piper PA-23
+
+O Piper PA-23, nomeado Apache e posteriormente Aztec, é um avião bimotor de quatro a seis assentos, para o mercado da aviação geral. A Marinha dos Estados Unidos e outras forças militares de vários países o utilizaram em pequenos números. Originalmente projetado na década de 1950 pela Stinson Aircraft Company, a Piper Aircraft fabricou o Apache e uma versão mais potente, o Aztec, nos Estados Unidos, entre as décadas de 1950 e 1980.
+
+Projeto e desenvolvimento
+O PA-23 foi o primeiro bimotor da Piper, sendo desenvolvido a partir do projeto denominado "Twin Stinson", herdado quando a Piper comprou a Stinson da Convair. O protótipo do PA-23 era um monoplano de asa baixa, construído inteiramente de metal e com quatro assentos, com uma cauda dupla e motorizado por dois Lycoming O-290-D de 125 hp (93,2 kW) cada; voou pela primeira vez em 2 de março de 1952. A aeronave não teve um bom desempenho e foi redesenhada com um único estabilizador vertical e uma fuselagem traseira toda de metal, com motores mais potentes, o Lycoming O-320-A de 150 hp (112 kW) cada.
+
+Apache
+(Código OACI: PA23)
+Dois novos protótipos desta aeronave redesenhada, agora com o nome Apache, foram construídos em 1953, entrando em produção em série em 1954; 1.231 aeronaves foram construídas. Em 1958, o Apache 160 foi produzido com motores de 160 hp (119 kW); 816 destas aeronaves foram construídas. O Apache 160 foi substituído em 1962 por um derivado do Aztec, o Apache 235. Com um preço de US$45.000 em 1962, o Apache 235 vinha equipado com os motores do Aztec, com 235 hp (175 kW), e superfícies de cauda alongadas. Foram construídas 119 destas aeronaves.
+
+Aztec
+(Código OACI: PA27)
+
+No mesmo ano, a Piper produziu uma versão mais potente, com motores Lycoming O-540 de 250 hp (186 kW) e uma superfície de cauda alongada, denominando-o PA-23-250 Aztec. Os primeiros modelos vinham com uma configuração de cinco assentos em 1959. Em 1961, uma variante com nariz maior, o Aztec B, entrou em produção. Os Aztec posteriores foram equipados com motores com injeção eletrônica, os IO-540, e uma capacidade de seis assentos, permanecendo em produção até 1982. Haviam também versões com turbocompressores nos modelos mais novos, podendo voar em maiores altitudes. 
+A Marinha dos Estados Unidos adquiriu 20 Aztec, designando-os UO-1, sendo alterado para U-11A quando foram adotadas designações unificadas em 1962.
+Em 1974, a Piper produziu um único PA-41P Pressurized Aztec, um conceito experimental com cabine pressurizada. Este conceito teve vida curta. Os aspectos que tornavam o Aztec popular, por seu espaçoso interior e habilidade de carregar grandes cargas, não o permitia a suportar a pressão requerida para aeronaves pressurizadas. O projeto foi cancelado e o único Aztec pressurizado produzido, N9941P, foi doado para a Universidade Estadual do Mississippi, onde foi utilizada em testes. Em 2000, a aeronave foi doada para o Museu de Aviação da Piper, em Lock Haven, Pennsylvania, em uma condição que não poderia mais ser voado, permanecendo em exibição neste museu.
+
+Variantes
+
+Apache
+
+PA-23 Twin-Stinson
+Designação original do Piper PA-23 Apache.
+PA-23 Apache
+Versão de produção inicial. 2.047 aeronaves construídas (incluindo o Apache E, G e H).
+PA-23-150 Apache B
+Versão de 1955 com pequenas alterações.
+PA-23-150 Apache C
+Versão de 1956 com pequenas alterações.
+PA-23-150 Apache D
+Versão de 1957 com pequenas alterações.
+PA-23-160 Apache E
+PA-23 com dois motores O-320-B de 160 hp (119 kW).
+PA-23-160 Apache G
+PA-23 com uma cabine interna maior e uma janela extra.
+PA-23-160 Apache H
+Apache G com motores O-320-B2B e outras pequenas alterações.
+PA-23-235 Apache 235
+Apache com cinco assentos e motores O-540 com 235 hp (175 kW). 118 aeronaves construídas.
+PA-23-250 Aztec
+Apache G com a fuselagem traseira modificada, nova cauda e motores Lycoming O-540-A1D de 250 hp (186 kW). 4.811 aeronaves construídas (incluindo as sub-variantes)
+Seguin Geronimo
+Apache com uma série de modificações nos motores, nariz e cauda.
+
+Aztec
+
+PA-23-250 Aztec B
+1962-1964. Aztec com um nariz maior para o compartimento de bagagem; seis assentos, um novo painel de instrumentos e alterações nos sistemas.
+PA-23-250 Aztec C e Aztec C Turbo
+1964-1968. Aztec B com os motores IO-540-C4B5 ou o turbo TIO-540-C1A como opcional, com naceles de motor e trem de pouso modificados.
+PA-23-250 Aztec D e Aztec D Turbo
+1969-1970. Aztec C com painel de instrumentos e controles revisados.
+PA-23-250 Aztec E e Aztec E Turbo
+1971-1975. Aztec D com um nariz maior e parabrisa de peça única.
+PA-23-250 Aztec F e Aztec F Turbo
+1976-1981. Aztec E com sistemas melhorados e pontas de asa alteradas.
+U-11A
+Designação da Marinha dos Estados Unidos (anteriormente UO-1).
+UO-1
+Designação da Marinha dos Estados Unidos para o PA-23-250 Aztec com equipamentos adicionals; 20 aeronaves entregues, posteriormente redesignados U-11A.
+PA-41P Pressurized Aztec
+Conceito de Aztec pressurizado. Uma aeronave construída.
+
+Operadores
+
+Operadores Militares
+ Argentina
+ Bolívia
+ Brasil
+ Camarões
+ Colômbia
+ Costa Rica
+ El Salvador
+ Honduras
+ Madagáscar
+ México
+ Nicarágua
+Força Aérea da Nicarágua
+ Espanha
+Força Aérea Espanhola
+Escuadrón 912
+Escuadrilla de Enlace 905
+ Paraguai
+Força Aérea Paraguaia
+Grupo Aéreo de Transporte Especial/GATE
+ Papua-Nova Guiné
+Air Operations Element, Força de Defesa de Papua-Nova Guiné
+ Uganda
+ Estados Unidos
+Marinha dos Estados Unidos
+ Venezuela
+ Uruguai
+Força Aérea Uruguaia

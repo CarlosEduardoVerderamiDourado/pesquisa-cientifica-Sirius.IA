@@ -1,0 +1,27 @@
+FV-E991 series
+
+The FV-E991 series (FV-E991), nicknamed HYBARI, is a hydrogen fuel cell electric multiple unit (EMU) train type operated by East Japan Railway Company (JR East) from 2022.
+This series will be used as a test unit to collect data for future development and deployment of fuel cell vehicles. Starting in 2021, JR East will conduct trials on the Tsurumi and Nambu lines and expects to have the technology ready for commercial application by 2024. On 4 June 2020, the company announced that it would invest 4 billion into the development of this series, which is the new generation of the Fuel Cell New Energy Train experimental unit.
+The FV acronym (of the series numbering: FV-E991) stands for Fuel cell Vehicle and the E for East (because this series is to be operated by East Japan Railway Company). This series nickname HYBARI stands for "HYdrogen-HYBrid Advanced Rail vehicle for Innovation".
+
+Fuel cell system
+This series is equipped with a hybrid system that uses hydrogen as fuel and an electric battery as a power source. It works by generating electricity with compressed hydrogen (stored in the train) and oxygen (from the air). Electricity is then stored on batteries that is to power the electric motors and other systems of the train. Fuel cell vehicles only emit water and heat, so they are considered zero-emission vehicles (ZEV). The maximum speed of these units is expected to be 100 km/h (62 mph) and the range 140 km (87 mi) when the storage units are filled at 70 MPa (691 atm), the maximum filling pressure. When those are filled at 35 MPa (345 atm) the expected range is 80 km (50 mi).
+The trailer car has the hydrogen storage units installed on the roof. There are 4 carbon fiber banks, each with five 51-liter (11 imp gal; 13 U.S. gal) modules. That makes a total of 1,020 liters (224 imp gal; 269 U.S. gal) per unit. There are two pumping units, one on the roof (near the hydrogen storage unit) and the other one under the floor (near the fuel cell device) to pump hydrogen from the banks to the fuel cell device. The fuel cell device has two 180 kW polymer fuel cell stacks installed under the floor. These can operate at temperatures down to 10 °C (14 °F) and supply electricity for two 25 kWh li-ion electric batteries under the powered car floor. The batteries power a VVVF converter with twin inverters to feed the four 95-kilowatt (127 hp) traction motors. The series is equipped with regenerative brakes, which charge the batteries during braking. Toyota Motor Corporation developed the fuel cell device, while Hitachi developed the hybrid system.
+
+Design
+Based on the design of the EV-E301 series battery electric multiple unit, the design of the train conveys a sense of speed and give a futuristic image. The train is painted in a blue splash pattern to represent the moistening of the earth and the water generated from the fuel cell device.
+The train has the HYBARI logo on the front and another on the side in the middle of the train, on a side of the junction between cars. This logo is to represent the introduction of new energy for vehicles as the breath of spring onto the land.
+
+Goals
+
+Contributing to reduce carbon dioxide emissions
+The main goal of this project is to create a rolling stock that operates using clean energy, such as hydrogen, to minimize the environmental impact. Hydrogen does not emit carbon dioxide or any other polluting substance to the atmosphere and can be produced using renewable energy. This will help to curb global warming and to diversify energy sources.
+
+Collaboration to develop hybrid fuel cell vehicles
+Combining JR East's railway rolling stock design and manufacturing, Hitachi's railway hybrid systems, and Toyota's technologies used to develop the Mirai fuel cell electric automobile and SORA fuel cell bus, those three companies will adapt fuel cells for the railway industry. They will try to create hybrid fuel cell rolling stock, which needs a higher power output than cars and buses.
+
+Operations
+Since March 2022, the FV-E991 series has operated on the Tsurumi Line and Nambu Line as a test unit. JR East plans to implement fuel cell rolling stock on from fiscal 2030 for use on traditionally diesel-operated services. 
+
+Formation
+The FV-E991 series unit was delivered from the Japan Transport Engineering Company (J-TREC) factory in Yokohama in February 2022. It is formed as follows, consisting of two cars.

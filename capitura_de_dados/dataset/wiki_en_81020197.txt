@@ -1,0 +1,21 @@
+Trust Wallet
+
+Trust Wallet is a multichain, noncustodial cryptocurrency wallet that allows users to store, send, receive, and manage digital assets across more than 100 blockchain networks. Available as a mobile app for iOS and Android and as a browser extension, the wallet supports decentralized finance (DeFi), NFTs, crypto staking, token swapping, and access to decentralized applications (dApps). The company reported more than 220 million users worldwide in 2026. The wallet is non-custodial, meaning users retain full control of their private keys and seed phrases at all times.
+Acquired by Binance in 2018, Trust Wallet later became a separate company owned by Binance founder Changpeng Zhao.
+
+History
+Trust Wallet was founded in 2017 by Ukrainian developer Viktor Radchenko, a software developer with a background in cybersecurity and mobile applications. The wallet was initially developed for storing ERC-20 and ERC-223 tokens on the Ethereum blockchain. As the cryptocurrency ecosystem grew, Trust Wallet added support for additional blockchains and digital assets, including Solana, NFTs, and allowed users to interact with decentralized applications.
+In July 2018, Binance acquired Trust Wallet in its first-ever acquisition.
+In 2022, Radchenko stepped down from his role to pursue other ventures. Following his departure, Eowyn Chen was appointed CEO of Trust Wallet.
+
+Features
+Trust Wallet supports more than 100 blockchain networks within a single application, including Ethereum, BNB Chain, Bitcoin, Solana, Polygon, Avalanche, Tron, and Cosmos. The wallet provides in-app token swapping through third-party decentralized exchange (DEX) aggregators, and lets users buy cryptocurrency with fiat currency through third-party on-ramp partners such as MoonPay. Users can also stake proof-of-stake assets directly within the app to earn rewards, and store and transfer NFTs across supported blockchains. In 2025, Trust Wallet introduced the Trust Wallet Agent Kit (TWAK), a toolkit enabling artificial intelligence agents to execute cryptocurrency transactions across multiple blockchains.
+
+Technology
+
+Wallet Core
+Trust Wallet's cryptographic key management is built on Wallet Core, an open-source library released under the MIT License and maintained publicly on GitHub. Wallet Core handles private key generation, transaction signing, and address derivation across supported blockchains.
+
+Security model
+Trust Wallet uses a non-custodial architecture in which private keys and seed phrases are generated and stored locally on the user's device and are never transmitted to Trust Wallet's servers. The application supports biometric authentication and PIN-based access control. The Wallet Core library has undergone independent third-party security audits. 
+Independent researchers have identified vulnerabilities in the wallet's key-generation process. A 2018 version of the iOS app used a pseudo-random number generator seeded from device timestamps to generate mnemonic phrases, a flaw catalogued as CVE-2024-23660 and exploited on-chain in July 2023. Academic security research has documented widespread vulnerabilities across browser-based cryptocurrency wallet extensions as a class. In December 2025, a compromised update to Trust Wallet's Chrome browser extension contained code that transmitted users' seed phrases to an external server. Confirmed losses from the incident totaled $7 million. Trust Wallet released a patched version, and Binance founder Changpeng Zhao stated that affected users would be compensated.

@@ -1,0 +1,62 @@
+Kumada coupling
+
+In organic chemistry, the Kumada coupling is a type of cross coupling reaction, useful for generating carbon–carbon bonds by the reaction of a Grignard reagent and an organic halide. The procedure uses transition metal catalysts, typically nickel or palladium, to couple a combination of two alkyl, aryl or vinyl groups. The groups of Robert Corriu and Makoto Kumada reported the reaction independently in 1972.
+The reaction is notable for being among the first reported catalytic cross-coupling methods. Despite the subsequent development of alternative reactions (Suzuki, Sonogashira, Stille, Hiyama, Negishi), the Kumada coupling continues to be employed in many synthetic applications, including the industrial-scale production of aliskiren, a hypertension medication, and polythiophenes, useful in organic electronic devices.
+
+History
+The first investigations into the catalytic coupling of Grignard reagents with organic halides date back to the 1941 study of cobalt catalysts by Morris S. Kharasch and E. K. Fields. In 1971, Tamura and Kochi elaborated on this work in a series of publications demonstrating the viability of catalysts based on silver, copper and iron. However, these early approaches produced poor yields due to substantial formation of homocoupling products, where two identical species are coupled.
+These efforts culminated in 1972, when the Corriu and Kumada groups concurrently reported the use of nickel-containing catalysts. With the introduction of palladium catalysts in 1975 by the Murahashi group, the scope of the reaction was further broadened. Subsequently, many additional coupling techniques have been developed, culminating in the 2010 Nobel Prize in Chemistry being awarded to Ei-ichi Negishi, Akira Suzuki and Richard F. Heck for their contributions to the field.
+
+Mechanism
+
+Palladium catalysis
+According to the widely accepted mechanism, the palladium-catalyzed Kumada coupling is understood to be analogous to palladium's role in other cross coupling reactions. The proposed catalytic cycle involves both palladium(0) and palladium(II) oxidation states. Initially, the electron-rich Pd(0) catalyst (1) inserts into the R–X bond of the organic halide. This oxidative addition forms an organo-Pd(II)-complex (2). Subsequent transmetalation with the Grignard reagent forms a hetero-organometallic complex (3). Before the next step, isomerization is necessary to bring the organic ligands next to each other into mutually cis positions. Finally, reductive elimination of (4) forms a carbon–carbon bond and releases the cross coupled product while regenerating the Pd(0) catalyst (1). For palladium catalysts, the frequently rate-determining oxidative addition occurs more slowly than with nickel catalyst systems.
+
+Nickel catalysis
+
+Current understanding of the mechanism for the nickel-catalyzed coupling is limited. Indeed, the reaction mechanism is believed to proceed differently under different reaction conditions and when using different nickel ligands. In general the mechanism can still be described as analogous to the palladium scheme (right). Under certain reaction conditions, however, the mechanism fails to explain all observations. Examination by Vicic and coworkers using tridentate terpyridine ligand identified intermediates of a Ni(II)-Ni(I)-Ni(III) catalytic cycle, suggesting a more complicated scheme. Additionally, with the addition of butadiene, the reaction is believed to involve a Ni(IV) intermediate.
+
+Scope
+
+Organic halides and pseudohalides
+The Kumada coupling has been successfully demonstrated for a variety of aryl or vinyl halides. In place of the halide reagent pseudohalides can also be used, and the coupling has been shown to be quite effective using tosylate and triflate species in variety of conditions.
+Despite broad success with aryl and vinyl couplings, the use of alkyl halides is less general due to several complicating factors. Having no -electrons, alkyl halides require different oxidative addition mechanisms than aryl or vinyl groups, and these processes are currently poorly understood. Additionally, the presence of -hydrogens makes alkyl halides susceptible to competitive elimination processes.
+These issues have been circumvented by the presence of an activating group, such as the carbonyl in -bromoketones, that drives the reaction forward. However, Kumada couplings have also been performed with non-activated alkyl chains, often through the use of additional catalysts or reagents. For instance, with the addition of 1,3-butadienes Kambe and coworkers demonstrated nickel catalyzed alkyl–alkyl couplings that would otherwise be unreactive.
+
+Though poorly understood, the mechanism of this reaction is proposed to involve the formation of an octadienyl nickel complex. This catalyst is proposed to undergo transmetalation with a Grignard reagent first, prior to the reductive elimination of the halide, reducing the risk of -hydride elimination. However, the presence of a Ni(IV) intermediate is contrary to mechanisms proposed for aryl or vinyl halide couplings.
+
+Grignard reagent
+Couplings involving aryl and vinyl Grignard reagents were reported in the original publications by Kumada and Corriu. Alkyl Grignard reagents can also be used without difficulty, as they do not suffer from -hydride elimination processes. Although the Grignard reagent inherently has poor functional group tolerance, low-temperature syntheses have been prepared with highly functionalized aryl groups.
+
+Catalysts
+Kumada couplings can be performed with a variety of nickel(II) or palladium(II) catalysts. The structures of the catalytic precursors can be generally formulated as ML2X2, where L is a phosphine ligand. Common choices for L2 include bidentate diphosphine ligands such as dppe and dppp among others.
+Work by Alois Fürstner and coworkers on iron-based catalysts have shown reasonable yields. The catalytic species in these reactions is proposed to be an "inorganic Grignard reagent" consisting of Fe(MgX)2.
+
+Reaction conditions
+The reaction typically is carried out in tetrahydrofuran or diethyl ether as solvent. Such ethereal solvents are convenient because these are typical solvents for generating the Grignard reagent. Due to the high reactivity of the Grignard reagent, Kumada couplings have limited functional group tolerance which can be problematic in large syntheses. In particular, Grignard reagents are sensitive to protonolysis from even mildly acidic groups such as alcohols. They also add to carbonyls and other electrophilic groups.
+As in many coupling reactions, the transition metal palladium catalyst is often air-sensitive, requiring an inert argon or nitrogen reaction environment.
+A sample synthetic preparation is available at the Organic Syntheses website.
+
+Selectivity
+
+Stereoselectivity
+Both cis- and trans-olefin halides promote the overall retention of geometric configuration when coupled with alkyl Grignards. This observation is independent of other factors, including the choice of catalyst ligands and vinylic substituents. 
+
+Conversely, a Kumada coupling using vinylic Grignard reagents proceeds without stereospecificity to form a mixture of cis- and trans-alkenes. The degree of isomerization is dependent on a variety of factors including reagent ratios and the identity of the halide group. According to Kumada, this loss of stereochemistry is attributable to side-reactions between two equivalents of the vinylic Grignard reagent.
+
+Enantioselectivity
+
+Asymmetric Kumada couplings can be effected through the use of chiral ligands. Using planar chiral ferrocene ligands, enantiomeric excesses (ee) upward of 95% have been observed in aryl couplings. More recently, Gregory Fu and co-workers have demonstrated enantioconvergent couplings of -bromoketones using catalysts based on bis-oxazoline ligands, wherein the chiral catalyst converts a racemic mixture of starting material to one enantiomer of product with up to 95% ee. The latter reaction is also significant for involving a traditionally inaccessible alkyl halide coupling.
+
+Chemoselectivity
+Grignard reagents do not typically couple with chlorinated arenes. This low reactivity is the basis for chemoselectivity for nickel insertion into the C–Br bond of bromochlorobenzene using a NiCl2-based catalyst.
+
+Applications
+
+Synthesis of aliskiren
+The Kumada coupling is suitable for large-scale, industrial processes, such as drug synthesis. The reaction is used to construct the carbon skeleton of aliskiren (trade name Tekturna), a treatment for hypertension.
+
+Synthesis of polythiophenes
+The Kumada coupling also shows promise in the synthesis of conjugated polymers, polymers such as polyalkylthiophenes (PAT), which have a variety of potential applications in organic solar cells and light-emitting diodes. In 1992, McCollough and Lowe developed the first synthesis of regioregular polyalkylthiophenes by utilizing the Kumada coupling scheme pictured below, which requires subzero temperatures. 
+
+Since this initial preparation, the synthesis has been improved to obtain higher yields and operate at room temperature.

@@ -1,0 +1,166 @@
+Verbos coreanos
+
+Os verbos em coreano vêm sempre por último nas frases. Os verbos são a parte mais complexa da fala, e um verbo bem-conjugado pode ser uma frase por si só. Esse artigo usa da romanização de Yale em negrito para retratar a morfologia.
+
+Classificação
+Os verbos coreanos são tipicamente classificados em quatro categorias: ação, estado, existencial, de ligação.
+
+de Ação ou verbos processuais envolvem alguma ação ou movimento interno.
+Verbos estáticos ou descritivos são chamados de adjetivos.
+Os verbos existenciais transmitem a existência de algo, ou sua presença em um local particular ou na posse de um ser particular. Esta categoria foi criada para o verbo itda "existir" e seu oposto, eopda "não existir"
+Os verbos de ligação (cópula) permitem que um não-verbo use terminações verbais. Em coreano, essa categoria foi criada para a cópula afirmativa e negativa. A cópula afirmativa é ida "ser", e a cópula negativa 
+ainda "não ser". No entanto, existem muitos outros verbos em coreano que também servem para anexar terminações verbais aos substantivos, principalmente hada "fazer".
+A distinção entre verbos de ação e verbos descritivos é visível na conjugação verbal em algumas situações. As cópulas se conjugam como verbos estáticos, mas os verbos existenciais se conjugam como verbos de ação. Alguns verbos podem ser estáticos ou ativos, dependendo do significado específico.
+
+Formas
+Os verbos coreanos são conjugados. Toda forma de verbo em coreano tem duas partes: a raiz do verbo, simples ou expandida, além de uma sequência de sufixos flexionais. Os verbos podem ser bastante longos devido a todos os sufixos que marcam contrastes gramaticais.
+Uma raiz de verbo coreano é sempre vinculada, o que significa que nunca ocorre sem pelo menos um sufixo. Esses sufixos são numerosos, mas regulares e ordenados. Existem mais de 40 finais básicos, mas mais de 400 quando as combinações desses finais são contadas. As categorias gramaticais dos sufixos verbais incluem a Voz (passiva ou causativa), o Tempo (passado, presente ou futuro), o Aspecto de um ação (completa, experimentada, repetida ou continuada), honorificação (escolha apropriada do sufixo conforme o protocolo de linguagem) e conjuntivos finais da oração ou finalizadores de sentença escolhidos entre vários estilos de fala e tipos de sentenças, como interrogativo, declarativo, imperativo e sugestivo .
+
+Alterações sonoras
+Muitos verbos alteram a pronúncia da consoante final da raiz após a adição de um sufixo. Algumas dessas alterações são o resultado de uma simplificação regular de assimilação consoante ou de agrupamento, mas algumas são irregulares. Os verbos irregulares contêm consoantes finais da raiz que foram historicamente eliminadas e que, como resultado, desapareceram ou sofreram mutações entre vogais, mas permaneceram próximas a uma consoante.
+
+Citação
+A forma lema ou citação de um verbo coreano é a forma que termina em ta da.
+
+Infinitivo
+Além de uma raiz verbal em si que precede ta na forma de citação, também existe uma raiz longa com uma vogal harmônica adicional, chamada pelo lingüista Samuel E. Martin de forma "infinitiva". Essa forma neutra de tempo também não expressa nenhum nível honorífico nem de fala. Assim, são frequentemente usados para títulos literários, legendas e títulos de capítulos, uma vez que não são direcionados especificamente a um indivíduo ou a um grupo.. 
+Esse chamado infinitivo, no entanto, não deve ser confundido com a forma de citação mencionada acima. É formado anexando ‘‘‘ e a / e o / a à raiz, de acordo com a harmonia coreana das vogais. Se a raiz verbal termina em uma vogal, as duas vogais podem se fundir ou contrair.
+Sem contração vocálica
+
+al ‘‘ al "saber" + ‘‘‘ e a’‘‘ ‘‘‘al.a' ' ' ' 'ara'
+mek’‘‘ meok "coma" + ‘‘‘ e a’‘‘ ‘‘‘mek.e' ' ' ' 'meogeo' '
+Com contração vogal
+
+ka ' ' 'ga' '"ir" +’‘‘ e a ‘‘‘’‘‘ka ‘‘‘ ga
+o ‘ ’ o "vir" + ‘‘‘ e a’‘‘ ‘‘‘wa’‘‘ wa 
+se ‘ ’ seo "estar (em pé)" + ‘‘‘ e a’‘‘ ‘‘‘se’‘‘ seo
+i ‘ ’ i (cópula) + ‘‘‘ e a’‘‘ ‘‘‘ye’‘‘ yeo 
+ssu ‘ ’ sseu "use" + ‘‘‘ e a’‘‘ ‘‘‘sse’‘‘ sseo
+toy daeda doeda "tornar-se" pode ou não sofrer contração. ‘‘‘ta ta’’‘‘hada' '"fazer" é irregular.
+Essa forma infinitiva não é usada como substantivo, mas pode ser usada em verbos compostos, construção serial de verbose antes de certas terminações verbais (não todas). Pode ser comparado ao sistema de combinação do japonês.
+
+Final de verbos finitos
+Os verbos são a parte mais complexa do discurso em coreano. Sua estrutura quando usada como o predicado de uma cláusula é prefixo + raiz + até sete sufixos e podem ser ilustrados como se segue:
+
+{
+O prefixo negativo é an "não"; a palavra mos mot "não pode" também ocorre nessa posição.
+I A valência pode ser voz passiva ou causativa. Isso geralmente envolve uma mudança de radical, seguida pelo sufixo i (a ortografia desse sufixo pode mudar, dependendo da alteração do radical do verbo)
+II O sufixo honorífico é -usi -eusi- após uma consoante, '-si' após uma vogal. O i é reduzido a um a semivogal de outra vogal. Por exemplo, com o tempo passado a seguir, sie-ss '-si-eoss-' 'se reduz a' sye-ss - syeoss-. 
+
+Isso mostra deferência em relação ao tópico da conversa, por exemplo, quando se fala dos mais velhos.
+III Se não houver sufixo nesse espaço, o verbo está presente ou tempo gnômico. O tempo futuro e aspecto prospectivo são key-ss -get-, passado perfeito é - e a - ss 
+ / ' '-ot -' '/' '- em' 'mas com harmonia da vogal. Se não houver consoante interveniente, isso reduz, tanto na pronúncia quanto na escrita: a-ss para at- e wa-ss ' 'para ' 'wat-' '. O verbo 'o' "por vir" é, portanto, 'wa-ss' wat- no perfeito. O verbo 'ha' ha "fazer" é um irregular feno hae- no perfeito.
+
+Também existem tempos compostos: passado remoto - e a - ss-e-ss ' / -eosseot - / - asseot- , passado-futuro - e a - ss-key-ss / -eotkket - / - atkket- , futuro passado remoto (Uma ação que deveria ter sido concluída no passado, mas ainda não foi efetivamente executada) '- e a - sse-ss-key-ss ' / ' '-eosseotkket -' '/' '- asseotkket -' '
+IV O sufixo formal é -p após uma vogal (normalmente é escrito no mesmo bloco que a vogal), '-sup ' ' '-seup' 'após uma consoante em um verbo declarativo ou interrogativo, -up '-up' 'depois de uma consoante em uma proposição. (Depois de uma consoante 's' ou 'ss' , a letra no sufixo desaparece.)
+
+Isso mostra deferência em relação ao público da conversa, por exemplo, ao falar com os os mais velhos. Se falar para os mais velhos, usaria os sufixos formal e honorífico.
+V Os modos sintáticos, por falta de um termo melhor, são os de modo indicativo num -neum, '-ni' ou 'n' ; a retrospectiva ( imperfeito) '-ten' -deon , 'ti' -di ou 't' -d- ; e o modo subjuntivo si -si ou 's' . Nada disso é usado nos estilos casual ou íntimo, e o declarativo indicativo formal simples só pode ocorrer no tempo gnômico.
+
+- num -neun e -ten -deon são usados nos estilos interrogativos simples e familiares formais. Após uma vogal, -nun -neun reduz-se para 'n' . Antes do declarativo 'la' ra , '-ten' -deon reduz para ' te ' ' '-deo.' '
+- ni , -ti -di e -si são usados no estilo formal e educado.
+- n' , t -d-, e s são usados nos estilos declarativo e subjuntivo familiar.
+VI Os modos pragmáticos, por falta de um termo melhor, são os declarativos -ta -da (educado formal), -la '-ra(formal) e ey {{lang | ko | } } -e (familiar); interrogativo kka , ya (formal) e -ka ' ' '-ga' '(familiar); modo propositivo -ta -da (educado formal), -ca Ja -ja (formal) e ey -e (familiar); e o modo imperativo o (educado formal), '- e a la' / -eola / - ala (formal) e -key ' ' '-ge' ' (familiar).
+
+Style: Essas distinções não são feitas nos estilos íntimo e casual. Em vez disso, esse espaço é usado pelo sufixo íntimo - e a ' ' '-eo' '( a após um a ou o ) ou o sufixo casual -ci -ji. 
+VII O sufixo educado yo (-i yo após uma consoante) aparece nos estilos informais. Expressa o relacionamento de alguém com o público.
+
+Prefixos negativos
+Um verbo é tipicamente negado usando-se uma forma negativa, se houver, ou colocando um prefixo negativo na frente da raiz verbal.
+Existem dois possíveis prefixos negativos: mos mot e an . mos e an (i) . mos é usado para quando uma pessoa ao animar o sujeito para tenta executar uma ação, ou seja, ele começou, mas é incapaz de finalizá-la com sucesso. an é um negativo mais comum usado em todos os outros casos. Os dois prefixos são mutuamente exclusivos.
+
+Sufixos derivacionais
+As terminações derivadas são anexadas diretamente à raiz do verbo e são seguidas pelos sufixos tensos. Esses sufixos derivacionais terminam com as vogais fechadas i ou 'wu' que são reduzidas a uma semivogal a longo prazo para a forma raiz. Por exemplo, com um tempo passado a seguir, - (u) si - (eu) si reduz para - (u) sye-ss ' '- (eu) syeot' '.
+
+Valência
+A valência é parcialmente lexical e parcialmente derivacional. Muitas formas podem mudar sua valência pela adição dos sufixos derivativos de voz passiva ou causativa, -i , - oi , -li ' ' ' '-ri' ', -ki ' '}, -wu -u , -kwu - gu , ou -chwu -chu , às vezes com alterações adicionais na raiz.
+
+Honoríficos
+O sufixo honorífico do sujeito - (u) si deriva um verbo honorífico, ou seja, um verbo usado quando o sujeito de uma sentença tem um status social mais alto do que o falante. Tais verbos são usados, por exemplo, quando se fala de idosos, superiores sociais (pais, professores, chefes) ou estranhos.
+A forma completa -usi é usada apenas após uma consoante. Caso contrário, a vogal inicial é absorvida, tornando-se -si.
+Embora o sufixo honorífico seja necessário, alguns verbos têm alternativas honoríficas que devem ser usadas além de - (u) si. Por exemplo, iss ta itda se torna kyey'si ta gyesida .
+
+Tempo e aspecto
+Após as terminações derivacionais, os verbos coreanos podem conter até três sufixos seguidos, que representam uma combinação de tempo, aspecto e modo.
+
+Passado
+Esse sufixo é uma consoante enclítica ss após os forma infinitiva do verbo (terminando em e a ), formando e a ss / (a consoante final é pronunciada [ [s]] antes de uma vogal e t antes de uma consoante). Esse sufixo, que é convencionalmente chamado de "passado" ou "perfeito" por vários linguistas, tem muitos significados diferentes, dependendo da semântica do verbo ao qual está ligado e do contexto; pode ser um passado simples ou um presente perfeito.
+Etimologicamente, ss é uma contração do verbo existencial iss através da absorção das vogais. O formulário contratado - e a iss era originalmente um presente perfeito.
+
+Passado remoto
+Um verbo pode superficialmente ter duas formas do sufixo mencionado acima, a segunda das quais, no entanto, é sempre -ess -ot e representa um verdadeiro pretérito. Isso resulta na combinação e a ss.ess / ' '-eosseot / -asseot' ' Essa combinação comunica um passado remoto ou um passado perfeito.
+
+Futuro
+O sufixo futuro é -keyss -get , frequentemente usado para descrever eventos futuros. É usado quando o falante tem razões válidas para acreditar que algo certamente acontecerá. Por exemplo, o sufixo é usado em contextos de transmissões em coreano, como previsões meteorológicas.
+Mas pode ser usado junto com os sufixos passados perfeitos e remotos, ou em um contexto de tempo presente. Se usado com o sufixo perfeito, isso cria um passado inferencial ou condicional - e a ss-keyss / -eotget / -atge "deveria ter, teria, deve ter". Se usado com o sufixo passado remoto, ele cria um passado remoto inferencial ou condicional - e a ss-ess-keyss / -eosseotget / - asseotget, embora isso seja raro. Como esse infixo é ocasionalmente usado para um tempo do modo| condicional ou inferencial, dependendo do contexto, às vezes é chamado modo irrealis.
+Etimologicamente, o sufixo futuro é o resultado da fusão de um verbo resultante que termina com -key e a raiz existencial iss , por absorção de vogal, como mencionado acima. Essa contração e mudança de significado tem seu paralelo no tempo futuro do latim vulgar.
+
+Final de frases
+
+Nem todas as combinações dos sufixos no modelo acima são possíveis. As sequências mais comuns após o sufixo de tempo (ou seja, após a raiz ou o honorífico -usi no tempo presente, após -eass ou -keyss no passado e no futuro) são,
+
+Esse indicativo -nun é encontrado apenas no tempo presente dos verbos de ação. ** O imperativo formal-educado quase sempre leva o sufixo honorífico do sujeito - (u) si .
+Os finais íntimos, educados, educados, casuais e educados casuais são mais simples.
+
+Formalidade
+O sufixo formal é - (su) p / - (seu) p . A forma abreviada é usada após uma vogal e a forma longa é usada após uma consoante. (No sistema de escrita coreano hangul, o é escrito na parte inferior da sílaba anterior. Na Coréia do Sul, após ou , a sílaba foi escrita como . Essa regra foi modificada no final dos anos 80 e não é o idioma padrão. Portanto, atualmente, a sílaba é escrita como como sua própria pronúncia.) Isso mostra deferência em relação ao público da conversa, por exemplo, quando se fala em uma situação formal, como para (mas não necessariamente sobre ') os mais velhos. Se falasse aos anciãos e aos anciãos, usaria os sufixos formal e honorífico juntos.
+
+Modo sintático
+Os modos sintáticos, por falta de um termo melhor, são indicativo. -un ' ' '-neun' ', -n ( i) / ; retrospectiva do aspecto imperfeito -ten' ' } -deon, -t (i) / ; e modo jussivo -s(i) /.
+
+-ni , -ti , and -si contract to -n' , -t , and -s' respectively before ey 
+-ni , -ti , e -si se contraem a -n' , -t , e -s' respectivamente antes de ey .
+Nenhuma delas é usada nos estilos casual ou íntimo, e apenas o declarativo indicativo formal simples pode ocorrer no tempo gnômico.
+
+Modo pragmático
+Os modos pragmáticos, por falta de um termo melhor, são os declarativos ta , la e ey ; os interrogativos kka , ya e ka ; os propositivos ta , -ca e -ey ; e os imperativos o , '- e a la / e -key .
+Essas distinções não são feitas nos estilos íntimo e casual. Em vez disso, esse lugar é ocupado pelo sufixo íntimo '- e a' ' / ou pelo sufixo casual -ci .
+
+Polidez
+O sufixo educado yo aparece nos níveis de fala mais baixos. Isso aumenta o nível de polidez desses estilos
+
+Finais de frases
+
+Nem todas as combinações dos sufixos no modelo acima são possíveis. As seqüências mais comuns após o sufixo de tempo (ou seja, após a raiz ou o honorífico -usi no tempo presente, após o - e a ss ou -keyss no passado e no futuro) são,
+
+Este indicativo -nun se encontra somente no tempo presente de verbos de ação.** O imperativo formal-educado quase sempre leva o sufixo honorífico do sujeito -(u)si .
+Os finais íntimos, educados, educados, casuais e educados casuais são mais simples.
+
+Formalidade
+O sufixo formal é - (su) p / - (seu) p . A forma abreviada é usada após uma vogal e a forma longa é usada após uma consoante. (No sistema de escrita coreano hangul, o é escrito na parte inferior da sílaba anterior. Na Coréia do Sul, após ou , a sílaba foi escrita como . Essa regra foi modificada no final dos anos 80 e não é o idioma padrão. Portanto, atualmente, a sílaba é escrita como como sua própria pronúncia.) Isso mostra deferência em relação ao público da conversa, por exemplo, quando se fala em uma situação formal, como para (mas não necessariamente sobre ') os mais velhos. Se falasse aos anciãos e aos anciãos, usaria os sufixos formal e honorífico juntos.
+
+Modo sintático
+Os modos sintáticos, por falta de um termo melhor, são o indicativo -nun' -neun , '-n ( i) ' / ; retrospectivo imperfeito -ten } -deon , -t (i)' / ; e jussivo -s (i) / .
+
+-ni , -ti , e -si se contrai com -n' , -t , e -s' respectivamente antes de ey .
+
+Nenhuma delas é usada nos estilos casual ou íntimo, e apenas o declarativo indicativo formal formal pode ocorrer no tempo gnômico.
+
+Modos pragmáticos
+Os modos pragmáticos, por falta de um termo melhor, são os declarativos ta , la e ' 'ey ; interrogativos kka , ya e ka ; propositivos ta , -ca e -ey ; e os imperativos o , - e a la / e -key .
+Essas distinções não são feitas nos estilos íntimo e casual. Em vez disso, esse lugar é ocupado pelo sufixo íntimo '- e a' ' / ou pelo sufixo casual' -ci ' .
+
+Sufixo de polidez
+O sufixo de polidez yo aparece nos níveis de fala inferiores. Aumenta o nível de polidez desses estilos.
+
+Atributivos
+As terminações verbais atributivas modificam substantivos e substituem os adjetivos atributivos. O coreano não possui pronomes relativos. Em vez disso, um verbo atributido modifica substantivos, como fazem os adjetivos em português. Onde, em português alguém diria "Eu vi o homem que passeia com o cachorro", a estrutura do coreano é mais como "O homem que passeava com o cachorro que vi".
+A estrutura é RAIZ + valência + sufixo atributivo, com pouca complexidade dos verbos finitos acima.
+
+Os verbos ativos usam o sufixo atribuído -eun após uma consoante ou '-n' após uma vogal, no passado tenso. Para verbos descritivos ou estáticos, geralmente equivalentes a adjetivos em inglês, esse formulário é usado para descrições genéricas ( gnomic); efetivamente, "comida comida" é comida que já foi comida (passado), enquanto "uma flor bonita" é uma flor que se tornou bonita e ainda é (presente / atemporal). Para especificar a ação em andamento para um verbo ativo, o sufixo invariável -neun é usado. Isso não é encontrado em verbos descritivos, pois não faz sentido dizer que * "uma flor está sendo bonita". Para o futuro, o sufixo / ( - (eu) l com reforço da consoante a seguir) é usado e, na imperfeição / retrospectiva (lembrando o que era antes), é -deon .
+Por exemplo, do verbo meok "comer", o adjetivo yeppeu "lindo" e os substantivos ap bap "arroz cozido" e kkot "flor", obtemos:
+
+O sufixo perfeito -oss- também é às vezes usado, com o mesmo significado, em verbos ativos. Precede o sufixo atribuído:
+
+ meogeotdeon bap "arroz cozido que foi comido"
+Para verbos de ação, -ess é usado para ações ou processos concluídos que resultam em um estado atual. O significado do verbo individual pode ajudar a determinar qual interpretação é apropriada. Portanto, gyeorhon haetda pode significar 'casar', com foco no evento passado ou 'é casado', com foco no estado atual resultante do evento passado. Mas gong-eul chatda 'chutou a bola' só pode denotar uma ação passada e jal saenggyeotda 'é bonito 'pode apenas denotar o estado atual. ( saenggida é um verbo de ação, que significa 'formar / criar'.)
+
+Conjuntivo
+Os verbos podem usar sufixos conjuntivos. Esses sufixos fazem cláusulas subordinadas.
+Um sufixo muito comum -go pode ser interpretado como uma conjunção subordinada. Ou seja, meokko significa aproximadamente "comer" gogireul meokko significa "comer carne" e naega gogireul meokko significa "Eu como carne e ..." ou "Minha carne comendo".
+Outro sufixo, de significado um tanto semelhante, é -seo , que é, no entanto, anexado à raiz longa de um verbo que termina em - e a .
+Os dois justapõem duas ações, a ação na subcláusula e a ação na cláusula principal. A diferença entre eles é que, com seo, a ação na subcláusula necessariamente veio primeiro, enquanto -go transmite mais uma justaposição desordenada. Seo é freqüentemente usado para implicar causalidade, e em muitas expressões comuns como mannaseo bangapseumnida (literalmente: "Desde que te conheci, estou feliz "ou" Tendo conhecido você, estou feliz "). Se -go fosse usado, o significado seria mais próximo de "te encontro e estou feliz", isto é, sem nenhuma conexão lógica implícita.
+Ambos são sufixos conjuntivos subordinados e não podem (nos registros mais formais, pelo menos) derivar sentenças completas próprias sem a adição de um verbo principal, por padrão o verbo existencial itda .
+
+Sintaxe
+Como uma linguagem de típica ordem de palavras Sujeito – Objeto - Verbo, os verbos são o último elemento de uma frase coreana e o único indispensável. Ou seja, um verbo adequadamente conjugado pode formar uma frase por si só. O sujeito e o objeto de uma sentença são freqüentemente omitidos quando considerados óbvios no contexto. Por exemplo, a frase: chac.ass.ta ! Chajatda! ("[Eu] achei [!]!") Consiste em apenas um verbo porque o contexto em que essa frase ocorreria torna óbvia a identidade dos argumentos.

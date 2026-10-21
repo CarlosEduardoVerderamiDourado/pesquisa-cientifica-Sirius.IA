@@ -1,0 +1,204 @@
+Dassault Mirage III
+
+O Dassault Mirage III é um dos mais bem sucedidos caças supersônicos já construídos. Desenvolvido pela Dassault Aviation da França na década de 1950, foi o primeiro avião de combate europeu capaz de voar a uma velocidade de Mach 2. O Mirage III foi produzido em diversas versões e adquirido pelas forças aéreas de vinte países num total de 1.422 unidades construídas.
+Devido a possuir como característica ser um caça simples e confiável e por possuir um bom desempenho, o Mirage foi por muito tempo o principal avião de defesa da Força Aérea Francesa. Também obteve grande sucesso durante a Guerra dos Seis Dias quando a Força Aérea Israelense o utilizaram amplamente com sucesso em combate contra as Forças Aéreas do Egito, Síria e Jordânia.
+Também foi empregado na guerra do Paquistão em Dezembro de 1971 onde obteve 8 vitórias sobre a Força Aérea Indiana. Em 1982 foram utilizados pela Força Aérea da Argentina nas Guerra das Malvinas contra a Inglaterra.
+
+Desenvolvimento
+
+Protótipos e Pré-Produção
+
+Em 1953, a Armée de l'Air encomendou um estudo de um interceptador leve, "all-weather" (capacidade de operação todo-tempo) capaz de subir a 18.000 metros em 6 minutos e de alcançar Mach 1.3 em voo horizontal. A Dassault Aviation apresentou o projeto MD.550 Mystère-Delta, um pequeno e ágil caça, impulsionado por dois turboreatores Armstrong Siddeley MD30R Viper, com pós-combustores, cada uma com um empuxo de 9.61 kN (2,160 lbf) e um motor-foguete de combustível líquido SEPR provinha empuxo adicional de 14.7 kN. (3.300 lbf). A aeronave possuía configuração de suas asas em delta de 60º de enflechamento, sem estabilizador horizontal.
+Esta configuração em forma de delta apresentava uma série de limitações. A falta de um estabilizador horizontal implicava na ausência de flapes e exigindo pistas longas para decolagem e aterrissagem em alta velocidade. Também limitava a manobrabilidade e dificultava o voo em baixas altitudes devido a grande área de suas asas com uma baixa carga. Por outro lado, o desenho em delta apresentava uma construção simples, fácil e robusto, capaz de alcançar altas velocidades em linha reta e um grande espaço de carregamento de combustível, devido a grande área das asas.
+O primeiro protótipo do Mystère-Delta, o MD.550-01, sem capacidade de pós-combustores em seus turbojatos Armstrong Siddeley Viper e com um nada usual estabilizador vertical de grandes proporções, voou no dia de 25 de Junho de 1955 e fez um voo 20 minutos com o teto de 3000 pés. Durante os primeiros voos o protótipo não possuía pós-combustão e nem foguetes, atingindo assim a uma velocidade de Mach 0.95 durante os testes. Após um período de 6 meses, o protótipo sofreu algumas modificações no projeto, como a diminuição do estabilizador vertical, a instalação de turbojatos com pós-combustores e o motor-foguete. Com as melhoras, o protótipo atingiu a velocidade de Mach 1.3 sme o uso do motor-fogeute e Mach 1.6 com o uso dos mesmos. Este protótipo foi renomeado Mirage I.
+O pequeno tamanho do Mirage I acabava restringindo seu armamento a misseis ar-ar e nos testes de voo, se provou que a aeronave simplesmente era demasiado pequena para carregar armamento. Após seus testes, o protótipo foi desmantelado. A Dassault considerou um protótipo maior, chamado Mirage II, equipado com um par de turbojatos Turbomeca Gabizo, porém, estes prótótipo jamais foi construído.
+Acabou se projetando um protótipo 30% mais pesado que o Mirage I original e equipado com um turbojato SNECMA Atar, equipado com pós-combustores e fornecendo um empuxo de 43,2 kN (9,700 lbf). Este protótipo, nomeado de Mirage III, incorporou desenhos de regra de área, com melhoras na seção central da aeronave, incorporou também difusores de choque cônicos nas entradas de ar da turbina, acionados manualmente, se moviam para a frente, reduzindo a turbulência da entrada de ar, estes difusores ficaram conhecidos como souris (camundongos). Como o Mirage I, o Mirage III tinha provisão para os motores-foguete de combustível líquido SEPR. Este protótipo teve seu primeiro voo em 17 de Novembro de 1956. Em 19 de setembro de 1957 o protótipo atingiu a velocidade de Mach 1.8
+
+Com o êxito do protótipo, a Dassault recebeu a encomenda de produzir 10 Mirage IIIA. Este era 2 metros maior que o protótipo Mirage III, tinha a área da asa 1,73% maior e um turbojato SNECMA Atar 09B, com empuxo de 58,9 kN (13,230 lbf). Os motores-foguetes SEPR foram retirados, foi equipado com um radar de interceptação aérea Thomson-CSF Cyrano Ibis, aviônica de combate e um paraquedas de frenagem, para diminuir a distância necessária para o pouso. Esta pré-série teve o primeiro voo de suas aeronaves no dia 12 de Maio de 1958 conseguindo alcançar a velocidade de Mach 2.2, se tornando o primeiro caça europeu a ultrapassar a Marca de Mach 2.
+O decimo Mirage IIIA saiu das linhas de produção em dezembro de 1959, equipado com um turbojato Rolls-Royce Avon 67, com 71,1 kN (16.000 lbf) de empuxo. Se tratava de um modelo de avaliação para a Royal Australian Air Force, que chegou a adotar o Mirage III, porém sem essa configuração.
+
+Mirage IIIC e Mirage IIIB
+A primeira variante de produção em série do Mirage III foi a variante de caça/interceptação Mirage IIIC, que teve seu primeiro voo em outubro de 1960. O Mirage IIIC é visualmente similiar ao Mirage IIIA, porém, é 30 cm maior. Ele é equipado com a mesma motorização do Mirage IIIA, um turbojato SNECMA Atar 09B porém, é disntingüivel pelo exaustor mais longo, se comparado com os outros modelos da linha.
+
+O Mirage IIIC era armado com um par de canhões-revolver DEFA 552 de 30x113mm, posicionados na ventral da aeronave, no meio das entradas de ar. Os primeiros lotes do Mirage IIIC contavam com somente três pilones (um no centerline e dois nas asas), porém nos outros lotes foi adicionado dois pilones a mais, posicionados nas asas, totalizando cinco pilones. Havia a possibilidade de carregar bombas (algo inédito em aeronaves supersônicas), com o uso de um tanque supersônico de 500l que contava com quatro cabides de bombas, podendo carregar oito bombas e 1000l de combustível em dois tanques presos nos pilones internos das asas. Os pilones externos das asas forma projetados para carregar misseis ar-ar AIM-9B Sidewinder (depois, substituídos pelos Matra R.550 Magic I de fabricação francesa), podendo também, ser equipado com um míssil Matra R.530, guiado por radar, posicionado no centerline.
+Não havia provisão para o motor-foguete, pois na época, seu uso era obsoleto na aeronave e necessitava a retirada do canhão da aeronave. Outro motivo para não ser usado o motor-foguete era a fama de incendiar a aeronave em seu uso. O espaço utilizado pelo motor-foguete foi ocupado por combustível adicional e o espaço do bocal dos motores-foguete foi substituído por uma barbatana (depois, por um gancho de parada).
+
+A Adl'A (Armée de l'Air) recebeu 95 aeronaves desse modelo, tendo começado a ser recebido em 1961. Estas aeronaves foram operadas pela Adl'A até 1988.
+Em 1959, a Adl'A ordenou a construção de versões bi-place (dois lugares), para conversão operacional, do Mirage IIIA, estas aeronaves foram denominadas Mirage IIIB. A fuselagem foi aumentada em um metro e o canhão foi retirado, para o alocamento do segundo cockpit. Esta versão não conta com radar e nem com provisão para motor-foguete, porém, pode carregar armamento como bombas e mísseis ar-ar por infravermelho (como o AIM-9B SIdewinder ou o R.550 Magic I). A Adl'A operou 63 aeronaves deste modelo, incluindo o protótipo, as cinco aeronaves de teste (Mirage IIIB-1), 10 aeronaves Mirage IIIB-2(RV), usadas para treinamento de pilotos de Mirage IV e 20 Mirage IIIBE, que foram equipadas com a turbina e eletrônica do Mirage IIIE. Uma aeronave deste modelo foi modificada nos anos 70 para servir de protótipo para sistemas de fly-by-wire, esta aeronave foi designada Mirage IIIB-SV (Stabilité Variable, Estabilidade Variável). Esta aeronave serviu de base de testes para sistemas depois utilizado no Mirage 2000.
+
+Mirage IIIE e Mirage IIID
+
+Quando o Mirage IIIC foi posto em produção, a Dassault já pensava em construir uma versão multimissão do Mirage III, que acabou por se tornar o Mirage IIIE, que teve seu primeiro voo em outubro de 1961.
+O Mirage IIIE difere da variante C pela extensão de sua fuselagem em 30 cm, atrás do cockpit, para estender a baia de aviônicos e a capacidade combustível, resolvendo o problema de alcance que assolava o Mirage IIIC e propiciando capacidade multimissão ao Mirage IIIE. Esta diferença entre as aeronaves é difícil de ser vista normalmente.
+O Mirage IIIE foi equipado com uma suite eletrônica bem mais moderna que a utilizada no Mirage IIIC. Isso incluía uma radar de navegação doppler Marconi, posicionado na ventral, abaixo do cockpit (este não equipado em todos os Mirages III, sendo um equipamento opcional nas aeronaves de exportação, da mesma forma que a antena HF posicionada na extensão do bordo de ataque do estabilizador vertical, que foi padrão no Mirage IIIA e Mirage IIIC, porém foi relegado a um equipamento opcional para as aeronaves de exportação no Mirage IIIE), o radar dual-mode (ar/terra) Thomson-CSF Cyrano II e sistemas de RWR (com as antenas montadas no estabilizador vertical). A aeronave contava com uma turbina SNECMA Atar 09C e um exaustor variável de pétalas, mais aberto.
+
+O Mirage IIIE tinha as mesmas capacidades básicas de carregamento de carga do que o Mirage IIIC, porém, incorporava novos armamentos e sistemas (que incluíram pods de guerra eletrônica de fabricação francesa e lançadores de chaff/flare). Um destes armamentos é o curioso tanque de combustível/lançador de foguetes Matra JL-100, que fundia o tanque de combustível (com 250l de capacidade) com um lançador de foguetes SNEB, de 68mm, com capacidade para 18 foguetes.
+O primeiro Mirage IIIE de produção foi recebido em janeiro de 1964 pela Adl'A, tendo essa, operado 183 dessas aeronaves. A produção total dessa aeronave superou muito acima o Mirage IIIC, tendo 523 aeronaves produzidas para diversos países. Nos anos 60, um Mirage IIIE foi utilizado como base de testes para a turbina SNECMA Atar 09K-6, tendo sido designado como Mirage IIIC-2.
+O Mirage IIID é uma versão bi-place para conversão operacional e treinamento (com uma capacidade de combate limitada, similar a do Mirage IIIB). Esta aeronave não contava com radar e eletrônica, além de ter a capacidade de combustível menor. Ele é facilmente reconhecida pelo bico, muito mais fino que de sua versão monoplace.
+
+Mirage IIIR
+
+Um determinado número de variantes de reconhecimento foi construída pela designação geral de Mirage IIIR. Esta variante usa a fuselagem do Mirage IIIE, a aviônica do Mirage IIIC e cinco câmeras OMERA posicionadas no bico da aeronave. Devido a falta de espaço, logicamente, se retirou o radar e o canhão DEFA 552 da aeronave, para propiciar espaço para as câmeras necessárias para as operações de reconhecimento. Foi retirada também, a capacidade de carregamento de armas. Esta aeronave é facilmente reconhecível, por seu bico mais fino, devido à retirada do radar e o posicionamento das câmeras.
+A Adl'A obteve 50 aeronaves de produção, sem incluir os dois protótipos. De modo muito interessante, o Mirage IIIR precedeu o Mirage IIIE na introdução operacional. A Adl'A também obteve 20 aeronaves Mirage IIIRD, melhoradas. Essencialmente, o Mirage IIIRD é o Mirage IIIR original, com uma câmera panorâmica, numa posição mais frontal no bico da aeronave, o radar de navegação doppler Marconi e a eletrônica do Mirage IIIE.
+
+Modernizações
+
+Mirage 50
+
+A ideia de incorporar uma turbina SNECMA Atar 9K50 e a eletrônica do Mirage F1 a célula do Mirage III deu início a modernização conhecida por Mirage 50. Seu primeiro protótipo começou a ser testado em abril de 1975.
+A aeronave, além de contar com o reator SNECMA Atar 9K50, ela recebeu uma aviônica totalmente baseada na utilizada no Mirage F1, que incluía um radar multimodo Thomson-CSF Cyrano IV, HUD, mostradores CRT, Sistema de navegação inercial (INS) Litton LN-30, entre outros. Além disso as aeronaves receberam um bico similar ao utilizado no Mirage F1 e um tubo de reabastecimento em voo, do tipo probe.
+O armamento da aeronave incluía mísseis ar-ar infravermelho, como Matra R.550 Magic II, mísseis ar-ar Matra Super Magic 530, bombas de 125, 250 e 400 kg, casulos de foguetes SNEB de 68mm e foguetes de 100mm, bombas antipista Matra Durandal e BAP-100, casulos de canhões e pods de Guerra Eletrônica.
+
+Mirage IIING
+
+Após o desenvolvimento do Mirage 50, a Dassault experimentou outra modernização da variante original da série Mirage, chamado Mirage IIING (Nouvelle Generation - Nova Geração). Como o Dassault Milan e o Mirage 50, o Mirage IIING era motorizado por uma turbina SNECMA Atar 9K50. O primeiro protótipo, uma conversão feita em uma célula do Mirage IIIR, voou pela primeira vez em dezembro de 1982.
+O Mirage IIING tinha a asa delta modificada, contando com extensões LERX, que vinham desde o bordo de ataque das asas, mais um par de canards fixos, posicionados perto das entradas de ar dos motores. Estes canards abriam um fluxo de ar sobre a asa, tornando a aeronave mais estável e mais manobrável, além disso, foi instalado um tubo de reabastecimento em voo, do tipo probe. A aeronave recebeu uma aviônica completamente nova, baseada nos sistemas desenvolvidos para o Mirage 2000. Isso incluía um inédito sistema fly-by-wire (que curiosamente, havia sido testado em um Mirage IIIB), sistemas de navegação/ataque modernos, um radar multimodo, um telemetro laser, que unidos as melhoras aerodinâmicas e o novo motor deram um desempenho interessante a aeronave.
+A modernização jamais veio a ser produzida, mas provou ser um ótimo demonstrador de tecnologia e deu base para novas modernizações, mais avançadas e heterodoxas aos modelos mais antigos da série Mirage. As melhoras aerodinâmicas desse modelo veio a ser introduzida nos Mirage IIIBR, quando estas aeronaves passaram por revisão em 1989, assim como quatro Mirage IIIE da Adl'A, que foram transferidos para a FAB em 1998. Em 1989, a Dassault Aviation ofereceu uma modernização similar aos Mirages III da Adl'A, designada como Mirage IIIEX. Esta modernização contava com a instalação de um tubo fixo de reabastecimento tipo probe, canards fixos, bico mais largo, uma aviônica mais refinada, dentre outras modernizações e melhorias.
+
+Mirage III espanhol
+Durante o início dos anos 90, a ATTORN S.A. (uma associação entre a CASA e a Ceselsa, duas empresas espanholas de sistemas aeronáuticos) propuseram para a Força Aérea Espanhola e para a Força Aérea Argentina uma modernização do sistema de armas Mirage III. Esta modernização incluía a revisão total das células das aeronaves, a instalação de uma sonda de reabastecimento tipo probe, o aumento do bico da aeronave, a instalação de 4 novos pilones (similar a configuração utilizada no IAI Kfir) e canards posicionados nas tomadas de ar (da mesma forma que o Mirage IIING).
+A eletrônica da aeronave era totalmente nova, nisso incluía um radar Emerson Electric AN/APQ-159, Computador de dados aéreos (ADC) AYK-14 (similar ao modelo utilizado no F/A-18C Hornet), RWR AN/ALR-300, sistemas de guerra eletrônica montados internamente, lançadores de chaff/flare AN/ALE-40, HOTAS, HUD, dois MFD (Displays multifunção), instrumental analógico novo (como redundância aos MFD), IFF e rádios VHF/UHF com modo de encriptação (tipo Have Quick). O armamento incluía misseis ar-ar por infravermelho AIM-9J Sidewinder (com capacidade all-aspect), mísseis ar-superfície AGM-65G Maverick, mísseis anti-radiação AGM-88 HARM, bombas de precisão a laser Paveway, Designadores laser e pods de guerra eletrônica Barax, de construção francesa.
+A ATTRON S.A. ofereceu está modernização aos Mirages IIIEE/DE da Força Aérea Espanhola, porém, a modernização foi cancelada em 1991, com a venda das aeronaves espanholas ao Paquistão, em 1990. No ano de 1993 a mesma empresa ofereceu a modernização aos jatos Mirage IIIEA/DA da Força Aérea Argentina. No pacote, foi oferecido 18 jatos Mirage IIIEE e 4 Mirage IIIDE restantes (depois diminuídos para 10 Mirage IIIEE e 4 Mirage IIIDE) e a modernização completa de todas as células do Mirage IIIEA/DA, porém, as restrições orçamentárias levaram ao cancelamento do projeto.
+
+Protótipos
+
+Mirage IIIV / Balzac
+
+O Mirage IIIV era uma versão protótipo derivado do Mirage III, concebido para experiências no campo da decolagem e aterrissagem vertical (VSTOL), possuía uma fuselagem mais larga para poder acomodar os oito reatores de empuxo vertical Rolls Royce RB162-1 de 15,7 kN (3,525 lbf) de empuxo, além do SNECMA-Pratt & Whitney TF106, de propulsão horizontal, com 74,5 kN (16.750 lbf) de empuxo. Na parte central da fuselagem, entre os oito reatores verticais, ficavam alojado os trens de pouso. Estes trens de pouso eram mais robustos em virtude do aparelho precisar decolar a aterrissar verticalmente.
+
+Milan
+O projeto Milan (milhafre) começou a ser desenvolvido em 1968 pela Dassault em cooperação com a RUAG, da Suíça com o objetivo de melhorar o controle da aeronave em baixa velocidade e em decolagem em curtas distâncias, sem com isso ocasionar em perda de desempenho. A principal característica do Milan era possuir um par de canards no nariz da aeronave, mais tarde apelidadas de "bigodes" (os primeiros protótipos forma apelidados de Asterix devido a os nada usuais canards). Os três primeiros protótipos eram aeronaves Mirage reconstruídas com os "bigodes".
+Um protótipo completo, construído a partir de um Mirage IIIR, voou pela primeira vez em Maio de 1970 e era equipado pelo novo motor SNECMA Atar 09K-50, que gerava 70,6 kN (15.900 lbf) de empuxo. O Milan também teve aviônicas atualizados, incluindo um designador/telemêtro a laser, posicionado em seu bico. Um segundo protótipo completo foi produzido para avaliação da Força Aérea Suíça e recebeu o nome de Milan S.
+O resultado demonstravam que os canards "bigodes" acabaram gerando resultados significativos mas também traziam inconvenientes problemas. Eles bloqueavam a visão do piloto em certos pontos e também geravam turbulências no motor fazendo aumentar o seu consumo. O projeto Milan foi abandonada em 1972, mas o estudo e o desenvolvimento quanto ao uso de canards continuaram, sendo futuramente utilizado nos novos caças.
+
+Fabricação sob licença
+
+Austrália
+
+No fim dos anos 50, a Real Força Aérea Austaliana (Royal Australian Air Force) buscava uma aeronave para substituir seus veteranos CAC Sabre. Em várias avaliações feitas foram escolhidos o F-104 Starfighter, americano e o Dassault Mirage III, francês. Em 1961 a Dassault construiu uma versão do Mirage IIIA de pré-série, impulsionado por uma turbojato Rolls-Royce Avon 67, de 71,1 kN (16.000 lbf), para avaliação pelos militares australianos. Esta aeronave (nomeada como Mirage IIIO) foi avaliada pelos militares australianos, porém, acabou não entrando em produção. O governo australiano, por fim, decidiu construir sob licença o Mirage IIIE, designado pela RAAF como Mirage IIIO (algumas vezes, como Mirage IIIOz, para diferencia-lo do protótipo de 1961). Esta variante seria construída pela Government Aircraft Factory (GAF), em Fishermans Bend, Melbourne, usando tanto componentes de construção francesa quanto componentes construídos localmente. Outra empresa australiana, a Commonwealth Aircraft Corporation (CAC), foi responsável pela construção dos turbojatos SNECMA Atar 09C. As duas primeiras unidades foram construídas na França, e as outras 114 unidades (98 monoplaces e 16 biplaces) foram construídas na Austrália.
+A variante australiana diferia da aeronave francesa principalmente pela aviônica, mais "ocidentalizada" e pelo armamento aericanizado, como mísseis ar-ar por infravermelho AIM-9G Sidewnder, bombas Mk.82, de 227 kg e bombas guiadas a laser GBU-12 Paveway II. Fora produzidas três variantes: o caça-interceptador Mirage III0(F), a aeronave de ataque Mirage IIIO(A) e a versão de conversão operacional (com capacidade de combate), Mirage III0(D). Foram construídos localmente, 48 Mirage IIIO(F), 50 Mirage IIIO(A) e 16 Mirage IIIO(D).
+Todas as aeronaves Mirage IIIO(F) foram convertidas para Mirage IIIO(A) entre 1967 e 1979. As aeronaves foram operadas pela RAAF até 1988 e 50 exemplares em melhor condição de voo foram vendidos a o Paquistão em 1990. Vários exemplares estão espalhados por museus em toda a Austrália e um único exemplar está sendo reformado para ter condições de voo.
+
+Suíça
+
+Após escolher o Hawker Hunter como aeronave de caça em 1958, a Força Aérea Suíça já pensava na compra de um caça interceptador supersônico, uma vez que a aeronave britânica não supria tais necessidades de defesa. Havia várias opções no mercado da época, como o F-104 Starfighter ou o English Electric Lightning, porém somente duas opções foram efetivamente avaliadas pelo grupo de estudos suíço, o Saab 35 Drakken e o Dassault Mirage III. O interceptador francês era visto como bem mais superior que a aeronave sueca, devido a ser um sistema de armas muito mais evoluido e ganhar do Drakken em vários quesitos como velocidade, altitude, alcance e capacidade com combate ar-solo. Sendo assim, o Mirage III foi declarado vencedor em 1960.
+Em 1961, a Força Aérea Suíça recebeu um único Mirage IIIC, utilizado como aeronave de desenvolvimento para a construção de uma variante totalmente nova da série, o Mirage IIIS. Esta variante foi especialmente modificada para atender as capacidades necessárias para a defesa aérea da Suíça. Suas modificações incluíam uma suite de aviônica totalmente nova, de origem note-americana, um radar de controle de fogo Hughes TARAN-18 (em detrimento do Thomson-CSF Cyrano II), capacidade de disparo do míssil ar-ar Saab HM-55S Falcon (versão sueca do AIM-26 Falcon, construída sob licença), RWR, melhorias na estrutura para o uso de um motor-foguete SEPR 66 e melhorias nos trens de pouso e quatro alças de carregamento, para operação destas aeronaves em cavernas. Estas aeronaves seriam construídas sob licença pela F+W Emmen (hoje, RUAG). Devido ao excesso de modificações e a construção sob licença, o projeto gastou muito mais do que originalmente lhe foi disponibilizado, provocando uma crise interna no governo, porém, da mesma forma, o projeto foi continuado.
+
+Foram construídas 54 aeronaves, dentre elas, 48 Mirage IIIS (de interceptação), quatro Mirage IIIBS (de conversão operacional) e 18 Mirage IIIRS 9de reconhecimento). Em 1988, 30 destas aeronaves 9as que estavam em melhores condições de voo) passaram por uma modernização, feita pela RUAG, que incluiu canards fixos (similares aos montados no Mirage IIING), eletrônica e aviônica novas, um lançador de chaff/flare AN/ALE-40, de fabricação norte-americana e assentos ejetores Martin-Baker Mk.10, de construção britânica. No mesmo ano, os suíços receberam dois Mirage IIID, ex-Adl'A, que foram designados como Mirage IIIDS.
+Os Mirages IIIS foram retirados de serviço em 1999. Já os Mirage IIIRS/BS/DS foram somente retirados de serviço definitivamente em 2003.
+
+Emprego na Força Aérea Brasileira
+Em maio de 1970 o Brasil encomendou 17 caças, sendo 13 do modelo Mirage IIIEBR e 4 do modelo IIIDBR que foram entregues para a Força Aérea Brasileira entre Outubro de 1972 a Maio de 1973, recebendo a denominação de F-103. Os caças Mirage III pertenciam ao 1o. Grupo de Defesa Aérea (1o. GDA), localizados na base de Anápolis em Goiás.
+Estes caças foram submetidos ao primeiro programa de modernização no final da década de 80 e novamente em 1997. Permaneceram em operação até Dezembro de 2005, quando já contavam com mais de 67.000 horas de voo e 33 anos de operação, sendo estes substituídos pelos caças Mirage 2000.
+
+Utilização em combate
+
+Guerra dos Seis Dias: O Mirage III foi utilizado em combate pela primeira vez pela Força Aérea Israelense durante a Guerra dos Seis Dias, em Junho de 1967. Os Mirages israelenses obtiveram mais de doze alvos em um dia. Devido a superioridade dos caças Mirages em relação aos outros caças, os exércitos da Jordânia, Egito e da Síria acreditavam que estes aviões foram secretamente desenvolvidos e produzidos pelos Estados Unidos e Reino Unido.
+Guerra Indo-Paquistanesa: O Paquistão utilizou seus Mirage III na terceira Guerra Indo-Paquistão, em 1971, obtendo, pelo menos, 3 vitórias ar.
+Guerra do Yom Kipur: Durante a guerra de Yom Kipur (1973) verificou-se uma batalha de Mirages entre israelitas e árabes, o que levou os israelitas a pintar rapidamente de laranja os triângulos sobre as asas de seus aviões para permitir uma imediata identificação e evitar confusões trágicas durante as batalhas aéreas.
+Guerra das Fronteiras: Entre o período de 1978 a 1982, a África do Sul utilizou seus Mirage III durante a Guerra das Fronteiras com a Angola. Os Mirages efetuaram missões de ataque, com superioridade aérea e de reconhecimento.
+Guerra das Malvinas: A Argentina utilizou seus Mirage III EA & Dagger's durante a Guerra das Malvinas (1982), para missões de ataque antinavio e combate aéreo.
+
+Versões
+
+MD.550 Mystère-Delta: Protótipo de caça-interceptador, monoplace, asa delta. Equipado com um grande estabilizador vertical em delta, trem de pouso retrátil tipo triciclo e impulsionado por dois turbojatos Armstrong-Siddeley MD.30R Viper, de 7.35 kN (1.653 lbf) de empuxo. Uma unidade construída e logo após, desmantelada.
+Mirage I: Uma revisão do primeiro protótipo, equipado com um estabilizador vertical menor, um turbojato com pós-combustor MD.30R Viper, de 9,61 kN (2.160 lbf) e um motor-foguete de combustível líquido auxiliar SEPR 66, de 15 kN (3.370 lbf). Uma unidade construída.
+Mirage II: Um protótipo maior, baseado no Mirage I, impulsionado por duas turbinas Turbomeca Gabizo. Um único protótipo abandonado, incompleto.
+Mirage III 001: protótipo derivado do Mirage I, com reator Atar 101G-1 de 44 kN e provisão de um foguete auxiliar SEPR 66. Uma aeronave construída.
+Mirage IIIA : versão de pré-série, com reator Atar 9B de 58,85 kN (13.228 lbf) com pós-combustor e provisão de um motor-foguete auxiliar SEPR 84 de 13.34 kN (3.000 lbf). Equipado com um radar Dassault Super Aida ou Thomson-CSF Cyrano Ibis. Dez aeronaves construídas para a Armée de l'Air.
+Mirage IIIB: versão biposta, de treinamento , desprovida de radar, aramento e provisão para um foguete auxiliar.
+Mirage IIIB-1: Aeronave de testes. Cinco aeronaves construídas
+Mirage IIIB-2 (ou Mirage IIIB-RV): Aeronave de treinamento de reabastecimento em voo para os Mirage IV, equipado com um bico reabastecedor inerte. Dez aeronaves construídas
+Mirage IIIBE: Aeronaves bipostas de treinamento baseadas no Mirage IIIE, similar a o Mirage IIID. 20 unidades construídas para a Armée de l'Air.
+Mirage IIIBJ: Versão biposta, de treinamento construída para a Força Aérea Israelense. Cinco aeronaves construídas.
+Mirage IIIBL: Mirage IIIBE vendidos a Força Aérea Libanesa
+Mirage IIIBS: Versão biposta para a Força Aérea Suíça. Quatro unidades construídas.
+Mirage IIIBZ: Versão biposta para a Força Aérea Sul-Africana. Tr~es unidades construídas.
+Mirage IIIC: versão de série do interceptador (empuxo máximo de 11 800 kg).
+Mirage IIICJ: versão de exportação destinado a Israel
+Mirage IIICS: versão de exportação destinado a Suíça
+Mirage IIICZ: versão de exportação destinado a África do Sul
+Mirage IIIE: versão de ataque com turborreator Atar 9C-3 de 59 kN (empuxo máximo de 13 700 kg).
+Mirage IIIEA: versão de exportação destinado a Argentina.
+Mirage IIIEBR: versão de exportação destinado ao Brasil.
+Mirage IIIEE: versão de exportação destinado a Espanha.
+Mirage IIIEL: versão de exportação destinado ao Líbano.
+Mirage IIIEP: versão de exportação destinado ao Paquistão.
+Mirage IIIEV: versão de exportação destinado a Venezuela.
+Mirage IIIEZ: versão de exportação destinado a África do Sul.
+Mirage IIIS: versão de exportação destinado a Suíça.
+Mirage IIIO: versão de exportação destinado a Austrália.
+Mirage IIIBE: versão de treinamento.
+Mirage IIID: versão de treinamento para exportação.
+Mirage IIIDA: versão de treinamento destinado a Argentina.
+Mirage IIIDBR: versão de treinamento destinado ao Brasil.
+Mirage IIIDE: versão de treinamento destinado a Espanha.
+Mirage IIIDP: versão de treinamento destinado ao Paquistão.
+Mirage IIIDS: versão de treinamento destinado a Suíça.
+Mirage IIIDZ: versão de treinamento destinado a África do Sul.
+Mirage IIIR: versão de reconhecimento.
+Mirage IIIRP: versão de reconhecimento destinado ao Paquistão.
+Mirage IIIRS: versão de reconhecimento destinado a Suíça.
+Mirage IIIRZ: versão de reconhecimento destinado a África do Sul.
+Mirage IIIRD: versão melhorada de reconhecimento.
+Mirage IIIR2Z: versão melhorada de reconhecimento destinado a África do Sul.
+
+Derivados
+Mirage 5: versão simplificada do Mirage IIIE, com menos aviônica, o que diminuiu seu peso em uma tonelada, ganhando, assim maior capacidade em transportar armamentos, podendo cumprir além da função de caça a função de avião de ataque.
+Atlas Cheetah: versão redesenhada e modificada pela Atlas Aviation para a África do Sul durante a década de 80, era equipado com motor SNECMA Atar 9K50 e possuía aviônica e radar mais avançado.
+IAI Kfir: versão "melhorada" e modificada sem autorização (pirataria) pela Israel Aircraft Industries (IAI) para Israel, face a recusa dos franceses de lhes atender mais pedidos diante da pressão dos países árabes, equipado estes com reator americano General Electric J79 e aviônica e radar mais avançado.
+
+Operadores
+Relação de países onde o Mirage III está ou já esteve em operação:
+
+Operadores Militares Atuais
+ Paquistão: 86 aeronaves (18 Mirage IIIEP + 43 Mirage IIIO (monopostos), 5 Mirage IIIDP + 7 Mirage IIID (bipostos) e 13 Mirage IIIRP (reconhecimento)). 33 aeronaves Mirage IIIO(F)/D, ex-Força Aérea Australiana foram modernizados no projeto ROSE, passando para o padrão ROSE I.
+
+Operadores Militares Passados
+ África do Sul: 58 aeronaves (16 Mirage IIICZ + 17 Mirage IIIEZ (monopostos), 3 Mirage IIIBZ + 3 Mirage IIIDZ + 11 Mirage IIID2Z (bipostos) e 4 Mirage IIIRZ + 4 Mirage IIIR2Z (reconhecimento)). Muitos foram atualizados para o padrão Cheetah. Foram 16 passados para o padrão Cheetah E (Monopostos. Todas estas aeronaves foram vendidas para a Força Aérea Chilena como peças de reposição para seus ENAER Mirage 50FC/DC Pantera e ENAER Mirage 5MA/MD Elkan), 38 modernizadas para o padrão Cheetah C (monopostos, destas 38, 10 foram vendidas para a Força Aérea Equatoriana, 16 modernizadas para o padrão Cheetah D (bipostas, 2 aeronaves vendidas a Força Aérea Equatoriana) e uma aeronaves passada para o padrão Cheetah R (exemplar usado para testes de eletrônica e armamento). Todas as unidades retiradas de serviço (vide Atlas Cheetah).
+ Argentina: 43 aeronaves (17 Mirage IIIEA + 19 Mirage IIICJ (monopostos) e 4 Mirage IIIDA + 3 Mirage IIIBJ (bipostos), ex-Força Aérea Israelense). Atualmente, 12 aeronaves se mantêm em serviço, estes, modernizados sistemas aviônicos (HUD e Computador de Missão), sistemas de detecção (sistemas de alerta radar e atualização do radar Cyrano) e sistemas de defesa e armamento (sistemas de contramedidas eletrônicas e a capacidade de portar misseis americanos AIM-9 Sidewinder).
+ Austrália: 116 aeronaves (49 Mirage IIIO(F) + 51 Mirage IIIO(A) (monopostos) e 16 Mirage IIID (bipostos)). Muitas unidades fabricadas localmente. Retirados de serviço e vendidos a o Paquistão.
+ Brasil: 32 aeronaves (16 Mirage IIIEBR + 6 Mirage IIIEBR-2 (monopostos) e 4 Mirage IIIDBR + 6 Mirage IIIDBR-2 (bipostos)). Todos as aeronaves Mirage IIIEBR-2/DBR-2 eram usadas da Armée de l'Air. Algumas unidades foram modernizadas em 1997, com a adição de canards. Foram retirados de serviço em 2005 e foram estocados em Anapolis.
+ Espanha: 30 aeronaves. (24 Mirage IIIEE e 6 Mirage IIIEE). Retirados de serviço em 1992. Vendidos a o Paquistão.
+ França: 410 aeronaves (95 Mirage IIIC + 183 Mirage IIIE (monopostos), 27 Mirage IIIB + 5 Mirage IIIB1 + 10 Mirage IIIB2(RV) + 20 Mirage IIIBE (bipostos) e 50 Mirage IIIR e 20 Mirage IIIRD (reconhecimento)). Todas as aeronaves retiradas de serviço. Muitas delas, vendidos a outros países.
+ Israel: 79 aeronaves (72 Mirage IIICJ (monopostos), 5 Mirage IIIBJ (bipostos) e 2 Mirage IIIRJ (reconhecimento)). Retirados de serviço. 22 aeronaves repassadas para a Argentina de 1979 a 1983.
+ Líbano: 12 aeronaves (10 Mirage IIIEL (monopostos) e 2 Mirage IIIDL (bipostos)). Retirados de serviço em 2000 e vendidos a o Paquistão.
+ Suíça : 61 aeronaves (1 Mirage IIICS + 36 Mirage IIIS (monopostos), 4 Mirage IIIBS + 2 Mirage IIIDS (bipostos) e 18 Mirage IIIRS (reconhecimento)). Muitas unidades fabricadas localmente. Retirados de serviço em 2003.
+ Venezuela: 10 aeronaves (7 Mirage IIIEV (monopostos) e 3 Mirage IIIDV (bipostos)). Retirados de serviço após vários acidentes.
+
+Operadores Civis
+ Suíça :Um único Mirage IIIDS (ex-Força Aérea Suíça), matricula HB-RDF, operado pela Espace Passion Foundation.
+
+Especificações (Mirage IIIE)
+
+Caracteristicas Gerais
+Tripulação: Um tripulante
+Comprimento: 15,03 m
+Envergadura: 8,22 m
+Altura: 4,50m
+Area da asa: 34,85m
+Peso vazio: 7,500 kg
+Peso maxmo de decolagem: 13,700 kg
+Motores: 1x Turbojato SNECMA Atar 09C, com 9,346 lb/f de empuxo seco (13,668 lb/f de empuxo com pós-combustor).
+
+Performance
+Velocidade máxima: 2.350 km/h (Mach 2) a 12.000m.
+Alcance de combate: 1.200 km
+Alcance de traslado: 3.335 km
+Teto de serviço: 17,000 m
+Taxa de subida: 46,600 ft/s
+
+Armamento
+2x canhões DEFA 552 de 30x113mm DEFA, com 125 disparos cada.
+Foguetes: 2x tanques de combustível/lançador de foguetes Matra JL-100, com 18 foguetes SNEB de 68mm e 250 l de combustível
+Misseis: 2x AIM-9B Sidewinder ou Matra R.550 Magic I (nos pilones externos das asas) e 1x Matra R.530 (no centerline).
+Bombas: 4.000 kg de bombas variadas, tanques de napalm ou uma bomba nuclear AN-52.
+
+Eletrônica e Equipamento Óptico
+Radar dual-mode Thomson-CSF Cyrano II
+
+Aviões Similares
+Convair F-102 Delta Dagger
+Convair F-106 Delta Dart
+Mikoyan-Gurevich MiG-21
+Saab J-35 Draken

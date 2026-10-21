@@ -1,0 +1,388 @@
+Eleições legislativas portuguesas de 1822
+
+As eleições legislativas portuguesas de 1822 realizaram-se a 18 de agosto de 1822, com segunda volta a 22 de setembro e apuramento final a 6 de outubro, e foram as primeiras eleições parlamentares portuguesas por sufrágio direto e voto secreto. Decorreram ao abrigo da lei eleitoral de 11 de julho de 1822, aprovada pelas Cortes Constituintes antes da Constituição de 1822, cujo capítulo eleitoral reproduziu quase integralmente o diploma.
+Foram eleitos 118 deputados (102 pelo reino de Portugal e Algarve, 9 pelas ilhas adjacentes e 7 pelos territórios ultramarinos), distribuídos por 30 divisões eleitorais plurinominais no continente e ilhas e 7 círculos uninominais no ultramar. A eleição saldou-se numa vitória do situacionismo vintista, ainda que com uma bancada mais próxima da ala conservadora do que a das Constituintes.
+As Cortes ordinárias saídas desta eleição, a segunda legislatura do triénio vintista, reuniram em Comissão Preparatória a 15 de novembro, depois de as Constituintes terem encerrado a 4 de novembro; ficaram instaladas a 20 de novembro e suspenderam os trabalhos a 2 de junho de 1823, na sequência da Vilafrancada.
+
+Contexto
+As primeiras eleições parlamentares portuguesas, em dezembro de 1820, tinham decorrido ao abrigo das Instruções de 22 de novembro de 1820, decalcadas da Constituição de Cádis: sufrágio indireto, com escolha sucessiva de compromissários, eleitores de paróquia e eleitores de comarca, que elegiam os deputados ao nível das províncias. O procedimento revelou-se complexo: no Porto, o último ato eleitoral da província do Minho só terminou ao sexto dia. Essas Instruções substituíam uma primeira versão, de 31 de outubro, criticada pela fação mais radical e revista na sequência da Martinhada.
+As Bases da Constituição, de março de 1821, eram omissas quanto ao modo de eleição das Cortes. O projeto da Comissão da Constituição, de 15 de junho de 1821, mantinha a eleição indireta, reduzida a dois graus.
+
+O debate sobre a eleição direta
+A discussão sobre a eleição direta ou indireta abriu a 22 de agosto de 1821. Manuel Borges Carneiro defendeu a forma indireta, receando que o elevado analfabetismo conduzisse à eleição de deputados manipuláveis; Manuel Fernandes Tomás defendeu a eleição direta, sustentando que restringir o direito de voto não eliminava os desvios eleitorais e apenas limitava a soberania nacional. A eleição direta foi aprovada por 66 votos contra 29, afastando Portugal da Constituição francesa de 1791, da de Cádis e do sistema de 1820. O voto secreto foi ratificado a 29 de abril de 1822, por 84 votos contra 33.
+
+Da Constituição à lei
+Para eleger as novas Cortes antes de concluída a Constituição, Bento Pereira do Carmo propôs a 23 de maio de 1822 que o título das eleições fosse destacado do projeto constitucional e convertido em lei. O projeto de decreto, apresentado por Manuel Borges Carneiro a 21 de junho e preparado com Joaquim Pereira Anes de Carvalho e José Joaquim Ferreira de Moura, juntava-lhe o decreto sobre os círculos eleitorais ultramarinos. Foi aprovado a 11 de julho de 1822 e mandado executar por carta de lei de 17 de julho, publicada a 20 de julho.
+
+Marcação das eleições
+As eleições foram convocadas pelas próprias Cortes Constituintes, no decreto de 11 de julho, que fixou o ato eleitoral para o terceiro domingo de agosto (artigo 32.º). A Constituição viria a fixar a data das futuras eleições (artigo 51.º) e a cometer à Deputação Permanente das Cortes cessantes a reunião das assembleias eleitorais em caso de negligência (artigo 118.º).
+Terminava assim a prerrogativa régia de convocação das Cortes, que passavam a ser uma instituição permanente, renovada de dois em dois anos à margem da vontade do rei. A solução resultava da querela das legitimidades de 1820, entre a tese da legitimidade monárquica, adotada pela regência e por D. João VI, e a da legitimidade popular originária, invocada pelos vintistas, para quem os povos podiam eles próprios convocar as Cortes.
+Pretendia-se também evitar qualquer interrupção na representação nacional. As Constituintes cometeram às câmaras municipais a preparação dos atos eleitorais, de modo que a eleição terminasse antes do seu encerramento, a 4 de novembro de 1822. A Deputação Permanente recebia as credenciais dos novos deputados, organizava o livro de registo dos eleitos (artigo 75.º) e dirigia a sua reunião em Comissão Preparatória (artigo 76.º); o mandato das Cortes cessantes só terminava com o início do das novas.
+
+Sistema eleitoral
+
+A lei de 11 de julho de 1822, com 58 artigos e um mapa da população do reino, consagrou um sistema maioritário a duas voltas em círculos plurinominais, introduziu o primeiro recenseamento eleitoral do constitucionalismo português e não impôs qualquer limite censitário ao direito de voto.
+
+Direito de voto
+Votavam os cidadãos portugueses no exercício dos direitos políticos, com domicílio ou pelo menos um ano de residência no concelho (artigo 4.º). Eram excluídos (artigo 5.º) os menores de 25 anos (salvo os casados com vinte anos, os oficiais militares, os bacharéis e os clérigos de ordens sacras), os filhos-famílias que vivessem com os pais, os criados de servir, os vadios e os regulares. Os libertos e seus filhos não eram excluídos. As mulheres não votavam.
+A lei não exigia literacia. A Constituição viria a excluir os que, ao completar 25 anos, não soubessem ler e escrever, mas só a partir de 1830, pelo que a exigência não se aplicou em 1822.
+
+Elegibilidade
+Eram inelegíveis (artigo 7.º) os que não podiam votar, os que não tinham renda suficiente para se sustentar, os falidos não justificados, os secretários e conselheiros de Estado, os empregados da Casa Real e os estrangeiros naturalizados. Eram relativamente inelegíveis (artigo 6.º) os que não fossem naturais da província da eleição nem nela residissem há cinco anos, os bispos nas suas dioceses, os párocos nas suas freguesias e os magistrados onde exercessem jurisdição. Os deputados podiam ser reeleitos (artigo 8.º), solução contestada por quem temia a formação de partidos no Congresso. A renda suficiente não correspondia a qualquer quota censitária, ao contrário de todos os textos constitucionais portugueses posteriores.
+
+Recenseamento eleitoral
+O recenseamento foi introduzido pelo artigo 23.º. Em cada freguesia, o pároco inscrevia num livro de matrícula, por ordem alfabética, os nomes, moradas e ocupações dos moradores com voto; a câmara verificava e publicava as matrículas para correção antes das assembleias. A inscrição era oficiosa: ao cidadão restava apenas reclamar depois da publicação.
+
+Comparação com o sistema de 1820
+
+Mapa eleitoral
+A lei criou, pela primeira vez, um mapa eleitoral próprio para todo o império, embora não se tenha concretizado no Brasil. O Reino de Portugal e Algarve ficou dividido em 26 divisões, que elegiam 102 deputados (artigo 9.º), segundo o mapa da população anexo ao decreto, que contabilizava 785 concelhos, 4086 freguesias e 3 013 950 habitantes, apurados pelo censo de 1821. Cada divisão tomava o nome do município-sede, o mais central ou o mais populoso. Acresciam quatro divisões nas ilhas adjacentes (três nos Açores e uma na Madeira e Porto Santo), com 9 deputados, e sete círculos ultramarinos, com 7.
+
+Ao total das divisões do reino acresciam 12 500 militares de primeira linha, religiosos, religiosas e serventes dos conventos, perfazendo 3 026 450 habitantes.
+
+No Brasil, o artigo 12.º cometia às juntas provisórias a formação das divisões de cada província, na razão de um deputado por cada vinte e cinco a trinta e cinco mil habitantes livres. A partir da Relação dos deputados pelo ultramar de Clemente dos Santos, Joana Costa identifica catorze divisões efetivamente formadas, das quais teriam saído 39 deputados. A extensão das eleições ao Brasil decorria da conceção imperial do primeiro constitucionalismo, com um parlamento único em Lisboa para os portugueses de ambos os hemisférios; o impasse com os deputados americanos, favoráveis a soluções federalistas, conduziu à Independência do Brasil, e a lei nunca ali chegou a aplicar-se.
+
+Significado do novo mapa
+Os concelhos, sem papel eleitoral em 1820, tornaram-se o centro da administração eleitoral, servindo para a contagem dos votos e o apuramento intermédio; as freguesias serviam de base ao recenseamento, mas eram cindidas ou agrupadas para formar as assembleias primárias. Salvo nos Açores, as 44 comarcas perderam relevância eleitoral, e as províncias foram subdivididas em círculos formados por agregação de municípios, exceto o Algarve, que se manteve como círculo único com o nome de Faro.
+Ao desenhar circunscrições artificiais, sem identidade própria, a lei reforçou a ideia de que os deputados representam toda a nação e não os círculos que os elegem, ao contrário dos antigos procuradores concelhios nas Cortes. Contudo, a província continuou a servir de referência: podia ser eleito em qualquer círculo da província quem nela fosse natural ou residente, o que permitia que a mesma pessoa fosse eleita em vários círculos, caso previsto no artigo 19.º.
+O desenho dos círculos procurou uma dimensão média, entre três e seis deputados, para que os eleitores não tivessem de inscrever longas listas de nomes. A sua extensão dependia da densidade populacional: o Minho tinha mais círculos, e mais pequenos, do que Trás-os-Montes ou o Alentejo. A única exceção era Lisboa, um só concelho com cerca de 261 000 habitantes, que elegia nove deputados.
+
+Organização dos círculos
+Os círculos formavam-se pelos municípios necessários para eleger pelo menos três deputados. A votação decorria em assembleias infra-municipais, com base numa freguesia, numa fração de freguesia ou num agrupamento de freguesias; só os concelhos mais pequenos votavam numa assembleia única.
+
+Competia às câmaras delimitar as assembleias de voto e fixar o local da sua reunião. A união de concelhos com menos de mil habitantes gerou alguns litígios: o de Povos, com 426 habitantes, foi unido ao da Castanheira, de outra divisão, e as Cortes mandaram a 14 de agosto de 1822 que se unisse antes ao de Vila Franca de Xira.
+
+O ato eleitoral
+As assembleias eram presididas pelo vereador mais velho, assistido pelo pároco (artigos 27.º e 29.º); eram públicas, anunciadas pelo toque de sinos, e ninguém entrava armado (artigo 30.º). Após uma missa do Espírito Santo e a leitura do decreto, cada eleitor entregava uma lista escrita com o dobro dos nomes dos deputados da divisão, para efetivos e substitutos, que era lançada dobrada na urna (artigos 33.º a 35.º).
+As listas eram lidas em voz alta e os votos registados em duas relações públicas (artigo 36.º); lavrada a ata, eram queimadas publicamente (artigos 37.º e 38.º), e o apuramento final terminava com um Te Deum (artigo 51.º). Era eleito quem obtivesse pluralidade absoluta, isto é, mais de metade das listas (artigo 44.º); não se preenchendo os lugares, realizava-se segunda volta entre o triplo dos nomes em falta, bastando então a maioria relativa (artigos 45.º e 48.º).
+
+Calendário eleitoral
+Conjugando a lei eleitoral com a Constituição, o calendário foi o seguinte:
+
+O calendário foi cumprido, salvo em Arcos de Valdevez, onde a anulação das eleições obrigou à sua repetição.
+
+Dúvidas de interpretação
+As Cortes interpretaram a lei em pelo menos três ocasiões. A pedido da Câmara de Lisboa, uma resolução de 26 de julho dispensou a capital do artigo 25.º e substituiu o livro de matrícula pelo rol dos fregueses. Outra, de 9 de agosto, mandou resolver as dúvidas sobre a idade dos eleitores pelos livros de batismo, admitiu ao voto os filhos maiores de 25 anos que servissem ofícios públicos e fixou a entrega de uma só lista por eleitor. A 13 de agosto foram ainda admitidos a votar militares aquartelados em Lisboa e empregados públicos com menos de um ano de residência.
+A maior controvérsia incidiu sobre a incapacidade moral, que suspendia os direitos políticos e foi invocada sobretudo contra os corcundas ou servis, opositores do sistema constitucional. No Porto foram rejeitados os votos em quem se mostrasse inimigo da Constituição, o que não impediu a eleição de vários deputados do chamado partido anticonstitucional.
+
+Participação eleitoral
+A destruição da documentação eleitoral em 1823, na sequência da contrarrevolução, não permite conhecer o número de inscritos nem a abstenção; conservaram-se apenas as atas de apuramento dos círculos, enviadas às Cortes, que não registavam os inscritos.
+
+Universo eleitoral
+Moreira e Domingues estimam o universo eleitoral a partir do censo de 1821 e dos dados de Arcos de Valdevez. Excluídas as mulheres (cerca de 51%) e os menores de 25 anos, a população masculina adulta de Portugal continental rondaria 740 000, a que se subtraíam vadios, criados de servir, clero regular e filhos-famílias. Aplicando a taxa de 41,4% de recenseados apurada na freguesia da Areosa (Viana do Castelo), os autores chegam a cerca de 290 000 eleitores no continente: abaixo do sufrágio universal masculino, mas muito acima do que permitiria uma restrição censitária.
+
+Afluência
+Em Arcos de Valdevez, a afluência na primeira volta rondou os 86% dos inscritos, com redução na segunda. Extrapolada, essa taxa aponta para cerca de 250 000 votantes no continente a 18 de agosto de 1822.
+Os autores explicam esta participação, numa população rural e analfabeta, sem partidos nem imprensa de mobilização, pela realização das eleições ao domingo e na igreja, precedidas de missa e de prédica do pároco, e pelo empenho de constitucionais e anticonstitucionais em fazer do ato um referendo à Constituição. A elevada afluência reforçou a legitimidade das novas Cortes.
+
+Resultados
+O apuramento seguiu o calendário previsto; em Lisboa, embora o círculo fosse um único concelho, também se fez apuramento de círculo a 1 de setembro, e em Entre-Douro-e-Minho as assembleias de Braga e Barcelos só concluíram a 6 de outubro. Por cada deputado efetivo elegia-se um substituto (artigo 20.º); quem fosse eleito em várias divisões ficava pela da residência, depois pela da naturalidade e, na falta de ambas, por aquela onde tivesse mais votos (artigo 19.º).
+
+Deputados eleitos
+
+A relação seguinte segue o quadro de Moreira e Domingues, baseado nas listas da Deputação Permanente e nos diários parlamentares. As profissões dos eleitos em Entre-Douro-e-Minho vêm das atas eleitorais estudadas por Joana Costa; os votos e os substitutos dos restantes círculos vêm da relação lida pela Deputação Permanente na primeira sessão preparatória, a 15 de novembro de 1822.
+Nessa sessão, a Deputação informou que não tinham chegado as atas da Madeira, dos Açores, do Brasil e das restantes províncias ultramarinas; nos termos do artigo 57.º da lei, continuavam em funções os deputados que as tinham representado na legislatura anterior.
+Nas caixas seguintes, os efetivos aparecem a negrito, incluindo os eleitos que não tomaram assento e os substitutos chamados em seu lugar; os restantes substitutos aparecem sem negrito. Não se indicam os votos dos substitutos chamados mais tarde que não figuravam na relação da Deputação, nem percentagens, por se desconhecer o número de votantes. Como não havia candidaturas prévias, a mesma pessoa era muitas vezes eleita em mais de um círculo; o lugar deixado vago era preenchido pelo substituto seguinte.
+O asterisco (*) assinala os deputados da legislatura constituinte reeleitos em 1822.
+A maioria dos deputados viu os diplomas aprovados a 18 de novembro de 1822 e prestou juramento a 20 de novembro; os restantes entraram ao longo da legislatura, os últimos já em 1823, e três eleitos nunca tiveram os poderes verificados. Nenhum dos eleitos por Arcos de Valdevez subscreveu o protesto de autossuspensão das Cortes de 2 de junho de 1823.
+
+Província do Minho
+
+Divisão Eleitoral de Arcos de Valdevez
+Os votos indicados são os do primeiro escrutínio, anterior à anulação; a repetição da eleição em 1823 reconduziu os mesmos quatro deputados. Eram efetivos António José de Sousa Lima, abade de Giela; Domingos Lopes Martins, abade de Soajo; e os bacharéis António de Azevedo Lopes Serra, de Viana, e António José de Cerqueira da Silva Brandão, de Valença. Eram substitutos Tomás Xavier de Araújo Vieira Monteiro, provedor das capelas de Lisboa; Bento Pina de Castro e Meneses, ex-intendente das Alfândegas do Minho; Francisco Luís Álvares da Rocha, conselheiro da Fazenda; e José de Sousa Melo, abade de Prozelo. A relação da Deputação Permanente registava já um protesto e um requerimento contra a eleição.
+Três dos efetivos prestaram juramento a 13 de março de 1823; o diploma de António José de Sousa Lima nunca chegou a ser aprovado.
+
+ 
+
+Divisão Eleitoral de Barcelos
+Francisco Joaquim Gomes Ferreira de Novais, advogado em Barcelos, foi eleito na primeira volta, sem que a ata registe os seus votos. Os restantes efetivos eram Manuel José Rodrigues Araújo e Costa, advogado; António Gomes Ribeiro, desembargador do Paço; e Carlos José da Cruz e Sousa, juiz de fora de Vila do Conde. Entre os substitutos figuravam João Alvares Pinheiro de Carvalho, abade de São Julião do Calendário; D. João de Magalhães e Avelar, bispo do Porto; Francisco Xavier Soares de Azevedo, deputado em exercício; e Jerónimo José da Costa Rebelo, abade de Fonte Boa.
+António Gomes Ribeiro pediu escusa por idade avançada e foi substituído por João Alvares Pinheiro de Carvalho, que prestou juramento a 15 de janeiro de 1823; os outros três efetivos juraram a 20 de novembro de 1822.
+
+ 
+
+Divisão Eleitoral de Braga
+Eram efetivos João Rodrigues de Oliveira Catalão; Domingos José da Silva, abade de Santa Cristina; Gaspar Joaquim Teles da Silva e Menezes, advogado em Braga; e D. João José Vaz Pereira, bispo de Carrhes. Eram substitutos António dos Santos Leal, abade de Guinchães; Miguel Gomes Soares, opositor em Leis; Jácome António de Meireles, advogado; e Joaquim de Santo Agostinho da Fonseca Galvão, abade de Lustosa.
+Os três primeiros efetivos prestaram juramento a 20 de novembro de 1822. A eleição do bispo de Carrhes foi julgada ilegítima, por exercer jurisdição religiosa no círculo, e o substituto chamado, António dos Santos Leal, nunca terá comparecido.
+
+ 
+
+Divisão Eleitoral de Guimarães
+Eram efetivos Bernardo Teixeira Coutinho Alvares de Carvalho, desembargador do Paço; Manuel Baltasar Mendes Leite, advogado; Francisco Xavier Leite Pereira Lobo, deputado em exercício; e Manuel José Batista Felgueiras, desembargador da Suplicação. Eram substitutos Lourenço de Arrochela Vieira Malheiro, desembargador; D. João de Magalhães e Avelar, bispo do Porto; Manuel de Freitas Costa, doutor; e José Peixoto Sarmento de Queirós, deputado em exercício.
+Três efetivos prestaram juramento a 20 de novembro de 1822 e Francisco Xavier Leite Pereira Lobo a 7 de dezembro.
+
+ 
+
+Divisão Eleitoral de Penafiel
+Eram efetivos António Pinto Coelho Soares de Moura, advogado; António José de Sousa Peixoto, bacharel; Alexandre Alberto de Serpa Pinto, coronel de milícias de Penafiel; e José Teixeira de Sousa, desembargador da Suplicação. Eram substitutos Joaquim de Santo Agostinho Brito França Galvão, abade de Santiago de Lustosa; Vitorino José Cerveira Botelho do Amaral, desembargador da Suplicação; António Vicente Teixeira de Sampaio, comissário-geral do Exército; e Manuel Ferreira Cabral, proprietário em Baião. Os quatro efetivos prestaram juramento a 20 de novembro de 1822.
+
+ 
+
+Divisão Eleitoral do Porto
+José Joaquim Rodrigues de Bastos, deputado em exercício, e João Pedro Ribeiro, lente de Diplomática, foram eleitos na primeira volta, com 8081 e 6713 votos segundo a relação da Deputação Permanente. Os restantes efetivos eram João de Sousa Pinto de Magalhães e João Baptista Felgueiras, deputados em exercício, e José Máximo Pinto da Fonseca Rangel, governador do Castelo da Foz. Eram substitutos Frei Francisco de São Luís, bispo de Coimbra; José António Guerreiro, deputado em exercício; Francisco José Vieira, desembargador da Suplicação; Pedro do Rosário Ribeiro, proprietário; e Francisco José van Zeller, deputado em exercício. Os cinco efetivos prestaram juramento a 20 de novembro de 1822.
+
+ 
+
+Província de Trás-os-Montes
+
+Divisão Eleitoral de Bragança
+Raimundo André Vaz de Quina e Manuel de Castro Correia de Lacerda prestaram juramento a 20 de novembro de 1822, Pedro Alvares Gato a 7 de dezembro e Alexandre José Gonçalves Ramos a 17 de fevereiro de 1823. O mais votado, Francisco António de Almeida Morais Pessanha, com 8620 votos, tomou assento por Vila Real.
+
+ 
+
+Divisão Eleitoral de Vila Real
+Manuel Correia Pinto da Veiga Cabral, António Lobo Barbosa Ferreira Teixeira Girão e Francisco António de Almeida Morais Pessanha prestaram juramento a 20 de novembro de 1822 e José Camilo Ferreira Botelho de Sampaio a 3 de dezembro. A eleição de Cândido Rodrigues Alvares de Figueiredo e Lima foi invalidada, por se considerar que era natural do Brasil e residia em Coimbra; foi chamado o substituto Inocêncio António de Miranda, já em exercício a 8 de janeiro de 1823.
+
+ 
+
+Província da Beira
+
+Divisão Eleitoral de Arganil
+João da Silva Carvalho prestou juramento a 20 de novembro de 1822, Roque Ribeiro de Abranches Castelo Branco a 1 de dezembro e José Acúrsio das Neves a 9 de dezembro.
+
+ 
+
+Divisão Eleitoral de Aveiro
+Manuel da Rocha Couto, Manuel Gomes Quaresma e Manuel Dias de Sousa prestaram juramento a 20 de novembro de 1822 e Domingos José de Sá Pinto a 21 de fevereiro de 1823.
+
+ 
+
+Divisão Eleitoral de Castelo Branco
+Luís da Cunha de Castro e Menezes prestou juramento a 20 de novembro de 1822, José Pereira Pinto a 1 de dezembro e José Bento Pereira a 13 de dezembro.
+
+ 
+
+Divisão Eleitoral de Coimbra
+Trigoso de Aragão Morato e Tomás de Aquino Carvalho prestaram juramento a 20 de novembro de 1822, Manuel de Serpa Machado e Manuel de Macedo Pereira Coutinho a 1 de dezembro e José das Neves Mascarenhas e Melo a 13 de dezembro.
+
+ 
+
+Divisão Eleitoral da Feira
+Os três efetivos prestaram juramento a 20 de novembro de 1822.
+
+ 
+
+Divisão Eleitoral da Guarda
+Joaquim Lopes da Cunha prestou juramento a 20 de novembro de 1822, José Valério da Cruz, bispo de Portalegre, a 1 de dezembro e João Bernardo da Rocha Loureiro a 3 de dezembro. O bispo pediu escusa por doença a 26 de maio de 1823.
+
+ 
+
+Divisão Eleitoral de Lamego
+Bernardo da Silveira Pinto da Fonseca e Basílio Alberto de Sousa Pinto prestaram juramento a 20 de novembro de 1822, Frei Francisco de São Luís, bispo de Coimbra, a 1 de dezembro e Francisco Pinto Brochado de Brito a 3 de dezembro.
+
+ 
+
+Divisão Eleitoral de Trancoso
+José Joaquim Ferreira de Moura prestou juramento a 20 de novembro de 1822 e António Júlio de Frias Pimentel e Abreu a 13 de dezembro; a ata relativa a Manuel António Pinto Soveral só chegou à Comissão de Poderes a 29 de março de 1823. Na relação da Deputação Permanente, os outros dois efetivos eram Frei Francisco de São Luís e Manuel Fernandes Tomás.
+
+ 
+
+Divisão Eleitoral de Viseu
+Pedro Paulo de Almeida Serra, José Liberato Freire de Carvalho e Francisco Rebelo Leitão prestaram juramento a 20 de novembro de 1822. O mais votado, Pedro José Lopes de Almeida, era desembargador da Relação do Porto, a cujo distrito pertencia Viseu, e por isso inelegível no círculo (artigo 6.º); tomou o seu lugar o primeiro substituto, João Vitorino de Sousa e Albuquerque, que prestou juramento a 4 de dezembro. A assembleia geral riscara os nomes do abade de São Miguel do Mato, acusado de votar em si mesmo, e de José Maria de Lima e Lemos, tido por inconstitucional, e anulara a ata de Ferreira de Aves, que antecipara a eleição.
+
+ 
+
+Província da Estremadura
+
+Divisão Eleitoral de Alenquer
+Os três efetivos prestaram juramento a 20 de novembro de 1822.
+
+ 
+
+Divisão Eleitoral de Leiria
+Os três efetivos da relação da Deputação Permanente (Manuel Borges Carneiro, Agostinho José Freire e Bento Pereira do Carmo) tomaram assento por outros círculos. Joaquim de Oliveira e Sousa prestou juramento a 20 de novembro de 1822, António Gomes Henriques Gaio a 12 de dezembro e Alberto Carlos de Menezes só a 16 de maio de 1823.
+
+ 
+
+Divisão Eleitoral de Lisboa
+Os nove efetivos prestaram juramento a 20 de novembro de 1822.
+
+ 
+
+Divisão Eleitoral de Setúbal
+Os três efetivos prestaram juramento a 20 de novembro de 1822.
+
+ 
+
+Divisão Eleitoral de Tomar
+Os cinco efetivos prestaram juramento a 20 de novembro de 1822.
+
+ 
+
+Província do Alentejo
+
+Divisão Eleitoral de Beja
+Os três efetivos prestaram juramento a 20 de novembro de 1822.
+
+ 
+
+Divisão Eleitoral de Évora
+José Inácio Pereira Derramado e João Alberto Cordeiro da Silveira prestaram juramento a 20 de novembro de 1822 e Joaquim Plácido Galvão Palma a 1 de dezembro.
+
+ 
+
+Divisão Eleitoral de Portalegre
+José Vitorino Barreto Feio e João Pedro Tavares Ribeiro prestaram juramento a 20 de novembro de 1822 e Jorge de Avilez Zuzarte de Sousa Tavares a 1 de dezembro.
+
+ 
+
+Província do Algarve
+
+Divisão Eleitoral de Faro
+Os quatro efetivos prestaram juramento a 20 de novembro de 1822.
+
+ 
+
+Ilhas Adjacentes
+
+Açores
+
+Divisão Eleitoral de São Miguel
+
+ 
+
+Divisão Eleitoral da Terceira
+
+ 
+
+Divisão Eleitoral do Faial
+
+ 
+
+Madeira
+
+Divisão Eleitoral da Madeira e Porto Santo
+
+ 
+
+Ultramar
+
+Cabo Verde
+
+1.ª Divisão Eleitoral de Cabo Verde
+
+ 
+
+2.ª Divisão Eleitoral de Cabo Verde
+
+ 
+
+São Tomé e Príncipe
+
+Divisão Eleitoral de São Tomé e Príncipe
+
+ 
+
+Angola
+
+Divisão Eleitoral de Angola e Benguela
+
+ 
+
+Moçambique
+
+Divisão Eleitoral de Moçambique
+
+ 
+
+Goa
+
+Divisão Eleitoral de Goa
+
+ 
+
+Macau, Solor e Timor
+
+Divisão Eleitoral de Macau, Solor e Timor
+
+ 
+
+Brasil
+
+Divisão Eleitoral de Alagoas
+
+ 
+
+Divisão Eleitoral da Bahia
+
+ 
+
+Divisão Eleitoral do Ceará
+
+ 
+
+Divisão Eleitoral do Espírito Santo
+
+ 
+
+Divisão Eleitoral de Goiás
+
+ 
+
+Divisão Eleitoral do Maranhão
+
+ 
+
+Divisão Eleitoral do Pará
+
+ 
+
+Divisão Eleitoral da Paraíba
+
+ 
+
+Divisão Eleitoral de Pernambuco
+
+ 
+
+Divisão Eleitoral do Piauí
+
+ 
+
+Divisão Eleitoral do Rio de Janeiro
+
+ 
+
+Divisão Eleitoral do Rio Negro
+
+ 
+
+Divisão Eleitoral de Santa Catarina
+
+ 
+
+Divisão Eleitoral de São Paulo
+
+ 
+
+A «maioria constitucional»
+As eleições deram uma clara vitória ao campo liberal, com uma maioria fiel ao vintismo. Moreira e Domingues assinalam, porém, duas alterações. A primeira foi a escassa representação dos protagonistas da Revolução Liberal: Manuel Fernandes Tomás faleceu em novembro de 1822 e José Ferreira Borges não foi eleito pelo Porto, pelo que as novas Cortes não incluíam nenhum membro do Sinédrio; poucos deputados, entre eles Bento Pereira do Carmo, Francisco de Lemos Bettencourt e José Joaquim Ferreira de Moura, tinham participado nos órgãos revolucionários.
+A segunda foi a eleição de um grupo de deputados hostis à Constituição, em que pontificava José Acúrsio das Neves, que alinhariam com a contrarrevolução: a revolta de Vila Real, liderada a 23 de fevereiro de 1823 pelo 2.º Conde de Amarante, e a restauração do absolutismo em Espanha por Fernando VII, com apoio francês, em abril de 1823. Perante a Vilafrancada, as Cortes aprovaram a 30 de maio de 1823 uma proclamação em defesa da Constituição e, a 2 de junho, grande parte dos deputados, incluindo quase todos os antigos constituintes, subscreveu um protesto por iniciativa de Ferreira de Moura.
+
+Contencioso eleitoral
+A imprensa da época sublinhou fortemente as irregularidades, chegando a afirmar que nenhuma lei da legislatura fora tão desrespeitada como a de 17 de julho de 1822. Para Moreira e Domingues, as eleições decorreram, em geral, sem violência nem tumultos, e só em poucos casos os resultados foram postos em causa.
+
+Atropelos e ilícitos
+Em Braga, O Analista Portuense denunciou párocos que teriam mandado redigir listas e indicado aos fregueses em quem votar; apareceram listas de freguesias inteiras na mesma letra e papel. A assembleia de apuramento discutiu a nulidade da ata de Ponte de Lima, cujos números não coincidiam com as certidões da câmara, e remeteu os documentos às Cortes e ao Governo. O ministro da Justiça, José da Silva Carvalho, mandou o provedor de Guimarães averiguar, mas o conteúdo do relatório desconhece-se.
+No Porto, o Astro da Lusitânia acusou a assembleia de apuramento de ultrajar a lei, ao passo que O Analista Portuense a defendeu por ter impedido a eleição de inimigos do sistema constitucional. Foram ali riscados, entre outros, os nomes de Ricardo Raimundo Nogueira, do marechal Manuel Pamplona Carneiro Rangel e de Joaquim Navarro de Andrade. Em Castelo Branco, notáveis à frente de grupos de populares teriam indicado por acenos como votar na eleição dos mesários. Em Guimarães, a ata registou denúncias de suborno em Santa Senhorinha e em São Nicolau, e uma queixa de Vila Boa da Roda, onde 114 eleitores teriam concentrado os votos em nove nomes quase sem discrepância.
+
+As «fábricas» de listas de voto
+Moreira e Domingues recomendam prudência perante estas acusações, muitas vezes anónimas e por vezes dirigidas contra inimigos pessoais. Pesavam também a inexperiência eleitoral do país e a novidade de conceitos indeterminados, como a incapacidade moral (artigo 4.º) ou os meios de subsistência (artigo 7.º), invocados para riscar muitos nomes a pretexto de falta de adesão ao sistema.
+O voto por lista preenchida fora da assembleia favoreceu a distribuição de listas já preenchidas. José de Arriaga descreveu emissários que intercetavam eleitores nos caminhos para lhes trocar as listas. Em Sintra foram apreendidas 21 listas com nomes pouco afetos ao sistema, substituídas por outras; o caso é conhecido porque as listas foram anexadas a uma representação a D. João VI e escaparam à queima. José Liberato Freire de Carvalho relatou casos semelhantes em Seia e Mafra, e o deputado Barreto Feio denunciou em Castelo Branco uma oficina que teria forjado cerca de dez mil listas.
+
+Litígios eleitorais
+As denúncias foram entregues à Deputação Permanente, que a carta de lei de 31 de outubro de 1822 encarregou de examinar as atas e apresentar as suas observações à primeira junta preparatória. Não existia ainda um quadro legal dos delitos eleitorais, só criado em 1846, nem contencioso judicial; o controlo da legalidade das eleições cabia às próprias Cortes, através da Comissão de Verificação de Poderes, e só passaria para um tribunal em 1884.
+Nas assembleias, as dúvidas eram decididas sem recurso pela comissão de cinco membros (artigo 53.º). Num dos círculos dos Açores riscaram-se votos por suborno; na Feira, a comissão rejeitou a contestação à votação em João Brandão. Não há notícia de qualquer condenação criminal: as devassas de Coimbra e de Almada não apuraram culpas.
+A 11 de setembro de 1822, o deputado Rodrigues de Bastos denunciou nas Constituintes a exclusão ilegal de elegíveis e a inutilização de milhares de votos, citando o Porto e Vila Real. A Comissão da Constituição entendeu, porém, que as Cortes cessantes não deviam intervir: a matéria cabia à Junta Preparatória das novas Cortes, as decisões das comissões de dúvidas eram definitivas e a lei não previa sanções.
+O relatório da Deputação Permanente, apresentado às novas Cortes a 2 de dezembro de 1822, informa que a Junta Preparatória não invalidou as eleições nem excluiu eleitos, salvo quanto a Arcos de Valdevez. O ministro da Justiça remetera um resumo das denúncias recebidas pelo Governo, relativas a mais de sessenta localidades das seis províncias.
+
+Nulidades declaradas
+Os mapas da Deputação Permanente registam violações evidentes da lei: votos furtados ou acrescentados em Guimarães e em Castro Laboreiro; circunscrições sem eleição ou sem ata, como Frazão, vários concelhos do círculo de Tomar e Vila Boim; reclamações por suborno em Penafiel, Lamego, Alenquer e Beja; e a antecipação do dia das eleições em Ferreira de Aves.
+As sanções foram poucas. Foram invalidadas, por inelegibilidade, as eleições de Cândido Rodrigues Alvares de Figueiredo e Lima, por Vila Real, e de D. João Vaz Pereira, bispo de Carrhes, por Braga, sendo chamados os substitutos. O caso mais grave foi o de Arcos de Valdevez, onde as eleições foram anuladas in totum por alterações na contagem dos votos, desvio de listas e presumíveis subornos. A repetição decorreu a 16 de fevereiro de 1823 e os quatro deputados juraram a 13 de março. O círculo não reconduziu nenhum dos constituintes eleitos pelo Minho em 1820.
+Salvo estes casos, as ilegalidades alegadas não foram julgadas suficientes para anular as eleições, cuja legitimidade ficou assim estabelecida.
+
+Consequências
+
+As Cortes eleitas abriram a primeira sessão a 1 de dezembro de 1822 e funcionaram até 31 de março de 1823. Convocadas extraordinariamente para 15 de maio, suspenderam as sessões a 2 de junho, em protesto contra as alterações anunciadas à Constituição.
+A presença de deputados mais conservadores, a par da resistência de parte da sociedade ao novo regime, foi preparando o caminho para a Vilafrancada. Esta insurreição, liderada pelo infante D. Miguel a partir de Vila Franca de Xira a 27 de maio de 1823, pôs fim ao vintismo: o rei dissolveu as Cortes e revogou a Constituição no início de junho. Por aviso régio de 29 de agosto de 1823, as câmaras municipais destruíram a documentação eleitoral; escapou grande parte da de Arcos de Valdevez, cujas cópias tinham sido remetidas às Cortes.
+Para Moreira e Domingues, o sistema eleitoral de 1822 não teve precedente: nenhum dos modelos da época, dos Estados Unidos e do Reino Unido à Constituição de Cádis e à Constituição francesa de 1791, combinava a eleição direta com um sufrágio masculino quase universal. Em condições de liberdade política, Portugal só voltaria a ter um sistema tão avançado com a Constituição de 1976. Os autores apontam também as suas fragilidades: a iliteracia do eleitorado, agravada pelo voto por lista preenchida previamente, e a dispersão dos votos, sem candidaturas prévias, que dificultava a maioria absoluta e obrigava à segunda volta.
+O modelo de 1822 deixou soluções duradouras: o sufrágio direto e secreto, o recenseamento eleitoral e um primeiro esboço de contencioso eleitoral. A Carta Constitucional de 1826 regressaria à eleição indireta e ao sufrágio censitário, e o recenseamento só seria retomado pelas Instruções de 7 de agosto de 1826 para as eleições seguintes.

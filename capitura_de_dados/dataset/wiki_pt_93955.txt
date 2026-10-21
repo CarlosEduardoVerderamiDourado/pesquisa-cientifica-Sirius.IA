@@ -1,0 +1,49 @@
+Triptofano
+
+O triptofano é um aminoácido utilizado na biossíntese de proteínas, sendo codificado pelo codão UGG. Ele contém, como todo aminoácido, um grupo amino (básico) e um grupo carboxilo (ácido); sua cadeia lateral consiste num indol, o que faz dele um aminoácido aromático e apolar. No pH fisiológico, o triptofano é um zwitterion: o grupo amino (pKa = 9.39) encontra-se protonado (–NH3+) e o grupo carboxila (pKa = 2.38) encontra-se deprotonado ( –COO). Absorve luz ultravioleta.
+Em seres humanos, este aminoácido é essencial, o que significa que não pode ser sintetizado: precisa compor a dieta. Além disso, ele é o precursor da serotonina e da melatonina.
+
+Isolamento
+O triptofano foi isolado pela primeira vez por Frederick Gowland Hopkins em 1901, através da hidrólise da caseína. De 600g de caseína pura, obtém-se 4-8g de triptofano.
+
+Funções
+Para muitos seres vivos (incluindo humanos), o triptofano é indispensável para evitar doenças e morte mas não pode ser sintetizado pelo organismo, de modo que precisa ser ingerido; em suma, é um aminoácido essencial. Aminoácidos constituem as peças a partir das quais se montam proteínas e o triptofano, ainda que pouco frequente, desempenha importantes papéis estruturais e funcionais quando presente. Por exemplo, ele compõe as -hélices que ancoram proteínas transmembranares à membrana plasmática. Além disso, o triptofano é um precursor bioquímico dos seguintes compostos:
+
+Serotonina (neurotransmissor): no Sistema Nervoso Central, o triptofano sofre hidroxilação (pela atuação da enzima triptofano hidroxilase), originando o 5-hidroxitriptofano, que, por sua vez, sofre descarboxilação (pela atuação da enzima L-aminoácido aromático descarboxílase), dando origem à serotonina. Esta pode ser convertida em melatonina (hormônio) através das enzimas N-Acetiltransferase e acetilserotonina O-metiltransferase.
+Niacina, também conhecida como vitamina B3, vitamina PP ou ácido nicotínico: ela é sintetizada a partir do triptofano via quinurenina e ácidos quinolínicos. Sua presença nos alimentos é monitorada, inclusive, pela concentração de ácido nicotínico - formado pela conversão do triptofano - nos mesmos.
+Auxina (fitormônios)
+Por seu papel na biossíntese de serotonina e melatonina, o triptofano desempenha papel importante nos processos bioquímicos do sono e do humor; de modo que é utilizado como suplemento para o tratamento de depressão.
+
+Biossíntese e Produção Industrial
+Por ser um aminoácido essencial, o triptofano não é sintetizado a partir de substâncias mais básicas em seres humanos e outros animais, precisando, assim, ser ingerido. Plantas,bactérias e fungos geralmente sintetizam triptofano a partir do ácido xiquímico ou do ácido antranílico, pelo seguinte processo: o ácido antranílico condensa-se com o fosforribosil pirofosfato (PRPP), gerando pirofosfato como subproduto. O anel da fracção da ribose é aberto e é submetido a descarboxilação redutiva, formando indol 3-glicerol fosfato; esse, por sua vez, é transformado em indol. A enzima triptofano sintase catalisa a formação de triptofano a partir do indol (indol - 3 - glicerol fosfato) e do aminoácido serina.
+A produção industrial de triptofano é biossintética e é baseada na fermentação da serina e do indol, usando bactérias como a Bacillus amyloliquefaciens, a Bacillus subtilis, a Corynebacterium glutamicum ou a Escherichia coli. Essas cepas carregam mutações que impedem a recaptação de aminoácidos ou mutações que expressam multiplamente/excessivamente o operão do triptofano.
+
+Nutrição
+O triptofano é um aminoácido essencial utilizado pelo cérebro, juntamente com a vitamina B3 (a niacina ou niacinamida) e o magnésio, para produzir a serotonina, um neurotransmissor importante nos processos bioquímicos do sono e do humor.
+É importante destacar que, embora o triptofano aumente a disponibilidade de serotonina, o consumo na forma de lactíneos, peixes, carnes, etc. não causa efeitos significativos sobre a produção de serotonina pelo Sistema Nervoso Central. Isso ocorre pois o triptofano não é o único aminoácido presente nesses alimentos, de modo que ocorre "competição" com os outros aminoácidos na absorção pelo organismo. Desse modo a maior parte do triptofano presente nos alimentos não é utilizada.
+Alimentos como a banana possuem serotonina, mas esta não tem a capacidade de atravessar a Barreira hematoencefálica, portanto não tem ação sobre o humor e a depressão.
+
+Fontes naturais
+Bananas
+Semente de abóbora
+Soja
+Grão-de-bico
+Tâmaras secas
+Amendoins
+Leite
+Carne
+Peixe
+Peru
+Alimentos ricos em proteínas
+
+Uso como suplemento dietético
+O Triptofano é vendido sem receita médica nos Estados Unidos (depois de ter sido banido entre 1989 e 2005) e no Reino Unido como um suplemento dietético, sendo usado como antidepressivo, ansiolítico e remédio contra a insônia. Em alguns países da Europa, o triptofano é comercializado sob prescrição médica para tratamento da depressão.
+Como o triptofano é convertido em 5-hidroxitriptofano (5-HTP), que é em seguida convertido no neurotransmissor serotonina, foi proposto que o consumo de 5-HTP pode combater os sintomas da depressão ao aumentar os níveis de serotonina no cérebro. Em 2001, um artigo sobre os efeitos do 5-HTP e do triptofano foi publicado na Cochrane. Os autores do artigo incluíram na pesquisa apenas estudos de alto rigor sobre o 5-HTP e o triptofano. Dos 108 estudos analisados pelos autores publicados entre 1966 e 2000 apenas dois alcançaram os padrões de qualidade estabelecidos, totalizando 64 participantes dos estudos. O 5-HTP e o triptofano foram mais efetivos do que o placebo nos dois estudos incluídos, porém os estudos foram analisados como inconclusivos pelo fato de não apresentarem evidências suficientes. O uso do 5-HTP e do triptofano é limitado no presente. O uso de triptofano como terapia adjuvante em conjunto com os tratamentos usuais contra a depressão e contra a ansiedade não é suportado por evidências científicas. Pela falta de estudos que mostrem a efetividade e pela falta de estudos que mostrem a segurança na ingestão, o uso de triptofano e de 5-HTP não é recomendado, e não é provado que essas substâncias sejam clinicamente úteis.
+Há evidências de que os níveis de sangue de triptofano provavelmente não serão alterados ao alterar a dieta, porém o triptofano está disponível nas lojas como um suplemento dietético. O consumo de triptofano purificado aumenta o nível de serotonina cerebral, enquanto que comer alimentos que contenham triptofano não. Isso ocorre porque o sistema de transporte, que traz triptofano através da barreira hematoencefálica, também é seletivo para os outros aminoácidos, que estão contidos em fontes de proteína de alimentos. Os níveis elevados de outros aminoácidos neutros grandes no plasma sanguíneo impedem o aumento da concentração plasmática de triptofano no cérebro.
+
+Triptofano, depressão e distúrbios serotoninérgicos
+O triptofano é um dos responsáveis pela produção de serotonina pelo Sistema Nervoso Central (SNC). Níveis baixos de serotonina são diretamente associados à depressão, o triptofano atua como um antidepressivo pois aumenta a quantidade de serotonina (5HT) no SNC,
+Apesar da relação entre a serotonina e a depressão pela ação dos inibidores seletivos de recaptação da serotonina (ISRS) e dos inibidores de recaptação da serotonina e noradrenalina (IRSN), a relação entre a ingestão de triptófano e a depressão tem sido questionada devido a sua dificuldade em atravessar a barreira hematoencefálica, especialmente devido a "competição" com outros aminoácidos que a transpassam mais facilmente e assim bloqueiam a entrada. Em um estudo - não específicos sobre depressão e sim sobre o TOC - transtorno obsessivo-compulsivo - também associado à presença da serotonina - observou-se que com uma dieta modificada, usando oito vezes mais açúcar (os açúcares provocam uma liberação de insulina, que faz com que os músculos absorvam os outros aminoácidos eliminando a referida competição) e quatro vezes mais triptofano, os pesquisadores observaram a duplicação da atividade da serotonina no cérebro sem que os ratos melhorassem, e sim piorassem quanto aos sintomas de puxar pelos, comportamento equivalente à tricotilomania e TOCs. Sabe-se que ISRS são utilizados com boa eficácia no tratamento dos TOCs.
+
+Casos ocorridos na história
+Em 1989, uma empresa nos EUA, a Showa Denko K.K, que produzia L-triptofano, modificou uma bactéria que começou a ser usada para aumentar a produção industrial de L-triptofano. A partir do momento em que este novo triptofano começou a ser utilizado, começaram a ocorrer diversas mortes causadas por uma doença auto-imune onde as próprias células de defesa do organismo começam a atacar o corpo e causava aumento das células sanguíneas chamadas eosinófilos e mialgia (dores musculares). Devido a empresa não ter fornecido informações sobre a bactéria utilizada, os cientistas não conseguiram determinar exatamente a causa e nem a cura da doença. Sabe-se que mais de 40 pessoas morreram em decorrência do uso do L-triptofano e muitas outras ficaram permanentemente inválidas. A empresa Showa Denko K.K afirmou que logo após evidências desta doença, destruiu toda e qualquer forma desta bactéria. Nunca houve relatos de problemas relacionados a este aminoácido quando produzido de fermentação, que era o modo empregado antes das bactérias.

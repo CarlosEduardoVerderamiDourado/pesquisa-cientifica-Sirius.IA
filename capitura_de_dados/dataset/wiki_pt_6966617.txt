@@ -1,0 +1,57 @@
+Tipo 99 (fuzil)
+
+O Tipo 99 (, Kyukyu-shiki tan-shoju) era um fuzil de ação por ferrolho usado pelo Exército Imperial Japonês durante a Segunda Guerra Mundial.
+
+História
+Durante a Segunda Guerra Sino-Japonesa na década de 1930, os japoneses logo descobriram que o cartucho 7,7 mm disparado por sua metralhadora pesada Tipo 92 na China era superior ao cartucho 6,550 mm do fuzil Tipo 38. Isso exigiu o desenvolvimento de uma nova arma para substituir o superado Tipo 38 e, finalmente, padronizar em um único cartucho de fuzil. O Exército Imperial Japonês desenvolveu o fuzil Tipo 99 baseado no Tipo 38, mas com um calibre de 7,7 mm. O Tipo 99 foi produzido em nove arsenais diferentes. Sete arsenais foram localizados no Japão, com os outros dois localizados em Mukden em Manchukuo e Jinsen na Coréia.
+O Exército Imperial Japonês pretendia substituir completamente o Tipo 38 pelo Tipo 99 até o final da guerra. No entanto, a eclosão da Guerra do Pacífico nunca permitiu que o exército substituísse completamente o Tipo 38 e, portanto, o exército usou os dois fuzis extensivamente durante a guerra. À medida que a guerra avançava, mais e mais medidas de redução de custos foram introduzidas para acelerar a produção. Os fuzis de guerra tardios são frequentemente chamados de "última vala" ou "padrão substituto" devido à sua crueza de acabamento. Eles são geralmente tão brutos quanto o Mauser K98k da Alemanha datado de 1945, ou pior.
+O Tipo 99 foi produzido em quatro versões, a carabina Tipo 99 de edição regular, o fuzil Tipo 99 (uma variante de produção limitada), o fuzil paraquedista Tipo 2 e o fuzil de precisão Tipo 99. O fuzil padrão também vinha com um monopé de arame e um dispositivo de mira antiaérea. O Tipo 99 foi o primeiro fuzil de infantaria produzido em massa a ter um furo cromado para facilitar a limpeza. Todos esses recursos foram abandonados no meio da guerra.
+
+Uso por outros países
+Durante a Guerra da Coreia, aproximadamente 126.500 carabinas e 6.650 fuzis Tipo 99 foram recamarados sob supervisão americana no arsenal de Tóquio para disparar o cartucho padrão .30-06 Springfield. Aparentemente destinados à "gendarmaria" sul-coreana, poucos fuzis parecem ter sido distribuídos ao final da guerra, em 1953. Esses fuzis foram equipados com bases do carregador alongados e pequenos entalhes na parte superior do receptor para acomodar o comprimento 1/3 de polegada maior do cartucho .30-06. A precisão foi prejudicada devido à diferença nos cartuchos, na taxa de raiamento e nas características, mas eles ainda eram funcionais. Conversões para .30-06 e 7,62 NATO, bem como para o 7,62 russo, também foram realizadas por civis, frequentemente acompanhadas de modificações para torná-los mais esportivos.
+Após 1946, a República da China reconverteu um número desconhecido de fuzis Tipo 99 para disparar o cartucho 857 IS, bem como o cartucho 7,6239mm, que foram convertidos utilizando canos do SKS. As forças indonésias utilizaram um grande número de fuzis Tipo 99 nos combates contra os holandeses durante a Revolução Nacional da Indonésia (1945-1949), embora a produção japonesa tardia fosse menos confiável. Fuzis de precisão também foram utilizados. O Exército Real Tailandês recebeu fuzis japoneses de todos os tipos após 1945 e converteu alguns fuzis Tipo 99 curtos para disparar o cartucho americano .30-06 no início da década de 1950.
+
+Nomenclatura
+No Ocidente, os equipamentos japoneses são comumente referidos como "Tipo XX", em vez de "Modelo XX". No caso de uma arma de fogo, "modelo" é uma interpretação mais precisa do caractere Shiki , mas a palavra "tipo" tornou-se bem estabelecida entre os colecionadores há décadas.
+
+Projeto
+
+Para obter o poder de impacto superior do cartucho de 7,7 mm, vários fuzis Tipo 38 de 6,5 mm foram modificados para o novo calibre. Embora os testes tenham se mostrado satisfatórios, o exército decidiu que o recuo adicional e o calibre maior do cartucho de 7,7 mm exigiriam a construção de um fuzil completamente novo. Este utilizava um sistema de engatilhar ao fechar e um mecanismo de trava de segurança incomum, acionado pressionando o grande disco serrilhado na parte traseira do ferrolho com a palma da mão e girando-o 1/8 de volta no sentido horário, um mecanismo frequentemente mal compreendido por atiradores ocidentais acostumados com a trava de segurança de alavanca do Mauser. Possuía um ferrolho de liberação rápida e miras antiaéreas, além de uma tampa protetora para o ferrolho e um monopé. Como um fuzil de ferrolho, o Tipo 99 era bem desenvolvido, mas, como todos os fuzis de operação manual usados durante a Segunda Guerra Mundial, era frequentemente superado por fuzis semiautomáticos e submetralhadoras em combates a curta distância.
+O Tipo 99 possui um dos mecanismos mais robustos já fabricados para um fuzil de ferrolho, mas muitos fuzis do final da guerra (frequentemente apelidados de "último recurso") foram simplificados devido às dificuldades industriais enfrentadas pelo Japão. Os fuzis de "último recurso" caracterizam-se pela completa ausência de acabamento, bem como por atalhos tomados para facilitar a produção. Geralmente, distinguem-se pela sua rusticidade: coronha com acabamento ruim, soleira de madeira fixada com pregos, ausência de guarda-mão superior, marcas de usinagem muito visíveis no metal, ausência do monopé, miras fixas não ajustáveis e manípulo e alavanca do ferrolho sem acabamento. Apesar dessas simplificações para facilitar a produção, a qualidade e a segurança do mecanismo de ferrolho não foram comprometidas.
+Em alguns casos, esses fuzis podem, na verdade, ser fuzis de treinamento destinados ao disparo de cartuchos com projéteis de madeira. Os fuzis de treinamento eram feitos de aço macio e nunca foram projetados para munição de bala. É possível que os relatos de explosões de fuzis Tipo 99 sejam simplesmente o resultado de soldados testando armas capturadas. Sem saber que estavam usando fuzis de treinamento, dispararam munição de bala com resultados ruins e possíveis ferimentos. É possível que isso tenha contribuído injustamente para a reputação do Arisaka (pelo menos para fuzis de último recurso) de ser de má construção.
+O Tipo 99 pode ser equipado com uma baioneta Tipo 30. A baioneta Tipo 30 tinha uma lâmina muito longa e fina, com ranhuras para reduzir o peso. Os primeiros modelos apresentavam uma guarda em forma de gancho. Essas baionetas eram fixadas a uma saliência sob o cano e estabilizadas por uma argola que envolvia a boca do cano. Desmontada do fuzil, ela se comportava como um facão.
+
+Variantes
+
+Fuzil
+O fuzil de produção inicial do Tipo 99. Fabricado exclusivamente pelo Arsenal de Nagoya e pela Toyo Kogyo, sob a supervisão do Arsenal de Kokura. Apenas cerca de 38.000 unidades foram produzidas, 8.000 em Nagoya e 30.000 na Toyo Kogyo, entre o verão de 1940 e a primavera de 1941, quando a produção foi transferida para a carabina Tipo 99, muito mais comum, da qual milhões foram fabricadas. O fuzil mostrou-se mais pesado que a carabina e oferecia um desempenho apenas marginalmente melhor. Assim, foi deixado de lado em favor da carabina, que era muito mais prática, exigia menos recursos para ser produzida e se mostrou mais do que satisfatória.
+Assim como as primeiras carabinas Tipo 99, esses fuzis eram fabricados com um monopé, alça de mira antiaérea e uma tampa contra poeira.
+
+Carabina
+Em 1942, foi projetado um modelo Tipo 99 com cano de 660 mm, que se tornou a base para o fuzil de precisão Tipo 99.
+
+Conversões para 7,9257mm
+A maioria dos Tipo 99 foi convertida para disparar munição de 7,9257mm para o Exército Nacional Revolucionário.
+
+Conversões para .30-06 Springfield
+Os fuzis Tipo 99 usados pela Coreia do Sul foram convertidos para munição .30-06 e fornecidos às forças armadas sul-coreanas antes da Guerra da Coreia.
+Estima-se que cerca de 133.300 unidades tenham sido utilizadas em todo o mundo.
+
+Fuzil de precisão Tipo 99
+
+Galeria
+
+Disponibilidade
+Embora o fuzil Arisaka nunca tenha sido exportado para os Estados Unidos em grande número, existem milhares disponíveis - a maioria foi trazida para casa por fuzileiros navais e soldados que retornavam do teatro do Pacífico. Em muitos casos, o crisântemo imperial em cima do receptor foi desfigurado pelos japoneses que se renderam para preservar a honra do imperador: a marca indicava que o fuzil era propriedade pessoal do imperador. 
+Fuzis com um crisântemo intacto geralmente trazem um prêmio no mercado de colecionadores, às vezes quase o dobro do preço de um fuzil desfigurado de modelo semelhante. Muitos foram mudados para calibres mais comuns devido à relativa escassez de fábrica do 7,758mm Arisaka; é particularmente adequado para isso devido à sua ação robusta.
+
+Usuários
+ República da China: Alguns modificados para o cartucho 7,9257mm após 1946.
+ República Popular da China: Versões de 7,7 mm (original) e 7,92 mm (modificadas) ainda usadas por milícias chinesas na década de 1960.
+ Indonésia: Usado durante a Revolução Nacional da Indonésia.
+ Império do Japão
+ Coreia do Norte: Usado durante a Guerra da Coreia.
+ Filipinas: Capturado durante a Segunda Guerra Mundial e usado por guerrilheiros filipinos.
+ Coreia do Sul: Fornecido à Polícia Coreana em janeiro de 1946 como fuzil de serviço pelo Governo militar do Exército dos Estados Unidos na Coreia, e também obtido do arsenal de fabricação em Incheon. As Forças Armadas estavam equipadas com 19.103 Tipo 99 dos EUA, de .30-06 Springfield, antes da Guerra da Coréia.
+ Tailândia: Alguns convertidos para o cartucho .30-06 no início dos anos 1950.
+ Vietnã: Usado pelo Viet Minh durante a Primeira Guerra da Indochina

@@ -1,0 +1,567 @@
+Muon
+
+A muon ( M(Y)OO-on; from the Greek letter mu used to represent it) is an elementary particle similar to the electron, with an electric charge of 1 e and a spin of 1/2 , but with a much greater mass. It is classified as a lepton. As with other leptons, the muon is not thought to be composed of any constituent particles.
+The muon is an unstable subatomic particle with a mean lifetime of 2.2 s. Muon decay is slower than many other unstable particles because the decay is mediated by the weak interaction and because the mass difference between the muon and the set of its decay products is small, providing few kinetic degrees of freedom for decay. Muon decay always produces an electron (or positron) and two types of neutrinos. 
+Like all elementary particles, the muon has a corresponding antiparticle of opposite charge (+1 e) but equal mass and spin: the antimuon (also called a positive muon). Muons are denoted by and antimuons by +. Formerly, muons were called mu mesons, but are not classified as mesons by modern particle physicists (see History of discovery), and that name is no longer used by the physics community.
+Muons have a mass of 105.66 MeV/c2, which is 206.7682827(46) times that of the electron, me. There is also a third lepton, the tau, approximately 17 times heavier than the muon.
+Due to their greater mass, muons accelerate more slowly than electrons in electromagnetic fields, and emit less bremsstrahlung (deceleration radiation). This allows muons of a given energy to penetrate far deeper into matter because the deceleration of electrons and muons is primarily due to energy loss by the bremsstrahlung mechanism. For example, so-called secondary muons, created by cosmic rays hitting the atmosphere, can penetrate the atmosphere and reach Earth's land surface and even into deep mines.
+Because muons have a greater mass and energy than the decay energy of radioactivity, they are not produced by radioactive decay. Nonetheless, they are produced in great amounts in high-energy interactions in normal matter, in certain particle accelerator experiments with hadrons, and in cosmic ray interactions with matter. These interactions usually produce pi mesons initially, which almost always decay to muons.
+As with the other charged leptons, the muon has an associated muon neutrino, denoted by , which differs from the electron neutrino and participates in different nuclear reactions.
+
+History of discovery
+Muons were discovered by Carl D. Anderson and Seth Neddermeyer at Caltech in 1936 while studying cosmic radiation. Anderson noticed particles that curved differently from electrons and other known particles when passed through a magnetic field. They were negatively charged but curved less sharply than electrons, but more sharply than protons, for particles of the same velocity. It was assumed that the magnitude of their negative electric charge was equal to that of the electron, and so to account for the difference in curvature, it was supposed that their mass was greater than an electron's but smaller than a proton's. Thus Anderson initially called the new particle a mesotron, adopting the prefix meso- from the Greek word for "mid-". The existence of the muon was confirmed in 1937 by J. C. Street and E. C. Stevenson's cloud chamber experiment.
+A particle with a mass in the meson range had been predicted before the discovery of any mesons, by theorist Hideki Yukawa:
+
+It seems natural to modify the theory of Heisenberg and Fermi in the following way. The transition of a heavy particle from neutron state to proton state is not always accompanied by the emission of light particles. The transition is sometimes taken up by another heavy particle.
+
+Because of its mass, the mu meson was initially thought to be Yukawa's particle and some scientists, including Niels Bohr, originally named it the yukon. 
+The fact that the mesotron (i.e. the muon) was not Yukawa's particle was established in 1946 by an experiment conducted by Marcello Conversi, Oreste Piccioni, and Ettore Pancini in Rome. In this experiment, which Luis Walter Alvarez called the "start of modern particle physics" in his 1968 Nobel lecture, they showed that the muons from cosmic rays were decaying without being captured by atomic nuclei, contrary to what was expected of the mediator of the nuclear force postulated by Yukawa. Yukawa's predicted particle, the pi meson, was finally identified in 1947 (again from cosmic ray interactions).
+With two particles now known with the intermediate mass, the more general term meson was adopted to refer to any such particle within the correct mass range between electrons and nucleons. Further, in order to differentiate between the two different types of mesons after the second meson was discovered, the initial mesotron particle was renamed the mu meson (the Greek letter [mu] corresponds to m), and the new 1947 meson (Yukawa's particle) was named the pi meson.
+As more types of mesons were discovered in accelerator experiments later, it was eventually found that the mu meson significantly differed not only from the pi meson (of about the same mass), but also from all other types of mesons. The difference, in part, was that mu mesons did not interact with the nuclear force, as pi mesons did (and were required to do, in Yukawa's theory). Newer mesons also showed evidence of behaving like the pi meson in nuclear interactions, but not like the mu meson. Also, the mu meson's decay products included both a neutrino and an antineutrino, rather than just one or the other, as was observed in the decay of other charged mesons.
+In the eventual Standard Model of particle physics codified in the 1970s, all mesons other than the mu meson were understood to be hadrons – that is, particles made of quarks – and thus subject to the nuclear force. In the quark model, a meson was no longer defined by mass (for some had been discovered that were very massive – more than nucleons), but instead were particles composed of exactly two quarks (a quark and antiquark), unlike the baryons, which are defined as particles composed of three quarks (protons and neutrons being the lightest baryons). Mu mesons, however, had shown themselves to be fundamental particles (leptons) like electrons, with no quark structure. Thus, mu "mesons" were not mesons at all, in the new sense and use of the term meson used with the quark model of particle structure.
+With this change in definition, the term mu meson was abandoned, and replaced whenever possible with the modern term muon, making the term "mu meson" only a historical footnote. In the new quark model, other types of mesons sometimes continued to be referred to in shorter terminology (e.g., pion for pi meson), but in the case of the muon, it retained the shorter name and was never again properly referred to by older "mu meson" terminology.
+The eventual recognition of the muon as a simple "heavy electron", with no role at all in the nuclear interaction, seemed so incongruous and surprising at the time, that Nobel laureate I. I. Rabi famously quipped, "Who ordered that?". In was, in hindsight, the first particle of the second generation of elementary particles to be discovered.
+In the Rossi–Hall experiment (1941), muons were used to observe the time dilation (or, alternatively, length contraction) predicted by special relativity, for the first time.
+
+Muon sources
+
+Muons arriving on the Earth's surface are created indirectly as decay products of collisions of cosmic rays with particles of the Earth's atmosphere.
+
+About 10,000 muons reach every square meter of the earth's surface a minute; these charged particles form as by-products of cosmic rays colliding with molecules in the upper atmosphere. Traveling at relativistic speeds, muons can penetrate tens of meters into rocks and other matter before attenuating as a result of absorption or deflection by other atoms.
+When a cosmic ray proton impacts atomic nuclei in the upper atmosphere, pions are created. These decay within a relatively short distance (meters) into muons (their preferred decay product), and muon neutrinos. The muons from these high-energy cosmic rays generally continue in about the same direction as the original proton, at a velocity near the speed of light. Although their lifetime without relativistic effects would allow a half-survival distance of only about 456 m (2.197 s ln(2) 0.9997 c) at most (as seen from Earth), the time dilation effect of special relativity (from the viewpoint of the Earth) allows cosmic ray secondary muons to survive the flight to the Earth's surface, since in the Earth frame the muons have a longer half-life due to their velocity. From the viewpoint (inertial frame) of the muon, on the other hand, it is the length contraction effect of special relativity that allows this penetration, since in the muon frame its lifetime is unaffected, but the length contraction causes distances through the atmosphere and Earth to be far shorter than these distances in the Earth rest-frame. Both effects are equally valid ways of explaining the fast muon's unusual survival over distances.
+Since muons are unusually penetrative of ordinary matter, like neutrinos, they are also detectable deep underground (700 m at the Soudan 2 detector) and underwater, where they form a major part of the natural background ionizing radiation. Like cosmic rays, as noted, this secondary muon radiation is also directional.
+The same nuclear reaction described above (i.e. hadron–hadron impacts to produce pion beams, which then quickly decay to muon beams over short distances) is used by particle physicists to produce muon beams, such as the beam used for the muon g2 experiment.
+
+Muon decay
+
+Muons are unstable elementary particles and are more massive than electrons and neutrinos. Since muons are less massive than all hadrons, no hadrons appear in their decays. Muons decay via the weak interaction. Because leptonic family numbers are conserved in the absence of an extremely unlikely immediate neutrino oscillation, one of the product neutrinos of muon decay must be a muon-type neutrino and the other an electron-type antineutrino (antimuon decay produces the corresponding antiparticles, as detailed below).
+Because charge must be conserved, one of the products of muon decay is always an electron of the same charge as the muon (a positron if it is a positive muon). Thus all muons decay to at least an electron, and two neutrinos. Sometimes, besides these necessary products, additional other particles that have no net charge and spin of zero (e.g., a pair of photons, or an electron-positron pair), are produced.
+The mean lifetime, = /, of the (positive) muon is 2.19698110.0000022 s. The equality of the muon and antimuon lifetimes has been established to better than one part in 104.
+
+Decay modes
+The dominant muon decay mode (sometimes called the Michel decay after Louis Michel) is the simplest possible: the muon decays to an electron, an electron antineutrino, and a muon neutrino. Antimuons, in mirror fashion, most often decay to the corresponding antiparticles: a positron, an electron neutrino, and a muon antineutrino. In formulaic terms, these two decays are:
+
+ e + e + 
++ e+ + e + 
+In addition, five body decays occur with a branching ratio of approximately 
+ 
+ 
+ 
+ 
+ 3.4
+ 
+ 
+ 10
+ 
+ 
+ 5
+ 
+ 
+ 
+ 
+ 
+ 
+.
+ 
+
+ e + e + + e + e+
+Radiative decays also occur with a branching ratio of approximately 
+ 
+ 
+ 
+ 
+ 6
+ 
+ 
+ 10
+ 
+ 
+ 8
+ 
+ 
+ 
+ 
+ 
+ 
+.
+
+ e + e + + 
+
+Prohibited decays
+Certain neutrino-less decay modes are kinematically allowed but are, for all practical purposes, forbidden in the Standard Model, even given that neutrinos have mass and oscillate. Examples forbidden by lepton flavour conservation are:
+
+ e + 
+and
+
+ e + e+ + e .
+Taking into account neutrino mass, a decay like e + is technically possible in the Standard Model (for example by neutrino oscillation of a virtual muon neutrino into an electron neutrino), but such a decay is extremely unlikely and therefore should be experimentally unobservable. Fewer than one in 1050 muon decays should produce such a decay.
+Observation of such decay modes would constitute clear evidence for theories beyond the Standard Model. Upper limits for the branching fractions of such decay modes were measured in many experiments starting more than 60 years ago. The current upper limit for the + e+ + branching fraction was measured 2009–2013 in the MEG experiment and is 4.21013.
+
+Theoretical decay rate
+
+The muon decay width that follows from Fermi's golden rule has dimension of energy, and must be proportional to the square of the amplitude, and thus the square of Fermi's coupling constant (
+ 
+ 
+ 
+ 
+ G
+ 
+ F
+ 
+ 
+ 
+ 
+ 
+ 
+), with over-all dimension of inverse fourth power of energy. By dimensional analysis, this leads to Sargent's rule of fifth-power dependence on m,
+
+ 
+ 
+ 
+ 
+ =
+ 
+ 
+ 
+ 
+ G
+ 
+ F
+ 
+ 
+ 2
+ 
+ 
+ 
+ m
+ 
+ 
+ 
+ 
+ 5
+ 
+ 
+ 
+ 
+ 192
+ 
+ 
+ 
+ 3
+ 
+ 
+ 
+ 
+ 
+ I
+ 
+ (
+ 
+ 
+ 
+ m
+ 
+ e
+ 
+ 
+ 2
+ 
+ 
+ 
+ m
+ 
+ 
+ 
+ 
+ 2
+ 
+ 
+ 
+ 
+ )
+ 
+ ,
+ 
+ 
+ 
+ 
+
+where 
+ 
+ 
+ 
+ I
+ (
+ x
+ )
+ =
+ 1
+ 
+ 8
+ x
+ 
+ 12
+ 
+ x
+ 
+ 2
+ 
+ 
+ ln
+ 
+ x
+ +
+ 8
+ 
+ x
+ 
+ 3
+ 
+ 
+ 
+ 
+ x
+ 
+ 4
+ 
+ 
+ 
+ 
+ 
+ 
+, and 
+ 
+ 
+ 
+ x
+ =
+ 
+ 
+ 
+ 2
+ 
+ E
+ 
+ e
+ 
+ 
+ 
+ 
+ 
+ m
+ 
+ 
+ 
+ 
+ 
+ c
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ is the fraction of the maximum energy transmitted to the electron.
+The decay distributions of the electron in muon decays have been parameterised using the so-called Michel parameters. The values of these four parameters are predicted unambiguously in the Standard Model of particle physics, thus muon decays represent a good test of the spacetime structure of the weak interaction. No deviation from the Standard Model predictions has yet been found.
+For the decay of the muon, the expected decay distribution for the Standard Model values of Michel parameters is
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 2
+ 
+ 
+ [
+ (
+ 3
+ 
+ 2
+ x
+ )
+ +
+ 
+ P
+ 
+ 
+ 
+ 
+ cos
+ 
+ 
+ 
+ (
+ 1
+ 
+ 2
+ x
+ )
+ ]
+ ,
+ 
+ 
+ 
+ 
+
+where 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ is the angle between the muon's polarization vector 
+ 
+ 
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ and the decay-electron momentum vector, and 
+ 
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+ =
+ 
+ |
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+ 
+ 
+ |
+ 
+ 
+ 
+ 
+ 
+ is the fraction of muons that are forward-polarized. Integrating this expression over electron energy gives the angular distribution of the daughter electrons:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ cos
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ 
+ 
+ 1
+ 3
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+ cos
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+The electron energy distribution integrated over the polar angle (valid for 
+ 
+ 
+ 
+ x
+ <
+ 1
+ 
+ 
+ 
+ 
+) is
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ 
+ 
+ 
+ d
+ 
+ x
+ 
+ 
+ 
+ 
+ (
+ 3
+ 
+ x
+ 
+ 2
+ 
+ 
+ 
+ 2
+ 
+ x
+ 
+ 3
+ 
+ 
+ )
+ .
+ 
+ 
+ 
+ 
+
+Because the direction the electron is emitted in (a polar vector) is preferentially aligned opposite the muon spin (an axial vector), the decay is an example of non-conservation of parity by the weak interaction. This is essentially the same experimental signature as used by the original demonstration. More generally in the Standard Model, all charged leptons decay via the weak interaction and likewise violate parity symmetry.
+
+Muonic atoms
+The muon was the first elementary particle discovered that does not appear in ordinary atoms.
+
+Negative muon atoms
+Negative muons can form muonic atoms (previously called mu-mesic atoms), by replacing an electron in ordinary atoms. Muonic hydrogen atoms are much smaller than typical hydrogen atoms because the much larger mass of the muon gives it a much more localized ground-state wavefunction than is observed for the electron. In multi-electron atoms, when only one of the electrons is replaced by a muon, the size of the atom continues to be determined by the other electrons, and the atomic size is nearly unchanged. Nonetheless, in such cases, the orbital of the muon continues to be smaller and far closer to the nucleus than the atomic orbitals of the electrons.
+Spectroscopic measurements in muonic hydrogen have been used to produce a precise estimate of the proton radius. The results of these measurements diverged from the then accepted value giving rise to the so called proton radius puzzle. Later this puzzle found its resolution when new improved measurements of the proton radius in the electronic hydrogen became available. 
+Muonic helium is created by substituting a muon for one of the electrons in helium-4. The muon orbits much closer to the nucleus, so muonic helium can therefore be regarded like an isotope of helium whose nucleus consists of two neutrons, two protons and a muon, with a single electron outside. Chemically, muonic helium, possessing an unpaired valence electron, can bond with other atoms, and behaves more like a hydrogen atom than an inert helium atom.
+Muonic heavy hydrogen atoms with a negative muon may undergo nuclear fusion in the process of muon-catalyzed fusion, after which the muon may leave the new atom to induce fusion in another hydrogen molecule. This process continues until the negative muon is captured by a helium nucleus, where it remains until it decays.
+Negative muons bound to conventional atoms can be captured (muon capture) through the weak force by protons in nuclei, in a sort of electron-capture-like process. When this happens, nuclear transmutation results: The proton becomes a neutron and a muon neutrino is emitted.
+
+Positive muon atoms
+A positive muon, when stopped in ordinary matter, cannot be captured by a proton since the two positive charges can only repel. The positive muon is also not attracted to the nucleus of atoms. Instead, it binds a random electron and with this electron forms an exotic atom known as muonium (mu) atom. In this atom, the muon acts as the nucleus. The positive muon, in this context, can be considered a pseudo-isotope of hydrogen with one ninth of the mass of the proton. Because the mass of the electron is much smaller than the mass of both the proton and the muon, the reduced mass of muonium, and hence its Bohr radius, is very close to that of hydrogen. Therefore this bound muon-electron pair can be treated to a first approximation as a short-lived "atom" that behaves chemically like the isotopes of hydrogen (protium, deuterium and tritium).
+Both positive and negative muons can be part of a short-lived pi–mu atom consisting of a muon and an oppositely charged pion. These atoms were observed in the 1970s in experiments at Brookhaven National Laboratory and Fermilab. True muonium, a bound state consisting of one positive and one negative muon, is theoretically possible but thus far has not been observed.
+
+Anomalous magnetic dipole moment
+The anomalous magnetic dipole moment is the difference between the experimentally observed value of the magnetic dipole moment and the theoretical value predicted by the Dirac equation. The measurement and prediction of this value is very important in the precision tests of QED. The E821 experiment at Brookhaven and the Muon g-2 experiment at Fermilab studied the precession of the muon spin in a constant external magnetic field as the muons circulated in a confining storage ring. The Muon g2 collaboration reported in 2021:
+
+ 
+ 
+ 
+ a
+ =
+ 
+ 
+ 
+ 
+ |
+ 
+ g
+ 
+ |
+ 
+ 
+ 2
+ 
+ 2
+ 
+ 
+ =
+ 0.001165920715
+ (
+ 145
+ )
+ .
+ 
+ 
+ 
+ 
+
+The prediction for the value of the muon anomalous magnetic moment includes three parts:
+
+aSM = aQED + aEW + ahad.
+The difference between the g-factors of the muon and the electron is due to their difference in mass. Because of the muon's larger mass, contributions to the theoretical calculation of its anomalous magnetic dipole moment from Standard Model weak interactions and from contributions involving hadrons are important at the current level of precision, whereas these effects are not important for the electron. The muon's anomalous magnetic dipole moment is also sensitive to contributions from new physics beyond the Standard Model, such as supersymmetry. For this reason, the muon's anomalous magnetic moment is normally used as a probe for new physics beyond the Standard Model rather than as a test of QED. Muon g2, an experiment at Fermilab using the E821 magnet improved the precision of this measurement.
+In 2020 an international team of 170 physicists calculated the most accurate prediction for the theoretical value of the muon's anomalous magnetic moment.
+
+Muon g2
+Muon g-2 was a particle physics experiment at Fermilab to measure the anomalous magnetic dipole moment of a muon to a precision of 0.14 ppm, which is a sensitive test of the Standard Model. It might also provide evidence of the existence of entirely new particles.
+In 2021, the Muon g2 Experiment presented their first results of a new experimental average that increased the difference between experiment and theory to 4.2 standard deviations.
+
+Electric dipole moment
+The current experimental limit on the muon electric dipole moment, |d| < 1.91019 ecm, set by the E821 experiment at the Brookhaven, is orders of magnitude above the Standard Model prediction. The observation of a non-zero muon electric dipole moment would provide an additional source of CP violation. An improvement in sensitivity by two orders of magnitude over the Brookhaven limit is expected from the experiments at Fermilab.
+The Fermilab Muon g2 experiment is expected to extend the sensitivity to around 10^20 with the full dataset.
+
+Muon radiography and tomography
+
+Since muons are much more deeply penetrating than X-rays or gamma rays, muon imaging can be used with much thicker material or, with cosmic ray sources, larger objects. One example is commercial muon tomography used to image entire cargo containers to detect shielded nuclear material, as well as explosives or other contraband.
+The technique of muon transmission radiography based on cosmic ray sources was first used in the 1950s to measure the depth of the overburden of a tunnel in Australia and in the 1960s to search for possible hidden chambers in the Pyramid of Chephren in Giza. In 2017, the discovery of a large void (with a length of 30 metres minimum) by observation of cosmic-ray muons was reported.
+In 2003, the scientists at Los Alamos National Laboratory developed a new imaging technique: muon scattering tomography. With muon scattering tomography, both incoming and outgoing trajectories for each particle are reconstructed, such as with sealed aluminum drift tubes. Since the development of this technique, several companies have started to use it.
+In August 2014, Decision Sciences International Corporation announced it had been awarded a contract by Toshiba for use of its muon tracking detectors in reclaiming the Fukushima nuclear complex. The Fukushima Daiichi Tracker was proposed to make a few months of muon measurements to show the distribution of the reactor cores. In December 2014, Tepco reported that they would be using two different muon imaging techniques at Fukushima, "muon scanning method" on Unit 1 (the most badly damaged, where the fuel may have left the reactor vessel) and "muon scattering method" on Unit 2. The International Research Institute for Nuclear Decommissioning IRID in Japan and the High Energy Accelerator Research Organization KEK call the method they developed for Unit 1 the "muon permeation method"; 1200 optical fibers for wavelength conversion light up when muons come into contact with them. After a month of data collection, it is hoped to reveal the location and amount of fuel debris still inside the reactor. The measurements began in February 2015.

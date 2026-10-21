@@ -1,0 +1,96 @@
+Dropped ceiling
+
+A dropped ceiling is a secondary ceiling, hung below the main (structural) ceiling. It may also be referred to as a drop ceiling, T-bar ceiling, false ceiling, suspended ceiling, grid ceiling, drop in ceiling, drop out ceiling, or ceiling tiles and is a staple of modern construction and architecture in both residential and commercial applications.
+
+History
+Dropped ceilings and ceiling tiles were used in Japan for aesthetic reasons as early as the Muromachi Period (1337 to 1573). These could be made with simple planks, or coffered. Blackfriars Theatre in London, England, built in 1596, had dropped ceilings to aid acoustics.
+U. S. Patent No. 1,470,728 for modern dropped ceilings was applied for by E. E. Hall on May 28, 1919, and granted on October 16, 1923. Initially modern dropped ceilings were built using interlocking tiles and the only way to provide access for repair or inspection of the area above the tiles was by starting at the edge of the ceiling, or at a designated "key tile", and then removing contiguous tiles one at a time until the desired place of access was reached. Once the repair or inspection was completed, the tiles had to be reinstalled. This process could be time-consuming and expensive. On September 8, 1958, Donald A. Brown of Westlake, Ohio, filed for a patent for Accessible Suspended Ceiling Construction. This invention provided suspended ceiling construction in which access may readily be obtained at any desired location. Patent Number US 2,984,946 A was granted on May 23, 1961. Brown has sometimes been credited as being the inventor of the dropped ceiling even though other patents preceded his, as shown in the table below.
+
+Design objectives
+Effective building design requires balancing multiple objectives: aesthetics, acoustics, environmental factors, and integration with the building's infrastructure—not to mention cost of construction as well as long-term operation costs.
+
+Aesthetics
+Modern dropped ceilings were initially created to hide the building infrastructure, including piping, wiring, and/or ductwork, by creating a plenum space above the dropped ceiling, while allowing access for repairs and inspections. Drop ceilings may also be used to hide problems, such as structural damage. Further, drop out ceilings can also conceal the sprinkler systems while still providing full fire suppression functionality.
+For many years, dropped ceilings were made of basic white tiles, but modern innovations now offer a plethora of options in sizes, colors, materials (including retro designs and faux leather, wood, or metal), visual effects and shapes, patterns, and textures as well as support systems and ways to access the plenum. Custom runs of specialty ceiling tiles can be done at relatively low cost compared with the past.
+
+Acoustics
+Acoustic balance and control was another early objective of dropped ceilings. The acoustic performance of suspended ceilings has improved dramatically over the years, with enhanced sound absorption and attenuation. This is sometimes achieved by adding insulation known as Sound Attenuation Batts (SABs), more commonly referred to as "sound batts", above the panels to help deaden sounds and keep adjacent rooms quieter.
+
+Environmental factors
+
+Indoor environmental quality
+Indoor environmental quality includes ventilation, VOC emissions, lighting and thermal system control, thermal comfort, use of daylight for natural illumination, acoustics, and optimization of outdoor view availability.
+
+Sustainability
+Many manufacturers of modern dropped ceilings include sustainability as an objective. Sustainable features may include:
+
+Energy efficiency, including daylight efficacy and thermal insulating qualities. This uses the ceiling plane to reflect daylight as well as electrical illumination to maximize lumen efficacy, which also improves the comfort and usability of interior spaces. A common measure of the light reflectance of a ceiling material is ASTM E 1477 for Light Reflectance (LR-1). A level of about 75% is considered good, although higher levels are possible.
+Reduced resources needed for construction of the tiles
+Recyclable/reused/renewable materials
+
+Integration with infrastructure
+Integration with mechanical, electrical, and plumbing (MEP) is important with dropped ceilings, since most of these systems are by definition above the ceiling. Most ceiling system products are now designed with this integration in mind. Decisions here can also affect aesthetics as well as access and maintenance.
+
+Cost
+Dropped ceilings are likely to cost more to install than an open plenum, but may offer significant cost savings in maintenance and energy.
+
+Suspension grids
+A typical dropped ceiling consists of a gridwork of metal channels in the shape of an upside-down "T", suspended on wires from the overhead structure. These channels snap together in a regularly spaced pattern of cells. Each cell is then filled with lightweight ceiling tiles or "panels" which simply drop into the grid. The primary grid types are "Standard 1" (1516-inch face), Slimline (916-inch grid), and concealed grid.
+In the United States and its neighboring countries, the cell size in the suspension grids is typically either 2 by 2 feet (610 mm 610 mm) or 2 by 4 feet (610 mm 1,220 mm), and the ceiling tiles, light fixtures, and fluorescent light tubes are the same size. In Europe, the cell size in the suspension grids is 600600 mm, while the ceiling tiles and fixtures are slightly (5 mm) smaller at 595 by 595 millimetres (1.952 ft 1.952 ft) or 595 by 1,195 millimetres (1.952 ft 3.921 ft), and the T5 fluorescent and LED tubes are shorter by 37 mm to allow for easier and safer insertion and removal without breakage.
+
+Concealed grid
+
+An older, less common type of dropped ceiling is the concealed grid system, which uses a method of interlocking panels into one another and the grid with the use of small strips of metal called "splines". Normally, they have a "key panel" (usually in the corner) that can be removed, allowing for the other panels to be slid out of the grid (a series of metal channels called "z bars") one by one, until eventually removing the desired panel. This type of ceiling is more commonly found in older installations or installations where access to above the ceiling is generally considered unnecessary.
+This system has some major disadvantages compared to the more common "drop panel" system, notably the difficulty in removing and reattaching panels from the grid, which, in some cases, can cause irreparable damage to the panels removed. Finding replacement panels for this type of dropped ceiling is becoming increasingly more difficult as the demand for them and the production of parts slow. Small clips are available that allow tiles to be inserted into gaps in the ceiling where a tile is missing and work by being placed on the edge of a concealed tile and then being slid along as the tile is placed to lock it in place.
+
+Stretch ceiling
+
+With similar advantages to a dropped ceiling, a stretch ceiling is often used to conceal pipework, wires or the existing ceiling. There is also usually a broad choice of colour or texture, and the membrane can be manipulated into a variety of shapes.
+
+A stretch ceiling is a suspended ceiling system and it is made of three main components:
+
+Perimeter track – Aluminium or plastic PVC
+Membrane – Typically a PVC or nylon material, lightweight sheets are made to size/shape from roll material. Can be printed or painted to achieve the desired effect.
+Harpoon or catch – This is ultrasonically welded to the edge of the membrane or sheet in the factory, the edging slots into the perimeter track to keep the ceiling in place.
+When a stretch ceiling is being installed, semi-concealed plastic/aluminum track, the preferred choice for most architects and designers, is cut to size and fixed to the perimeter of the ceiling area. The membrane is stretched and the harpoon or catch edge is clipped into the track. Stretching is aided by heating up the membrane or sheet prior to fitting.
+
+Drop out ceilings
+Approved drop out (or drop-out) ceilings allow the installation of a dropped ceiling beneath existing fire sprinklers because the tiles, sometimes called melt-out ceiling tiles, are heat-sensitive and are designed to fall from the dropped ceiling suspension grid during a fire, allowing the sprinklers to spray their water.
+Drop out ceiling tiles can add to the aesthetic appeal of a ceiling since the fire sprinklers are hidden by the tiles. Commonly made from vinyl or expanded polystyrene, drop out ceiling tiles are available in multiple sizes and finishes from a variety of manufacturers.
+Installation is subject to the local Authority Having Jurisdiction (AHJ) and, in the United States, must meet the standards listed in the section below at a minimum.
+
+Drop out ceiling standards (United States)
+The following standards are in addition to those for ceiling tiles in general. No clips, fasteners, or impediments of any kind can be used to limit the ceiling tile's ability to drop from the suspension system without restraint in the event of a fire unless they have been used in the testing process. Painting can void an approval, and additional local requirements may exist.
+
+FM Global – Approval Standards for Plastic Suspended Ceilings
+UL – Ceiling Panels for Use Beneath Sprinklers
+ICC-ES – AC-12 Section 4.4 – Foam Plastic Drop-Out Ceiling Panels and Tiles
+NFPA 13 – Standard for the Installation of Sprinkler Systems
+
+Safety issues
+
+In older buildings, the space above the dropped ceiling was often used as a plenum space for ventilation systems, requiring only enclosed ducts that deliver fresh air into the room below, with return air entering the ceiling space through open grilles across the ceiling. That practice is now used less frequently in new buildings.
+If the dropped ceiling is used as a plenum, low-voltage cables and wiring that are not installed inside conduit must use a special low-smoke and low-toxicity wire insulation, which will tend to char and stop burning on its own. That helps to protect building occupants so that they are not poisoned with toxic chemicals sucked through the ventilation system during a fire, and it helps to prevent fires from spreading inside the hidden plenum space. The special low-smoke cable is typically referred to as plenum cable or Low Smoke Zero Halogen (LSZH or LS0H) cable. While twisted pair cable for networking and telephone service is the most common form of plenum cable, coaxial cable also needs to be plenum-rated for safety.
+High-voltage electrical equipment (generally regarded as being over 50 V) is not permitted to be exposed in the plenum space above a drop ceiling but must be enclosed in conduit or raceways and be physically isolated from low-voltage wiring. High-voltage electrical devices similarly must be enclosed in a plenum space, inside a metallic container. Similarly, electrical outlets for domestic powered devices may not be inside the plenum space, but outlets can be installed on ceiling tiles inside electrical boxes, with the sockets exposed on the exterior bottom face of the drop ceiling. The purpose of these restrictions is to limit flame spread inside the unseen plenum space, in the event of high voltage equipment or wiring failure. Low-voltage cabling is permitted because current flow is typically negligible and so the risk of overheating and fire is limited.
+In earthquake prone areas, such as California, diagonal wire stays are often required by building codes to prevent the ceiling grid from swaying laterally during an earthquake, which can lead to partial or total collapse of the ceiling grid on the occupants below during a severe tremor. Compression posts may also be added to keep the ceiling from bouncing vertically during an earthquake.
+Lighting fixtures and other devices installed in a dropped ceiling must be firmly secured to the dropped ceiling framework. A fire above a dropped ceiling often requires firefighters to pull down the ceiling in a hurry for quick access to the conflagration. Loose fixtures resting in the framework only by gravity may become unseated, swing down on their armorflex power cables, and hit the firefighters below. Binding the fixtures to the framework assures that if the framework must be pulled down, the fixture will come down with it and not become a pendulous swinging hazard to the firefighters.
+
+Fire safety
+To address fire safety, ceiling tiles made from mineral fibres (asbestos), plastic, tin, composite, or fire-rated wood panels can be used within the construction to meet acceptable standards/ratings. Some tiles, in specific situations, can provide the needed additional resistance to meet the "time rating" required for various fire code, city ordinance, commercial, or other similar building construction regulations. Fire ratings for ceiling panels vary based on the materials used, the preparation of each panel, and the safety testing and third party evaluation done to determine where and how they can be safely installed. In the United Kingdom, tiles from certain manufacturers may be required to be clipped into the grid with special ceiling clips to provide a fire rating; there are special tiles designed for the underside of mezzanine floors however that can give a fire rating without being clipped.
+
+Advantages
+Drop out ceilings can be mounted underneath fire sprinklers to hide them for a more attractive appearance.
+
+Ease of modification
+A dropped ceiling offers easy access to the plenum, which can greatly simplify repairs or alterations.
+Once a traditional plaster or wallboard ceiling is in place, wiring and piping can be difficult to modify. Wires must be fished through hollow spaces in the walls behind the finished ceiling, or the ceiling may even need to be demolished for changes to wiring or piping to be made. In contrast, the tiles of a dropped ceiling can be easily removed to allow access to the area above the grid to do any necessary wiring or plumbing modifications.
+In a remodel, nearly all components of the grid can be dismantled and reassembled elsewhere.
+In office buildings, drop ceilings are often used in conjunction with hollow steel studs to construct small office spaces out of a much larger cavernous space. Wiring and other services are run through the open ceiling, down through the hollow stud walls, and to outlets in the work areas. If a business needs change, the office spaces can be easily dismantled, with the overall cavernous space reconfigured with a different floor plan.
+A dropped ceiling is often implemented as an inexpensive fix to prolong the need for major renovations.
+
+Disadvantages
+
+One potential disadvantage with this ceiling system is reduced headroom. Clearance is required between the grid and any pipes or duct work above to install the ceiling tiles and light fixtures. In general, a minimum clearance of 100 to 200 millimetres (4 to 8 in) is often needed between the lowest obstruction and the level of the ceiling grid. A direct-mount grid may work for those who want the convenience of a dropped ceiling but have limited headroom. Stretch ceiling supports require less than 25 mm (1 in) of vertical space, and no space is required for tiles to be lifted out with a stretch ceiling, but a greater clearance space may be chosen to allow room for MEC or for aesthetic reasons.
+Dropped ceilings generally conceal many of the functional and structural elements of a building, which discourages the use of functional building systems as aesthetic design elements. Dropped ceilings in renovations are oftentimes criticized for covering up aesthetically appealing structural elements of older buildings.
+Mineral fiber panels, a common material for dropped ceilings, may show their age quickly. They can sag, are damaged easily from handling, and stain easily and permanently.
+Owing to their popularity in the mid-20th century, many older drop ceilings incorporated asbestos for its insulating and fire-resistant properties. These can pose a serious health hazard to occupants and especially workers if the asbestos-containing elements are not properly removed.

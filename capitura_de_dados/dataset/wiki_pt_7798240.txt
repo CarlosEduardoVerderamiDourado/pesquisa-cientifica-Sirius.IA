@@ -1,0 +1,47 @@
+Gabriel (empresa)
+
+Gabriel é uma empresa brasileira de tecnologia voltada para segurança pública, fundada em janeiro de 2020 no Brasil. A companhia desenvolve e opera uma rede de câmeras equipadas com leitura automática de placas de veículos (LPR) e inteligência artificial, integrada a órgãos de segurança pública nos estados de São Paulo, Rio de Janeiro e Minas Gerais.
+O modelo de negócio é baseado em comodato de equipamentos instalados em imóveis privados com assinatura mensal: a empresa instala e mantém a propriedade das câmeras, oferecendo transmissão de imagens e colaboração com o poder público no envio de dados para investigações.
+
+História
+A primeira câmera da empresa foi instalada no bairro do Leblon, na zona sul do Rio de Janeiro, em abril de 2020. No mesmo ano, a empresa captou R$ 10 milhões em rodada seed com participação dos fundos Canary, Norte e Globo Ventures. 
+Em 2021, expandiu para a cidade de São Paulo e captou R$ 66 milhões (~US$ 12 milhões) em rodada Series A liderada pelo SoftBank Latin America Fund.
+Em março de 2022, a Gabriel adquiriu a Retina Vision, startup de visão computacional especializada em leitura de placas veiculares, originada na Universidade de São Paulo.
+No final de 2023, a empresa captou R$ 35 milhões em rodada co-liderada pela Qualcomm Ventures e pela Astella Investimentos.
+Em outubro de 2024, a empresa firmou parceria com a concessionária Orla Rio para instalação de câmeras ao longo da orla da Zona Sul carioca.
+Em maio de 2025, a Associação de Moradores e Amigos da Escola de Artes Visuais (Ameav) contratou o serviço da Gabriel para reforçar a segurança no Parque Lage.
+Em outubro de 2025, a empresa anunciou uma captação total de R$ 60 milhões, composta por R$ 35 milhões em extensão de rodada de equity liderada pela Globo Ventures, com participação da Astella e Qualcomm Ventures, e R$ 25 milhões em dívida estruturada.
+Em seguida, iniciou operações em Belo Horizonte.
+Em novembro de 2025, a rede de câmeras da empresa foi instalada no perímetro externo do estádio do Maracanã, visando o reforço da segurança e o auxílio em ocorrências no entorno do complexo esportivo.
+Em agosto de 2026, a Gabriel anunciou o início de operações no Espírito Santo, com atuação inicial nos municípios de Vitória e Vila Velha — o quarto estado atendido pela rede da empresa, depois de São Paulo, Rio de Janeiro e Minas Gerais. Segundo o Economia Capixaba, tratou-se do oitavo mercado municipal aberto pela companhia desde novembro de 2025, somando-se a Belo Horizonte e a cidades da região metropolitana de São Paulo, como Barueri, Guarulhos, Osasco, Santo André, São Bernardo do Campo e São Caetano do Sul.
+
+Tecnologia
+O principal equipamento da empresa é o Camaleão, um dispositivo proprietário de câmera dupla com campo de visão de 180° ou 360° e conectividade via rede 4G, mas declara não utilizar reconhecimento facial em seus sistemas, restringindo a identificação a veículos e placas. O sistema utiliza visão computacional para realizar leitura automática de placas, comparando os dados com bases de veículos com restrições e gerando alertas para as autoridades.
+
+Integrações com o poder público
+A Gabriel mantém integrações formalizadas com órgãos de segurança pública para fornecimento de imagens e dados de leitura de placas:
+
+No Rio de Janeiro, a empresa integra o programa "190 Integrado" da Polícia Militar e mantém Acordo de Cooperação Técnica com a Polícia Civil.
+Em São Paulo, participa do programa municipal Smart Sampa e do programa estadual Muralha Paulista, compartilhando dados de leitura de placas e alertas com centros de controle policiais.
+Em Belo Horizonte, segundo o Estado de Minas, a empresa está integrada ao Centro Integrado de Operações (COP-BH) e ao Sistema Hélios da Polícia Militar.
+
+Gabriel365
+Em junho de 2026, a Gabriel lançou a Gabriel365 (365.gabriel.com.br), uma plataforma gratuita de visualização de dados sobre segurança pública baseada em inteligência artificial. A plataforma reúne dados de ocorrências registradas ao longo de seis anos pela rede de câmeras da empresa nas cidades onde a Gabriel opera. 
+Segundo a Folha de S.Paulo, a ferramenta permite consultas sobre criminalidade por rua, bairro e período. O acesso é gratuito mediante cadastro; sem login, é possível fazer apenas uma pergunta ao assistente de inteligência artificial da plataforma. A plataforma é compatível com dispositivos móveis. 
+O site tem três abas de acesso: um chat em linguagem natural — segundo o TecMundo, alimentado por um modelo de inteligência artificial generativa da Anthropic — que responde perguntas sobre segurança pública sem exigir conhecimento técnico; um mapa navegável com filtros por tipo de ocorrência, status, desfecho e período; e uma aba de relatórios que gera boletins de segurança personalizados por bairro, com dados sobre ocorrências, padrão de horário e câmeras inteligentes que monitoram a região.
+
+Privacidade e controvérsias
+A atuação de redes privadas de câmeras de vigilância em espaços urbanos no Brasil tem sido objeto de debate sobre privacidade, proteção de dados e limites regulatórios.
+Em fevereiro de 2026, a CPI encerrou seus trabalhos após aproximadamente oito meses, desde sua instauração em junho de 2025. A Gabriel foi a única empresa do setor convocada e atendeu a todos os ofícios e solicitações de documentação da Comissão. O relatório final foi encaminhado aos Ministérios Públicos Estadual e Federal e à Receita Federal. 
+
+Reportagem da Piauí
+Em abril de 2024, a Revista Piauí publicou reportagem investigativa relatando que parte da comunicação entre a Gabriel e forças policiais ocorria por meios informais, como grupos de WhatsApp. O professor de Direito da Fundação Getúlio Vargas (FGV) Alexandre Pacheco declarou à InfoMoney que, em sua interpretação, seria necessária uma ordem judicial para acesso a essas imagens, embora reconhecendo que o tema não é pacífico na doutrina jurídica.
+A Gabriel declarou à publicação que utiliza canais oficiais de comunicação com as autoridades.
+
+Instalação de equipamentos em vias públicas
+Em fevereiro de 2025, reportagem da InfoMoney documentou que empresas do setor de câmeras inteligentes urbanas, incluindo a Gabriel, nem sempre obtinham formalmente a aprovação da Comissão de Proteção à Paisagem Urbana (CPPU) da Prefeitura de São Paulo antes de instalar equipamentos em vias públicas. Professores de urbanismo consultados pela publicação questionaram a ausência de regulamentação específica para a atividade.
+Em julho de 2025, a atuação de empresas de videovigilância no Rio de Janeiro foi objeto da "Comissão Parlamentar de Inquérito para Investigar o Uso de Câmeras de Vigilância e Sistemas de Segurança por Cooperativas de Veículos", instaurada na Câmara Municipal do Rio de Janeiro para apurar o funcionamento de sistemas de câmeras e o uso de imagens por entes privados. Representante da Gabriel prestou depoimento para esclarecer questões sobre licenciamento e proteção de dados.
+Em dezembro de 2025, a empresa finalizou a realocação de totens instalados em vias públicas do Rio de Janeiro.
+
+Concorrência
+O setor de videovigilância urbana com inteligência artificial no Brasil inclui empresas como a CoSecurity, subsidiária do Grupo Haganá, e a White Segurança. Empresas internacionais do mesmo segmento incluem a Flock Safety, sediada nos Estados Unidos.

@@ -1,0 +1,2357 @@
+Fórmula de Euler
+
+A fórmula de Euler, cujo nome é uma homenagem a Leonhard Euler, é uma fórmula matemática da área específica da análise complexa, que mostra uma relação entre as funções trigonométricas e a função exponencial (a identidade de Euler é um caso especial da fórmula de Euler). A fórmula é dada por:
+
+ 
+ 
+ 
+ 
+ e
+ 
+ i
+ x
+ 
+ 
+ =
+ cos
+ 
+ 
+ (
+ x
+ )
+ 
+ +
+ 
+ i
+ 
+ sen
+ 
+ 
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+ 
+,
+em que:
+
+x é o argumento real (em radianos);
+
+ 
+ 
+ 
+ e
+ 
+ 
+ 
+ 
+ é a base do logaritmo natural;
+
+ 
+ 
+ 
+ 
+ 
+ i
+ 
+ 
+ 2
+ 
+ 
+ =
+ 
+ 1
+ 
+ 
+ 
+ 
+ , onde 
+ 
+ 
+ 
+ 
+ i
+ 
+ 
+ 
+ 
+ 
+ é a unidade imaginária (número complexo);
+
+ 
+ 
+ 
+ sen
+ 
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ cos
+ 
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+ são funções trigonométricas.
+A relação entre exponencial complexa e funções trigonométricas foi primeiro provada pelo matemático inglês Roger Cotes em 1714, na forma
+
+ 
+ 
+ 
+ ln
+ 
+ (
+ cos
+ 
+ x
+ +
+ 
+ i
+ 
+ sen
+ 
+ x
+ )
+ =
+ 
+ i
+ 
+ x
+ 
+ 
+ 
+ 
+
+em que ln é o logaritmo natural.
+
+História
+Com a introdução dos logaritmos pelo matemático e físico escocês John Napier em 1614, um grande estudo a respeito das suas propriedades surgiram, principalmente sobre logaritmos aplicados em pontos negativos. Essa pesquisa foi alavancada no século XVIII pelo matemático suíço Leonhard Euler e seu mentor Johann Bernoulli. Bernoulli acreditava que 
+ 
+ 
+ 
+ log
+ 
+ (
+ 
+ x
+ )
+ =
+ log
+ 
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+ e, apesar do receio de Euler frente a essa relação, em uma das suas cartas, Euler constatou que: se 
+ 
+ 
+ 
+ log
+ 
+ (
+ x
+ x
+ )
+ =
+ z
+ 
+ 
+ 
+ 1
+ 2
+ 
+ 
+ z
+ =
+ log
+ 
+ (
+ 
+ 
+ x
+ x
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+ 2
+ 
+ 
+ z
+ =
+ log
+ 
+ (
+ 
+ x
+ )
+ 
+ 
+ 
+ 
+.
+No entanto, em 1746, em uma troca de cartas à Jean d’Alembert, Euler se mostra contrário à afirmação que 
+ 
+ 
+ 
+ log
+ 
+ (
+ 
+ x
+ )
+ =
+ log
+ 
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+ e apresenta uma nova proposta a ser futuramente publicada e que daria origem à equação de Euler.
+
+ 
+ 
+ 
+ log
+ 
+ (
+ cos
+ 
+ 
+ +
+ sen
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ 
+ 
+ )
+ 
+ k
+ 
+ 
+ =
+ (
+ k
+ 
+ 
+ 2
+ m
+ k
+ 
+ 
+ n
+ 
+ )
+ 
+ 
+ 
+ 1
+ 
+ 
+ 
+ 
+ 
+ 
+, em que 
+ 
+ 
+ 
+ k
+ 
+ 
+ R
+ 
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ m
+ ,
+ n
+ 
+ 
+ N
+ 
+ 
+ 
+ 
+ 
+.
+Com essa equação, utilizando os valores de 1 para k e 0 para m e n, encontra-se a equação descrita por Roger Cotes em 1714,
+
+ 
+ 
+ 
+ log
+ 
+ (
+ cos
+ 
+ 
+ +
+ sen
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ 
+ )
+ =
+ 
+ 
+ 
+ 
+ 1
+ 
+ 
+ 
+ 
+ 
+ 
+
+e, portanto,
+
+ 
+ 
+ 
+ 
+ e
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ 
+ 
+ 
+ =
+ cos
+ 
+ 
+ +
+ sen
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ 
+ 
+ 
+ 
+ 
+
+No entanto, essas relações somente seriam oficialmente descritas por Euler em um artigo publicado em 1748 utilizando expansões de série exponenciais e expressões trigonométricas.
+
+Prova utilizando cálculo
+
+Uma propriedade conhecida das funções exponenciais é que elas são iguais às suas derivadas:
+
+ 
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ d
+ 
+ x
+ 
+ 
+ 
+ 
+ e
+ 
+ x
+ 
+ 
+ =
+ 
+ e
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ 
+, onde "x" é um número real.
+As funções exponenciais com números complexos também satisfazem esta mesma propriedade:
+
+ 
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ d
+ 
+ z
+ 
+ 
+ 
+ 
+ e
+ 
+ z
+ 
+ 
+ =
+ 
+ e
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ 
+, onde "z" é um número complexo.
+Portanto, pela regra da cadeia:
+
+ 
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ d
+ 
+ x
+ 
+ 
+ 
+ 
+ e
+ 
+ 
+ i
+ 
+ x
+ 
+ 
+ =
+ 
+ i
+ 
+ 
+ 
+ e
+ 
+ 
+ i
+ 
+ x
+ 
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+Então definimos uma nova função, que chamaremos de "f":
+
+ 
+ 
+ 
+ f
+ (
+ x
+ )
+ =
+ (
+ cos
+ 
+ x
+ 
+ 
+ i
+ 
+ sen
+ 
+ x
+ )
+ 
+ 
+ e
+ 
+ 
+ i
+ 
+ x
+ 
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+Pela regra do produto, que vale também para funções que tenham como imagem números complexos, a derivada de f(x) será::
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ d
+ 
+ 
+ d
+ 
+ x
+ 
+ 
+ 
+ f
+ (
+ x
+ )
+ 
+ 
+ 
+ =
+ (
+ cos
+ 
+ x
+ 
+ 
+ i
+ 
+ sen
+ 
+ x
+ )
+ 
+ 
+ 
+ d
+ 
+ 
+ d
+ 
+ x
+ 
+ 
+ 
+ 
+ e
+ 
+ 
+ i
+ 
+ x
+ 
+ 
+ +
+ 
+ 
+ d
+ 
+ 
+ d
+ 
+ x
+ 
+ 
+ 
+ (
+ cos
+ 
+ x
+ 
+ 
+ i
+ 
+ sen
+ 
+ x
+ )
+ 
+ 
+ e
+ 
+ 
+ i
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ (
+ cos
+ 
+ x
+ 
+ 
+ i
+ 
+ sen
+ 
+ x
+ )
+ (
+ 
+ i
+ 
+ 
+ e
+ 
+ 
+ i
+ 
+ x
+ 
+ 
+ )
+ +
+ (
+ 
+ sen
+ 
+ x
+ 
+ 
+ i
+ 
+ cos
+ 
+ x
+ )
+ 
+ 
+ e
+ 
+ 
+ i
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ (
+ 
+ i
+ 
+ cos
+ 
+ x
+ +
+ sen
+ 
+ x
+ 
+ sen
+ 
+ x
+ 
+ 
+ i
+ 
+ cos
+ 
+ x
+ )
+ 
+ 
+ e
+ 
+ 
+ i
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ 0
+ 
+ .
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Portanto, f(x) deve ser uma função constante em x. Já que f(0)=1 (o que pode ser facilmente descoberto substituindo-se x por 0 na função),
+
+ 
+ 
+ 
+ 1
+ =
+ (
+ cos
+ 
+ x
+ 
+ 
+ i
+ 
+ sen
+ 
+ x
+ )
+ 
+ 
+ e
+ 
+ 
+ i
+ 
+ x
+ 
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+Multiplicando os dois lados por cos x + i senx, obtemos
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ cos
+ 
+ x
+ +
+ 
+ i
+ 
+ sen
+ 
+ x
+ 
+ 
+ 
+ =
+ (
+ cos
+ 
+ x
+ +
+ 
+ i
+ 
+ sen
+ 
+ x
+ )
+ (
+ cos
+ 
+ x
+ 
+ 
+ i
+ 
+ sen
+ 
+ x
+ )
+ 
+ 
+ e
+ 
+ 
+ i
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ (
+ 
+ cos
+ 
+ 2
+ 
+ 
+ 
+ x
+ 
+ (
+ 
+ i
+ 
+ sen
+ 
+ x
+ 
+ )
+ 
+ 2
+ 
+ 
+ )
+ 
+ 
+ e
+ 
+ 
+ i
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ (
+ 
+ cos
+ 
+ 2
+ 
+ 
+ 
+ x
+ +
+ 
+ sen
+ 
+ 2
+ 
+ 
+ 
+ x
+ )
+ 
+ 
+ e
+ 
+ 
+ i
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ 
+ e
+ 
+ 
+ i
+ 
+ x
+ 
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Prova utilizando série de Taylor
+Para o estudo da fórmula de Euler necessitamos do conhecimento de expansão em séries de potência. Introduziremos uma grande ferramenta, sem uma análise profunda, que é o seguinte conceito:
+A expansão em série de Taylor de uma função analítica 
+ 
+ 
+ 
+ f
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+ centrada em 
+ 
+ 
+ 
+ a
+ 
+ 
+ 
+ 
+ é representada como:
+
+ 
+ 
+ 
+ f
+ (
+ x
+ )
+ =
+ 
+ 
+ 
+ n
+ =
+ o
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C
+ 
+ n
+ 
+ 
+ 
+ 
+ (
+ x
+ 
+ a
+ 
+ )
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+com 
+ 
+ 
+ 
+ 
+ |
+ 
+ x
+ 
+ a
+ 
+ |
+ 
+ <
+ R
+ 
+ 
+ 
+ 
+ , onde
+
+ 
+ 
+ 
+ 
+ C
+ 
+ n
+ 
+ 
+ =
+ 
+ 
+ 
+ 
+ 
+ f
+ 
+ n
+ 
+ 
+ 
+ (
+ a
+ )
+ 
+ 
+ n
+ !
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Usando esse conceito de expansão e tomando 
+ 
+ 
+ 
+ f
+ (
+ x
+ )
+ =
+ 
+ e
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ 
+ em torno de 
+ 
+ 
+ 
+ a
+ =
+ 0
+ 
+ 
+ 
+ 
+, teremos:
+
+ 
+ 
+ 
+ 
+ e
+ 
+ x
+ 
+ 
+ =
+ 
+ 
+ 
+ n
+ =
+ 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ f
+ 
+ n
+ 
+ 
+ 
+ (
+ 0
+ )
+ 
+ 
+ 
+ x
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ n
+ !
+ 
+ 
+ 
+ =
+ 
+ 
+ 
+ n
+ =
+ 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ n
+ 
+ 
+ 
+ n
+ !
+ 
+ 
+ 
+ =
+ 1
+ +
+ 
+ 
+ x
+ 
+ 1
+ !
+ 
+ 
+ 
+ +
+ 
+ 
+ 
+ x
+ 
+ 2
+ 
+ 
+ 
+ 2
+ !
+ 
+ 
+ 
+ +
+ 
+ 
+ 
+ x
+ 
+ 3
+ 
+ 
+ 
+ 3
+ !
+ 
+ 
+ 
+ +
+ 
+ .
+ .
+ .
+ 
+ +
+ 
+ 
+ 
+ x
+ 
+ n
+ 
+ 
+ 
+ n
+ !
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+para todo 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ com intervalo de convergência de 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.
+Em 
+ 
+ 
+ 
+ x
+ =
+ 1
+ 
+ 
+ 
+ 
+, na equação acima, obtém-se a expressão para o número 
+ 
+ 
+ 
+ e
+ 
+ 
+ 
+ 
+, como uma soma de uma série infinita:
+
+ 
+ 
+ 
+ e
+ =
+ 
+ 
+ 
+ n
+ =
+ 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ n
+ !
+ 
+ 
+ 
+ =
+ 1
+ +
+ 
+ 
+ 1
+ 
+ 1
+ !
+ 
+ 
+ 
+ +
+ 
+ 
+ 1
+ 
+ 2
+ !
+ 
+ 
+ 
+ +
+ 
+ 
+ 1
+ 
+ 3
+ !
+ 
+ 
+ 
+ +
+ 
+ .
+ .
+ .
+ 
+ 
+ 
+ 
+ 
+
+Se admitirmos a validade de substituirmos 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ por 
+ 
+ 
+ 
+ i
+ x
+ 
+ 
+ 
+ 
+ na equação obteremos:
+
+ 
+ 
+ 
+ 
+ e
+ 
+ 
+ i
+ 
+ x
+ 
+ 
+ =
+ 
+ 
+ 
+ n
+ =
+ 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (
+ 
+ i
+ 
+ 
+ x
+ 
+ )
+ 
+ n
+ 
+ 
+ 
+ 
+ n
+ !
+ 
+ 
+ 
+ =
+ 
+ 
+ 
+ 
+ n
+ =
+ 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (
+ 
+ 1
+ 
+ )
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 2
+ n
+ 
+ 
+ 
+ 
+ 
+ (
+ 2
+ n
+ )
+ !
+ 
+ 
+ 
+ 
+ +
+ 
+ i
+ 
+ 
+ 
+ 
+ 
+ 
+ n
+ =
+ 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (
+ 
+ 1
+ 
+ )
+ 
+ n
+ 
+ 1
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 2
+ n
+ 
+ 1
+ 
+ 
+ 
+ 
+ 
+ (
+ 2
+ n
+ 
+ 1
+ )
+ !
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+A primeira parte da soma da equação anterior (
+ 
+ 
+ 
+ 
+ e
+ 
+ i
+ x
+ 
+ 
+ 
+ 
+ 
+ 
+) é a expansão do 
+ 
+ 
+ 
+ c
+ o
+ s
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+ e a segunda é a expansão do 
+ 
+ 
+ 
+ s
+ e
+ n
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+ em série de Maclaurin. Assim teremos a equação que ficou conhecida como fórmula de Euler
+
+ 
+ 
+ 
+ 
+ e
+ 
+ 
+ i
+ 
+ x
+ 
+ 
+ =
+ cos
+ 
+ 
+ (
+ x
+ )
+ 
+ +
+ 
+ i
+ 
+ sen
+ 
+ 
+ (
+ x
+ )
+ 
+ 
+ 
+ 
+ 
+
+que de forma mais generalizada pode ser escrita como:
+
+ 
+ 
+ 
+ 
+ e
+ 
+ 
+ i
+ 
+ u
+ x
+ 
+ 
+ =
+ cos
+ 
+ 
+ (
+ 
+ u
+ x
+ 
+ )
+ 
+ +
+ 
+ i
+ 
+ sen
+ 
+ 
+ (
+ 
+ u
+ x
+ 
+ )
+ 
+ 
+ 
+ 
+ 
+.
+
+Prova usando integrais e trigonometria
+Todas as provas exigem uma definição para a função exponencial sobre números complexos. Nesta seção, admite-se que seja válida a seguinte generalização das integrais de números reais:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ d
+ x
+ 
+ 
+ x
+ 
+ k
+ 
+ 
+ 
+ =
+ ln
+ 
+ (
+ x
+ 
+ k
+ )
+ +
+ c
+ ,
+ 
+ k
+ 
+ 
+ C
+ 
+ 
+ 
+ 
+ 
+
+Onde "c" é uma constante complexa. Essa integral define implicitamente o logaritmo de números complexos, logo, também define a função exponencial (ao menos, a propriedade da subtração de expoentes).
+Sabe-se que a seguinte expressão é válida para todo 
+ 
+ 
+ 
+ x
+ 
+ 
+ R
+ 
+ 
+ 
+ 
+ 
+:
+
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ x
+ 
+ 
+ i
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ x
+ +
+ 
+ i
+ 
+ 
+ 
+ 
+ =
+ 
+ 
+ 
+ 2
+ 
+ i
+ 
+ 
+ 
+ 
+ x
+ 
+ 2
+ 
+ 
+ +
+ 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Ao integrar a expressão acima em ambos os lados, obtém-se:
+
+ 
+ 
+ 
+ ln
+ 
+ 
+ (
+ 
+ 
+ 
+ x
+ 
+ 
+ i
+ 
+ 
+ 
+ x
+ +
+ 
+ i
+ 
+ 
+ 
+ 
+ )
+ 
+ =
+ 2
+ 
+ i
+ 
+ arctan
+ 
+ (
+ x
+ )
+ +
+ c
+ 
+ 
+ 
+ 
+
+Para alguma constante 
+ 
+ 
+ 
+ c
+ 
+ 
+ C
+ 
+ 
+ 
+ 
+ 
+. Fazendo a substituição: 
+ 
+ 
+ 
+ x
+ =
+ tan
+ 
+ 
+ (
+ 
+ 
+ y
+ 2
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+ 
+, obtém-se:
+
+ 
+ 
+ 
+ ln
+ 
+ 
+ (
+ 
+ 
+ 
+ sen
+ 
+ (
+ 
+ 
+ y
+ 2
+ 
+ 
+ )
+ 
+ 
+ i
+ 
+ cos
+ 
+ (
+ 
+ 
+ y
+ 2
+ 
+ 
+ )
+ 
+ 
+ sen
+ 
+ (
+ 
+ 
+ y
+ 2
+ 
+ 
+ )
+ +
+ 
+ i
+ 
+ cos
+ 
+ (
+ 
+ 
+ y
+ 2
+ 
+ 
+ )
+ 
+ 
+ 
+ )
+ 
+ =
+ 
+ i
+ 
+ y
+ +
+ c
+ 
+ 
+ 
+ 
+
+Ou seja:
+
+ 
+ 
+ 
+ 
+ e
+ 
+ 
+ i
+ 
+ y
+ 
+ 
+ 
+ 
+ e
+ 
+ c
+ 
+ 
+ =
+ 
+ 
+ 
+ sen
+ 
+ (
+ 
+ 
+ y
+ 2
+ 
+ 
+ )
+ 
+ 
+ i
+ 
+ cos
+ 
+ (
+ 
+ 
+ y
+ 2
+ 
+ 
+ )
+ 
+ 
+ sen
+ 
+ (
+ 
+ 
+ y
+ 2
+ 
+ 
+ )
+ +
+ 
+ i
+ 
+ cos
+ 
+ (
+ 
+ 
+ y
+ 2
+ 
+ 
+ )
+ 
+ 
+ 
+ =
+ 
+ 
+ 
+ 
+ [
+ 
+ sen
+ 
+ (
+ 
+ 
+ y
+ 2
+ 
+ 
+ )
+ 
+ 
+ i
+ 
+ cos
+ 
+ (
+ 
+ 
+ y
+ 2
+ 
+ 
+ )
+ 
+ ]
+ 
+ 
+ 2
+ 
+ 
+ 
+ 
+ sen
+ 
+ 2
+ 
+ 
+ 
+ (
+ 
+ 
+ y
+ 2
+ 
+ 
+ )
+ +
+ 
+ cos
+ 
+ 2
+ 
+ 
+ 
+ (
+ 
+ 
+ y
+ 2
+ 
+ 
+ )
+ 
+ 
+ 
+ =
+ 
+ 
+ [
+ 
+ sen
+ 
+ 
+ (
+ 
+ 
+ y
+ 2
+ 
+ 
+ )
+ 
+ 
+ 
+ i
+ 
+ cos
+ 
+ 
+ (
+ 
+ 
+ y
+ 2
+ 
+ 
+ )
+ 
+ 
+ ]
+ 
+ 
+ 2
+ 
+ 
+ =
+ 
+ sen
+ 
+ 2
+ 
+ 
+ 
+ 
+ (
+ 
+ 
+ y
+ 2
+ 
+ 
+ )
+ 
+ 
+ 
+ cos
+ 
+ 2
+ 
+ 
+ 
+ 
+ (
+ 
+ 
+ y
+ 2
+ 
+ 
+ )
+ 
+ 
+ 2
+ 
+ i
+ 
+ sen
+ 
+ 
+ (
+ 
+ 
+ y
+ 2
+ 
+ 
+ )
+ 
+ cos
+ 
+ 
+ (
+ 
+ 
+ y
+ 2
+ 
+ 
+ )
+ 
+ =
+ 
+ cos
+ 
+ (
+ y
+ )
+ 
+ 
+ i
+ 
+ sen
+ 
+ (
+ y
+ )
+ 
+ 
+ 
+ 
+
+Agora apliquemos 
+ 
+ 
+ 
+ y
+ =
+ 0
+ 
+ 
+ 
+ 
+:
+
+ 
+ 
+ 
+ 
+ e
+ 
+ 0
+ 
+ 
+ 
+ 
+ e
+ 
+ c
+ 
+ 
+ =
+ 
+ 1
+ 
+ 
+ 
+ 
+ e
+ 
+ c
+ 
+ 
+ =
+ 
+ 1
+ 
+ 
+ e
+ 
+ 
+ i
+ 
+ y
+ 
+ 
+ =
+ cos
+ 
+ (
+ y
+ )
+ +
+ 
+ i
+ 
+ sen
+ 
+ (
+ y
+ )
+ ,
+ 
+ y
+ 
+ 
+ R
+ 
+ 
+ 
+ 
+ 
+
+Exemplo
+Se tomarmos como 
+ 
+ 
+ 
+ x
+ =
+ 
+ =
+ 3
+ ,
+ 1415....
+ 
+ 
+ 
+ 
+, então teremos um importante produto:
+
+ 
+ 
+ 
+ 
+ e
+ 
+ 
+ i
+ 
+ 
+ 
+ 
+ =
+ 
+ 1
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ e
+ 
+ 
+ i
+ 
+ 
+ 
+ 
+ +
+ 1
+ =
+ 0

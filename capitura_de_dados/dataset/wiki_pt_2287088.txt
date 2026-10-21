@@ -1,0 +1,122 @@
+Harry Bateman
+
+Harry Bateman (Manchester, 29 de maio de 1882 — Pasadena, 21 de janeiro de 1946) foi um matemático inglês.
+As equações diferenciais da física matemática o fascinaram. Com Ebenezer Cunningham, ele expandiu as visões da simetria do espaço-tempo de Lorentz e Poincaré para um grupo conformal mais expansivo do espaço-tempo, deixando as equações de Maxwell invariantes. Mudança para os EUA e obtenção do doutorado, em geometria com Frank Morley, ele se tornou professor de matemática no California Institute of Technology. Lá, ele ensinou dinâmica de fluidos para alunos que iam para a aerodinâmica com Theodore von Karman. Bateman fez um amplo levantamento das equações diferenciais aplicadas em uma palestra em 1943 intitulada "O controle de um fluido elástico".
+
+Contribuições científicas
+Em 1907, Harry Bateman lecionava na Universidade de Liverpool junto com outro wrangler sênior, Ebenezer Cunningham. Juntos, eles surgiram em 1908 com a ideia de um grupo conformado de espaço-tempo (agora normalmente denotado como C(1,3)) que envolvia uma extensão do método das imagens.
+
+Em física nuclear, a equação de Bateman é um modelo matemático que descreve abundâncias e atividades em uma cadeia de decaimento em função do tempo, com base nas taxas de decaimento e abundâncias iniciais. O modelo foi formulado por Ernest Rutherford em 1905 e a solução analítica foi fornecida por Harry Bateman em 1910.
+Por sua vez, em 1910, Bateman publicou The Transformation of the Electrodynamical Equations. Ele mostrou que a matriz Jacobiana de um difeomorfismo do espaço - tempo que preserva as equações de Maxwell é proporcional a uma matriz ortogonal, portanto conforme. O grupo de transformação de tais transformações tem 15 parâmetros e estende tanto o grupo Poincaré quanto o grupo Lorentz. Bateman chamou os elementos desse grupo de transformações de ondas esféricas.
+Ao avaliar este artigo, um de seus alunos, Clifford Truesdell, escreveu
+
+A importância do artigo de Bateman não está em seus detalhes específicos, mas em sua abordagem geral. Bateman, talvez influenciado pelo ponto de vista de Hilbert na física matemática como um todo, foi o primeiro a ver que as idéias básicas do eletromagnetismo eram equivalentes a afirmações sobre integrais de formas diferenciais, afirmações para as quais o cálculo de Grassmann de extensão em variedades diferenciáveis, as teorias de Poincaré das transformações de Stokesian e invariantes integrais, e a teoria de Lie de grupos contínuos poderia ser aplicada com sucesso.
+
+Bateman foi o primeiro a aplicar a transformada de Laplace à equação integral em 1906. Ele apresentou um relatório detalhado sobre a equação integral em 1911 na associação britânica para o avanço da ciência. Horace Lamb em seu artigo de 1910 resolveu uma equação integral
+
+ 
+ 
+ 
+ 2
+ 
+ 
+ 
+ 0
+ 
+ 
+ 
+ 
+ 
+ f
+ (
+ y
+ 
+ 
+ 
+ 
+ 2
+ 
+ 
+ )
+ 
+ d
+ 
+ =
+ F
+ (
+ y
+ )
+ 
+ 
+ 
+ 
+
+como uma integral dupla, mas em sua nota de rodapé ele diz: "O Sr. H. Bateman, a quem enviei a questão, obteve uma solução mais simples na forma"
+
+ 
+ 
+ 
+ f
+ (
+ y
+ )
+ =
+ 
+ 
+ 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ y
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ F
+ 
+ 
+ (
+ 
+ z
+ )
+ 
+ 
+ z
+ +
+ x
+ 
+ 
+ 
+ d
+ z
+ 
+ 
+ 
+ 
+.
+Em 1914, Bateman publicou The Mathematical Analysis of Electrical and Optical Wave-motion. Como diz Murnaghan, este livro "é único e característico do homem. Em menos de 160 pequenas páginas está acumulada uma riqueza de informações que um especialista levaria anos para digerir". No ano seguinte, ele publicou um livro - texto Equações diferenciais e, algum tempo depois, Equações diferenciais parciais de física matemática. Bateman também é autor de Hidrodinâmica e integração numérica de equações diferenciais. Bateman estudou a equação de Burgers muito antes de Jan Burgers começar a estudar.
+Harry Bateman escreveu dois artigos importantes sobre a história da matemática aplicada:
+
+"A influência da teoria das marés no desenvolvimento da matemática"
+"O trabalho de Hamilton em dinâmica e sua influência no pensamento moderno"
+Em sua Análise Matemática do Movimento de Ondas Elétricas e Óticas (p. 131), ele descreve a trajetória do corpúsculo carregado da seguinte forma:
+
+um corpúsculo possui uma espécie de tubo ou fio preso a ele. Quando o movimento do corpúsculo muda, uma onda ou dobra corre ao longo do fio; a energia irradiada do corpúsculo se espalha em todas as direções, mas concentra-se ao redor do fio, de modo que o fio atua como fio-guia.
+Essa figura de linguagem não deve ser confundida com uma corda na física , pois os universos na teoria das cordas têm dimensões infladas além de quatro, algo não encontrado na obra de Bateman. Bateman passou a estudar o éter luminífero com um artigo "A estrutura do Éter". O seu ponto de partida é o bivector forma de um campo electromagnético de E + i B . Ele se lembrou dos campos eletromagnéticos de Alfred-Marie Liénard , e então distinguiu outro tipo que ele chama de "campos etéreos":
+
+Quando um grande número de "campos etéreos" se sobrepõe, suas curvas singulares indicam a estrutura de um "éter" capaz de suportar um certo tipo de campo eletromagnético.
+
+Bateman recebeu muitas homenagens por suas contribuições, incluindo a eleição para a Royal Society of London em 1928, a eleição para a National Academy of Sciences em 1930. Ele foi eleito vice-presidente da American Mathematical Society em 1935 e foi o palestrante Gibbs da Sociedade para 1943. Ele estava a caminho de Nova York para receber um prêmio do Instituto de Ciência Aeronáutica quando morreu de trombose coronária.O Harry Bateman Research Instructorships no California Institute of Technology são nomeados em sua homenagem.
+Após sua morte, suas notas sobre funções transcendentais superiores foram editadas por Arthur Erdélyi, Wilhelm Magnus, Fritz Oberhettinger [de] e Francesco G. Tricomi, e publicadas em 1953.
+
+Publicações
+Em uma resenha do livro Partial Differential Equations of Mathematical Physics de Bateman, Richard Courant afirma que "não há outro trabalho que apresente as ferramentas analíticas e os resultados alcançados por meio delas de forma igualmente completa e com tantas contribuições originais" e também "alunos avançados e os pesquisadores também irão lê-lo com grande benefício".

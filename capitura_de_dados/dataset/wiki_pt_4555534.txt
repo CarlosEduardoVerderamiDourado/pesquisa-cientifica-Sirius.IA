@@ -1,0 +1,117 @@
+Língua khanty
+
+Khanty, Khanti ou hanti, anteriormente referido como ostíaco ([stiaek]), é a língua úgricas do povo Khanty. É falado nos okrugs (distritos) autônomos de Khanty-Mansi e Yamalo-Nenets, e também nos distritos de Alexandrovsky e Kargosoksky, que integram o oblast de Tomsk, na Rússia. De acordo com o estudo de Salminen e Janhunen (1994), havia 12.000 falantes de khanty na Rússia, no início da década de 1990. 
+A língua khanty tem um grande número de dialetos. O grupo ocidental inclui os dialetos obdoriano, Ob e Irtysh. O grupo oriental inclui os dialetos Surgut e Vakh - Vasyugan, que por sua vez são subdivididos em treze outros dialetos. Todos esses dialetos diferem significativamente entre si pelas características fonética, morfológica e léxico, na medida em que os três principais "dialetos" (norte, sul e leste) são mutuamente ininteligíveis. Assim, com base em suas diferenças multifatoriais significativas, o Khanty do leste, do norte e do sul poderia ser considerado um idioma separado, mas intimamente relacionado.
+
+Escrita
+
+A forma escrita do Khanty foi criada pela primeira vez após a Revolução Russa de 1917 com base no alfabeto latino em 1930 e depois com o alfabeto cirílico (com a letra adicional para / /) de 1937.
+As obras literárias do Khanty são geralmente escritas em três dialetos do norte, Kazym, Shuryshkar e Middle Ob. As reportagens e transmissões de jornais são geralmente feitas no dialeto cazimiano.
+
+Variedades
+
+Khanty é dividido em três grupos principais de dialetos, que são em grande parte mutuamente ininteligíveis e, portanto, melhor considerados em três idiomas: norte, sul e leste. Dialetos individuais são nomeados após os rios em que são ou foram falados. O Khanty do Sul provavelmente já está extinto.
+
+Khanty Oriental
+Extremo Oriente (rio Vakh, rio Vasjugan, Verkhne-Kalimsk, Vartovskoe)
+Distrito de Surgutsky (Jugan, Malij Jugan, rio Pim, Likrisovskoe, rio Tremjugan, Tromagan)
+transição: rio Salym River
+Khanty Ocidental
+Khanty do Norte
+Obdorsk
+[Distrito de Beryozovsky, Okrug autônomo de Khanty-Mansi, Berjozov (Synja, Muzhi, Shurishkar), rio Kazim, Sherkal
+transição: Atlym, Nizyam
+Khanty do Sul: Alto Demjanka, Baixo Demjanka, rio Konda, Cingali, Krasnojarsk
+O dialeto Salym pode ser classificado como transitório entre Leste e Sul (Honti: 1998 sugere uma maior afinidade com Eastern, Abondolo: 1998 no mesmo trabalho com Southern). Os dialetos Atlym e Nizyam também mostram algumas características do sul.
+Os Khanty do sul e do norte compartilham várias inovações e podem ser agrupados como Khanty ocidental. Isso inclui a perda de vogais arredondadas frontais * üü, * öö, * *> * ii, * ee, * ää (mas * > * oo adjacentes a * k, * 
+), perda da harmonia das vogais, fricativação de * k a / x / adjacente às vogais posteriores, e a perda do fonema * .
+Uma característica geral de todas as variedades de Khanty é que, conquanto não haja distinção de vogal longa, existe um contraste entre vogais simples (exg /o/) e vogais reduzidas ou extra-curtas (por exemplo /o /. Isso corresponde a uma distinção real de comprimento, na língua mansi, que é relacionada com o Khanty. De acordo com estudiosos que postulam uma ancestralidade comum Ob-Úgrica para as duas línguas, essa também era a situação proto-ob-úgrica original.
+A palatalização de consoantes é fonêmica no Khanty, como na maioria das outras línguas urálicas. As consoantes retroflexas também são encontrados na maioria das variedades de Khanty.
+A tonicidade da palavra é geralmente na sílaba inicial.
+
+Fonologia
+Consoantes
+
+Proto-Khanty
+
+As 19 consoantes tiveram suas pronúncias reconstruídas do Proto-Khanty, listadas com a tradicional transcrição Alfabeto Fonético Urálico mostradas acima e uma transcrição mostrada a seguir.
+Uma isoglossa consonantal importante entre as variedades de Khanty é o reflexo das consoantes laterais, *do (do proto-uralico * e * s) e * (do proto-uralico * e * ). Estes geralmente se fundem, porém com resultados variados: / l / nos dialetos de Obdorsk e do Extremo Oriente, / / nos dialetos de Kazym e Surgut e / t / em outros lugares. O dialeto Vasjugan ainda mantém a distinção inicialmente - tendo, em vez disso, deslocado * > / j / nesta posição. Similarmente, o lateral * palatalizado se desenvolveu para / l / / no Extremo Oriente e Obdorsk, / j / em Kazym e Surgut, e / tj / em outros lugares. O retroflexo lateral * l permanece no dialeto extremo oriental, mas os dialetos eque usam / t / se desenvolvem numoutro plano / l /.
+Outras isoglossas dialetais incluem o desenvolvimento do original * c para um oclusiva palatalizado / t in / no Khanty Oriental e do Sul, mas para um sibilante palatalizada / sj ~ / no Norte, e o desenvolvimento do original * è similarmente a uma sibilante / / s}}) no Khanty Setentrional, em parte também no Khanty Meridional.
+
+Khanty Oriental
+
+Extremo-Oriental
+O dialeto Vakh é divergente. Possui uma rígida harmonia vogal e um sistema tripartite (ergativo-acusativo): O sujeito de um verbo transitivo toma o sufixo de caso instrumental -nn- enquanto o objeto assume o sufixo de caso acusativo. O assunto de um verbo intransitivo, no entanto, não está marcado para o caso e pode ser dito ser "absolutivo". O verbo transitivo concorda com o sujeito, como nos sistemas nominativos e acusativos.
+O Vakh tem o inventário de vogais mais rico, com quatro vogais reduzidas e / y e o /. Alguns pesquisadores também relatam / oe /. 
+
+Surgut
+
+Notas:
+
+/ tj / pode ser percebida como uma africada [t] nos sub-dialectos Tremjugan e Agan.
+O contraste velar / uvular é previsível no vocabulário herdado: [q] aparece antes das vogais posteriores, [k] antes das vogais frontais e centrais. No entanto, em empréstimos do russo, [k] também pode ser encontrado antes das vogais posteriores.
+O status fonêmico de [] não está claro. Ocorre em algumas palavras em variação com [s], em outros em variação com [t].
+No sub-dialeto de Pim, / / mudou recentemente para / t /, uma mudança que se espalhou do sul de Khanty.
+O aproximante postvelar labializada [w] ocorre no sub-dialeto de Tremjugan como um alofone de / w / entre vogais posteriores, para alguns falantes também iniciais da palavra antes de vogais posteriores. Pesquisas do início do século 20 também relataram dois outros fonemas labializados: / kw ~ qw / e / w /, mas estes não são mais distinguidos.
+
+Khanty Setentrional
+
+O inventário de vogais é muito simplificado. Oito vogais são distinguidas em sílabas iniciais: quatro / e a} o / e quatro / i ã o u / reduzidas. Em sílabas átonas, quatro são encontradas: / e i /.
+Um inventário de vogais similarmente simples é encontrado nos dialetos Nizyam, Sherkal e Berjozov, que possuem / e a u / e reduzem / i o u /. Além do contraste total vs. reduzido, em vez de comprimento, isto é idêntico ao do dialeto Sosva adjacente à língua mansi Mansi]].
+O dialeto de Obdorsk reteve as vogais próximas e tem um sistema de nove vogais: as vogais completas e as vogais reduzidas / ae o /). Porém, esse tem um inventário de consoantes mais simples, tendo os aproximandos laterais / l lj / no lugar das fricativas / j / e tendo *s *n como / s n /.
+
+Alfabeto
+Curilíco (versão 2000)
+
+Cirílioco (versão 1958)
+
+Latina (1931–1937)
+
+Numerais
+Numerais Khanty comparado com Húgaros e Finlandeses:
+
+A formação de múltiplos de dez mostra influência eslava em Khanty, enquanto o húngaro usa o sufixo derivado coletivo -van (-ven) intimamente relacionado ao sufixo do particípio adverbial que é -va (- ve) hoje, mas costumava ser -ván (-vén) . Observe também a regularidade de [xot] - [haz] "casa" e [sot] - [saz] "cem".
+
+Gramática
+
+Substantivos
+Os sufixos nominais incluem o Dual (número gramatical) -n, plural - t, dativo -a, locativo /instrumental -n .
+Por exemplo:
+
+ xot "casa" (cf. finlandês koti "casa")
+ xotna "para as duas casas"
+ xottn "nas casas" (cf. húngaro otth 'em' ', finlandês' 'koto' na 'em home ", uma forma excepcional usando o antigo significado locativo do final do caso essencial -na).
+Sufixos possessivos singulares, duplos e plurais podem ser adicionados a substantivos singulares, duplos e plurais, em três pessoas, para 3 3 = 27 formas. Alguns, de ms "vaca", são:
+
+ msem "minha vaca"
+ msemn "minhas 2 vacas"
+ msew "minhas vacas"
+ mstatn "as 2 de nossas vacas"
+ mstuw "nossas 2 vacas"
+
+Pronomes
+Os pronomes pessoais nominativos são:
+
+Os casos de 'ma são o acusativo mant e o dativo manm.
+Os pronomes e adjetivos demonstrativos são:
+
+ tam "this", tom "that", sit "that beyond": tam xot "esta casa".
+Pronomes interrogativos básicos são:
+
+ xoy "quem?", muy "o quê?"
+
+Sintaxe
+As línguas Khanty e Mansi language são basicamente nominativo-acusativass, mas possuem ergatividade morfológica inovadora. Numa construção ergativa, o objeto recebe o mesmo caso que o sujeito de um verbo 'intransitivo' , e o caso locativo é usado para o agente do verbo transitivo (como um caso instrumental). Isso pode ser usado com alguns verbos específicos, por exemplo "dar": a anglicização literal seria "por mim (sujeito) um peixe (objeto) dado a você (objeto indireto)" pelo equivalente à frase "dei um peixe para você ". No entanto, o ergativo é apenas morfológico (marcado usando um caso), não sintático, de modo que, além disso, eles podem ser passivizados de maneira semelhante ao inglês. Por exemplo, em Mansi, "um cachorro (agente) mordeu você (objeto)" pode ser reformatado quando "você (objeto) foi mordido por um cachorro (instrumento)".
+Khanty é uma linguagem aglutinativa e emprega uma ordem Sujeito –Objeo –Verbo (SOB)].
+
+Contribuição lexical para a língua portuguesa
+O termo da língua portuguesa "mamute" é proveniente do khanty, através do russo mamot e do francês mammouth.
+
+Amostra de texto
+- -
+ , , , , , 
+ , - - , 
+ .
+transliteração
+Monsev ola yatal.
+Keva muv suatna, Unta muv suatna, Vuta syarsat shansh pekatna, Mu shomain oyty, Vosty, turmev yam ilpina, Muva hu muvana, Kurta hu kurtanah, Yi iki vuma, Pirasy hu syak suv, Pirasy hu kavra suv, Mortana karyma, Ojal-ki oy tayma-xlam poh, Vun poh ike osha vuma, Kutpa esha oshi.

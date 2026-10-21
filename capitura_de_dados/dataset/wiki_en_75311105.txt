@@ -1,0 +1,36 @@
+Gregory Odegard
+
+Gregory M. Odegard is a materials researcher and academic. He is the John O. Hallquist Endowed Chair in Computational Mechanics in the Department of Mechanical Engineering – Engineering Mechanics at Michigan Technological University and the director of the NASA Institute for Ultra-Strong Composites by Computational Design.
+Odegard's work is focused on computational modeling of advanced composite systems, with his research interests spanning multiscale modeling, computational chemistry, materials science, and mechanics of materials. He is the recipient of 2008 Ferdinand P. Beer and E. Russell Johnston Jr. Outstanding New Mechanics Educator Award, 2011 Ralph R. Teetor Educational Award, 2021 Michigan Tech Distinguished Researcher Award, and 2023 NASA Outstanding Public Leadership Medal.
+Odegard is a Fellow of American Society of Mechanical Engineers (ASME), and an Associate Fellow of American Institute of Aeronautics and Astronautics (AIAA).
+
+Education
+Odegard earned his B.S. in Mechanical Engineering from the University of Colorado Boulder in 1995. He then completed his M.S. in Mechanical Engineering at the University of Denver in 1998, followed by his Ph.D. in materials science from the same institution in 2000 under Maciej S. Kumosa, with his doctoral thesis titled, "Shear-Dominated Biaxial Failure Analysis of Polymer-Matrix Composites at Room and Elevated Temperatures."
+
+Career
+Odegard worked as a National Research Council postdoctoral research associate in the Mechanics and Durability Branch at NASA Langley Research Center, Hampton, Virginia, from 2000 to 2002. Subsequently, he held positions as a staff scientist at ICASE in 2002 and as a staff scientist at the National Institute of Aerospace from 2003 to 2004, both at NASA Langley Research Center. He has been serving as a director of the NASA Space Technology Research Institute (STRI) for Ultra-Strong Composites by Computational Design (US-COMP).
+Odegard began his academic career at Michigan Technological University in 2004 as an assistant professor in the Department of Mechanical Engineering – Engineering Mechanics, and was appointed as an associate professor from 2009 to 2013. During this time, he briefly served as a Fulbright Research Scholar at the Norwegian University of Science and Technology, Trondheim, Norway. In 2014, he was named as the Richard and Elizabeth Henes Professor in Computational Mechanics in the Department of Mechanical Engineering – Engineering Mechanics at Michigan Technological University, a position he held until 2021. He has been holding an appointment as the John O. Hallquist Endowed Chair of Computational Mechanics at the same university since 2021.
+
+Research
+Odegard has led a multi-institution effort in developing ultra-strong composites for deep space exploration using carbon nanotubes (CNTs) and polymers, employing computational modeling for accurate property prediction, and has received media coverage for his contributions, including features in publications such as Chemical & Engineering News, CompositesWorld, Nature World News, and Space.com.
+For his efforts in leading US-COMP to achieve its goals, Odegard was awarded the NASA Outstanding Public Leadership Medal in 2023.
+
+Computational modeling of nanocomposites
+Odegard has conducted research on computational simulation of polymer and polymer-composite materials, and made contributions to the development of new multi-scale modeling approaches for advanced composite materials. During his time at NASA Langley Research Center, he developed techniques to connect computational chemistry with continuum mechanics. This new approach to materials modeling enabled the development of structure-property relationships in nano-structured materials. In collaboration with researchers from the National Institute of Aerospace and Langley Research Center in 2005, he used this approach to develop constitutive models for polymer composite systems reinforced with single-walled CNTs. Additionally, he developed a multiscale model for silica nanoparticle/polyimide composites, which integrated the molecular structures of the nanoparticle, polyimide, and interfacial regions into the bulk-level constitutive behavior.
+Odegard and his team further developed computational simulation techniques for nanocomposite materials. He developed the simulation of polymer materials using reactive force fields. These force fields allow for the simulation of chemical bond breakage during mechanical deformation, thus allowing for more accurate computational predictions of polymer mechanical behavior and failure. His team used these techniques to computationally design CNT nanocomposites with improved manufacturability and mechanical behavior. In addition, he was a contributor to the development of CNT yarn composites as part of US-COMP, which showed significant increases in mechanical stiffness and strength relative to state-of-the-art aerospace composite materials.
+
+Awards and honors
+2006 – HJE Reid Award, NASA Langley Research Center
+2008 – Ferdinand P. Beer and E. Russell Johnston Jr. Outstanding New Mechanics Educator Award, American Society of Engineering Education
+2011 – Ralph R. Teetor Educational Award, Society of Automotive Engineers
+2021 – Michigan Tech Distinguished Researcher Award
+2023 – Outstanding Public Leadership Medal, NASA
+
+Selected articles
+Odegard, G. M., Gates, T. S., Nicholson, L. M., & Wise, K. E. (2002). Equivalent-continuum modeling of nano-structured materials. Composites Science and Technology, 62(14), 1869–1880.
+Odegard, G. M., Gates, T. S., Wise, K. E., Park, C., & Siochi, E. J. (2003). Constitutive modeling of nanotube–reinforced polymer composites. Composites science and technology, 63(11), 1671–1687
+Odegard, G. M., & Bandyopadhyay, A. (2011). Physical aging of epoxy polymers and their composites. Journal of polymer science Part B: Polymer physics, 49(24), 1695–1716.
+Odegard, G. M., Jensen, B. D., Gowtham, S., Wu, J., He, J., & Zhang, Z. (2014). Predicting mechanical response of crosslinked epoxy using ReaxFF. Chemical Physics Letters, 591, 175–178.
+Odegard, G. M., Clancy, T. C., & Gates, T. S. (2017). Modeling of the mechanical properties of nanoparticle/polymer composites. In Characterization of Nanocomposites (pp. 319–342). Jenny Stanford Publishing.
+Odegard, G. M., Patil, S. U., Deshpande, P. P., Kanhaiya, K., Winetrout, J. J., Heinz, H., ... & Maiaru, M. (2021). Molecular dynamics modeling of epoxy resins using the reactive interface force field. Macromolecules, 54(21), 9815–9824.
+Odegard, G.M., Liang, Z., Siochi, E.J., & Warren, J.A. (2023). A successful strategy for MGI-inspired research. MRS Bulletin, 48(5), 434–438.

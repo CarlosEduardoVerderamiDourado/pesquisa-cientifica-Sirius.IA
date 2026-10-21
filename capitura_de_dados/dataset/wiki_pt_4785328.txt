@@ -1,0 +1,21 @@
+Defesa Damiano
+
+A Defesa Damiano ou Gambito Damiano é uma abertura de xadrez do tipo aberta que caracteriza-se pelos movimentos (em notação algébrica): 
+
+1. e4 e5
+2. Cf3 f6?
+Esta é uma das aberturas mais antigas, com partidas documentadas que remontam ao século XVI.
+A abertura do tipo aberta é caracterizada pelos lances iniciais: 1.e4 e5 (abertura "dupla" do peão do rei).
+
+3.d4 e 3.Bc4
+O movimento da Preto em 2...f6? é frágil e expõe o Rei Preto, enfraquece o flanco de rei, toma o seu cavalo a sua melhor casa. Os movimentos 3.d4 e 3.Bc4 são boas respostas; I.A.Horowitz escreveu que "Simples e potente é 3.Bc4 d6 4.d4 Cc6 5.c3, depois disto as Pretas estão em apuros."
+
+3.Cxe5(Gambito Damiano)
+
+De qualquer jeito, é forçado o sacrifício do cavalo 3.Cxe5! Prende o cavalo com 3...fxe5? expõe o lado negro a um ataque mortal depois de 4.Dh5+ Re7 (4...g6 perde por 5.Dxe5+, encurrala o rei e a torre) 5.Dxe5+ Rf7 6.Bc4+ d5! (6...Rg6?? 7.Df5+ é devastadora e conduz ao mate em seguida) 7.Bxd5+ Rg6 8.h4 (8.d4? Bd6!) h5 (por 8...h6, veja o diagrama) 9.Bxb7! Bd6 (9...Bxb7 10.Df5+ Rh6 11.d4+ g5 12.Df7! e mate) 10.Da5!, quando a melhor das Pretas é 10...Cc6 11.Bxc6 Tb8, e agora as Brancas combinarão com vários peões a mais. Bruce Pandolfini destaca que esta abertura do Preto foi descrita, às vezes como "Gambito dos cinco peões". Alternativamente, as Brancas podem continuar desenvolvendo suas peças, combinando-se com quatro peões a mais. Em qualquer caso, as Brancas têm uma posição claramente favorável.
+Capturar o cavalo é fatal, depois de 3.Cxe5 as Pretas teriam que tentar 3...De7! (outro terceiro movimento do Preto, como agora 3...d5, provocam 4. Dh5+! g6 5. Cxg6!) Depois de 4.Cf3 (4.Dh5+? g6 5.Cxg6 Dxe4+ 6.Be2 Dxg6 deixa o negro com peça a mais por dois peões) Dxe4+ 5. Be2, O preto recupera o peão, mas perde tempo e enfraquece o flanco do rei, e perderão mais ainda quando o Branco perseguirem a dama com Cc3, ou 0-0, Te1, e um movimento do bispo em e2. Nick de Firmian em o Moderno Chess Openings analisa 4...d5 5.d3 dxe4 6.dxe4, quando as brancas combinaram com uma pequena vantagem, a Schiffers–Txigorin, St. Petersburg 1897.
+O fato que o Preto só pode recuperar o peão com 3...De7! mostra que 2...f6? não defende realmente o peão em absoluto. Inclusive um movimento relativamente inútil como agora 2...a6?! é menos arriscado que 2...f6?. Depois de 2...a6?! 3.Cxe5, o preto pode ainda recuperar o peão com 3...De7 4.d4 d6, sem enfraquecer o flanco do rei ou privar o cavalo da sua melhor casa.
+
+História
+Ironicamente, a abertura recebe o nome do primeiro problemista de xadrez português Pedro Damiano (1480–1544), quem a considerou fraco. Em 1847, Howard Staunton escreveu sobre 2...f6, movimento que aparece na velha obra de Damiano, que exibe várias variantes inteligente. Ruy López de Segura e autores posteriores, denominaram de "Gambito Damiano". O contemporâneo de Staunton George Walker no entanto, mais logicamente, reservou o termo "Gambito Damiano" pelo sacrifício do cavalo que a Branca joga no terceiro movimento: 1.e4 e5 2. Cf3 f6 3.Cxe5. Staunton referia-se a 1.e4 e5 2.Cf3 Cc6, uma defesa altamente respeitada então e agora, como 'defesa Damiano contra a abertura de cavalo de rei'.
+A defesa Damiano não ocorre atualmente em partidas de alto nível. O melhor jogador a tentar a defesa Damiano em uma competição séria foi Mikhaïl Txigorin, quem tal como ja mencionado, jogou a linha com 3...De7 numa partida contra Emmanuel Schiffers a Santo Petersburg o 1897. Txigorin perdeu a dama ao décimo movimento (veja o diagrama), mas Schiffers jogou muito mal a partir de então, tanto que Txigorin mais tarde não consegue um mate brilhante forçado e só pôde se salvar quando Schiffers aceitou as tabelas numa posição ganhadora. Robert McGregor jogou a Damiano numa exibição simultânea em 1964 contra Bobby Fischer, e vai testar 3...De7 4.Cf3 d5 5.d3 dxe4 6.dxe4 Dxe4+ 7.Be2 Bf5, e fez tabela, mas Fischer não fez as melhores jogadas.

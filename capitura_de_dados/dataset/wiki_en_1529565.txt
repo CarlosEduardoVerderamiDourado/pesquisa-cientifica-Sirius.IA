@@ -1,0 +1,23 @@
+379 Huenna
+
+379 Huenna is a large asteroid located in the main asteroid belt. It was discovered by French astronomer Auguste Charlois on 8 January 1984 at Nice Observatory, and was named after the Swedish island of Ven. Classified as a primitive B-type or C-type asteroid, it is a member of the Themis family. It is estimated to be roughly 87.5 kilometres (54.4 mi) in diameter, rotating once ever 14.14 hours.
+Huenna has one known moon, designated S/2003 (379) 1. The moon, which is currently unnamed, was discovered on 14 August 2003 by Jean-Luc Margot at Keck Observatory. It orbits Huenna on a wide and eccentric 80-day orbit, suggesting that it may be a captured object.
+
+Discovery and naming
+Huenna was discovered on 8 January 1894 by French astronomer Auguste Charlois at Nice observatory. Its discovery was announced in the journal Astronomische Nachrichten on 17 January, under the old-style provisional designation 1894 AQ. By 1902, the asteroid was given the name Huenna. The name is the Latin form of Hven, an archaic spelling of an island between Denmark and Sweden. Astronomer Tycho Brahe observed for more than 20 years on the island, eventually directing the construction of two observatories there in 1576–1596, Uraniborg and Stjerneborg.
+In 1925, the old-style scheme for minor planet provisional designations was replaced by the system currently in use. The Minor Planet Center (MPC) has since retroactively applied the new system to old-style provisional designations. Thus, Huenna's provisional designation given upon its discovery was changed to A894 AA.
+
+Orbit
+
+Huenna orbits the Sun at an average distance—its semi-major axis—of 3.14 astronomical units (AU), placing it in the main asteroid belt. Along its 5.57 year long orbit, its distance from the Sun varies from 2.58 AU at perihelion to 3.70 AU at aphelion due to its orbital eccentricity of 0.18. Its orbit is inclined by 1.67° with respect to the ecliptic plane. It is categorized as a member of the Themis family, an asteroid family located in the outer main belt whose largest member and namesake is 24 Themis. The Themis family is thought to have originated from the catastrophic disruption of a ~270-or-400-kilometre (170 or 250 mi) sized object roughly 2.51.0 billion years (Gyr) ago.
+
+Physical characteristics
+Huenna's diameter is estimated to be approximately 87.5 8.2 kilometres (54.4 5.1 mi), with a system mass of roughly 5.221017 kg and a derived density of 1.4910.249 g/cm3. Its lightcurve, or variations in its observed brightness as it rotates, suggests that it has a rotation period of about 14.14 hours; its axial tilt is unknown.
+Huenna is classified as a primitive B-type asteroid under the Tholen classification scheme and a C-type asteroid under the Small Main-belt Asteroid Spectroscopic Survey, Phase II (SMASSII) classification scheme. A 2022 study of its spectrum led by V. V. Busarev supported its B-type classification but conflicted with its C-type classification. The apparent deviation from a typical C-type spectrum may be caused by the sublimation of icy material from Huenna's surface, creating a faint dusty coma that scatters light. It has a geometric albedo of 0.046.
+
+Satellite
+
+Huenna has one known natural satellite, designated S/2003 (379) 1. 
+It was discovered on 14 August 2003 by astronomer Jean-Luc Margot using the 10-m Keck II telescope at Mauna Kea. The satellite's discovery was announced the next day in an International Astronomical Union Circular. It is currently unnamed.
+S/2003 (379) 1 orbits Huenna with a semi-major axis of 3,487.9 41.4 kilometres (2,167.3 25.7 mi), taking 80.216 days to complete one revolution. It has an eccentric orbit, with an orbital eccentricity of 0.2830.01, and its orbit is inclined by 151.190.68° with respect to the ecliptic. It is loosely bound to Huenna as their mutual separation is roughly half of Huenna's Hill radius.
+S/2003 (379) 1 has an estimated diameter of 3.72 0.6 kilometres (2.31 0.37 mi), making it one of the smallest known satellites of a large (> 50 km; 31 mi) asteroid. Its spectrum is consistent with a C-complex or X-complex categorization; the former encompasses the B-type and various C-subtypes, while the latter encompasses X-, Xc-, Xe-, and Xk-types. Small moons of large asteroids are thought to form in giant collisions, and as a result tend to have circular, coplanar, close-in orbits. However, S/2003 (379) 1's distant and eccentric orbit suggests a different origin and evolution. One potential origin is through capture, where S/2003 (379) 1 was once another Themis member asteroid or an interloper.

@@ -1,0 +1,19 @@
+Imposto sobre Circulação de Mercadorias e Serviços
+
+Imposto sobre Circulação de Mercadorias e Serviços (ICMS) é um imposto estadual sob administração estadual brasileiro, ou seja, somente os governos dos estados e do Distrito Federal têm competência para instituí-lo (conforme o art. 155, II, da Constituição de 1988). Na aplicação do imposto deve-se considerar diversos fatores, como estado Origem-Destino, Produto, Empresa, Cliente, etc. O controle da arrecadação do ICMS se caracteriza conforme o enquadramento das empresas em Simples Nacional, lucro presumido e lucro real.
+
+Instituição do imposto
+O campo de incidência do ICMS é definido, na origem, pela própria Constituição Federal, em seu Art.155.
+A Constituição atribuiu competência tributária aos estados para criação de lei geral sobre o ICMS, ao qual se concretizou por meio da Lei Complementar 87/1996, chamada "Lei Kandir". A partir dessa lei geral cada estado institui o tributo por alíquota, a qual é regulamentada via de Decreto, o chamado "regulamento do ICMS" ou "RICMS", que é uma consolidação de toda a legislação sobre o ICMS vigente no Estado, e é aprovada por Decreto do Governador.
+Cada uma dessas leis está numa hierarquia, capitaneada pela Constituição Federal e que segue pela Lei Complementar, a Lei Ordinária e até o RICMS. Nenhuma dessas leis pode criar obrigações que não estejam contidas nas leis superiores a ela, sob a condição de serem consideradas nulas.
+
+Tabela de alíquota
+
+Criminalização sobre o inadimplemento do ICMS
+O não recolhimento de ICMS constitui crime contra a ordem tributária, conforme o disposto na Lei Nº 8.137/1990.
+
+Discussão
+Na doutrina, não é pacífica a posição do STF no RHC 163.334/2018, segundo a qual o inadimplemento de ICMS declarado pode ser tipificado pelo art. 2º, inciso II da lei 8.136/1990. Há dois principais argumentos, amplamente discutidos no artigo “Reflexões sobre a criminalização do não recolhimento de ICMS”, que defendem a tese contrária: um sobre o elemento subjetivo especial do tipo penal previsto no inciso em questão e outro sobre os seus elementos normativos.
+O elemento subjetivo do tipo penal previsto no art. 2º, inciso II, da Lei 8.137/1990 é a intenção de apropriar-se de modo fraudulento do valor do fisco. Logo, para que o fato seja típico, é necessário que seja comprovada a intenção de fraude, não basta o inadimplemento de uma dúvida fiscal. Autores como Bruno Buonicore e Gilmar Mendes defendem que não é possível verificar o elemento subjetivo, ou seja, a vontade de fraudar, no caso analisado pelo STF no RHC 163.334/2018. Quando o contribuinte que declara o ICMS e não paga, fica caracterizado o inadimplemento, mas faltariam evidências para o elemento subjetivo. Segundo a doutrina, um modo de verificar a vontade de fraudar poderia ser a não declaração do ICMS, o que não ocorre no caso analisado no RHC 163.334/2018.
+O segundo argumento analisa os elementos normativos do tipo penal previsto no art. 2º, inciso II, da lei 8.137/1990. O tipo penal prevê que “deixar de recolher, no prazo legal, valor de tributo ou de contribuição social, descontado ou cobrado, na qualidade de sujeito passivo de obrigação e que deveria recolher aos cofres públicos”. Logo, é necessário que o sujeito passivo desconte ou cobre tributo ou contribuição social e não o recolha no prazo legal.
+Contudo, como o consumidor não participa da relação jurídico-tributária por expressa disposição legal, não haveria como o comerciante ter cobrado ou descontado tributo dele, mesmo que tais valores sejam posteriormente incluídos no preço dos bens de consumo. Segundo essa interpretação, os elementos normativos excluiriam a possibilidade do crime ser cometido por contribuinte do ICMS mesmo se ele tivesse intenção de fraudar (o elemento subjetivo).

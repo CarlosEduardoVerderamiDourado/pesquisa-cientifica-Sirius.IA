@@ -1,0 +1,28 @@
+Diode–transistor logic
+
+Diode–transistor logic (DTL) is a class of digital circuits that is the direct ancestor of transistor–transistor logic. It is called so because the logic gating functions AND and OR are performed by diode logic, while logical inversion (NOT) and amplification (providing signal restoration) is performed by a transistor (in contrast with resistor–transistor logic (RTL) and transistor–transistor logic (TTL).
+
+Implementations
+The DTL circuit shown in the first picture consists of three stages: an input diode logic stage (D1, D2 and R1), an intermediate level shifting stage (R3 and R4), and an output common-emitter amplifier stage (Q1 and R2). If both inputs A and B are high (logic 1; near V+), then the diodes D1 and D2 are reverse biased. Resistors R1 and R3 will then supply enough current to turn on Q1 (drive Q1 into saturation) and also supply the current needed by R4. There will be a small positive voltage on the base of Q1 (VBE, about 0.3 V for germanium and 0.6 V for silicon). The turned on transistor's collector current will then pull the output Q low (logic 0; VCE(sat), usually less than 1 volt). If either or both inputs are low, then at least one of the input diodes conducts and pulls the voltage at the anodes to a value less than about 2 volts. R3 and R4 then act as a voltage divider that makes Q1's base voltage negative and consequently turns off Q1. Q1's collector current will be essentially zero, so R2 will pull the output voltage Q high (logic 1; near V+).
+
+Early diode logic with transistor inverter
+
+Up until 1952, IBM manufactured transistors by modifying off-the-shelf germanium diodes, after which they had their own alloy-junction transistor manufacturing plant at Poughkeepsie. In the mid 1950s, diode logic was used in the IBM 608 which was the first all-transistorized computer in the world. A single card would hold four two-way circuits or three three-way or one eight-way. All input and output signals were compatible. The circuits were capable of reliably switching pulses as narrow as one microsecond.
+The designers of the 1962 D-17B guidance computer used diode-resistor logic as much as possible, to minimize the number of transistors used.
+
+Discrete
+The IBM 1401 (announced in 1959) used DTL circuits similar to the circuit shown in the first picture. IBM called the logic "complemented transistor diode logic" (CTDL). CTDL avoided the level shifting stage (R3 and R4) by alternating NPN and PNP based gates operating on different power supply voltages. NPN based circuits used +6V and -6V and the transistor switched at close to -6V, PNP based circuits used 0V and -12V and the transistor switched at close to 0V. Thus for example a NPN gate driven by a PNP gate would see the threshold voltage of -6V in the middle of the range of 0V to -12V. Similarly for the PNP gate switching at 0V driven by a range of 6V to -6V. The 1401 used germanium transistors and diodes in its basic gates. The 1401 also added an inductor in series with R2. The physical packaging used the IBM Standard Modular System.
+
+Integrated
+In an integrated circuit version of the DTL gate, R3 is replaced by two level-shifting diodes connected in series. Also the bottom of R4 is connected to ground to provide bias current for the diodes and a discharge path for the transistor base. The resulting integrated circuit runs off a single power supply voltage.
+In 1962, Signetics introduced the SE100-series family, the company's first product and the first high-volume DTL chip family. In 1964, Fairchild released the 930-series DTL micrologic family that had a better noise immunity, smaller die, and lower cost. It was the most commercially successful DTL family and copied by other IC manufacturers.
+
+Speed improvement
+
+The DTL propagation delay is relatively large. When the transistor goes into saturation from all inputs being high, charge is stored in the base region. When it comes out of saturation (one input goes low) this charge has to be removed and will dominate the propagation time.
+One way to speed up DTL is to add a small "speed-up" capacitor across R3. The capacitor helps to turn off the transistor by removing the stored base charge; the capacitor also helps to turn on the transistor by increasing the initial base drive.
+Another way to speed up DTL is to avoid saturating the switching transistor. That can be done with a Baker clamp. The Baker clamp is named for Richard H. Baker, who described it in his 1956 technical report "Maximum Efficiency Switching Circuits".
+In 1964, James R. Biard filed a patent for the Schottky transistor. In his patent the Schottky diode prevented the transistor from saturating by minimizing the forward bias on the collector–base transistor junction, thus reducing the minority carrier injection to a negligible amount. The diode could also be integrated on the same die, had a compact layout, no minority-carrier charge storage, and was faster than a conventional junction diode. His patent also showed how the Schottky transistor could be used in DTL circuits and improve the switching speed of other saturated logic designs, such as Schottky-TTL, at a low cost.
+
+Interfacing considerations
+A major advantage over the earlier resistor–transistor logic is increased fan-in. Additionally, to increase fan-out, an additional transistor and diode may be used.

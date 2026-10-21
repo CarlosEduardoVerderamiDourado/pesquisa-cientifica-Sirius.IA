@@ -1,0 +1,65 @@
+Inteligência militar
+
+A inteligência militar é uma disciplina militar que usa abordagens de coleta e análise de informações para fornecer orientação e direção para auxiliar os comandantes em suas decisões. Este objetivo é alcançado fornecendo uma avaliação de dados de uma variedade de fontes, direcionada para os requisitos de missão dos comandantes ou respondendo a perguntas como parte do planejamento operacional ou de campanha. Para fornecer uma análise, os requisitos de informação do comandante são primeiro identificados, que são então incorporados na coleta, análise e disseminação de inteligência.
+As áreas de estudo podem incluir o ambiente operacional, forças hostis, amigas e neutras, a população civil em uma área de operações de combate e outras áreas de interesse mais amplas. As atividades de inteligência são conduzidas em todos os níveis, do tático ao estratégico, em tempos de paz, o período de transição para a guerra e durante a própria guerra.
+A maioria dos governos mantém uma aptidão de inteligência militar para fornecer pessoal analítico e de coleta de informações em unidades especializadas e de outras ramificações e serviços. As aptidões de inteligência militar e civil colaboram para informar o espectro de atividades políticas e militares.
+O pessoal que desempenha funções de inteligência pode ser selecionado por suas habilidades analíticas e inteligência pessoal antes de receber o treinamento formal.
+
+Níveis
+
+Estratégico
+A inteligência estratégica está preocupada com questões amplas, como economia, avaliações políticas, capacidades militares e intenções de nações estrangeiras (e, cada vez mais, atores não-estatais). Essa inteligência pode ser científica, técnica, tática, diplomática ou sociológica, mas essas mudanças são analisadas em combinação com fatos conhecidos sobre a área em questão, como geografia, demografia e capacidades industriais.
+A inteligência estratégica é formalmente definida como "inteligência necessária para a formação de planos políticos e militares em nível nacional e internacional" e corresponde ao nível estratégico de guerra, que é formalmente definido como "o nível de guerra em que uma nação, muitas vezes como um membro de um grupo de nações, determina os objetivos e orientações estratégicas de segurança nacional ou multinacional (aliança ou coalizão) e, a seguir, desenvolve e usa os recursos nacionais para atingir esses objetivos".
+
+Operacional
+A inteligência operacional se concentra no suporte ou na negação de inteligência nas camadas operacionais. A camada operacional está abaixo do nível estratégico de liderança e se refere ao projeto da manifestação prática. Formalmente definido como "inteligência necessária para planejar e conduzir campanhas e operações importantes para cumprir objetivos estratégicos dentro das cenas ou áreas operacionais". Ela se alinha com o nível operacional de guerra, definido como "o nível de guerra em que as campanhas e as principais operações são planejadas, conduzidas e sustentadas para atingir os objetivos estratégicos dentro das cenas ou outras áreas operacionais." 
+O termo inteligência de operação é usado na aplicação da lei para se referir à inteligência que apóia investigações de longo prazo em alvos múltiplos e semelhantes. A inteligência de operação, na disciplina de inteligência de aplicação da lei, preocupa-se principalmente com a identificação, seleção, detecção e intervenção em atividades criminosas. O uso dentro da aplicação da lei e da inteligência de aplicação da lei não é dimensionado para seu uso em inteligência geral ou inteligência militar/naval, sendo mais restrito em escopo.
+
+Tático
+A inteligência tática concentra-se no apoio às operações no nível tático e seria anexada ao grupo de batalha. No nível tático, as instruções sobre as ameaças atuais e as prioridades de coleta são entregues às patrulhas. Essas, por sua vez, são interrogadas para obter informações para análise e comunicação através da cadeia de relatórios.[carece de fontes]?
+A inteligência tática é formalmente definida como "inteligência necessária para o planejamento e condução de operações táticas" e corresponde ao nível tático de guerra, ele próprio definido como "o nível de guerra, atribuído à unidades táticas ou forças-tarefa, em que as batalhas e engajamentos são planejados e executados para atingir os objetivos militares". 
+
+Incumbência
+
+A inteligência deve responder às necessidades da liderança, com base no objetivo militar e nos planos operacionais. O objetivo militar fornece um foco para o processo de estimativa, do qual uma série de requisitos de informação são derivados. Os requisitos de informação podem estar relacionados ao terreno e impacto no veículo ou movimento de pessoal, disposição das forças hostis, sentimentos da população local e as capacidades de ordem de batalha das forças hostis.
+Em resposta aos requisitos de informação, os analistas examinam as informações existentes, identificando lacunas no conhecimento disponível. Onde existem lacunas no conhecimento, a equipe pode ser capaz de definir os ativos de coleta para atingir o requisito.
+Os relatórios de análise baseiam-se em todas as fontes de informação disponíveis, sejam retiradas de materiais existentes ou coletadas em resposta ao requisito. Os relatórios de análise são usados para informar o restante da equipe de planejamento, influenciando o planejamento e buscando prever as intenções do adversário.
+Este processo é descrito como "co-ordenação de coleção e gerenciamento de requisitos de inteligência (CCIRM).
+
+Processo
+
+O processo de inteligência tem quatro fases: coleta, análise, processamento e disseminação.
+No Reino Unido, são conhecidos como direção, coleta, processamento e disseminação.
+Nas forças armadas dos Estados Unidos da América, a publicação adjunta 2-0 (JP 2-0) declara: "As seis categorias de operações de inteligência são: planejamento e direção; coleta; processamento e exploração; análise e produção; disseminação e integração; e avaliação e feedback".
+
+Coleta
+Muitos dos fatos mais importantes são bem conhecidos ou podem ser obtidos de fontes públicas. Essa forma de coleta de informações é conhecida como inteligência de fonte aberta. Por exemplo, a população, a composição étnica e as principais indústrias de uma região são extremamente importantes para os comandantes militares e essas informações costumam ser públicas. No entanto, é imperativo que o coletor de informações entenda que o que é coletado é "informação" e não se torna inteligência até que um analista avalie e verifique essas informações. A coleta de materiais lidos, a composição de unidades ou elementos, a disposição de força, o treinamento, as táticas, as personalidades (líderes) dessas unidades e os elementos contribuem para o valor geral da inteligência após análise cuidadosa.
+A tonelagem e o armamento básico da maioria dos navios e aeronaves também são públicos e suas velocidades e alcances podem ser razoavelmente estimados por especialistas, muitas vezes a partir de, apenas, fotografias. Fatos comuns como a fase lunar em dias específicos ou o alcance balístico de armas militares comuns também são muito valiosos para o planejamento e são normalmente coletados em uma biblioteca de inteligência.
+Uma grande quantidade de inteligência útil pode ser obtida da fotointerpretação de imagens detalhadas de um país em alta altitude. Fotointerpretadores geralmente mantêm catálogos de fábricas de munições, bases militares e modelos de caixas para interpretar as remessas e estoques de munições.
+A maioria dos serviços de inteligência mantém ou apóia grupos cujo único propósito é manter mapas. Como os mapas também têm valiosos usos civis, essas agências costumam ser publicamente associadas ou identificadas como outras partes do governo. Alguns serviços históricos de contra-espionagem, especialmente na Rússia e na China, baniram intencionalmente ou colocaram desinformação em mapas públicos mas uma boa inteligência pode identificar essa desinformação.
+Os Estados Unidos da América, em particular, é conhecido por manter satélites que podem interceptar o tráfego de telefonia celular e pagers, geralmente referido como sistema Echelon. A análise do tráfego em massa é, normalmente, realizada por programas de computador complexos que analisam a linguagem natural e os números de telefones em busca de conversas e correspondentes ameaçadores. Em alguns casos extraordinários, cabos submarinos ou terrestres também foram interceptados.
+Informações secretas mais exóticas, como chaves de criptografia, tráfego de mensagens diplomáticas, política e ordens de batalha são geralmente restritas à analistas com base na necessidade de conhecimento, a fim de proteger as fontes e métodos de análise de tráfego estrangeiro.
+
+Análise
+A análise consiste na avaliação das capacidades e vulnerabilidades de um adversário. Em um sentido real, essas são ameaças e oportunidades. Os analistas geralmente procuram o recurso menos defendido ou mais frágil que é necessário para capacidades militares importantes. Em seguida, eles são sinalizados como vulnerabilidades críticas. Por exemplo, na guerra mecanizada moderna, a cadeia logística para o suprimento de combustível de uma unidade militar costuma ser a parte mais vulnerável da ordem de batalha de uma nação.
+A inteligência humana, coletada por espiões, geralmente é cuidadosamente testada contra fontes não relacionadas mas é notoriamente sujeita a imprecisões. Em alguns casos, as fontes vão apenas inventar histórias imaginativas por pagamento ou podem tentar resolver desavenças identificando inimigos pessoais como inimigos do estado que está pagando pela inteligência. No entanto, a inteligência humana geralmente é a única forma de inteligência que fornece informações sobre as intenções e os fundamentos lógicos de um oponente e, portanto, é geralmente valiosa para o sucesso da negociação de soluções diplomáticas.
+Em algumas organizações de inteligência, a análise segue um procedimento. Primeiro, a mídia geral e as fontes são selecionadas para localizar itens ou grupos de interesse e, em seguida, sua localização, recursos, entradas e ambiente são sistematicamente avaliados quanto a vulnerabilidades usando uma lista continuamente atualizada de vulnerabilidades típicas.
+
+Classificação
+
+As vulnerabilidades críticas são então indexadas de uma forma que as torna facilmente disponíveis para assessores e pessoal de inteligência de linha que agrupam essas informações para formuladores de políticas e combatentes. Vulnerabilidades são, geralmente, indexadas pela nação e unidade militar com uma lista de métodos de ataque possíveis.
+Ameaças críticas são geralmente mantidas em um arquivo priorizado, com importantes capacidades inimigas analisadas em um cronograma definido por uma estimativa do tempo de preparação do inimigo. Por exemplo, ameaças nucleares entre a U.R.S.S. e os E.U.A. foram analisadas em tempo real por equipes de serviço continuamente. Em contraste, a análise de desdobramentos de tanques ou exércitos geralmente é acionada por acúmulos de combustível e munições, que são monitorados a cada poucos dias. Em alguns casos, a análise automatizada é realizada em tempo real no tráfego de dados automatizado.
+Classificar ameaças e vulnerabilidades para os tomadores de decisões é uma parte crucial da inteligência militar. Um bom oficial de inteligência ficará muito perto do formulador de políticas ou combatente para antecipar seus requisitos de informação e adaptar as informações necessárias. Um bom oficial de inteligência também fará um grande número de perguntas para ajudar a antecipar as necessidades. Para um importante formulador de políticas, o oficial de inteligência terá uma equipe para a qual os projetos de pesquisa podem ser designados.
+Desenvolver um plano de ataque não é responsabilidade da inteligência, embora ajude um analista a conhecer as capacidades de tipos comuns de unidades militares. Geralmente, os formuladores de políticas são apresentados à uma lista de ameaças e oportunidades. Eles aprovam algumas ações básicas e, em seguida, os militares profissionais planejam o ato detalhado e o executam. Assim que as hostilidades começam, a seleção de alvos geralmente passa para a extremidade superior da cadeia de comando militar. Uma vez que os estoques de armas e combustível se esgotam, as preocupações logísticas são frequentemente exportadas para formuladores de políticas civis.
+
+Disseminação
+As informações de inteligência processadas são disseminadas por meio de sistemas de banco de dados, boletins de inteligência e resumos para os diferentes tomadores de decisões. Os boletins também podem incluir requisitos de informação resultantes e, assim, concluir o ciclo de inteligência.
+
+Exemplos de agências de inteligência
+Direção de Inteligência Militar (AMAN) - Israel
+Serviço Federal de Inteligência (BND) - Alemanha
+Comunidade de Inteligência (CI) - Estados Unidos
+Inter-Services Intelligence (ISI) - Paquistão
+Serviço secreto de inteligência (MI6) - Reino Unido
+Diretoria Principal de Inteligência (GRU) - Rússia
+Diretoria Principal de Inteligência (GUR) - Ucrânia

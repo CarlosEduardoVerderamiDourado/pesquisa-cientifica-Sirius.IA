@@ -1,0 +1,51 @@
+Bugzilla
+
+Bugzilla is a web-based general-purpose bug tracking system and testing tool originally developed and used by the Mozilla project, and licensed under the Mozilla Public License.
+Released as open-source software by Netscape Communications in 1998, it has been adopted by a variety of organizations for use as a bug tracking system for both free and open-source software and proprietary projects and products. Bugzilla is used, among others, by the Mozilla Foundation, WebKit, Linux kernel, FreeBSD, KDE, Apache and LibreOffice. Red Hat uses it, but is gradually migrating its product to use Jira. It is also self-hosting.
+
+History
+Bugzilla was originally devised by Terry Weissman in 1998 for the nascent Mozilla.org project, as an open source application to replace the in-house system then in use at Netscape Communications for tracking defects in the Netscape Communicator suite. Bugzilla was originally written in Tcl, but Weissman decided to port it to Perl before its release as part of Netscape's early open-source code drops, in the hope that more people would be able to contribute to it, given that Perl seemed to be a more popular language at the time.
+Bugzilla 2.0 was the result of that port to Perl, and the first version was released to the public via anonymous CVS. In April 2000, Weissman handed over control of the Bugzilla project to Tara Hernandez. Under her leadership, some of the regular contributors were coerced into taking more responsibility, and Bugzilla development became more community-driven. In July 2001, facing distraction from her other responsibilities in Netscape, Hernandez handed control to Dave Miller, who was still in charge as of 2020.
+Bugzilla 3.0 was released on May 10, 2007, and brought a refreshed UI, an XML-RPC interface, custom fields and resolutions, mod_perl support, shared saved searches, and improved UTF-8 support, along with other changes.
+Bugzilla 4.0 was released on February 15, 2011, and Bugzilla 5.0 was released in July 2015.
+
+Timeline
+Bugzilla's release timeline:
+
+Requirements
+Bugzilla's system requirements include:
+
+A compatible database management system
+A suitable release of Perl 5
+An assortment of Perl modules
+A compatible web server
+A suitable mail transfer agent, or any SMTP server
+Currently supported database systems are MariaDB, MySQL, PostgreSQL, Oracle, and SQLite. Bugzilla is usually installed on Linux using the Apache HTTP Server, but any web server that supports CGI such as lighttpd, Hiawatha, Cherokee can be used. Bugzilla's installation process is command line driven and runs through a series of stages where system requirements and software capabilities are checked.
+
+Design
+
+While the potential exists in the code to turn Bugzilla into a technical support ticket system, task management tool, or project management tool, Bugzilla's developers have chosen to focus on the task of designing a system to track software defects.
+
+Zarro Boogs
+Bugzilla returns the string "zarro boogs found" instead of "0 bugs found" when a search for bugs returns no results. "Zarro Boogs" is intended as a 'buggy' statement itself (a misspelling of "zero bugs") and is thus a meta-statement about the nature of software debugging, implying that even when no bugs have been identified, some may exist.
+The following comment is provided in the Bugzilla source code to developers who may be confused by this behaviour:
+
+Zarro Boogs Found
+This is just a goofy way of saying that there were no bugs found matching your query. When asked to explain this message, Terry Weissman had the following to say:
+I've been asked to explain this ... way back when, when Netscape released version 4.0 of its browser, we had a release party. Naturally, there had been a big push to try and fix every known bug before the release. Naturally, that hadn't actually happened. (This is not unique to Netscape or to 4.0; the same thing has happened with every software project I've ever seen.) Anyway, at the release party, T-shirts were handed out that said something like "Netscape 4.0: Zarro Boogs". Just like the software, the T-shirt had no known bugs. Uh-huh. So, when you query for a list of bugs, and it gets no results, you can think of this as a friendly reminder. Of *course* there are bugs matching your query, they just aren't in the bugsystem yet...
+— Terry Weissman
+From The Bugzilla Guide – 2.16.10 Release: Glossary
+
+WONTFIX
+WONTFIX is used as a label on issues in Bugzilla and other systems. It indicates that a verified issue will not be resolved for one of several possible reasons including fixing would be too expensive, complicated or risky.
+
+Security criticism
+
+2003 denial-of-service attack on Mozilla development infrastructure
+In July 2003, the development servers of the Mozilla project were disrupted by a sustained denial-of-service attack, rendering multiple services unavailable, including the Bugzilla bug tracking system and CVSWeb system. According to statements from the mozdev project, the servers had been subjected to weeks of excessive request traffic, ultimately causing system failures and prompting plans to accelerate a migration to more powerful infrastructure.
+
+2014 inadvertent exposure of Bugzilla user data
+In September 2014, Mozilla disclosed that backups from a test instance of Bugzilla had been accidentally placed in a publicly accessible location, resulting in the exposure of data belonging to approximately 97,000 users. The leaked information included email addresses and hashed passwords, and the backups had been accessible for about three months before the issue was discovered. Mozilla stated that the incident posed a limited security risk due to the use of a test system, reset the affected passwords, and advised users to change reused passwords on other services.
+
+2015 security breach involving unauthorized access to undisclosed information
+In September 2015, Mozilla disclosed that attackers had compromised a Bugzilla account and accessed sensitive information about undisclosed Firefox security vulnerabilities, which were potentially subsequently used in attacks against users. As a response, Mozilla reset Bugzilla passwords, introduced mandatory two-factor authentication, and restricted access to sensitive bug data.

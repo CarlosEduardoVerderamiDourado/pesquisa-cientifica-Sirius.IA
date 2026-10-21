@@ -1,0 +1,30 @@
+Windows Fundamentals for Legacy PCs
+
+Windows Fundamentals for Legacy PCs ("WinFLP") is a thin client release of the Windows NT operating system developed by Microsoft and optimized for older, less powerful hardware. It was released on July 8, 2006, nearly two years after its Windows XP SP2 counterpart was released in August 2004, and is not marketed as a full-fledged general purpose operating system, although it is functionally able to perform most of the tasks generally associated with one. It includes only certain functionality for local workloads such as security, management, document viewing related tasks and the .NET Framework. It is designed to work as a client–server solution with RDP clients or other third party clients such as Citrix ICA. Windows Fundamentals for Legacy PCs reached end of support on April 8, 2014, along with most other Windows XP editions.
+
+History
+Windows Fundamentals for Legacy PCs was originally announced with the code name "Eiger" on 12 May 2005. ("Mönch" was announced as a potential follow-up project at about the same time.) The name "Windows Fundamentals for Legacy PCs" appeared in a press release in September 2005, when it was introduced as "formerly code-named 'Eiger'" and described as "an exclusive benefit to SA [Microsoft Software Assurance] customers".
+A Gartner evaluation from April 2006 stated that:
+
+The main purpose of Windows Fundamentals for Legacy PCs (WinFLP) is to allow users running old PCs to be able to replace unsupported Windows NT Workstation v.4, Windows 95 and Windows 98 with a supported release of Windows XP (or, eventually, a version based on Windows Vista). [...] Because WinFLP will have the ability to run some applications locally – including Internet Explorer, media players, Instant-Messaging clients, Java Virtual Machines, terminal emulators and ICA or Remote Desktop Protocol clients, and Microsoft Office – WinFLP can be better described as a "lean client" than a "thin client".
+The RTM version of Windows Fundamentals for Legacy PCs, which was released on July 8, 2006, was built from the Windows XP Embedded Service Pack 2 codebase. The release was announced to the press on July 12, 2006. Because Windows Fundamentals for Legacy PCs comes from a codebase of Windows XP Embedded, its service packs are also developed separately. For the same reason, Service Pack 3 for Windows Fundamentals for Legacy PCs, released on October 7, 2008, is the same as Service Pack 3 for 32-bit (x86) editions of Windows XP. Service Pack 3 is the last released service pack for Windows Fundamentals for Legacy PCs.
+In May 2011, Microsoft announced Windows Thin PC as the successor product.
+
+Technical specifications
+Microsoft positioned Windows Fundamentals for Legacy PCs as an operating system that provides basic computing services on older hardware, while still providing core management features of more recent Windows releases, such as Windows Firewall, Group Policy, Automatic Updates, and other management services. However, it was not considered to be a general-purpose operating system by Microsoft.
+Windows Fundamentals for Legacy PCs is a Windows XP Embedded derivative and, as such, it requires significantly fewer system resources than the fully featured Windows XP. It also features basic networking, extended peripheral support, DirectX, and the ability to launch the remote desktop clients from compact discs. In addition to local applications, it offers support for those hosted on a remote server using Remote Desktop. It can be installed on a local hard drive, or configured to run on a diskless workstation.
+
+Hardware requirements
+
+Despite being optimized for older PCs, hardware requirements for Windows Fundamentals for Legacy PCs are similar to Windows XP, although it is faster running on slower clock speeds than Windows XP.
+
+Limitations
+Windows Fundamentals for Legacy PCs has a smaller feature set than Windows XP. For example, WinFLP does not include Paint, Outlook Express and Windows games such as Solitaire. Another limitation is the absence of the Compatibility tab in the Properties dialog box for executable files.
+Internet Explorer 8 (and 7) can be installed, but a hotfix is required for auto-complete to work in these newer versions of the browser.
+
+Availability
+Windows Fundamentals for Legacy PCs was exclusively available to Microsoft Software Assurance customers, as it was designed to be an inexpensive upgrade option for corporations that had a number of Windows 9x computers, but lacked the hardware necessary to support the latest Windows. It was not available through retail or OEM channels.
+On October 7, 2008, Service Pack 3 for Windows Embedded for Point of Service and Windows Fundamentals for Legacy PCs was made available.
+On April 18, 2013, Service Pack 3 for Windows Fundamentals for Legacy PCs was temporarily made available for download again after previously having been removed from the Microsoft site. It was removed in 2014, and the original Service Pack 3 for Windows Embedded for Point of Service and Windows Fundamentals for Legacy PCs was reinstated.
+Following the release of Windows Thin PC, the Microsoft marketing pages for Windows Fundamentals were made to redirect to those of Windows Thin PC, suggesting that Windows Fundamentals is no longer available for any customers.
+Windows Fundamentals for Legacy PCs has the same lifecycle policy as Windows XP; as such, its support lifespan ended on 8 April 2014.

@@ -1,0 +1,121 @@
+Exatidão e precisão
+
+A exatidão e a precisão são duas medidas de erro observacional. A exatidão é a proximidade de um determinado conjunto de medições (observações ou leituras) em relação ao seu valor real, enquanto a precisão é a proximidade das medições entre si.
+Em outras palavras, a precisão é uma descrição de erros aleatórios, uma medida de variabilidade estatística. A exatidão tem duas definições:
+
+Mais comumente, é uma descrição apenas de erros sistemáticos, uma medida de viés estatístico de uma determinada medida de tendência central; a baixa exatidão causa uma diferença entre um resultado e um valor verdadeiro; a ISO chama isso de veracidade.
+Como alternativa, a ISO define a precisão como a descrição de uma combinação de ambos os tipos de erro observacional (aleatório e sistemático), de modo que a alta exatidão requer alta precisão e alta veracidade.
+Na primeira e mais comum definição de "exatidão" acima, o conceito é independente de "precisão", de modo que um determinado conjunto de dados pode ser considerado exato, preciso, ambos ou nenhum.
+Em termos mais simples, dada uma amostra estatística ou um conjunto de pontos de dados de medições repetidas da mesma quantidade, pode-se dizer que a amostra ou o conjunto é exato se a média estiver próxima do valor real da quantidade que está sendo medida, enquanto o conjunto pode ser considerado preciso se o desvio padrão for relativamente pequeno.
+
+Definição técnica comum
+
+Nos campos da ciência e da engenharia, a exatidão de um sistema de medição é o grau de proximidade das medições de uma quantidade em relação ao valor real dessa quantidade. A precisão de um sistema de medição, relacionada à reprodutibilidade e à repetibilidade, é o grau em que medições repetidas sob condições inalteradas mostram os mesmos resultados. Embora as duas palavras precisão e exatidão possam ser sinônimas no uso coloquial, elas são deliberadamente contrastadas no contexto do método científico.
+O campo da estatística, no qual a interpretação das medições desempenha um papel central, prefere usar os termos viés e variabilidade em vez de exatidão e precisão: viés é a quantidade de inexatidão e variabilidade é a quantidade de imprecisão.
+Um sistema de medição pode ser exato, mas não preciso, preciso, mas não exato, nenhum dos dois ou ambos. Por exemplo, se um experimento contém um erro sistemático, aumentar o tamanho da amostra geralmente aumenta a precisão, mas não melhora a exatidão. O resultado seria uma sequência de resultados consistentes, porém imprecisos, do experimento falho. A eliminação do erro sistemático melhora a exatidão, mas não altera a precisão.
+Um sistema de medição é considerado válido se for exato e preciso. Os termos relacionados incluem viés (efeitos não aleatórios ou direcionados causados por um fator ou fatores não relacionados à variável independente) e erro (variabilidade aleatória).
+A terminologia também é aplicada a medições indiretas, ou seja, valores obtidos por um procedimento computacional a partir de dados observados.
+Além da exatidão e da precisão, as medições também podem ter uma resolução de medição, que é a menor alteração na quantidade física subjacente que produz uma resposta na medição.
+Na análise numérica, a exatidão também é a proximidade de um cálculo em relação ao valor real, enquanto a precisão é a resolução da representação, normalmente definida pelo número de dígitos decimais ou binários.
+Em termos militares, a precisão se refere principalmente à exatidão de tiro (justesse de tir), a precisão do tiro expressa pela proximidade de um agrupamento de tiros no centro do alvo e em torno dele.
+
+Quantificação
+Na instrumentação industrial, a exatidão é a tolerância de medição ou transmissão do instrumento e define os limites dos erros cometidos quando o instrumento é usado em condições normais de operação.
+O ideal é que um dispositivo de medição seja exato e preciso, com todas as medições próximas e bem agrupadas em torno do valor real. A exatidão e a precisão de um processo de medição geralmente são estabelecidas pela medição repetida de algum padrão de referência rastreável. Esses padrões são definidos no Sistema Internacional de Unidades (sigla SI, do francês Système International d'unités) e mantidos por organizações nacionais de padrões, como o Instituto Nacional de Padrões e Tecnologia (National Institute of Standards and Technology - NIST) dos Estados Unidos.
+Isso também se aplica quando as medições são repetidas e a média é calculada. Nesse caso, o termo erro padrão é aplicado corretamente: a precisão da média é igual ao desvio padrão conhecido do processo dividido pela raiz quadrada do número de medições calculadas. Além disso, o teorema do limite central mostra que a distribuição de probabilidade das medições médias será mais próxima de uma distribuição normal do que a das medições individuais.
+Com relação à precisão, podemos distinguir:
+
+a diferença entre a média das medições e o valor de referência, a tendência. O estabelecimento e a correção da tendência são necessários para a calibração.
+o efeito combinado da exatidão e da precisão.
+Uma convenção comum na ciência e na engenharia é expressar a exatidão e/ou a precisão implicitamente por meio de algarismos significativos. Quando não explicitamente declarado, a margem de erro é entendida como sendo a metade do valor da última casa significativa. Por exemplo, um registro de 843,6 m, ou 843,0 m, ou 800,0 m implicaria em uma margem de 0,05 m (a última casa significativa é a casa dos décimos), enquanto um registro de 843 m implicaria em uma margem de erro de 0,5 m (os últimos dígitos significativos são as unidades).
+Uma leitura de 8.000 m, com zeros à direita e sem ponto decimal, é ambígua; os zeros à direita podem ou não ser considerados números significativos. Para evitar essa ambiguidade, o número pode ser representado em notação científica: 8,0 103 m indica que o primeiro zero é significativo (portanto, uma margem de 50 m), enquanto 8,000 103 m indica que todos os três zeros são significativos, dando uma margem de 0,5 m. Da mesma forma, pode-se usar um múltiplo da unidade de medida básica: 8,0 km é equivalente a 8,0 103 m. Isso indica uma margem de 0,05 km (50 m). Entretanto, a confiança nessa convenção pode levar a erros de precisão falsos ao aceitar dados de fontes que não a obedecem. Por exemplo, uma fonte que informa um número como 153.753 com precisão de +/- 5.000 parece ter precisão de +/- 0,5. De acordo com a convenção, ele teria sido arredondado para 150.000.
+Como alternativa, em um contexto científico, se for desejado indicar a margem de erro com mais precisão, pode-se usar uma notação como 7,54398(23) 1010 m, o que significa um intervalo entre 7,54375 e 7,54421 1010 m.
+A precisão inclui:
+
+repetibilidade - a variação que ocorre quando todos os esforços são feitos para manter as condições constantes usando o mesmo instrumento e operador e repetindo durante um curto período de tempo; e
+reprodutibilidade - a variação resultante do uso do mesmo processo de medição entre diferentes instrumentos e operadores, e durante períodos de tempo mais longos.
+Na engenharia, a precisão é geralmente considerada como três vezes o desvio padrão das medições realizadas, representando o intervalo em que 99,73% das medições podem ocorrer. Por exemplo, um ergonomista que mede o corpo humano pode ter certeza de que 99,73% de suas medições extraídas estão dentro de 0,7 cm - se estiver usando o sistema de processamento GRYPHON - ou 13 cm - se estiver usando dados não processados.
+
+Definição ISO (ISO 5725)
+
+Uma mudança no significado desses termos surgiu com a publicação da série de normas ISO 5725 em 1994, o que também se reflete na edição de 2008 do Vocabulário Internacional de Metrologia (VIM) do BIPM, itens 2.13 e 2.14.
+De acordo com a ISO 5725-1, o termo geral "exatidão" é usado para descrever a proximidade de uma medição com o valor real. Quando o termo é aplicado a conjuntos de medições do mesmo medidor, ele envolve um componente de erro aleatório e um componente de erro sistemático. Nesse caso, a veracidade é a proximidade da média de um conjunto de resultados de medição com o valor real (verdadeiro) e a precisão é a proximidade da concordância entre um conjunto de resultados.
+A ISO 5725-1 e o VIM também evitam o uso do termo "viés", especificado anteriormente na BS 5497-1, porque ele tem conotações diferentes fora dos campos da ciência e da engenharia, como na medicina e no direito.
+
+Na classificação
+
+Na classificação binária
+A exatidão também é usada como uma medida estatística de quão bem um teste de classificação binária identifica ou exclui corretamente uma condição. Ou seja, a exatidão é a proporção de previsões corretas (tanto os verdadeiros positivos quanto os verdadeiros negativos) entre o número total de casos examinados. Dessa forma, ela compara estimativas de probabilidade pré e pós-teste. Para deixar o contexto claro pela semântica, ela é frequentemente chamada de "exatidão de Rand" ou "índice de Rand". É um parâmetro do teste. A fórmula para quantificar a exatidão binária é:
+
+ 
+ 
+ 
+ 
+ Acurácia
+ 
+ =
+ 
+ 
+ 
+ T
+ P
+ +
+ T
+ N
+ 
+ 
+ T
+ P
+ +
+ T
+ N
+ +
+ F
+ P
+ +
+ F
+ N
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+em que TP = verdadeiro positivo; FP = falso positivo; TN = verdadeiro negativo; FN = falso negativo
+Observe que, nesse contexto, os conceitos de veracidade e precisão, conforme definidos pela norma ISO 5725-1, não são aplicáveis. Um dos motivos é que não há um único "valor verdadeiro" de uma quantidade, mas sim dois valores verdadeiros possíveis para cada caso, enquanto a exatidão é uma média de todos os casos e, portanto, leva em conta ambos os valores. Entretanto, o termo precisão é usado neste contexto para significar uma métrica diferente originária do campo de recuperação de informações (veja abaixo).
+
+Na classificação multiclasses
+Ao calcular a exatidão na classificação multiclasse, a exatidão é simplesmente a fração de classificações corretas:
+ 
+ 
+ 
+ 
+ Acurácia
+ 
+ =
+ 
+ 
+ classificações corretas
+ todas classificações
+ 
+ 
+ 
+ 
+ 
+ 
+Isso geralmente é expresso como uma porcentagem. Por exemplo, se um classificador fizer dez previsões e nove delas estiverem corretas, a precisão será de 90%.
+A exatidão também é chamada de exatidão top 1 para diferenciá-la da exatidão top 5, comum na avaliação de redes neurais convolucionais. Para avaliar a exatidão do top 5, o classificador deve fornecer probabilidades relativas para cada classe. Quando elas são ordenadas, uma classificação é considerada correta se a classificação correta estiver entre as 5 principais previsões feitas pela rede. A exatidão top 5 foi popularizada pelo desafio ImageNet. Em geral, ela é maior do que a precisão do top 1, pois qualquer previsão correta entre a 2ª e a 5ª posição não melhora a pontuação do top 1, mas melhora a pontuação do top 5.
+
+Na psicometria e psicofísica
+Em psicometria e psicofísica, o termo exatidão é usado de forma intercambiável com validade e erro constante. Precisão é um sinônimo de fiabilidade e erro variável. A validade de um instrumento de medição ou teste psicológico é estabelecida por meio de experimentos ou correlação com o comportamento. A confiabilidade é estabelecida com uma variedade de técnicas estatísticas, classicamente por meio de um teste de consistência interna, como o alfa de Cronbach, para garantir que conjuntos de perguntas relacionadas tenham respostas relacionadas e, em seguida, a comparação dessas perguntas relacionadas entre a população de referência e a população alvo.
+
+Na simulação lógica
+Na simulação lógica, um erro comum na avaliação de modelos exatos é comparar um modelo de simulação lógica com um modelo de simulação de circuito de transístor. Essa é uma comparação de diferenças de precisão, não de exatidão. A precisão é medida com relação aos detalhes e a exatidão é medida com relação à realidade.
+
+Em sistemas de informação
+Os sistemas de recuperação de informações, como bancos de dados e mecanismos de busca na Web, são avaliados por muitas métricas diferentes, algumas das quais são derivadas da matriz de confusão, que divide os resultados em verdadeiros positivos (documentos recuperados corretamente), verdadeiros negativos (documentos não recuperados corretamente), falsos positivos (documentos recuperados incorretamente) e falsos negativos (documentos não recuperados incorretamente). As métricas comumente usadas incluem as noções de precisão e revocação. Nesse contexto, a precisão é definida como a fração de documentos recuperados que são relevantes para a consulta (verdadeiros positivos divididos por verdadeiros+falsos positivos), usando um conjunto de resultados relevantes de verdade selecionados por humanos. Recall é definido como a fração de documentos relevantes recuperados em comparação com o número total de documentos relevantes (verdadeiros positivos divididos por verdadeiros positivos + falsos negativos). Menos comumente, a métrica de exatidão é usada e é definida como o número total de classificações corretas (verdadeiros positivos mais verdadeiros negativos) dividido pelo número total de documentos.
+Nenhuma dessas métricas leva em conta a classificação dos resultados. A classificação é muito importante para os mecanismos de busca na Web porque os leitores raramente passam da primeira página de resultados, e há muitos documentos na Web para classificar manualmente todos eles para saber se devem ser incluídos ou excluídos de uma determinada busca. A adição de um corte em um determinado número de resultados leva em conta a classificação até certo ponto. A medida de precisão em k, por exemplo, é uma medida de precisão que considera apenas os dez principais resultados de pesquisa (k=10). Métricas mais sofisticadas, como o ganho cumulativo descontado, levam em conta cada classificação individual e são mais comumente usadas quando isso é importante.
+
+Em sistemas cognitivos
+Nos sistemas cognitivos, a exatidão e a precisão são usadas para caracterizar e medir os resultados de um processo cognitivo realizado por entidades biológicas ou artificiais, em que um processo cognitivo é uma transformação de dados, informações, conhecimento ou sabedoria em uma forma de valor mais alto (hierarquia DIKW). Às vezes, um processo cognitivo produz exatamente o resultado pretendido ou desejado, mas às vezes produz um resultado muito distante do pretendido ou desejado. Além disso, as repetições de um processo cognitivo nem sempre produzem o mesmo resultado. A exatidão cognitiva (CA) é a propensão de um processo cognitivo para produzir o resultado pretendido ou desejado. A precisão cognitiva (CP) é a propensão de um processo cognitivo para produzir apenas o resultado pretendido ou desejado. Para medir a cognição aumentada em conjuntos humanos/cogs, em que um ou mais humanos trabalham em colaboração com um ou mais sistemas cognitivos (cogs), os aumentos na exatidão cognitiva e na precisão cognitiva ajudam a medir o grau de aumento cognitivo.

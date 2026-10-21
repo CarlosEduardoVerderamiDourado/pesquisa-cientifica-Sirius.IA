@@ -1,0 +1,60 @@
+Litecoin cash
+
+Litecoin Cash (símbolo: LCC) é uma criptomoeda criada no dia 18 de fevereiro de 2018, através de um processo chamado de derivação ou Hard Fork do Litecoin
+Durante o processo de criação desta criptomoeda alternativa, uma das vantagens mais expressivas foi a possibilidade de trocar de 1 Litecoin por 10 Litecoin Cash. Além disso, o Litecoin Cash trocou a função hash para a SHA-256, dando um novo uso aos antes obsoletos hardwares de Mineração de Bitcoin.
+Esta criptomoeda carrega consigo uma grande controvérsia devido ao não reconhecimento perante sua moeda "mãe" e consequente ceticismo dentre o mercado, devido à sua motivação não ter sido muito bem esclarecida.
+
+Antecedentes
+A história da criação do Litecoin Cash é um tanto quanto controversa. Prevista para ser iniciada no dia 18 de fevereiro de 2018, assim que o Litecoin alcançasse o bloco 1.371.111, o Hard Fork foi alvo de críticas por terem pontos obscuros no processo de sua criação, tais como:
+
+Falta de um código fonte no GitHub, o que impossibilita a verificação de que esta criptomoeda alternativa terá realmente proteção contra Ataques replay, que consistem em modificar maliciosamente e/ou fraudulentamente uma transmissão de dados válida de maneira repetida ou intencionalmente atrasada. Além disso não é possível saber se há diferenças entre os endereços do Litecoin e do Litecoin Cash devido a privacidade do código.
+Ausência de informações confiáveis acerca dos criadores do projeto.
+Tais "buracos" no projeto fazem com que ele seja encarado com ceticismo perante a comunidade de criptomoedas, pois as implementações feitas no Litecoin Cash não são problemas enfrentados pelo Litecoin, inutilizando os argumentos de que este Hard Fork é realmente necessário e aumentando a crença de que a única intenção é "ganhar" os 10 LCCs prometidos pela equipe de desenvolvimento para cada Litecoin que o usuário tiver no momento da Bifurcação.
+O criador do Litecoin, Charlie Lee,é um dos maiores críticos ao Litecoin Cash. Em sua conta pessoal no Twitter, ele afirma veementemente que o time que trabalha no Litecoin não está fazendo uma bifurcação, que qualquer movimento deste que aparecer se trata de um golpe, que tenta confundir os usuários fazendo-os pensar que a nova criptomoeda tem relação com o Litecoin "original". Em seguida ele pede aos usuários para que não caiam neste tipo de "armadilha" e que definitivamente não coloquem suas chaves privadas no cliente e/ou website do respectivo "fork".
+
+O outro lado da moeda
+No entanto, assim como outros projetos que fazem uma Bifurcação (desenvolvimento de software) no intuito de criar uma nova Criptomoeda, os desenvolvedores do Litecoin Cash afirmam que eles apenas querem usar uma base de código já existente para criar uma melhor e mais nova forma de câmbio online.
+Além disso, substituindo o algoritmo de mineração presente no Litecoin, o scrypt, pelo do Bitcoin (SHA-256), o Litecoin Cash irá trazer uma vida nova ao velhos e abandonados hardwares de mineração em uma tentativa de "reciclar" tais equipamentos.
+Outro ponto interessante é que, devido às mecânicas da bifurcação, qualquer usuário que possuir litecoins até o momento da bifurcação irá imediatamente possuir um montante em Litecoin Cash, sendo a conversão de 1 LTC = 10 LCC.
+
+Benefícios
+
+Sistema de recompensas 10:1
+Para cada Litecoin (LTC) que o usuário tenha no momento do Hard Fork, este poderá reclamar 10 Litecoin Cash (LCC).
+
+Algoritmo de mineração SHA-256
+O Litecoin Cash tem uma proposta diferente do Litecoin. Este último, em sua implementação, mudou o algoritmo de mineração original do Bitcoin (SHA-256) para o algoritmo scrypt, que inviabilizou o uso de hardwares de mineração que eram usados outrora para minerar bitcoin. O Litecoin Cash fez a reversão da troca, possibilitando assim o uso destes hardwares considerados "obsoletos"
+
+Controle Slow-Start
+Pensando em prevenir que mineradores mais antigos tenham uma vantagem injusta, as "gorjetas" por bloco começaram em 0.25 Litecoin Cash (LCC) e subirão para 250 LCC sobre os primeiros 2000 blocos após o Hard Fork. Os primeiros 24 blocos têm uma dificuldade de mineração mínima, e a partir do próximo, o algoritmo DarkGravity V3, o qual reajusta a dificuldade de mineração de um bloco de maneira rápida e não-linear, ajustará a dificuldade baseado no tempo observado de geração de novos blocos.
+
+Pequena Pré-mineração
+Antes de qualquer criptomoeda ser lançada, ela passa pelo processo de pré-mineração, que, em poucas palavras, é a criação de um determinado número de criptomoedas antes desta ser lançada ao público. Isso é visto com maus olhos na comunidade pois da aos desenvolvedores a oportunidade de minerar de maneira privada e alocar uma quantidade de moedas antes que a criptomoeda seja lançada publicamente.
+Para evitar isto, o Litecoin Cash garante que uma quantidade menor do que 1% do dinheiro que circulou até o momento do Hard Fork foi utilizado para pagar o fundo de desenvolvimento do projeto.
+
+Sustentabilidade
+Uma das principais ideias do Litecoin Cash era de criar uma criptomoeda capaz de ajudar na sustentabilidade. Nos dias de hoje o impacto ambiental do Bitcoin e das demais criptomoedas é bastante estudado, tanto a nível de consumo de energia quanto a nível de desperdício de hardware. Atualmente estima-se que o gasto de energia do Bitcoin e do Bitcoin Cash gira em torno de 70 terawatt por ano. Em termos simples, isso significa que os membros da Mineração de Bitcoin gastam
+mais energia do que países como Suíça ou República Tcheca.
+Para conseguir êxito neste aspecto, foi necessária a troca do algoritmo de mineração para o SHA-256 juntamente com um controle Slow-Start, para que os equipamentos antes considerados obsoletos à vista do Litecoin (que usa o scrypt como algoritmo de mineração) agora possam ser reaproveitados para a mineração de Litecoin Cash.
+
+Bitcoin Cash vs Litecoin Cash
+Ambas as criptomoedas tiveram um processo de criação muito parecido ("fork" do projeto original), no entanto as duas tem metas um tanto quanto diferentes.
+
+Bitcoin Cash
+O Bitcoin Cash foi criado no dia 1 de agosto de 2017, como um hard fork do Bitcoin. O seu principal ponto é ser regido por um protocolo alternativo que aumenta a capacidade de transação em comparação ao Bitcoin. Tal ponto é permitido graças ao tamanho diferenciado do bloco, de 8MB (contra 1MB do Bitcoin "tradicional"), que visa auxiliar na correção do Problema da Escalabilidade do Bitcoin, servindo como solução alternativa, já que esse sofre críticas pelo seu baixo poder de processamento de transações em comaparação à sistemas convencionais de cartão de crédito, por exemplo. Um consequente aumento no tamanho do bloco implica mais dados sendo processados por vez e um posterior aumento na velocidade da transação.
+
+Litecoin Cash
+Já o Litecoin Cash não tem como meta o aumento da velocidade das transações, já que o tempo que um bloco leva para ser criado foi reduzido em 75%, isto é, 150 segundos, pela sua moeda "mãe", o Litecoin. Ao invés disso, a principal meta desta criptomoeda é dar um novo uso aos equipamentos que se utilizam do algoritmo SHA-256, além de prometer que o custo de mineração será 90 por cento mais barato que o Litecoin.
+
+Parâmetros de mineração
+A implementação do Litecoin Cash difere da do Litecoin em alguns parâmetros. O tempo de bloco é de 2.5 minutos.
+A dificuldade de mineração é recalculada a cada bloco, usando o algoritmo DarkGravity V3, do Dash (criptomoeda), provendo assim uma previsibilidade maior do tempo de bloco.
+
+Futuro do Litecoin Cash
+O Litecoin cash pode ser chamado de Bitcoin Fork, de Litecoin Fork ou até mesmo de um projeto independente de uma criptomoeda. Enquanto a equipe de desenvolvimento não fizer coisas além de habilitar o usuário a minerar com seu hardware antigo, usado na mineração de Bitcoin, isto irá refletir na visão do mercado sobre a criptomoeda e consequentemente sobre o preço deste ativo.
+Existem várias razões que explicam o projeto estar neste estado, dentre elas podemos mencionar a falta de relação entre a equipe de desenvolvimento do Litecoin com a equipe de desenvolvimento do Litecoin Cash, e a falta de updates sobre o código-fonte do projeto, o que ajudaria a resolver várias questões. Enquanto isso, os aproximadamente 840 milhões de tokens de Litecoin Cash aparentam que irão ficar sempre abaixo do preço de sua moeda "mãe", o Litecoin.
+O Uso do Litecoin cash ainda é muito pequeno. São poucos os mercados que trabalham com esta moeda, mas, dentre eles, podemos citar: Mercatox e a Hit BTC. Já quando se fala em carteiras, o Litecoin Cash conta com o suporte da Coinomi para carteiras em dispositivos móveis.
+Podem ser citados como milestones desta criptomoeda:
+
+9 de abril de 2018: Primeiro pagamento feito com Litecoin Cash (LLC) em uma Pizzaria no Tenerife
+17 de maio de 2018: O time de desenvolvimento do Litecoin Cash, juntamente com a Sent Into Space "jogaram" 16000 LCC de uma altura de aproximadamente 32 kilômetros, na região dos Midlands

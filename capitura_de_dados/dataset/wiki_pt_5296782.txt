@@ -1,0 +1,553 @@
+Microscopia kelvin
+
+A microscopia Kelvin (KPFM – Kelvin probe force microscopy) ou também chamada microscopia de potencial de superfície proposta por Nonnermacher em 1991, é uma técnica de resolução atômica e nanométrica sendo uma variante da microscopia de força atômica onde um cantilever metalizado é capaz de medir a diferença de potencial entre a ponteira nele contido e a superfície da amostra. Através desta medição, pode-se obter a função trabalho característica de cada átomo da superfície da amostra o que dá a exata composição em nível atômico da superfície da amostra.
+Através do conhecimento da função trabalho da superfície da amostra, várias aplicações são possíveis, desde reconstrução de superfícies uma vez que o mapeamento da mesma permitirá detectar defeitos, detecção de corrosão uma vez que a função trabalho dos átomos de moléculas resultantes de tal fenômeno serão diferentes da função dos átomos da superfície ideal, aplicações semicondutoras e detecção de cargas aprisionadas em dielétricos.
+Aplicações biológicas também são possíveis, como por exemplo, a obtenção de topografia e do potencial de superfície de uma única molécula de DNA conforme citado nas seções adiantes.
+
+Mecanismo de funcionamento básico
+
+Para uma explicação detalhada do processo de funcionamento vamos recorrer a alguns conceitos básicos da física quântica. Todo átomo em um sólido contém o que é chamado de energia de Fermi que é definida como a energia dos elétrons da camada mais externa do átomo, ou seja, refere-se aos elétrons do último nível ocupado. Outro conceito importante é a função trabalho que consiste na energia necessária para retirar um elétron da última camada energética de uma átomo levando-o até o “vácuo” onde o mesmo estará livre de qualquer atração com o átomo de origem; no vácuo o elétron adquire uma energia diferente daquela no material, dada a ausência de interações com o material sólido.
+A operação do KPFM é semelhante à microscopia de força atômica onde se utiliza uma sonda (cantilever) condutora com função trabalho já conhecida. A fórmula que permitirá a obtenção da função trabalho da amostra é mostrada abaixo:
+
+ 
+ 
+ 
+ 
+ V
+ 
+ C
+ P
+ D
+ 
+ 
+ =
+ 
+ 
+ 
+ 
+ 
+ 
+ ponteira
+ 
+ 
+ 
+ 
+ 
+ 
+ amostra
+ 
+ 
+ 
+ 
+ 
+ e
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Onde VCPD é a diferença de potencial de contato, do inglês ”contact potential difference”, ponteira é a função trabalho do material característico da ponteira, amostra é a função trabalho característica da amostra e o termo (-e) é a carga do elétron.
+Por enquanto se sabe somente a função trabalho do material característico da ponteira sendo que possuímos duas variáveis VCPD e amostra a serem definidas conforme o procedimento a seguir.
+
+Inicialmente a ponteira e a amostra estão distanciadas, ambas com suas funções trabalho e energias de Fermi diferentes. O procedimento em seguida consiste em colocá-las muito próximas propiciando o fenômeno de Tunelamento quântico e consequentemente propiciando a igualação das energias de Fermi. Tanto a ponteira (sonda) quanto a superfície tornam-se carregadas.
+Uma vez que a energia de Fermi da ponteira é menor então haverá um decréscimo na energia de Fermi da superfície. O ponto crucial consiste em saber que a função trabalho dos elétrons na superfície da amostra não muda, pois é uma característica inerente ao átomo e desta forma o intervalo amostra de diferença entre a energia do elétron de Fermi e a energia do elétron no “vácuo” Ev também é deslocada para baixo.
+Dado que os níveis de Fermi são iguais, então neste caso a diferença de potencial desenvolvida entre a ponteira e a amostra será devida ao desnível entre as energias dos elétrons no vácuo para ambas que é justamente o termo VCPD.
+
+A etapa seguinte permite medir este termo, onde uma fonte de tensão contínua VDC é aplicada entre a ponteira e a amostra permitindo o retorno das cargas negativas para a amostra levando ao aumento da energia de Fermi da amostra ao nível inicial. Esta voltagem aplicada medida e computada pelo aparelho será exatamente igual á voltagem VCPD, desta forma voltando à fórmula do início do texto, pode-se obter a função trabalho do átomo analisado na amostra.
+
+ 
+ 
+ 
+ 
+ V
+ 
+ D
+ C
+ 
+ 
+ =
+ 
+ V
+ 
+ C
+ P
+ D
+ 
+ 
+ =
+ 
+ 
+ 
+ 
+ 
+ 
+ ponteira
+ 
+ 
+ 
+ 
+ 
+ 
+ amostra
+ 
+ 
+ 
+ 
+ 
+ e
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Reorganizando a fórmula anterior, podemos obter a função trabalho de um ponto específico da amostra:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ amostra
+ 
+ 
+ =
+ 
+ 
+ 
+ ponteira
+ 
+ 
+ 
+ [
+ 
+ V
+ 
+ D
+ 
+ C
+ 
+ .
+ 
+ 
+ 
+ 
+ (
+ 
+ e
+ )
+ ]
+ 
+ 
+ 
+ 
+
+Entretanto, a metodologia citada anteriormente utilizando uma corrente DC é capaz de determinar a função trabalho da amostra somente quando se sabe previamente a função trabalho da ponteira. Um método mais sofisticado envolve a aplicação de correntes contínuas e alternadas simultâneas de forma a obter não só a função trabalho da amostra e também a topografia da mesma.
+O procedimento é igual ao anterior com a aproximação da ponteira em direção à amostra e com o propiciamento de uma corrente de tunelamento. No instante em que as energias de Fermi estão niveladas com ambas a ponteira e a amostra carregadas, forma-se um pequeno capacitor entre ambas e também surgem forças eletrostáticas.
+A energia de um capacitor é dada pela fórmula abaixo:
+
+ 
+ 
+ 
+ E
+ =
+ 
+ 
+ 1
+ 2
+ 
+ 
+ C
+ 
+ V
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+
+As informações de topografia e função trabalho a serem obtidas surgem da análise das forças entre a ponteira e a amostra formadas pelo capacitor. Desta forma deve-se derivar a função energia do capacitor em relação a distância normal à superfície da amostra:
+
+ 
+ 
+ 
+ F
+ =
+ 
+ 
+ d
+ 
+ d
+ z
+ 
+ 
+ 
+ (
+ 
+ 
+ 1
+ 2
+ 
+ 
+ C
+ 
+ V
+ 
+ 2
+ 
+ 
+ )
+ =
+ 
+ 
+ 1
+ 2
+ 
+ 
+ 
+ 
+ 
+ d
+ (
+ C
+ )
+ 
+ 
+ d
+ z
+ 
+ 
+ 
+ 
+ V
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+
+A aplicação da voltagem possui duas componentes VAC e VDC onde a primeira consiste de uma corrente alternada e consequentemente ocasiona forças eletrostáticas alternadas entre a amostra e a ponteira que entra em oscilação; a segunda componente tem o objetivo de anular a presença de forças oscilatórias devido à presença da diferença de potencial VCPD.
+
+ 
+ 
+ 
+ V
+ =
+ (
+ 
+ V
+ 
+ D
+ C
+ 
+ 
+ 
+ 
+ V
+ 
+ C
+ P
+ D
+ 
+ 
+ )
+ +
+ 
+ V
+ 
+ A
+ C
+ 
+ 
+ sin
+ 
+ 
+ t
+ 
+ 
+ 
+ 
+
+Que substituída na fórmula da força fica:
+
+ 
+ 
+ 
+ F
+ =
+ 
+ 
+ 1
+ 2
+ 
+ 
+ 
+ 
+ 
+ d
+ (
+ C
+ )
+ 
+ 
+ d
+ z
+ 
+ 
+ 
+ (
+ (
+ 
+ V
+ 
+ D
+ C
+ 
+ 
+ 
+ 
+ V
+ 
+ C
+ P
+ D
+ 
+ 
+ )
+ +
+ 
+ V
+ 
+ A
+ C
+ 
+ 
+ sin
+ 
+ 
+ t
+ 
+ )
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+
+Desenvolvendo o termo ao quadrado, podemos dividir esta fórmula em três componentes:
+
+ 
+ 
+ 
+ 
+ F
+ 
+ 2
+ 
+ 
+ 
+ =
+ 
+ 
+ 1
+ 4
+ 
+ 
+ 
+ 
+ 
+ d
+ (
+ C
+ )
+ 
+ 
+ d
+ z
+ 
+ 
+ 
+ (
+ 
+ V
+ 
+ A
+ C
+ 
+ 
+ 2
+ 
+ 
+ )
+ [
+ cos
+ 
+ (
+ 2
+ 
+ t
+ )
+ 
+ 1
+ ]
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ F
+ 
+ D
+ C
+ 
+ 
+ =
+ 
+ 
+ 1
+ 2
+ 
+ 
+ 
+ 
+ 
+ d
+ (
+ C
+ )
+ 
+ 
+ d
+ z
+ 
+ 
+ 
+ (
+ 
+ V
+ 
+ D
+ C
+ 
+ 
+ 
+ 
+ V
+ 
+ C
+ P
+ D
+ 
+ 
+ 
+ )
+ 
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ F
+ 
+ 
+ 
+ 
+ =
+ 
+ 
+ 
+ d
+ (
+ C
+ )
+ 
+ 
+ d
+ z
+ 
+ 
+ 
+ (
+ 
+ V
+ 
+ D
+ C
+ 
+ 
+ 
+ 
+ V
+ 
+ C
+ P
+ D
+ 
+ 
+ )
+ 
+ V
+ 
+ A
+ C
+ 
+ 
+ sin
+ 
+ 
+ t
+ 
+ 
+ 
+ 
+
+A componente FDC contribui para o imageamento topográfico, a componente F2 contribui para a microscopia de capacitância e a componente F contribui para as medidas da diferença de potencial de contato.
+A obtenção do potencial de contato de superfície através da fórmula F é possível variando-se os valores de VDC de tal forma a fazer a ponteira parar de oscilar o que equivale á F=0, neste caso a igualdade dos valores de VDC e VCPD foi obtida levando o termo (VDC - VCPD) a tornar-se nulo; desta forma este valor de VDC corresponde ao valor de VCPD e pode ser usado para a determinação da função trabalho através da fórmula citada no início do texto.
+
+Mecanismo de funcionamento por frequência e amplitude (AM e FM)
+Em um microscópio de força atômica (AFM), a topografia da amostra pode ser obtida pela oscilação de um cantilever a uma distância definida da amostra sendo que tal medida pode ser realizada por meio de dois métodos principais a ser frequência e amplitude. Qualquer mudança na topografia da amostra durante a varredura realizada pelo cantilever é detectada através de uma mudança na amplitude de oscilação ou na freqüência de oscilação. Estas mudanças são computadas e fazem o sistema piezoelétrico responsável pela movimentação da amostra tornar a distância entre a mesma e o cantilever constante.
+Sabe-se que microscopia Kelvin é uma variante do AFM conforme foi dito na introdução, desta forma dois métodos de medida também baseados na frequência e amplitude são possíveis. De fato, quanto os níveis de Fermi se encontram igualados devido à corrente de tunelamento, haverá uma diferença de potencial devido ao VCPD e ao VAC aplicado à ponteira, desta forma esta diferença de potencial capacitiva ocasiona uma mudança na amplitude ou frequência de oscilação da ponteira que é computada sendo capaz de fornecer dados topográficos concomitantemente com os valores de VCPD. Uma metodologia capaz de separar o sinal de VCPD da topografia é posteriormente requerida.
+
+Preparação e obtenção dos cantilevers e ponteira
+O preparo de ponteira consiste em uma etapa crucial do processo, pois é a partir de sua interação com a amostra que os diversos dados são obtidos. Existem diversas metodologias de preparo de ponteiras para a obtenção dos dados. A seguir são listados alguns métodos com esse fim:
+
+O método mais comum consiste em obter comercialmente cantilevers de Silício altamente dopados. Neste caso antes do uso deve-se realizar bombardeio iônico por gás argônio ionizado (Ar+) a fim de remover camadas de óxido e impurezas contidas na superfície da ponteira que poderiam comprometer a obtenção dos dados. Estas ponteiras produzem dados com alta eficiência, entretanto se manuseadas incorretamente durante a obtenção dos dados, podem ser capazes de atrair e consequentemente pegar átomos da superfície do material, inutilizando todo o processo.
+Outro cantilever, também comercialmente comprado, consiste em material de silício recoberto com camadas de irídio e platina. Não necessitam de tratamento previamente ao seu uso; entretanto sua resolução é inferior ao cantilever citado no item anterior.
+Um terceiro método descrito envolve uma série de processos sobre um cantilever de silício dopado com boro para obtenção de melhor resolução. Inicialmente a ponteira do cantilever é exposta a uma atmosfera de ozônio gerada pela irradiação ultravioleta (UV) de uma atmosfera de oxigênio, a fim de eliminar contaminantes de carbono sobre a superfície da ponteira. Em seguida, a ponteira é banhada em solução de ácido fluorídrico para a eliminação de óxidos sobre a superfície; a exposição ao ácido também contribui para tornar a ponteira mais fina e recobri-la com hidrogênio para protegê-la durante seu transporte. A terceira etapa envolve o tratamento a ultravácuo para a remoção de óxidos de silício sobre a superfície da ponteira, a camada de óxido original pode se encontrar com falhas ou regiões não recobertas sujeitas ao ataque por oxigênio durante o transporte do cantilever em ar, consequentemente uma etapa seguinte envolvendo o uso de microscopia eletrônica Auger a ultravácuo promove a deposição de uma nova camada de óxido de silício uniforme sobre a ponteira. O objetivo desta camada é proteger a ponteira do ataque do oxigênio durante seu transporte em ar. Após o transporte da mesma para ambiente de ultravácuo, a última etapa consistirá em submeter à ponteira á aquecimento para a remoção desta camada de oxido e então estando a mesma pronta para uso.
+
+Aplicações do KPFM
+As aplicações desta microscopia permitiram uma grande evolução no estudo de nanoestruturas e sub-nanoestruturas assim como superfícies de semicondutores e cristais iônicos.
+Abaixo temos uma imagem em resolução atômica de um cristal de Brometo de potássio (KBr) em seu plano cristalográfico (001), é visível o arranjo ordenado dos átomos no reticulado cristalino.
+
+Uma das áreas mais importantes atualmente é a nanotecnologia na área de catalisadores. A elevada razão superfície sobre o volume das mesmas confere propriedades únicas de condução eletrônica e desta forma pesquisas nesta área de catalisadores heterogêneos contendo nanopartículas vem avançando bastante.
+Nanopartículas de ouro devido a sua grande área superficial e estabilidade tem sido pesquisadas como possíveis catalisadores sobre matrizes de InSb. O uso da técnica KPFM permite analisar os dados físicos não só como a dispersão pela topografia das partículas sobre a matriz. A imagem abaixo mostra na região superior a topografia das nanopartículas de ouro e a região inferior mostra os dados da função trabalho.
+
+Outra função desta modalidade de microscopia consiste na visualização de defeitos em superfícies cristalinas, permitindo assim a detecção de vacâncias (defeitos) em superfícies semicondutoras de silício como mostrado abaixo.
+
+As aplicações desta microscopia não se resumem á materiais não orgânicos. Aplicações biológicas também são possíveis e podem determinar o potencial de superfície de diversas biomoléculas o que é de grande interesse para o estudo entre de suas interações. Como exemplo, em um trabalho foi obtida a imagem topográfica e os dados de potenciais de superfície de uma molécula de DNA em uma superfície de mica. Conforme a imagem abaixo, a topografia é mostrada na imagem superior e o potencial de superfície é mostrado na imagem abaixo onde pode ser observada a natureza negativa do potencial de superfície de uma molécula de DNA.

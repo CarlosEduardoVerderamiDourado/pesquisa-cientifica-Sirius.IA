@@ -1,0 +1,39 @@
+Blaise de Vigenère
+
+Blaise de Vigenère (5 de abril de 1523 – 19 de fevereiro de 1596) (fr) foi um diplomata francês, criptógrafo, tradutor e alquimista.
+
+Biografia
+Vigenère nasceu em uma família de prestígio na vila de Saint-Pourçain-sur-Sioule no Bourbonês. Quando tinha 12 anos, seu pai, Jehan (grafia moderna Jean) de Vigenère, organizou para que ele recebesse uma educação clássica em Paris. Matriculado na universidade aos 14, abandonou os estudos depois de três anos sem um diploma conhecido.
+De 1539 até por volta de 1545, ele trabalhou com Gilbert Bayard, primeiro secretário do Rei Francisco I, que possuía feudos no Bourbonês.
+Em 1545, ele acompanhou o enviado francês Louis Adhémar de Monteil, Conde de Grignan, à Dieta de Worms, como secretário júnior. Após a ruptura da dieta, ele viajou pela Europa.
+Em 1547, ele deixou a corte e entrou a serviço da Casa de Nevers. Ficaria associado a ela até pelo menos um ano antes de sua morte em 1596. Inicialmente, foi secretário de François I, Duque de Nevers, posição que manteve até a morte do duque e de seu filho em 1562. Uma carta de julho de 1593 revela que ele também foi secretário de Luís de Gonzaga (que se tornou Duque de Nevers pelo casamento com a filha de François I, Henriette de Clèves, em 1565) e foi tutor do filho de Luís (nascido em 1580).
+
+Em 1549, ele fez sua primeira viagem à Itália, em especial a Roma. Não se sabe quem foi seu protetor na ocasião, que durou de três a quatro anos, mas um de seus biógrafos, Maurice Sarazin, sugeriu que pode ter sido o Cardeal de Tournon, um célebre diplomata e amigo das artes. Ele retornaria a Roma em 1566 por mais três anos. Durante suas estadias, examinou todos os edifícios antigos e ampliou seu conhecimento sobre a Antiguidade. Em seu livro de 1586, Traicté des chiffres ou secretes manières d'escrire, ele escreveu:em Roma, fiz tudo o que foi possível — conversando com homens eruditos versados na Antiguidade Romana, visitando e revisitando os relevos em mármore, bronzes, medalhas e camafeus antigos, dos quais se poderia extrair conhecimento e instrução — mas não consegui restaurar nada. Após a morte de François II, Duque de Nevers, em 1562, Vigenère retomou seus estudos. Recebeu aulas de Adrianus Turnebus e de Jean Dorat e aprendeu grego e hebraico.
+Em 1566, a rainha-mãe, Catarina de Médici, enviou Vigenère a Roma, onde foi secretário sob Juste de Tournon, o embaixador de seu filho, o Rei Carlos IX. Em dezembro daquele ano, ela enviou uma carta a Tournon, solicitando que Vigenère respondesse a uma proposta feita pelo secretário do idoso rei da Polônia, Sigismundo Augusto Jagellon, que não tinha filhos. Aparentemente, o secretário propusera que o rei polonês nomeasse seu filho Henrique (o Duque de Anjou e futuro Rei Henrique III da França) como sucessor. Ela especificou que Vigenère deveria entrevistar verbalmente o diplomata polonês, verificando a autenticidade da proposta, e depois facilitar a ideia, tudo sem revelar que fora autorizado por ela. Nove anos depois, Vigenère descreveu esse incidente em detalhes em seu livro La description du Royaume de Poloigne, sem mencionar seu próprio nome ou revelar que poderia ter guardado segredos.
+Durante essa segunda estadia na Itália, Vigenère também visitou outras cidades italianas, notadamente Veneza e Florença.
+Em 1570, aos 47 anos, Vigenère aposentou-se de viajar e se estabeleceu em Paris para se dedicar à escrita. Ele doou sua renda anual de 1.000 libras aos pobres em Paris. Casou-se com Marie Varé em 24 de julho de 1570.
+Faleceu de câncer na garganta em 1596 e foi sepultado na igreja de Saint-Étienne-du-Mont.
+
+Cifra de Vigenère
+
+Nas viagens de Vigenère à Itália, ele leu livros sobre criptografia e teve contato com criptólogos. Giovan Battista Bellaso descreveu um método de cifragem em seu livro de 1553 La cifra del. Sig. Giovan Battista Belaso, publicado em Veneza em 1553, o qual, no século XIX, foi atribuído erroneamente a Vigenère e passou a ser amplamente conhecido como a “Cifra de Vigenère”. Em 1567 e 1568, Vigenère criou uma cifra autológica diferente e mais forte (autokey cipher), que ele publicou em 1586 em seu livro Traicté des chiffres ou secrètes manières d'escrire (Tratado sobre Cifras ou Maneiras Secretas de Escrever). Ela difere do método de Bellaso de várias maneiras:
+
+Bellaso usava uma “tabela recíproca” de cinco alfabetos; Vigenère empregava dez;
+A cifra de Bellaso era baseada na primeira letra da palavra; a de Vigenère usava uma letra combinada antes da comunicação.
+
+Obras
+Após sua aposentadoria, Vigenère compôs e traduziu mais de 20 livros, incluindo:
+
+1573: Les Chroniques et annales de Poloigne. Paris: Jean Richer. Disponível em Gallica.
+1573: La description du royaume de Poloigne, & pays adjacens : avec les statuts, constitutions, moeurs, & façon de faire d'iceux. Paris: Jean Richer. Cópia digital disponível na Universidade de Utrecht.
+1576: La somptueuse et magnifique entrée du roi Henri III en la cité de Mantoue. Paris: Nicolas Chesneau. (Inclui uma descrição da Mântua contemporânea.)
+1578: Traicté des Cometes ou estoilles chevelues, apparoissantes extraordinairement au ciel, avec leurs causes et effects, par Bl. de Vigere. Disponível em Gallica.
+1582: Les Commentaires de César, des guerres de la Gaule. Mis en françois par Blaise de Vigenère, Secretaire de la Chambre du Roy. Avec quelques annotations dessus.
+1583: Les Décades qui se trouvent de Tite-Live, mises en langue francoise avec des annotations & figures pour l'intelligence de l'antiquité romaine, plus une description particulière des lieux : & une chronologie generale des principaux potentats de la terre. Paris: Abel L'Angelier, 1583 e 1606.
+1584: Les commentaires de Cesar, des Guerres de la Gaule. Mise en francois par Blaise de Vigenere. Bourbonnois : revues et corrigez par luy-mesme en cette derniere edition. Avec quelques annotations dessus. 1584.
+1585: L'histoire de Geoffroy de Villehardouyn, mareschal de Champagne & de Romenie : de la conqueste de Constantinople par les barons Francois associez aux Venitiens, l'an 1204 d'vn costé en son vieil langage, & de l'autre en vn plus moderne & intelligible. Paris: Abel Langelier, 1585. Tradução de De la Conquête de Constantinople do francês antigo original.
+1586: Traicté des chiffres ou secrètes manières d'escrire. Disponível em Gallica.
+1588: Le psaultier de David torne en prose mesuree, ou vers libres. Par Blaise de Vigenère, Bourbonnois. Paris: Abel L'Angelier.
+Le psaultier de David: torné en prose mesurée ou vers libres, vol. 2 de Le psaultier de David: torne en prose mesurée ou vers libres, edição de 1588, Pascale Blum-Cuny, ed., Le Miroir volant, 1991.
+1597: Les images, ou Tableaux de platte peinture de Philostrate Lemnien,... mis en françois par Blaise de Vigénère,... avec des arguments et annotations sur chacun d'iceux... Edition nouvelle reveue corrigee et augmentee de beaucoup par le traslateur. Paris: Abel Langelier, 1597; Tournon: Claude Michel, 1611. Tradução da obra de Filóstrato de Lemnos; disponível em Gallica.
+1618: Traicté du Feu et du Sel. Excellent et rare opuscule du sieur Blaise de Vigenère Bourbonnois, trouvé parmy ses papiers après son decés. Primeira ed., 1608. Paris: Abel Langelier, 1618. Rouen: Jacques Calloué, 1642. Um livro sobre alquimia; disponível em Gallica.

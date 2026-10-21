@@ -1,0 +1,155 @@
+Geometria não comutativa
+
+Geometria não comutativa (GNC) é um ramo da matemática voltado para uma abordagem geométrica de álgebras não comutativas, e para a construção de espaços que são localmente apresentados por álgebras não comutativas de funções, possivelmente em algum sentido generalizado. Uma álgebra não comutativa é uma álgebra associativa em que a multiplicação não é comutativa, isto é, para a qual 
+ 
+ 
+ 
+ x
+ y
+ 
+ 
+ 
+ 
+ nem sempre é igual a 
+ 
+ 
+ 
+ y
+ x
+ 
+ 
+ 
+ 
+; ou, de maneira mais geral, uma estrutura algébrica em que uma das principais operações binárias não é comutativa; também se permitem estruturas adicionais, por exemplo topologia ou norma, que podem ser carregadas pela álgebra não comutativa de funções.
+Uma abordagem que fornece uma compreensão profunda dos espaços não comutativos é através das álgebras de operadores, isto é, álgebras de operadores lineares limitados sobre um espaço de Hilbert. Talvez um dos exemplos típicos de espaço não comutativo seja o toro não comutativo, que desempenhou um papel central no desenvolvimento inicial desse campo na década de 1980 e levou a versões não comutativas de fibrados vetoriais, conexões, curvatura, etc.
+
+Motivação
+A principal motivação é estender a dualidade comutativa entre espaços e funções ao contexto não comutativo. Em matemática, espaços, que são de natureza geométrica, podem ser relacionados a funções numéricas sobre eles. Em geral, tais funções formam um anel comutativo. Por exemplo, pode-se tomar o anel C(X) de funções contínuas complexas sobre um espaço topológico X. Em muitos casos (por exemplo, se X é um espaço compacto de Hausdorff), podemos recuperar X a partir de C(X), e portanto faz algum sentido dizer que X tem topologia comutativa.
+Mais especificamente, em topologia, espaços topológicos compactos de Hausdorff podem ser reconstruídos a partir da álgebra de Banach de funções sobre o espaço (Gelfand–Naimark). Em geometria algébrica comutativa, esquemas algébricos são localmente espectros primos de anéis unitários comutativos (A. Grothendieck), e todo esquema quase-separado 
+ 
+ 
+ 
+ X
+ 
+ 
+ 
+ 
+ pode ser reconstruído, a menos de isomorfismo de esquemas, a partir da categoria de feixes quase-coerentes de 
+ 
+ 
+ 
+ 
+ O
+ 
+ X
+ 
+ 
+ 
+ 
+ 
+ 
+-módulos (P. Gabriel–A. Rosenberg). Para topologias de Grothendieck, as propriedades cohomológicas de um sítio são invariantes da correspondente categoria de feixes de conjuntos vista abstratamente como um topos (A. Grothendieck). Em todos esses casos, um espaço é reconstruído a partir da álgebra de funções ou de sua versão categorizada — alguma categoria de feixes nesse espaço.
+Funções sobre um espaço topológico podem ser multiplicadas e somadas ponto a ponto, de modo que formam uma álgebra comutativa; de fato, essas operações são locais na topologia do espaço de base, de modo que as funções formam um feixe de anéis comutativos sobre a base.
+O ideal da geometria não comutativa é generalizar essa dualidade para uma dualidade entre álgebras não comutativas, ou feixes de álgebras não comutativas, ou estruturas algébricas ou operador-algébricas não comutativas do tipo feixe, e entidades geométricas de certos tipos, e fornecer uma interação entre a descrição algébrica e a geométrica dessas entidades por meio dessa dualidade.
+Como os anéis comutativos correspondem aos esquemas afins usuais, e as álgebras C* comutativas aos espaços topológicos usuais, a extensão para anéis e álgebras não comutativos exige uma generalização não trivial dos espaços topológicos como “espaços não comutativos”. Por essa razão, às vezes se fala em topologia não comutativa, embora o termo também tenha outros significados.
+
+Aplicações na física matemática
+Há uma influência da física na geometria não comutativa. A esfera difusa tem sido usada para estudar o surgimento da simetria conformal no modelo de Ising tridimensional.
+
+Motivação a partir da teoria ergódica
+Parte da teoria desenvolvida por Alain Connes para tratar a geometria não comutativa em nível técnico tem raízes em tentativas mais antigas, em particular na teoria ergódica. A proposta de George Mackey de criar uma teoria de subgrupos virtuais, segundo a qual ações de grupo ergódicas se tornariam espaços homogêneos de um tipo ampliado, foi hoje absorvida pelo campo.
+
+Álgebras C* não comutativas e álgebras de von Neumann
+Os duais (formais) de não comutativas álgebras C* são frequentemente chamados de espaços não comutativos. Isso é análogo à representação de Gelfand, que mostra que álgebras C* comutativas são duais a espaços localmente compactos de Hausdorff. Em geral, pode-se associar a qualquer álgebra C* S um espaço topológico S; ver espectro de uma álgebra C*.
+Para a dualidade entre espaço de medidas localizáveis e álgebras de von Neumann comutativas, álgebras de von Neumann não comutativas são chamadas de espaços de medida não comutativos.
+
+Variedades diferenciáveis não comutativas
+Uma variedade riemanniana suave M é um espaço topológico com muita estrutura extra. A partir de sua álgebra de funções contínuas C(M), recuperamos M apenas topologicamente. O invariante algébrico que recupera a estrutura riemanniana é um triplo espectral. Ele é construído a partir de um fibrado vetorial suave E sobre M, por exemplo o fibrado da álgebra exterior. O espaço de Hilbert L2(M, E) das seções quadrado-integráveis de E carrega uma representação de C(M) por operadores de multiplicação, e consideramos um operador não limitado D em L2(M, E) com resolvente compacto (por exemplo o operador assinatura), tal que os comutadores [D, f] sejam limitados sempre que f for suave. Um teorema profundo afirma que M, como variedade riemanniana, pode ser recuperada a partir desses dados.
+Isso sugere que se poderia definir uma variedade riemanniana não comutativa como um triplo espectral (A, H, D), consistindo de uma representação de uma álgebra C* A em um espaço de Hilbert H, juntamente com um operador não limitado D em H, com resolvente compacto, tal que [D, a] seja limitado para todo a em alguma subálgebra densa de A. A pesquisa em triplos espectrais é muito ativa, e muitos exemplos de variedades não comutativas foram construídos.
+
+Esquemas afins e projetivos não comutativos
+Em analogia com a dualidade entre esquemas afins e anéis comutativos, define-se uma categoria de esquemas afins não comutativos como o dual da categoria dos anéis unitários associativos. Existem certos análogos da topologia de Zariski nesse contexto, de modo que se podem colar esses esquemas afins para obter objetos mais gerais.
+Também há generalizações do cone e do Proj de um anel graduado comutativo, imitando um teorema de Serre sobre Proj. A saber, a categoria de feixes quase-coerentes de O-módulos em um Proj de uma álgebra graduada comutativa é equivalente à categoria de módulos graduados sobre o anel localizado na subcategoria de Serre dos módulos graduados de comprimento finito; há também um teorema análogo para feixes coerentes quando a álgebra é noetheriana. Esse teorema é ampliado como definição de geometria projetiva não comutativa por Michael Artin e J. J. Zhang, que acrescentam também algumas condições gerais da teoria dos anéis (por exemplo, regularidade de Artin–Schelter).
+Muitas propriedades dos esquemas projetivos se estendem a esse contexto. Por exemplo, existe um análogo da célebre dualidade de Serre para esquemas projetivos não comutativos de Artin e Zhang.
+A. L. Rosenberg criou um conceito relativo bastante geral de esquema quase-compacto não comutativo (sobre uma categoria base), abstraindo o estudo de Grothendieck sobre morfismos de esquemas e coberturas em termos de categorias de feixes quase-coerentes e functores de localização plana. Há também outra abordagem interessante via teoria da localização, devida a Fred Van Oystaeyen, Luc Willaert e Alain Verschoren, em que o conceito principal é o de álgebra esquemática.
+
+Invariantes para espaços não comutativos
+Algumas das questões motivadoras da teoria dizem respeito à extensão de invariantes topológicos conhecidos aos duais formais de álgebras (de operadores) não comutativas e a outros substitutos e candidatos a espaços não comutativos. Um dos principais pontos de partida da direção de Alain Connes na geometria não comutativa é sua descoberta de uma nova teoria de homologia associada a álgebras associativas não comutativas e álgebras de operadores não comutativas, a saber, a homologia cíclica e suas relações com a K-teoria algébrica (principalmente via a aplicação caráter de Connes–Chern).
+A teoria das classes características de variedades suaves foi estendida a triplos espectrais, empregando as ferramentas da K-teoria de operadores e da cohomologia cíclica. Várias generalizações de teoremas do índice hoje clássicos permitem extrair efetivamente invariantes numéricos de triplos espectrais. A classe característica fundamental na cohomologia cíclica, o cociclo JLO, generaliza o caráter de Chern clássico.
+
+Exemplos de espaços não comutativos
+Na formulação em espaço de fase da mecânica quântica, o espaço de fase simplético da mecânica clássica é deformado em um espaço de fase não comutativo gerado pelos operadores de posição e momento.
+O toro não comutativo, deformação da álgebra de funções do toro ordinário, pode receber a estrutura de um triplo espectral. Essa classe de exemplos foi estudada intensamente e ainda funciona como caso-teste para situações mais complicadas.
+Espaço de Snyder
+Álgebras não comutativas que surgem de folheações.
+Exemplos relacionados a sistemas dinâmicos oriundos da teoria dos números, como o deslocamento de Gauss em frações contínuas, dão origem a álgebras não comutativas que parecem ter geometrias não comutativas interessantes.
+
+Conexão
+
+No sentido de Connes
+Uma conexão de Connes é uma generalização não comutativa de uma conexão em geometria diferencial. Ela foi introduzida por Alain Connes, e posteriormente generalizada por Joachim Cuntz e Daniel Quillen.
+
+Definição
+Dado um A-módulo à direita E, uma conexão de Connes em E é uma aplicação linear
+
+ 
+ 
+ 
+ 
+ :
+ E
+ 
+ E
+ 
+ 
+ 
+ A
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ 
+ A
+ 
+ 
+ 
+ 
+
+que satisfaz a regra do produto de Leibniz 
+ 
+ 
+ 
+ 
+ 
+ 
+ r
+ 
+ 
+ (
+ s
+ a
+ )
+ =
+ 
+ 
+ 
+ r
+ 
+ 
+ (
+ s
+ )
+ a
+ +
+ s
+ 
+ d
+ a
+ 
+ 
+ 
+ 
+.

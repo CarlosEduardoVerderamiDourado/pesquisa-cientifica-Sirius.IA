@@ -1,0 +1,51 @@
+Pedro Nunes
+
+Pedro Nunes (Alcácer do Sal, 1502 — Coimbra, 11 de agosto de 1578), com o nome latinizado Petrus Nonius, foi um matemático português que ocupou o cargo de cosmógrafo-mor no Reino de Portugal. Foi um dos maiores vultos científicos do seu tempo. Contribuiu decisivamente para o desenvolvimento da navegação teórica, tendo-se dedicado, entre outros, aos problemas matemáticos da cartografia. Foi ainda inventor de vários instrumentos de medida, incluindo o "anel náutico", o "instrumento de sombras", e o nónio (nonius, o seu sobrenome em latim).
+
+Biografia
+Pedro Nunes nasceu em 1502, na zona de Alcácer do Sal, segundo indicação do próprio em passagens da sua obra publicada.
+Em 1537 publicou o seu primeiro trabalho. Nele estavam incluídas as traduções para a língua portuguesa do Tratado da Esfera de João de Sacrobosco (1537); do Livro I da Geografia de Ptolomeu; dos capítulos do Sol e da Lua das Teoricae novae planetarum de Jorge Purbáquio. O autor incluiu ainda dois tratados originais sobre teoria de navegação nesta edição – Tratado que ho doutor Pêro nunez fez sobre certas duuidas de nauegação: dirigido a el Rey nosso senhor e o Tratado que ho doutor pêro nunez Cosmographo del Rey nosso senhor fez em defensam da carta de marear: cõ o regimento da altura. Nestes dois tratados originais foram usadas, pela primeira vez, ferramentas matemáticas para resolver problemas de navegação.
+Em 1544 foi-lhe confiada a cátedra de matemática da Universidade de Coimbra, a maior distinção que se podia conferir, no país, à época, a um matemático.
+De possível origem judaica, o seu prestígio foi tal que, não obstante a sua ascendência, não foi importunado pela inquisição. Os seus netos, Matias Pereira e Pedro Nunes Pereira, todavia, foram detidos, interrogados e condenados pelo Santo Ofício, sob a acusação de judaísmo. O primeiro esteve detido de 31 de Maio de 1623 a 4 de Junho de 1631; o segundo, em Lisboa, de 6 de Junho de 1623 a 1632.
+Iniciou os estudos universitários em 1517, tendo ingressado na Universidade de Salamanca e na Universidade de Lisboa (que mais tarde veio a ser transferida para Coimbra, transformando-se na Universidade de Coimbra) onde obteve a graduação em medicina em 1525. No século XVI a Medicina recorria à Astrologia, vindo assim a dominar as disciplinas de Astronomia e Matemática. Posteriormente prosseguiu os seus estudos de Medicina, mas também leccionou várias disciplinas na Universidade de Lisboa, incluindo Moral, Filosofia, Lógica e Metafísica. Quando, em 1537, a universidade retornou para Coimbra, ele transferiu-se para a refundada Universidade de Coimbra para lecionar matemática, cargo que manteve até 1562. À época, esta era uma disciplina nova naquela instituição, tendo sido criada com o intuito de fornecer as instruções técnicas necessárias para a navegação, que se tornara um tópico vital no país, à época. A matemática tornou-se uma disciplina independente em 1544.
+Além de se dedicar ao ensino, foi nomeado Cosmógrafo Real em 1529 e tornou-se o primeiro Cosmógrafo-mor do Reino em 1547, cargo que exerceu até seu falecimento, e onde foi sucedido por Tomás de Orta.
+Em 1531, João III de Portugal deu-lhe o encargo de aio, encarregando-o da educação dos seus irmãos mais novos Luís e Henrique. Anos depois, foi também responsável pela educação do neto do rei (e futuro rei), Sebastião.
+É possível que durante a sua estadia em Coimbra, Christopher Clavius tenha assistido às aulas de Pedro Nunes, sendo assim influenciado pelo seu trabalho.
+
+Contribuições
+
+Pedro Nunes viveu num período de transição, onde a ciência mudou de uma índole teórica (e onde o principal papel dos cientistas era comentar os trabalhos dos autores precedentes), para a provisão de dados experimentais, ambos como forma de informação e método de confirmar as teorias existentes. Nunes foi, acima de tudo, um dos últimos grandes comentadores, como mostra o seu primeiro trabalho publicado, mas também reconhecia a importância da experimentação.
+Nunes acreditava que o conhecimento científico devia ser partilhado. Assim, o seu trabalho original foi impresso em três línguas diferentes: português, latim - para atingir a comunidade académica europeia -, e ainda um (Livro de algebra en arithmetica y geometria) em castelhano, o que foi considerado surpreendente por alguns historiadores, dado que a Castela era então o principal adversário de Portugal no domínio dos mares.
+Muito do seu trabalho está relacionado com a navegação. Foi ele o primeiro a perceber por que um navio que mantivesse uma rota fixa não conseguiria navegar através de uma circunferência, o caminho mais curto entre dois pontos na terra, mas deveria antes seguir a "linha de rumo" por um rota em espiral chamada loxodrómica. A posterior invenção dos logaritmos permitiram a Gottfried Leibniz estabelecer a equação algébrica para a loxodrómica.
+No seu Tratado em Defensão da Carta de Marear, 300 anos antes de Mauritus Cornelius Escher, argumenta que uma carta náutica deveria ter circunferências paralelas e meridianos desenhados como linhas rectas. Ele também mostrava-se capaz de resolver todos os problemas que isto causava, uma situação que durou até Gerardo Mercator desenvolver a chamada "projecção de Mercator", sistema que é usado até hoje.
+É no mesmo "Tratado de Defensão da Carta de Marear" que Pedro Nunes exalta as navegações portuguesas: "E fizeram o Mar tão chão, que não há hoje quem ouse dizer que achasse novamente alguma pequena Ilha, alguns Baixos ou sequer algum Penedo, que por nossas navegações não seja já descoberto".
+
+Nunes debruçou-se sobre vários problemas práticos de navegação respeitantes à correcção da rota, ao mesmo tempo que tentava desenvolver métodos mais precisos para determinar a posição de um navio. Os seus métodos para determinar as latitudes e corrigir os desvios das agulhas magnéticas foram empregados com sucesso por D. João de Castro nas suas viagens a Goa e ao mar Vermelho.
+Ele criou o nónio para melhorar a precisão dos instrumentos. A sua adaptação ao quadrante foi utilizada por Tycho Brahe que, contudo, o considerava demasiado complexo. Mais tarde foi aperfeiçoado por Pierre Vernier para a sua forma actual.
+Pedro Nunes também trabalhou em diversos problemas mecânicos, de um ponto de vista matemático. Ele foi provavelmente o último grande matemático a fazer aperfeiçoamentos significativos ao sistema de Ptolomeu (um modelo geocêntrico), contudo isso perdeu importância devido ao novo modelo de Nicolau Copérnico, o heliocêntrico, que o substituiu. Isso não invalida que não tivesse sido um leitor atento do De revolutionibus orbium coelestium de Copérnico, tendo feito algumas referências sobre aspectos matemáticos desse trabalho nas suas Opera (1566). 
+Ele também resolveu o problema de encontrar o dia com o menor crepúsculo, para qualquer posição, bem como a sua duração. Este problema per se não teria grande importância, mas serve para demonstrar o génio de Nunes, usado mais de um século depois por Johann e Jakob Bernoulli com menos sucesso. Eles conseguiram encontrar a solução para o menor dia, mas não conseguiram determinar a sua duração, possivelmente porque perderam-se em detalhes de cálculo diferencial, que era um campo recente da matemática naquele tempo. Isto também mostra que Pedro Nunes era um pioneiro na resolução de problemas de máximos e mínimos, que só se popularizaram no século seguinte, com o uso do referido cálculo diferencial.
+Entre 1940 e 1960 a Academia de Ciências de Lisboa levou a cabo a primeira tentativa de publicação moderna da totalidade das obras de Pedro Nunes. Esse projecto não foi concluido, tendo sido retomado em 2002, pela mesma instituição, com apoio da Fundação Calouste Gulbenkian.
+
+Obras
+
+Traduções comentadas e expandidas
+Tratado da sphera com a Theorica do Sol e da Lua (Tratado sobre a Esfera acerca a teoria do Sol e da Lua), (1537).
+Tractatus de Sphaera por Johannes de Sacrobosco
+Theoricae novae planetarum por Georg Purbach
+Geographia por Claudius Ptolemaeus.
+
+Trabalhos originais
+Tratado em defensão da carta de marear (1537)
+Tratado sobre certas dúvidas da navegação (1537)
+De crepusculis (Sobre o Crepúsculo) (1542)
+De erratis Orontii Finei (Sobre os erros de Orontii Finei) (1546)
+Petri Nonii Salaciensis Opera, (1566). Expandido, corrigido e reeditado como De arte adque ratione navigandi em 1573.
+Livro de algebra en arithmetica y geometria (1567)
+
+Homenagens
+Foram impressas duas notas de 100$00 Chapas 6 e 6A de Portugal e foi cunhada uma moeda de 100$00 de Portugal com a sua imagem.
+O asteróide 5313 Nunes foi batizado em sua honra.
+Existe uma escola na Estrela, em Lisboa, com o seu nome (Liceu Pedro Nunes ou Escola Secundária Pedro Nunes). O blogue da escola chama-se Nónio Blog, também em honra do instrumento criado por Pedro Nunes.
+A Tap Portugal possui em sua frota uma aeronave denominada "Pedro Nunes". Trata se de um Airbus A330-202 de matrícula CS-TOP.
+Em Alcácer do Sal, foi dado ao Museu Municipal (que expõe o espólio arqueológico descoberto no concelho), o nome de Pedro Nunes.
+A Europlanet Society Iberia atribui anualmente, desde 2023, o prémio "Pedro Nunes", à melhor Dissertação de Mestrado Ibérica em Ciências e Exploração Planetárias.

@@ -1,0 +1,29 @@
+Glyptagnostus reticulatus
+
+Glyptagnostus reticulatus is a species of agnostid trilobite belonging to the genus Glyptagnostus. It existed during the Paibian Age (497 million years ago) of the Cambrian. It has a cosmopolitan distribution and is an important index fossil in biostratigraphy. It was characterized by an unusual net-like pattern of furrows on both the cephalon and the pygidium.
+
+Description
+Like all members of the suborder Agnostida, Glyptagnostus reticulatus is completely blind and only has two thoracic segments. The cephalon and pygidium are more or less the same size and shape (isopygous). The glabella of the cephalon has two lobes. The front lobe is roughly squarish in shape, while the rear lobe is elongated and split along the middle. The cephalon has a narrow well-defined border. The pygidium has a long tapering central axis which can be divided into three lobes. The axis is connected to the rear margin by a central furrow. At both sides of the axis are a row of four or more pits. The border of the pygidium is also well-defined, widening towards the back, and with short, backward facing marginal spines.
+Like other members of the genus, the cephalon always exhibits a pair of kidney-shaped lumps next to the front glabellar lobe. Both the cephalon and the pygidium are highly ornamented with radiating patterns of furrows, resembling a net. The patterns are not perfectly bilaterally symmetrical and can vary between different individuals in the species. They can be distinguished from other members of the genus by irregular patterns of cross furrows that connect the radial furrows. The third pygidial axial lobe is longer than half the length of the second pygidial axial lobe.
+Three subspecies were previously proposed for Glyptagnostus reticulatus:
+
+Glyptagnostus reticulatus reticulatus (Angelin, 1851)
+Glyptagnostus reticulatus angelini (Resser, 1938)
+Glyptagnostus reticulatus nodulosus Westergård, 1947
+Two of the subspecies, Glyptagnostus reticulatus reticulatus and Glyptagnostus reticulatus angelini, were proposed by the American paleontologist Allison R. Palmer in 1962. The third subspecies, Glyptagnostus reticulatus nodulosus was proposed by the Swedish paleontologist Anton Hilmar Westergård in 1947, but it has generally not been accepted by other authors. 
+
+According to Palmer, Glyptagnostus reticulatus angelini can be distinguished from the nominate subspecies Glyptagnostus reticulatus reticulatus by a third (distal) pygidial axial lobe that is less than 7/10th of the length of the second lobe. Glyptagnostus reticulatus angelini also has poorly developed longitudinal furrows outlining the pygidial axis and a variable degree of reticulation. Glyptagnostus reticulatus reticulatus, in contrast, has well-developed longitudinal furrows surrounding the pygidial axis and strongly reticulate patterns (though they are less convex).
+The Australian paleontologist James B. Jago, however, questioned Palmer's diagnoses in 1973, noting that the differences in the lengths of the pygidial axial lobes used by Palmer to separate the subspecies, depended on minute differences. He also noted that Palmer acknowledged a complete evolutionary gradation between the two subspecies, and thus doubted the utility of establishing formal diagnoses for both. Nevertheless, Palmer's subspecies remained commonly used throughout much of the 20th century, with Glyptagnostus reticulatus reticulatus being used for strongly reticulate specimens and Glyptagnostus reticulatus angelini for those with weaker reticulation.
+In 2000, the Chinese paleontologist Shanchi Peng and the American paleontologist Richard A. Robison synonymized all subspecies previously described as merely morphotypes, with individuals exhibiting weaker reticulation stratigraphically younger than individuals with stronger reticulation.
+
+Taxonomy
+
+Glyptagnostus reticulatus was first described by the Swedish paleontologist Nils Peter Angelin in 1851 as Agnostus reticulatus. It became the type species of the genus Glyptagnostus under the synonym Glyptagnostus toeruma, established by the Australian geologist Frederick William Whitehouse in 1936. Westergård recognized G. toeruma as a synonym in 1947. As such, Agnostus reticulatus is now accepted under the combination Glyptagnostus reticulatus.
+The species was also originally considered as the type species of the genus Ptychagnostus, established by the German paleontologist Otto Jaekel in his paper Über die Agnostiden (1909). But because of a printing error, Agnostus punctuosus was instead made to appear as if it was the intended type species. The mistake was discovered, but by then the usage of the genera had already stabilized. The genus Ptychagnostus was retained as if Jaekel described it with Agnostus punctuosus as the type species, while Glyptagnostus remains valid.
+Glyptagnostus reticulatus is classified under the genus Glyptagnostus of the family Glyptagnostidae. The generic name is derived from Ancient Greek (glyptos, 'engraved') and (ágnostos, "unknown"). The specific name is derived from Latin reticulatus ('net-like').
+
+Distribution
+Glyptagnostus reticulatus has a cosmopolitan distribution. It has been described from Antarctica, Argentina, Australia, Canada, China, Denmark, Kazakhstan, Norway, Russia, South Korea, Sweden, the United Kingdom, and the United States.
+
+Biostratigraphy
+Glyptagnostus reticulatus is used in biostratigraphy as an index fossil. Its first appearance at the GSSP section of the Huaqiao Formation in Hunan, China is defined as the beginning of the Paibian Age (around 497 million years ago) and of the Furongian Epoch (Upper Cambrian).

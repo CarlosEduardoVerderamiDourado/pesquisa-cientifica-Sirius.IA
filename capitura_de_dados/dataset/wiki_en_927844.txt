@@ -1,0 +1,58 @@
+Java Authentication and Authorization Service
+
+Java Authentication and Authorization Service, or JAAS, pronounced "Jazz", is the Java implementation of the standard Pluggable Authentication Module (PAM) information security framework.
+JAAS was introduced as an extension library to the Java Platform, Standard Edition 1.3 and was integrated in version 1.4.
+JAAS has as its main goal the separation of concerns of user authentication so that they may be managed independently. While the former authentication mechanism contained information about where the code originated from and who signed that code, JAAS adds a marker about who runs the code. By extending the verification vectors JAAS extends the security architecture for Java applications that require authentication and authorization modules.
+
+Administration
+For the system administrator, JAAS consists of two kinds of configuration file:
+
+*.login.conf: specifies how to plug vendor-supplied login modules into particular applications
+*.policy: specifies which identities (users or programs) are granted which permissions
+For example, an application may have this login.conf file indicating how different authentication mechanisms are to be run to authenticate the user:
+
+ PetShopApplication {
+ com.sun.security.auth.module.LdapLoginModule sufficient;
+ com.foo.SmartcardLoginModule requisite;
+ com.sun.security.auth.module.UnixLoginModule required debug=true;
+ }
+
+Application interface
+For the application developer, JAAS is a standard library that provides:
+
+a representation of identity (Principal) and a set of credentials (Subject)
+a login service that will invoke your application callbacks to ask the user things like username and password. It returns a new Subject
+a service that tests if a Subject was granted a permission by an administrator.
+
+Security system integration
+For the security system integrator, JAAS provides interfaces:
+
+to provide your identity namespace to applications
+to attach credentials to threads (Subject)
+for developing login modules. Your module invokes callbacks to query the user, checks their response and generates a Subject.
+
+Login Modules
+Login modules are primarily concerned with authentication rather than authorization and form a widely used component of JAAS. A login module is required to implement the javax.security.auth.spi.LoginModule interface, which specifies the following methods:
+Note: A Subject is the user that is attempting to log in.
+
+initialize: Code to initialize the login module, usually by storing the parameters passed into appropriate fields of the Class.
+login: Actually check the credentials provided via an Object that implements the javax.security.auth.Callback interface (e.g. check against a database). This method could prompt the user for their login and password or it could use details previously obtained. If invalid credentials are supplied then a javax.security.auth.login.FailedLoginException should be thrown (rather than returning false, which indicates that this login module should be ignored, which potentially allows authentication to succeed).
+commit: The identity of the subject has been verified, so code in this method sets up the Principal and Groups (roles) for the successfully authenticated subject. This method has to be written carefully in enterprise applications as Java EE application servers often expect the relationships between the Principal and Group objects to be set up in a certain way. This method should throw a javax.security.auth.login.FailedLoginException if authentication fails (e.g. a user has specified an incorrect login or password).
+abort: Called if the authentication process itself fails. If this method returns false, then this Login Module is ignored.
+logout: Code that should be executed upon logout (e.g. could remove the Principal from the Subject or could invalidate a web session).
+Login modules can provide single sign on (SSO) via a particular SSO protocol/framework (e.g. SAML, OpenID, and SPNEGO), can check for the presence of hardware security tokens (e.g. USB token), etc. In an n-tier application, LoginModules can be present on both the client side and server side.
+
+LoginModule (javax.security.auth.spi.LoginModule)
+Login modules are written by implementing this interface; they contain the actual code for authentication. It can use various mechanisms to authenticate user credentials. The code could retrieve a password from a database and compare it to the password supplied to the module.
+
+LoginContext (javax.security.auth.login.LoginContext)
+The login context is the core of the JAAS framework which kicks off the authentication process by creating a Subject. As the authentication process proceeds, the subject is populated with various principals and credentials for further processing.
+
+Subject (javax.security.auth.Subject)
+A subject represents a single user, entity or system –in other words, a client– requesting authentication.
+
+Principal (java.security.Principal)
+A principal represents the face of a subject. It encapsulates features or properties of a subject. A subject can contain multiple principals.
+
+Credentials
+Credentials are nothing but pieces of information regarding the subject in consideration. They might be account numbers, passwords, certificates etc. As the credential represents some important information, the further interfaces might be useful for creating a proper and secure credential – javax.security.auth.Destroyable and javax.security.auth.Refreshable. Suppose that after the successful authentication of the user you populate the subject with a secret ID (in the form of a credential) with which the subject can execute some critical services, but the credential should be removed after a specific time. In that case, one might want to implement the Destroyable interface. Refreshable might be useful if a credential has only a limited timespan in which it is valid.

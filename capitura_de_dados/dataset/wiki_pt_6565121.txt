@@ -1,0 +1,171 @@
+Língua ngoni
+
+A Língua ngoni, também chamada de angoni ou kisutu - é uma língua banta, da família atlântico-congolesa, originada a partir dos múltiplos idiomas dos povos ngoni, descendentes dos povos nguni, da África Meridional. Atualmente, possui cerca de 300 mil falantes, distribuídos em países como Maláui, Zâmbia, Moçambique e Tanzânia.
+
+Situação Atual
+
+Classificação
+Pertence à família linguística Atlântico-Congolesa, mais especificamente do ramo banto.
+
+Status Oficial
+Segundo a Sociedade Internacional de Linguística, a língua ngoni é classificada como descontinuada, ou vulnerável, existindo inclusive pesquisas que indicam uma assimilação da língua suaíli ao ngoni, seja para suprir a inexistência de algumas palavras - surgidas com o advento de algumas tecnologias - no Angoni, como para substituir palavras existentes.
+
+Fonologia e Alfabeto
+A língua ngoni não possui um sistema de escrita específico, sendo utilizado, para a ortografia da língua, a proposta de Heidrun Kröger. O inventário fonético da língua é especificado como o indicado a seguir:
+
+Algumas combinações de grafemas devem ser destacadas por possuírem fonética diferente do português ou ausente nele, entre estes citamos:
+ng’- ng’ombe (vaca); como o n em gânglio [ggli]
+ny- kumenya (bater), como nh em Português
+j - kujomola (acabar), como “hia” em hiato
+
+Gramática
+
+Substantivo
+
+Gêneros ou Classes Semânticas e Flexão de Número
+É importante ressaltar que aos substantivo serão adicionados os prefixos nominais específicos, indicativos da classe a que pertence; no caso dos verbos, será adicionado um prefixo verbal, referente a classe nominal com a qual ele se relaciona.
+
+Classes Mu- e Va-
+Referem-se a seres humanos ou profissões, sendo mu- o indicativo nominal do singular (que varia como mw-, quando adicionado a radical vocálico). O prefixo nominal do plural varia entre va-, ka- e aka-.
+Para o verbo, tanto no singular como no plural utiliza-se o prefixo a- (a indicação do número poderá ser feita pela repetição da raiz verbal).
+Mundu ang’eng’ini mikongo 
+A pessoa cortou árvores
+Vandu ang’eng’ini mikongo
+As pessoas cortaram árvores
+Mwana ang’engini mikongo
+A criança cortou árvores
+
+Classes Mu- e Mi-
+Referem-se, em geral, a árvores. No singular, o prefixo nominal se expressa como mu- ou n-, no plural, utiliza-se mi-. Para essa classe, o prefixo verbal varia de acordo com o número, sendo u- para o singular e i- para o plural.
+Nkongo ung’ eng’ enigwi
+A árvore foi cortada
+Mikongo ing’ eng’ enigwi
+As árvores foram cortadas
+
+Classes Li- e Ma-
+Utiliza-se prefixo li- no singular e ma- no plural, essa classe indica - principalmente - “enxada”, além de alguns animais. Os prefixos verbais também são expressos por li- no singular e ma- ou ga- no plural.
+Ligwela ligwili
+A enxada caiu
+Magwela gagwili
+As enxadas cairam
+
+Classes Xi- e Hi-
+Os prefixos nominais são xi- para singular e hi- no plural, denotam frutas, objetos e animais. Os verbais podem ser dados por xi- ou x- (para radical vocálico) ,no singular, e y- (para radical vocálico) ou hi- no plural.
+Xindu xambone
+Coisa boa (ser bom)
+Hindu yambone
+Coisas boas
+
+Classes N-
+Não há distinção do prefixo nominal, a diferenciação verbal se dá por i- no plural e ji- no singular.
+Mbui jiwili
+O cabrito morreu
+Mbui iwili
+Os cabritos morreram
+
+Classe Pa
+Indica proximidade espacial ou temporal em relação ao substantivo, acrescenta-se o prefixo pa- ao prefixo nominal original da palavra.
+Mi panani litalau likôlongwa
+Estou em cima da rocha grande.
+
+Classe Ku
+Indica a direção ou a origem da ação expressa pelo verbo da oração. O prefixo ku- substitui o prefixo nominal original da palavra.
+Nyenda kungonda ukôlong’wa
+Vou à machamba grande
+
+Classe Mu- ou N-
+Indica a ocorrência do evento dentro do objeto a que se refere o nome, o prefixo mu- pode ser adicionado ao original ou substituí-lo. Mu- varia como N-, caso o substantivo seja iniciado com um som nasal.
+Mi nnyumba jikôlong’wa
+Estou dentro da casa grande
+
+Nomes derivados de verbos
+Para a nominalização do verbo, utiliza-se ku- para radicais iniciados por som consonantal, e kwa- para radicais iniciados por vogal. Para palavras derivadas de verbos com raízes iniciadas por k, g ou ng’, utiliza-se a variação u-.
+Os nomes kuhalaligwa (felicidade) e ukota (pergunta), por exemplo, são derivados de verbos, respectivamente, kuhalala (ser bom) e ukota (perguntar).
+
+Relações de Posse
+São utilizados prefixos para indicar relação possessiva, eles concordarão em classe e número com o objeto possuído, sendo a seguinte relação:
+
+Os pronomes possessivos sofrem variações de acordo com a classe nominal dos objetos, de acordo com o indicado abaixo:
+
+As relações de posse podem ser expressas, também, sem a utilização de pronomes, a partir da inserção de uma partícula de relação possessiva na frase - que cumprirá o papel atribuído, no português, às preposições - a qual varia de acordo com a classe nominal do primeiro nome, como exemplificado a seguir:
+
+Verbo
+O verbo é composto pelas seguintes partes:
+
+Prefixo do sujeito (1ª parte)
+Identifica o autor da ação expressa, por meio da afixação do verbo de acordo com a pessoa verbal utilizada como sujeito.
+Na primeira pessoa, o prefixo adicionado ao verbo, indicativo do sujeito, será n- para o singular e ti- para o plural. É importante ressaltar que algumas modificações no radical verbal podem se fazer necessárias, entre as quais podemos citar:
+Vozeamento
+Substitui-se a consoante não vozeada do radical verbal por uma consoante vozeada, segundo a seguinte associação:
+
+A título de exemplificação, cita-se o verbo “levar”, de raiz “tôla”. Na primeira pessoa do singular, o verbo é escrito como “ndôla”, devido ao fenômeno de vozeamento, o qual indica a troca do grafema t por d.
+Nasalização
+Substitui-se a consoante do radical verbal por uma consoante de som nasal, segundo a seguinte associação:
+
+Na segunda pessoa, não ocorrem fenômenos de vozeamento ou nasalização. O prefixo n- é utilizado para singular e plural.
+Na terceira pessoa, o prefixo do sujeito é a- para singular e plural.
+
+Marcação do Tempo (2ª parte)
+Indica o tempo no qual ocorre o evento expresso pelo verbo por intermédio da afixação do verbo. A diferenciação temporal ocorre em conjunto à definição do sujeito, apresentada anteriormente, sendo assim, o afixo temporal é adicionado sem substituir o afixo nominal (indicativo do sujeito), como exemplifica-se abaixo, em que o prefixo a- indica a terceira pessoa do singular.
+
+Prefixo do objeto (3ª parte)
+Faz referência ao objeto que sofre a ação, sendo a afixação indicativa apenas de pessoas que sofrem a ação (classes Mu- e Va-).
+
+A diferenciação entre singular e plural também poderá se fazer a partir da reduplicação do radical verbal.
+Ele te levará ----- tantole
+Ele vos levará ---- tantoletole
+
+Raíz verbal (4ª parte)
+
+Extensões verbais (5ª parte)
+As extensões verbais modificam o verbo ao qual são adicionadas, podendo ser adicionadas uma ou mais ao verbo. Seguem alguns exemplos:
+
+Vogal final (6ª parte)
+Dessa forma, os elementos verbais são escritos conjuntamente, podendo ser identificados segundo o exemplo:
+NAKANXOMEHA
+Eu lhe ensinava
+N - Prefixo de sujeito (indicativo da primeira pessoa do singular)
+AKA - Marcação de tempo (pretérito imperfeito)
+N - Prefixo de objeto (lhe)
+XOM - Radical
+EH - Extensão verbal (causativa)
+A - Vogal final
+É válido citar, também, que os verbos podem ser modificados por advérbios, os quais denotam modo, tempo ou lugar, além disso, essa classe gramatical é composta por palavras invariáveis. Para falantes, é comum substituir alguns advérbios por nomes os quais exprimem a mesma ideia, como nomes locativos, como “nnyumba” (dentro da casa), no lugar de advérbios de local, como “pamba” (aqui) ou “panja nyumba” (no exterior da casa).
+
+Adjetivo
+No Ngoni, dá-se preferência a utilizar verbos para expressar características as quais, no português, seriam denotadas por adjetivos, sendo denominada essa formação “adjetivo verbal”. O adjetivo verbal é composto a partir do infinitivo do verbo precedido pela partícula de relação entre a característica que ele exprime e o sujeito.
+Exemplos:
+Kuhalala ---- Ser bom/bonito
+Kuxokolela ---- Ser o primeiro
+Huhagamila ---- Estar cansado
+Kuvina ---- Estar doente
+O adjetivo nominal, por sua vez, segue a concordância determinada pelo sujeito que caracteriza, tendo, em muitos casos, o mesmo afixo que a classe do sujeito a que se refere.
+
+Vocabulário
+
+Pronomes e Expressões de tempo
+
+Texto na Língua Ngoni
+Lyôva ni mbôngo ngahimingana 
+Linjôva limu, lyôva ni mbôngo ngahimingana.
+Vavênava axokolela kunyokonyana kaxinyene mwene jukulimba muni.
+Nga hênu-hênu ahika munalôme jumu jwakalihinikila likoti.
+Vavêna’ nga pakubaliana apala kuve’ mwene jumakili muni jwapala kuwoha likoti lya munalôme jônojo.
+Jandanda kuhika mbôngo kupôga ni makili gaku goha.
+Pajihandamuka kupôga, munalôme atela’ ukwendelela kulivilingi’ mulikoti lyaku.
+Hênu nga lihika lyôva, ni lixokola ung’ala ni makili muni.
+Ukati uxopoki, munalôme ahunukwi’ likoti.
+Paupêtite kavêna ukati, ahula likoti.
+Hêno mbôngo nga jikubilaye kutenda lyôva lina makili muni kuliku jôno’.
+
+O sol e o vento norte
+Um dia, o sol e o vento norte encontraram-se.
+Os dois começaram a discutir entre si quem era o mais forte.
+Logo veio um homem embrulhado num manto.
+Os dois concordaram que seria o mais forte quem conseguisse tirar o casaco daquele homem.
+Primeiro veio o vento norte e soprou com toda força.
+Mas quanto mais soprou, tanto mais o homem se embrulhou no seu manto.
+A seguir veio o sol, e começou a brilhar com muita força.
+Depois de pouco tempo, o homem abriu o manto.
+Passado mais algum tempo, tirou o manto.
+Assim o vento norte teve que admitir que o sol era mais forte do que ele.

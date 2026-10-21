@@ -1,0 +1,52 @@
+Zero-cópia
+
+"Zero-cópia" descreve operações de computador nas quais a unidade de processamento central (CPU) não executa a tarefa de copiar dados de uma área da memória para outra ou nas quais cópias de dados desnecessárias são evitadas. Isso é frequentemente usado para economizar ciclos de unidade de processamento central (CPU) e largura de banda de memória em muitas tarefas demoradas , como ao transmitir um arquivo em alta velocidade em uma rede, etc., melhorando assim o desempenho de programas (processos) executados por um computador.
+
+Princípio
+Técnicas de programação de zero-cópia podem ser usadas ao trocar dados dentro de um processo do espaço do usuário (ou seja, entre dois ou mais threads, etc.) e/ou entre dois ou mais processos e/ou quando os dados precisam ser acessados / copiados / movidos dentro do espaço do núcleo (kernel) ou entre um processo do espaço do usuário e partes do espaço do núcleo (kernel) dos sistemas operacionais (OS).
+Normalmente, quando um processo do espaço do usuário precisa executar operações do sistema, como ler ou gravar dados de/para um dispositivo (ou seja, um disco, um(a) controlador(a) de interface de rede
+ (NIC), etc.) por meio de suas interfaces de software de alto nível ou como mover dados de um dispositivo para outro, etc. , ele precisa executar uma ou mais chamadas de sistema que são executadas no espaço do núcleo (kernel) pelo sistema operacional.
+Se os dados tiverem que ser copiados ou movidos da origem para o destino e ambos estiverem localizados dentro do espaço do núcleo (kernel) (ou seja, dois arquivos, um arquivo e uma placa de rede, etc.), as cópias de dados desnecessárias, do espaço do núcleo (kernel) para o espaço do usuário e do espaço do usuário para espaço do núcleo (kernel), podem ser evitadas usando chamadas de sistema especiais (zero-cópia), geralmente disponíveis nas versões mais recentes dos sistemas operacionais populares.
+Versões de zero-cópia de elementos do sistema operacional, como drivers de dispositivos, sistemas de arquivos, pilhas de protocolos de rede, etc., aumentam consideravelmente o desempenho de determinados programas aplicativos (que se tornam processos quando executados) e utilizam os recursos do sistema com mais eficiência. O desempenho é aprimorado ao permitir que a unidade de processamento central (CPU) passe para outras tarefas enquanto as cópias / o processamento de dados prossegue(m) em paralelo em outra parte da máquina. Além disso, as operações de zero-cópia reduzem o número de trocas de contexto demoradas entre o espaço do usuário e o espaço do núcleo (kernel). Os recursos do sistema são utilizados de forma mais eficiente, pois usar uma unidade de processamento central (CPU) sofisticada para executar extensas operações de cópia de dados, que é uma tarefa relativamente simples, é um desperdício se outros componentes do sistema mais simples puderem fazer a cópia.
+Como exemplo, ler um arquivo e enviá-lo pela rede da maneira tradicional requer 2 cópias de dados extras (1 para ler do núcleo (kernel) para o espaço do usuário + 1 para gravar do usuário para o espaço do núcleo (kernel)) e 4 trocas de contexto por ciclo de leitura/gravação . Essas cópias de dados extras usam a unidade de processamento central (CPU). O envio desse arquivo usando mmap de dados de arquivo e um ciclo de chamadas de gravação reduz as alternâncias de contexto para 2 por chamada de gravação e evita as 2 cópias de dados extras do usuário anteriores. O envio do mesmo arquivo via zero-cópia reduz as trocas de contexto para 2 por chamada de envio de arquivo (sendfile) e elimina todas as cópias de dados extras da unidade de processamento central (CPU) (no usuário e no espaço do núcleo (kernel)).
+Os protocolos de zero-cópia são especialmente importantes para redes de velocidade muito alta nas quais a capacidade de um link de rede se aproxima ou excede a capacidade de processamento da unidade de processamento central (CPU). Nesse caso, a unidade de processamento central (CPU) pode gastar quase todo o seu tempo copiando os dados transferidos e, assim, se tornar um gargalo que limita a taxa de comunicação abaixo da capacidade do link. Uma regra prática usada na indústria é que aproximadamente um ciclo de clock da unidade de processamento central (CPU) é necessário para processar um bit de dados de entrada.
+
+Implementações de hardware
+Uma implementação inicial foi o OS/360 da IBM, onde um programa pode instruir o subsistema de canal a ler blocos de dados de um arquivo ou dispositivo em um buffer e gravar em outro, a partir do mesmo buffer, sem mover os dados.
+As técnicas para criar software de zero-cópia incluem o uso de cópia baseada em acesso direto à memória (DMA) e mapeamento de memória por meio de uma unidade de gerenciamento de memória (MMU). Esses recursos requerem suporte de hardware específico e geralmente envolvem requisitos específicos de alinhamento de memória.
+Uma abordagem mais recente usada pela arquitetura de sistema heterogênea (HSA) facilita a passagem de ponteiros entre a unidade de processamento central (CPU) e a unidade de processamento gráfico (GPU) e também outros processadores. Isso requer um espaço de endereço unificado para a unidade de processamento central (CPU) e a unidade de processamento gráfico (GPU).
+
+Interfaces de programas
+Vários sistemas operacionais suportam a zero-cópia de dados de usuário e conteúdo de arquivos por meio de interfaces de programação de aplicativos
+(APIs) específicas.
+Aqui estão listadas apenas algumas chamadas de sistema / interfaces de programação de aplicativos (APIs) bem conhecidas disponíveis nos sistemas operacionais (OSs) mais populares.
+O NetWare da Novell oferece suporte a uma forma de zero-cópia por meio de blocos de controle de eventos (ECBs).
+O comando copy interno em algumas versões do DR-DOS desde 1992 também o inicia quando o COMMAND.COM detecta que os arquivos a serem copiados estão armazenados em um servidor de arquivos NetWare, caso contrário, ele volta à cópia normal de arquivos. O comando move externo desde o DR DOS 6.0 (1991) e MS-DOS 6.0 (1993) executa internamente um rename (fazendo com que apenas as entradas do diretório sejam modificadas no sistema de arquivos em vez de copiar fisicamente os dados do arquivo) quando a origem e o destino são localizado no mesmo volume lógico.
+O núcleo (kernel) do Linux suporta zero-cópia por meio de várias chamadas de sistema, como:
+
+sendfile, sendfile64;
+splice;
+tee;
+vmsplice;
+process_vm_readv;
+process_vm_writev;
+copy_file_range;
+soquetes brutos com mmap de pacotes ou AF_XDP.
+Algumas delas são especificadas em POSIX e, portanto, também estão presentes nos núcleos (kernels) da distribuição de software Berkeley (BSD) ou no executivo interativo avançado (AIX) da IBM, alguns são exclusivos da interface de programação de aplicativos (API) do núcleo (kernel) do Linux.
+Os sistemas operacionais FreeBSD, NetBSD, OpenBSD, DragonFly BSD, etc. suportam zero-cópia através de pelo menos estas chamadas de sistema:
+
+sendfile;
+write, writev + mmap ao gravar dados em um soquete de rede.
+O macOS deve suportar zero-cópia através da parte FreeBSD do núcleo (kernel) porque oferece as mesmas chamadas de sistema (e suas páginas de manual ainda são marcadas como BSD), como:
+
+sendfile.
+O Solaris da Oracle oferece suporte a zero-cópia através de, pelo menos, estas chamadas de sistema:
+
+sendfile;
+sendfilev;
+write, writev + mmap.
+O Windows da Microsoft oferece suporte a zero-cópia por pelo menos esta chamada de sistema:
+
+TransmitFile.
+Os fluxos de entrada da Java podem suportar zero-cópia por meio do método transferTo do java.nio.channels.FileChannel se o sistema operacional subjacente também suportar zero-cópia.
+Os protocolos de acesso remoto direto à memória (RDMA) dependem profundamente de técnicas de zero-cópia.

@@ -1,0 +1,41 @@
+Helios Murialdo
+
+Helios Murialdo (né Helios Murialdo Laport; born December 5, 1941) is a Chilean-Canadian molecular biologist, fiction writer, and ecologist. His research in the field of the assembly and structure of bacterial viruses contributed to the development of the first system for the cloning of human genes. He has published six novels and is a member of a group of conservationists that established a Natural Reserve in the central part of the Chilean Biodiversity Hotspot.
+Son of an Italian immigrant father and a Chilean mother of French descent, he has a brother and a sister. He is a member of the board of directors of the non-profit Fundación Ciencia & Vida, a scientific and technological institution with headquarters in Santiago, Chile. He is president of the NGO Corporación Altos de Cantillana (Altos de Cantillana Corporation), which manages the 26,000 acres of the Altos de Cantillana Natural Reserve in the coastal mountains of central Chile. He makes his home in this Natural Reserve, and spends the rest of the year in Toronto, Canada. He is co-author of “The International Boundary in the Southern Patagonian Ice Field” alongside Juan Ignacio Ipinza and Cedomir Marangunic Damanovic.
+
+Biography
+Helios Murialdo obtained his MSc at the Faculty of Chemistry, University of Chile, in 1965. He became an assistant professor in the Department of Biology, Faculty of Sciences, University of Chile and a lecturer in biochemistry in the Faculty of Agronomical Sciences, at the Catholic University of Chile, in Santiago. He obtained his PhD in molecular biology at the Department of Medical Biophysics, University of Toronto, Canada, in 1971, under the supervision of Dr. Louis Siminovitch. On his return to Chile he was appointed an associate professor in the Faculty of Sciences, University of Chile. From 1973 to 1998 he taught and carried out research in the Department of Molecular Genetics at the University of Toronto, becoming a full professor in 1984. In that year, while teaching a theoretical and laboratory course at the Cuban Center for Genetic Engineering and Biotechnology, he introduced the technique of DNA cloning in Cuba, which led to the establishment of the first sugar cane gene library. He returned to Chile in 1998 and joined Fundación Ciencia & Vida as a research scientist. He retired from active scientific research to write fiction in 2006. During his years as an academic, as a hobby he built cellos admired for their high quality and beautiful sound. He has two daughters from his first marriage to Evelyn Murialdo (née Loewe), former Director of Tenant and Community Services at Toronto Community Housing Corporation. He is now married to the artist Olga Beskoff.
+
+Research
+At the Department of Molecular Genetics at the University of Toronto, his research advanced the understanding of the morphogenesis and structure of bacterial viruses (bacteriophages). This led to the development of the procedure that later allowed the cloning of human genes. His laboratory was the first to synthesize a complex bacterial virus from its protein components in vitro. His work showed that a specialized structure (the connector or portal) initiates the polymerization of the icosahedral structure of bacterial viruses and provided the first solid evidence that the synthesis of viruses is similar to a crystallization process or a phase transition. His laboratory discovered the first overlapping genes in bacterial viruses, the stimulation of a set of bacterial proteins synthesis upon virus infection, and showed directly, by electron microscopy, that a bacterial protein (IHF) bends DNA. He also worked on the factors that control immunoglobulin gene expression, the structure of the genes and their rearrangement during B-cell differentiation. These experiments led to the discovery of the mutational potential of retrovirus sequences in the mouse genome. Looking back on his life's work, he surmises that his scientific papers will become obsolete and his novels outdated, but that his cellos will improve with time. Just as the best cellos today are those made by the Italian masters Guarneri and Stradivari in the 17th and 18th centuries, he hopes his cellos will continue to make music for the next three hundred years or more.
+
+Publications
+
+Selected scientific papers
+Murialdo, H; Siminovitch, L (1972). "The Morphogenesis of Bacteriophage Lambda. IV. Identification of Gene Products and Control of the Expression of the Morphogenetic Information". Virology. 48 (3): 785–823. doi:10.1016/0042-6822(72)90162-6. PMID 4555611.
+Murialdo, H; Ray, P N (1975). "Model for Arrangement of Minor Structural Proteins in Head of Bacteriophage ". Nature. 257 (5529): 815–817. Bibcode:1975Natur.257..815M. doi:10.1038/257815a0. PMID 1186870. S2CID 4263391.
+Becker, A; Murialdo, H; Gold, M (1977). "Studies on an in Vitro System for the Packaging and Maturation of Phage Lambda DNA". Virology. 78 (1): 277–290. doi:10.1016/0042-6822(77)90099-x. PMID 860404.
+Murialdo, H; Becker, A (1977). "Assembly in Vitro of Biologically Active Proheads of Bacteriophage Lambda". Proc. Natl. Acad. Sci. USA. 74 (3): 906–910. Bibcode:1977PNAS...74..906M. doi:10.1073/pnas.74.3.906. PMC 430525. PMID 265585.
+Ferrucci F, Murialdo H (1981). Bacteriophage Prohead Assembly: Assembly of Biologically Active Precollars in Vitro. In: Bacteriophage Assembly (MS Dubow, ed.). Alan R. Liss, Inc., New York. pp. 193–212.
+Murialdo, H; Becker, A (1978). "Head Morphogenesis of Complex Double-stranded Deoxyribonucleic Acid Bacteriophages". Microbiol. Rev. 42 (3): 529–576. doi:10.1128/MMBR.42.3.529-576.1978. PMC 281443. PMID 362149.
+Shaw, J; Murialdo, H (1980). "Morphogenetic Genes C and Nu3 Overlap in Bacteriophage ". Nature. 283 (5742): 30–35. Bibcode:1980Natur.283...30S. doi:10.1038/283030a0. PMID 6444246. S2CID 4369728.
+Kochan, J; Murialdo, H (1982). "Stimulation of groE Synthesis in E. coli by Bacteriophage Infection". J. Bacteriol. 149 (3): 1166–1170. doi:10.1128/JB.149.3.1166-1170.1982. PMC 216514. PMID 6460752.
+Kochan, J; Carrascosa, J L; Murialdo, H (1984). "Bacteriophage Lambda Preconnectors: Purification and Structure". J. Mol. Biol. 174 (3): 433–447. doi:10.1016/0022-2836(84)90330-9. PMID 6232391.
+Chow, S; Daub, E; Murialdo, H (1987). "The Overproduction of DNA Terminase of Coliphage Lambda". Gene. 60 (2–3): 277–289. doi:10.1016/0378-1119(87)90236-8. PMID 2965061.
+Kosturko, L D; Daub, E; Murialdo, H (1989). "The Interaction of the E. coli Integration Host Factor and Lambda cos DNA: Multiple Complex Formation and Protein-induced Bending". Nucleic Acids Res. 17 (1): 317–334. doi:10.1093/nar/17.1.317. PMC 331553. PMID 2521383.
+Murialdo, H (1991). "Bacteriophage Lambda DNA Maturation and Packaging". Annu. Rev. Biochem. 60: 125–153. doi:10.1146/annurev.biochem.60.1.125. PMID 1831966.
+Dokland, T; Murialdo, H (1993). "Structural Transitions During Maturation of Bacteriophage Lambda Capsids". J. Mol. Biol. 233 (4): 682–694. doi:10.1006/jmbi.1993.1545. PMID 8411174.
+Casjens, S (1994). "DNA packaging by lambdoid phages - From pure beginnings to applications in genetic engineering". BioEssays. 16 (11): 847–851. doi:10.1002/bies.950161112.
+Hawley, R G; Shulman, M J; Murialdo, H; Gibson, D M; Hozumi, N (1982). "Mutants Defective in Immunoglobulin Kappa Chain Synthesis Have Novel Rearrangements Associated with Kappa Genes". Proc. Natl. Acad. Sci. USA. 79 (23): 7425–7429. doi:10.1073/pnas.79.23.7425. PMC 347352. PMID 6296832.
+El límite internacional en Campo de Hielo Patagónico Sur. Santiago de Chile. 2025. ISBN 9789564238975.{{cite book}}: CS1 maint: location missing publisher (link)
+
+Literary activities
+Founder of magazines in both high school (published by subsequent generations for 50 years) and in the Faculty of Chemistry.
+
+Novels
+El amor llegó por el lado izquierdo. Ed. The Split Quotation, Ottawa (1994), Ed. Mosquito, Santiago, Chile (1996).
+La iniciación. Ed. Mosquito, Santiago, Chile (2008).
+Órdenes superiores. Ed. RIL, Santiago, Chile (2012).
+La laucha y el senescal / The little mouse and the seneschal. Bilingual edition. Ed. RIL, Santiago, Chile (2015).
+Entre un tango y una sonata. Ed. Espora, Santiago, Chile (2016).
+Licor negro. Ed. RIL, Santiago, Chile (2017).

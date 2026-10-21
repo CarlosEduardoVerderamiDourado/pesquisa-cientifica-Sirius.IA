@@ -1,0 +1,32 @@
+Língua shompen
+
+Shompen, ou Shom Peng é uma língua ou mesmo grupo de línguas faladas na Ilha de Grande Nicobar no território da união da Índia das Ilhas Andaman e Nicobar, no Oceano Índico, a noroeste de Sumatra , Indonésia.
+Parcialmente porque os povos nativos das Ilhas Andaman e Nicobar são protegidos contra a presença de pesquisadores externos, o Shompen é mal descrita, com a maioria das descrições sendo do século XIX. Há algumas mais recentes, mas de baixa qualidade. Shompen parece estar relacionado a outras variedades do sul daa Nicobaresas, entretanto Glottolog o considera uma língua isolada.
+
+Falantes
+O povo Shompen é de caçadores-coletores vivendo no interior montanhoso da Reserva da Biosfera Grande Nicobar. As estimativas da população são de aproximadamente 400 pessoas, mas nenhum censo foi realizado.) relatou a presença de várias aldeias Shompen no interior da Ilha Great Nicobar.
+
+Dakade (10 km a nordeste de Pulo-babi, uma aldeia Nicobaresa na costa oeste da Grande Nicobar; 15 pessoas e 4 cabanas)
+Puithey (16 km a sudeste de Pulo-babi)
+Tataiya (habitada pelo grupo Dogmar River Shompen, que se mudou de Tataiya para Pulo-kunyi entre 1960 e 1977)
+
+Dados
+Durante o século 20, os únicos dados disponíveis eram uma pequena lista de palavras em De Roepstorff (1875), notas dispersas Man (1886) e uma lista comparativa também em Man (1889).
+Demorou um século até que mais dados se tornassem disponíveis, com 70 palavras publicadas em 1995 e muitos dados novos sendo publicados em 2003, o mais extenso até agora. No entanto, Blench e Sidwell (2011) observam que o livro de 2003 está pelo menos parcialmente plagiado e que os autores dão poucos sinais de compreensão do material, que é repleto de anomalias e inconsistências. Por exemplo, [a] é transcrito como um [a] curto, mas o xevá (schwa) [] tão longo [a], o oposto do normal convenções na Índia ou em outro lugar. Parece ter sido retirado de uma fonte ou fontes anteriores, talvez da era colonial. Van Driem (2008) achou muito difícil trabalhar com, No entanto, Blench e Sidwell fizeram uma tentativa de analisar e retranscrever os dados, com base em comparações de empréstimos malaios e cognatos identificáveis com outras línguas austro-asiáticas, e concluíram que os dados nas publicações de 1995 e 2003 vêm da mesma língua ou de duas línguas próximas. linguagens relacionadas.
+
+Classificação
+Embora shompen seja tradicionalmente agrupado com outras línguas nicobarenses, que formam um ramo das línguas austro-asiáticas, havia poucas evidências para apoiar essa suposição durante o século XX. Man (1886) observa que existem muito poucas palavras Shompen que "guardam qualquer semelhança" com Nicobarês e também que "na maioria dos casos", as palavras diferem entre os dois grupos Shompen com os quais ele trabalhou. Por exemplo, a palavra para "costas (do corpo)" é dada como gikau, tamnoi e hokoa em diferentes fontes; "tomar banho" como pu (g) oihop e hohom ; e "cabeça" como koi e fiau . Em alguns desses casos, isso pode ser uma questão de vocabulário emprestado versus nativo, já que koi parece ser Nicobarês, mas também sugere que Shompen não é um único idioma.
+Com base nos dados de 1997, entretanto, van Driem (2008) concluiu que Shompen era uma língua Nicobarese.
+Blench e Sidwell observam muitos cognatos com Nicobarês com línguas Jahaic nos dados de 2003, incluindo muitas palavras encontradas apenas em Nicobarês ou apenas em Jahaic (ou às vezes também línguas Senoic), e eles também observam que Shompen compartilha desenvolvimentos fonológicos históricos com Jahaic. Dada a probabilidade de empréstimos do Nicobarês, isso sugere que Shompen pode ser uma Jahaic ou pelo menos Asliana, ou talvez um terceiro ramo de uma família Austro-asiática Meridional ao lado de Aslian e Nicobarese. classifica o Shompen como uma língua nicobárica do sul, em vez de um ramo separado do austro-asiático.
+
+Fonologia
+Não está claro se a descrição fonológica a seguir se aplica a todas as variedades de Shompen nem se ela é fonemicamente correta.
+Oito qualidades de vogais que são recuperadas da transcrição, / i e a o u / podem também nasalizadas ou mesmo longas. Existem numerosas sequências de vogais e ditongos.
+As consoantes são atestadas da seguinte forma:
+
+Muitas raízes austro-asiáticas com plosivas nasais finais, * m * n * , aparecem em Shompen com plosivas orais sonoras [bd ], que se assemelha às línguas Aslianas e especialmente as línguas Jahaic, cujas nasais finais históricas tornaram-se pré-abertas ou totalmente orais. Embora as oclusivas nasais jahaicas se combinem com as ocusivas orais, as paradas orais de Shompen parecem ter sido perdidas primeiro, apenas para serem readquiridas quando nasais se tornaram orais. Existem também, no entanto, certamente inúmeras palavras que retêm as oclusivas nasais finais. Não está claro se tomar emprestado de Nicobarese é suficiente para explicar todas essas exceções. Shompen pode ter sido parcialmente relexificado sob a influência de Nicobarês, ou os consultores podem ter dado palavras a Nicobarese durante a elicitação.
+Outras mudanças históricas de som são * r e * l de final de palavra mudando para [w], * r antes de uma mudança de vogal para [j], a exclusão de * he * final s, e a quebra de vogais longas austroasiáticas em ditongos.
+Muitas raízes austro-asiáticas com plosivas nasais finais, * m * n * , aparecem em Shompen com plosivas orais sonoras [bd ], que se assemelha às Aslianas e especialmente às Jahaic, cujas históricas nasais finais tornaram-se pré-aberta ou totalmente orais. Embora as paradas nasais jahaicas tenham se associado às oclusivas orais, as oclusivas orais de Shompen parecem ter sido perdidas primeiro, apenas para serem readquiridas quando nasais se tornaram orais. Existem também, no entanto, certamente inúmeras palavras que retêm as oclusivas nasais finais. Não está claro se terem sido emprestados do Nicobarês é suficiente para explicar todas essas exceções. Shompen pode ter sido parcialmente relexificado sob a influência de Nicobarês, ou os pesquisadores podem ter dado palavras a Nicobaresas durante a elicitação.
+Outras mudanças históricas de som são * r e * l no final de palavra mudando para [w], * r antes de uma mudança de vogal para [j], a exclusão de * he * final s, e a quebra de vogais longas austroasiáticas em ditongos.
+
+Vocabulário

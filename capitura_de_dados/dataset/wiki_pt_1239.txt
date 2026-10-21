@@ -1,0 +1,76 @@
+MP3
+
+O MP3 (MPEG-1/2 Audio Layer 3) é um dos primeiros tipos de compressão de áudio com perdas quase imperceptíveis ao ouvido humano. O seu bitrate (taxa de bits) é da ordem de kbps (quilobits por segundo), sendo 128 kbps a taxa-padrão, na qual a redução do tamanho do arquivo é de cerca de 90%, ou seja, o tamanho do arquivo passa a ser 1/10 do tamanho original.
+A taxa de bits pode chegar a até 320 kbps (cerca de 2,3 MB/min de áudio), gerando a máxima qualidade sonora do formato, na qual a redução do tamanho do arquivo é de cerca de 75%, ou seja, o tamanho do arquivo passa a ser cerca de 1/4 do original. Há também outras taxas intermediárias, como 192 kbps e 256 kbps, cuja escolha depende da relação custo-benefício desejada, onde o tamanho do arquivo pode ser reduzido em detrimento da qualidade/fidelidade do som. Para efeitos de comparação, as músicas de um CD de áudio comum possuem uma taxa de amostra de dados de 1411,2 kbps.
+O Motion Picture Experts Group, acrônimo MPEG, formalmente designado como ISO / IEC JTC 1/SC 29/WG 11, denominação de codificação de imagens em movimento e áudio, é uma comissão técnica, formada pela ISO e IEC, encarregada de estabelecer normas para a representação de áudio digital, vídeo e outros tipos de mídia para atenderem a uma ampla variedade de aplicações.
+O Comité foi instituído em janeiro de 1988 por Leonardo Chiariglione e se reuniu pela primeira vez nos dias 10, 11 e 12 de maio de 1988. Normalmente, reuniam-se, em média, quatro vezes por ano. Na primeira reunião houve participação de 25 membros, enquanto que, atualmente, as reuniões são frequentadas por mais de 350 membros que representam mais de 200 empresas e organizações de 20 países ao redor do mundo.
+O método de compressão com perdas empregado na compressão do MP3 consiste em retirar do áudio tudo aquilo que o ouvido humano normalmente não conseguiria perceber, devido a fenômenos de mascaramento de sons e de limitações da audição humana. O ouvido humano consegue captar frequências de 20 Hz até 20 kHz.
+O tamanho dos arquivos em MP3 será tanto maior quanto maior for a sua duração. Para efeito de exemplo, consideremos uma música com cinco minutos de duração. Para armazená-la a uma taxa de 320 kbps, será necessário um espaço de 2,3 MB/min x 5 min = 11,5 MB. Na qualidade-padrão, de 128 kbps, serão necessários 0,92 MB/min de áudio para o armazenamento da mesma música.
+Um CD-R comum pode armazenar até mais de 12 horas de áudio em MP3 de 128 kbps.
+MP3 é uma abreviação de MPEG 1 Layer-3.
+Um erro comum é confundir MP3 com MPEG-3, um formato morto.
+
+Taxas de bits disponiveis no formato de audio Mp3
+8kbps
+16kbps
+24kbps
+32kbps
+40kbps
+48kbps
+56kbps
+64kbps
+80kbps
+96kbps
+112kbps
+128kbps (taxa de áudio padrão)
+160kbps
+192kbps
+224kbps
+256kbps
+320kbps (maior taxa de áudio usada em CDs)
+350kbps
+384kbps
+450kbps (taxa de áudio usadas em DAWs e softwares de produção musical)
+
+História
+1970: O professor Dieter Seitzer, da Universidade Erlangen-Nuremberg na Alemanha, depara-se com o problema de transmitir fala em alta qualidade através de linhas telefônicas. Ele inicia, então, um grupo de pesquisa em codificação de áudio
+Fim de 1970: Em virtude do surgimento do ISDN (Integrated Service Digital Network) e de cabos de fibra óptica para telecomunicações, melhorar a codificação de voz pareceu pouco importante. Então o professor Seitzer iniciou a pesquisa em codificação de sinais de música.
+1979: O grupo do professor Seitzer desenvolveu o primeiro processador de sinais digitais capaz de realizar a compressão de áudio. Um dos estudantes, Karlheinz Brandenburg, começou a implementar princípios da psicoacústica na codificação de áudio.
+1987: A Universidade Erlangen-Nuremberg realizou uma parceria com o Instituto Fraunhofer.
+1988: Estabeleceu-se o MPEG (Moving Picture Experts Group), grupo de trabalho da ISO (International Organization for Standardization) liderado por Leonardo Chiariglione, responsável por desenvolver padrões para a compressão de áudio e vídeo digitais.
+1989: Brandenburg finalizou sua tese de doutorado, onde apresentava o algoritmo OCF (Optimum Coding in the Frequency Domain). Tal codec possuía várias características da atual tecnologia MP3 e era um sistema de tempo real.
+1991: Melhoras no algoritmo OCF, somadas a contribuições da Universidade de Hannover, dentre outras, produziram um novo codec de áudio, chamado ASPEC (Adaptative Spectral Perceptual Entropy Coding). O ASPEC foi um dos 14 trabalhos enviados para a ISO como proposta de codificação de áudio. Após testes rigorosos, a ISO sugeriu que a codificação de áudio apresentasse 3 abordagens em escala de complexidade e eficiência:
+Layer 1 e Layer 2, mais simples, baseadas em um outro codec enviado à ISO, o MUSICAN,
+Layer 3, de alta eficiência e maior complexidade, baseada no ASPEC.
+O ASPEC evolui, então, para o codec MP3 - MPEG-1 Layer 3.
+1995: Os pesquisadores de Fraunhofer votaram ' .mp3 ' como a extensão de arquivos MPEG Layer 3. Disponibilizou-se o codec do Layer 3 como shareware.
+1997: Michael Robertson constrói o site 'mp3.com', onde disponibiliza informações e tudo o mais relacionado à tecnologia MP3.
+1997: A SONY Company cria um formato padrão de MP3 (ARQUIVO) que todas as empresas do mundo adotaram.
+1998: Surgem os primeiros players portáteis de MP3, usando memória flash.
+1999: A Samsung desenvolve o primeiro telefone celular do mundo que serve também com MP3 player. O MP3 Player foi criado em 1998 pela empresa sul-coreana Saehan que lançou nos mercados sul-coreano e norte-americano o MPMan, o 1º MP3 player do mundo.
+2000: Surgem, no mercado negro, CD players com funcionalidades de mp3.
+2006: Na Alemanha, MP3 gera mais de 10.000 postos de trabalho e aproximadamente 300 milhões de euros de impostos. Os alemães gastam em média 1,5 bilhões de euros em MP3 players e produtos relacionados.[carece de fontes]?
+Após a grandiosa fama na Internet, o MP3 causou grande revolução no mundo do entretenimento. Assim como o LP de vinil, o cassete de áudio e o CD, o MP4 se fortaleceu como um popular meio de distribuição de canções. A questão-chave para entender todo o sucesso do MP4 se baseia no fato de que, antes dele ser desenvolvido, uma música no computador era armazenada no formato WAV, que é o formato-padrão para arquivo de som em PCs, chegando a ocupar dezenas de megabytes em disco.
+Na média, um minuto de música corresponde a 10 MB, para uma gravação de som de 16 bits estéreo com 44,1 KHz, o que resulta numa grande complicação a distribuição de músicas por computadores, principalmente pela Internet. Com o surgimento do MP3, essa história mudou, pois o formato permite armazenar músicas no computador sem ocupar muito espaço e sem tirar a qualidade sonora das canções. Geralmente, um minuto de música corresponde a cerca de 1 MB em MP3. O MP3 (MPEG-1/2 Audio Layer 3) foi um dos primeiros tipos de arquivos a comprimir áudio com perda de dados, eficientemente, de forma quase imperceptível ao ouvido humano.
+Ao se popularizar, o formato MP3 deixou, consequentemente, a indústria fonográfica preocupada com seus lucros. O MP3 alcançou um sucesso tão grande que, quando as gravadoras se deram conta, o formato já estava presente em milhões de computadores em todo o mundo.
+A cantora americana Suzanne Vega é considerada a "mãe" do mp3. Um artigo escrito pela própria cantora para o New York Times revela que sua voz, na canção a cappella Tom's Diner, de 1986, serviu de referência auditiva para Brandenburg realizar os ajustes finais nos parâmetros de compressão do mp3. Ou seja, os mesmos parâmetros empregados para que a voz de Suzanne Vega fosse ouvida de maneira satisfatória por Brandenburg na canção Tom's Diner são os parâmetros empregados para a compressão de todo o áudio no formato mp3 até hoje.
+
+Detalhes técnicos
+As taxas de compressão alcançadas pelo MP3 chegam a até 12 vezes, dependendo da qualidade desejada. Para fazer isso, o MP3 utiliza-se, além das técnicas habituais de compressão, de estudos de psicoacústica, sendo que estes permitem aproveitar-se das limitações e imperfeições da audição humana.
+A utilização dos limites da audição humana baseia-se em três princípios básicos:
+
+Faixa de frequência audível dos seres humanos;
+Limiar de audição na faixa de frequência audível;
+Mascaramento em frequência e mascaramento temporal.
+Faixa de frequência audível humana: O ouvido humano, devido às suas limitações físicas, é capaz de detectar sons em uma faixa de frequência que varia de 20 Hz a 20 KHz, sendo que estes valores podem variar de indivíduo para indivíduo e também com a idade (com o envelhecimento perdemos a capacidade de ouvir frequências mais altas). Desta forma, não faz sentido armazenar dados referentes a sons fora desta faixa de frequência, pois, ao serem reproduzidos, os mesmos não serão percebidos por um ser humano. Esta é a primeira limitação da audição humana do qual o sistema MP3 faz uso para alcançar altas taxas de compressão. De acordo com o Teorema de Nyquist, para garantir a reprodução de um sinal, temos de amostrá-lo pelo menos a duas vezes sua frequência máxima. Ou seja, neste caso, como a frequência máxima de interesse é 20 KHz, basta amostrar a 40 KHz. Utilizam-se 44.100 Hz como taxa de amostragem, pois levam-se em consideração 10% de tolerância e busca-se um valor, produto dos quatro primeiros números primos. (Obs. (2x3x5x7)^2 = 44100). Desta forma, esta taxa de amostragem funciona como um filtro passa-baixas, que remove todos os componentes de frequência fora da faixa de interesse, neste caso, acima de 20 Khz.
+Limiar de audição na faixa de frequência audível: Outro fator utilizado pela codificação MP3 é a curva de percepção da audição humana dentro da faixa de frequências audíveis, ou limiar de audição. Apesar da faixa de audição humana variar entre 20 Hz e 20 KHz, a sensibilidade para sons dentro desta faixa não é uniforme. Ou seja, a percepção da intensidade de um som varia com a frequência em que este se encontra. Desta forma, o MP3 utiliza-se desta propriedade para obter compressão em arquivos de áudios. Esta abordagem é bastante intuitiva, sendo que o que se faz é descartar amostras que se encontrem abaixo deste limiar.
+Mascaramento em frequência e mascaramento temporal: Por fim, uma última propriedade da audição humana, ainda utilizada pelo método, é o chamado mascaramento auditivo, ou “audiabilidade diminuída de um som devido à presença de outro”, podendo este ser em frequência ou no tempo. O mascaramento em frequência ocorre quando um som, que normalmente poderia ser ouvido, é mascarado por outro, de maior intensidade, que se encontra em uma frequência próxima. Ou seja, o limiar de audição é modificado (aumentado) na região próxima à frequência do som que causa o ocorrência do mascaramento, sendo que isto se deve à limitação da percepção de frequências do ouvido humano. O mascaramento em frequência depende da frequência em que o sinal se encontra, podendo variar de 100 Hz a 4 KHz. Em função deste comportamento, o que o método de compressão do MP3 faz é identificar casos de mascaramento em frequência e descartar sinais que não serão audíveis devido a este fenômeno. Além do mascaramento em frequência, temos ainda o mascaramento no tempo, sendo que este ocorre quando um som forte é precedido por um mais fraco que se encontra em uma frequência próxima à do primeiro. Se o intervalo de tempo entre os dois for suficientemente pequeno, este som mais fraco não será percebido pela audição humana. Se um som é mascarado após um som mais forte, temos o chamado pós-mascaramento. No caso de um som ser mascarado antes do som mais forte, temos o que chamamos de pré-mascaramento. O pré-mascaramento existe só por um curto momento, cerca de 20ms, enquanto que o pós-mascaramento tem efeito por até 200ms. O método de compressão do MP3 utiliza-se portanto deste fenômeno, identificando casos onde o mesmo ocorre, e descartando sons que seriam mascarados, o que permite reduzir, consideravelmente, a informação de áudio, sem mudança audível.
+
+Licenças e patentes
+A Thomson Consumer Electronics controla o licenciamento da patente do MPEG-1/2 Layer 3 nos poucos países que reconhecem patentes de software, tais como Estados Unidos e Japão.
+Em setembro de 1998, o Instituto Fraunhofer enviou um comunicado a diversos desenvolvedores de programas MP3, exigindo cobrança de royalties por essa patente. O comunicado informava que o licenciamento era necessário para "distribuir e/ou vender decodificadores e/ou codificadores", e que os produtos não licenciados infringiam os "direitos sobre a patente do Instituto Fraunhofer e da Thomson. Para produzir, vender e/ou distribuir produtos que se utilizem do padrão MPEG-1/2 Audio Layer 3 e, portanto, de suas respectivas patentes, é necessário obter uma licença."
+Tal iniciativa revelou a necessidade de promover formatos realmente livres, como o padrão ogg vorbis.
+Note-se que, passados 20 anos da existência do MPEG-1, e consequentemente do MP3, a licença passará a ser livre, tornando-se este codificador propriedade da humanidade.
+
+Streaming
+O sistema empregado pelo MP3 também possibilita transmissões por streaming, onde o arquivo pode ser interpretado à medida que é feito o download ou em que é baixado (não é necessário que o arquivo chegue inteiro para iniciar a reprodução).

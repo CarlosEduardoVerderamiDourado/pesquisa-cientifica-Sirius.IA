@@ -1,0 +1,77 @@
+Dialeto limousin
+
+Limousin (Lemosin em língua occitana) é o dialeto da língua occitana falado em três quartos do Limusino (ao lado do Marchois e do Auvergnat na Charente occitana e em uma grande metade do norte da Dordonha. Faz parte do conjunto norte-occitano de dialetos.
+Na Idade Média, sob a influência cultural da Abadia de Saint-Martial de Limoges e dos primeiros trovadores, incluindo Bernart de Ventadorn, poderíamos chamar de limousin todos os dialetos do Occitano. Este uso durou até o século XVI,
+
+Fonologia
+Vogais do limousin :
+
+A vogal semiaberta posterior é freqüentemente percebida [] em uma posição atônica.
+Em toda uma orla do Haut Limousin, entre Nontronnais] (no norte de Périgord), o Horte et Tardoire (no sudeste do Charente ) e a sudoeste de Pays de la Vienne (em Haute Vienne), o fonema / a: / é percebidoo [ae:].
+Existem vogais inerentemente longas (cuja extensão vem de uma consoante ausente, como / a: / vindo de / a / + / s / em "nastre" (na: tre), ocasionalmente vogais longas (que ficam em uma posição tônica , como [e:] em " lebre " ['le: bre]). No entanto, a característca de quantidade não desempenha papel fonológico (não permite diferenciar duas palavras apenas neste critério) no sistema vocálico Limousin, exceto em um pequeno número de casos isolados.
+Um dos fenômenos mais peculiares do sistema fonológico do Limousin é o seu sistema de tonicidade, que, em grande parte do campo, difere do sistema occitano geral. Como no resto do domínio occitano, o acento está na penúltima sílaba ou na última. Já a distribuição do sotaque no Limousin é feita de acordo com a quantidade vocálica (comprimento), definida da seguinte forma:
+
+Sílabas longas ou vogais exigem a tonicidade, enquanto sílabas curtas ou vogais curtas a repelem.
+Se as duas sílabas forem de igual comprimento, ou seja, ambas longas ou curtas, a ênfase está na finalização. A dificuldade de determinar claramente qual é o tônico em algumas declarações é tal que é muito difícil dizer " vachas " se alguém ouvir ['va: sa:] ou [va 'sa:] em tal e tal subdialeto.
+A tonicidade está na penúltima sílaba quando o vogal final é curto e o penúltimo é:
+a) seja intrinsecamente longo, um vogal nasal, um ditongo descendente, um vogal + [r];
+b) ocasionalmente é longo.
+Caso contrário, a tonicidade geralmente é final.
+Isso permite compreender melhor, por um lado, a frequência de oxítonas no Limousin e, por outro lado, a acentuação da penúltima em palavras que são acentuadas, mas o último em outros dialetos.
+Esta descrição não se aplica a todo o domínio do dialeto Limousin, mas apenas a uma grande parte central, sendo os dialetos mais periféricos mais alinhados com a acentuação occitana geral. O Limousin Superior e o Limousin Inferior são amplamente afetados por esse fenômeno, enquanto o Perigord (como um subdialeto) parece escapar disso.
+Labialização de vogais altos / i, u / en [y] perto de uma consoante labial:
+Perto de uma consoante labial (/ p, b, m, f, v /), os vogais altos / u / e / i / são frequentemente labializados em [y] na posição pretônica. Por exemplo: primier [pry'mje], crivèu [kry'vew] ~ [kry'voew]. Também pode afetar o radical vogal de certos verbos quando passa na posição maçante, em particular em infinitivos em -ir , onde o vogal escrito "o" é pronunciado não [u] como no caso usual., Mas frequentemente [y] em uma posição pretônica quando adjacente a uma consoante labial: morir [my'ri], cobrir [ky ' bri], fornir [fyr'ni]. Este é particularmente o caso em limusines altas.
+Consoantes do limousin :
+
+As fricativas alveolares / s, z / são freqüentemente tornadas pós-alveolares, ou mesmo palatinas [, ] em muitos dialetos.
+As consoantes mostradas na tabela como africadas / t, d / mostram variação significativa entre sub-dialetos. Eles podem ser percebidas pós-alveolares ou alveolares [ts, dz]. Em alguns dialetos, eles são reduzidos a fricativas, que podem ser palatais [, ] (em Marchois, por exemplo), alveolar [s, z] (em muitos dialetos do Périgord) ou interdentais [, ] (como em o Duplo, no Périgord).
+Apesar de tudo, a oposição do ponto de articulação é geralmente mantida entre as fricativas originais (/ s, z /) e aquelas resultantes da desafricação de / t, d /. Em alguns dialetos (como no vale da Ilha, no Périgord), observamos uma inversão do ponto de articulação: / s, z / são realizados palatais ([, ]), e / t, d /, como fricativas coronais ([s, z] ou [, ]).
+As nasais só se opõem na posição de ataque silábico. Na posição de final sílaba, [m], [n] e [] são alofones.
+Em Limousin, como em geral no Norte da Occitânia, existe apenas um fonema rótico, geralmente executado como uma vibrante(simples), apesar da implosiva crescente do R uvular francês. Os finais -r são mantidos em certos sufixos (em - ou , - ador , por exemplo), nos infinitivos en - ar e - ir ' ', mas geralmente vocalizado em [j] depois de "E": ' 'lo ser' ' [sej] (noite), ' 'valer' ' [vlej ] (valer a pena), èsser [essej] (valer a pena).
+Tratamento de -s- etimológico, mantido na grafia, na posição final da sílaba.
+
+Quando o S segue um A, em geral o S se anula. O vogal adota sua forma mais extensa e se alonga em [a:]: bastir [ba: 'ti] (construir),' 'nascut' '[na:' ky] (nascido), las belas filhas [la: 'bla:' fija:] (lindas garotas), chantes ['snta:] (você canta).
+[a:] compartilha muitas características com o vogal tônico A: timbre firme e extensão. Portanto, esse também pode atrair os outros correlatos do afonso tônico: bastir ['ba ti],' 'nascut' '[' na ky], las belas filhas [ la be'la fi'ja ], chantas [sõn'ta ]. Quando [a:] usa um acento tônico, pode perder extensão.
+As consoantes nasais são instáveis na posição final. Quando se acomoda, o vogal anterior pode permanecer em sua forma nasal ou ser desnasalizada e terminar em sua forma mais relaxada. Depois de um A nasal ou denasalizado, o S é simplesmente divertido e o vogal permanece inalterado: "planos" [plo], [plõ], [plõ] o [plõm] (planos).
+Atrás de E e É, o S é normalmente semivocalizado em iod [j], e um ditongo [ej] é formado: estiu [ej'tiw] (verão), escòla [ej ' kol] (escola), cranes dròlles [kranej drolej] (lindas crianças), vòles [vlej] (você quer), francés [frõn'ej] (francês).
+Quando há uma consoante muda no final da palavra, tudo acontece como se não existisse: un piquet [ym pi'k] (un piquet) / piquets posteriores [du : pi'kej] (duas estacas).
+Quando se trata de uma consoante nasal, pode-se perceber como se o S não existisse ou pode simplesmente emudecer: lo fen [lu 'f] (o feno) /' 'los fens' '[ lu: 'fej] ou [lu:' f] (feno).
+Observe que, no Limousin, o ditongo [aj] na posição tônica alterna com [ej] na posição não tônica. Isso levou a casos de confusão nas formas conjugadas de verbos que mostram o ditongo [ej] do grop –es– na posição atônica, e o ditongo [aj] pode aparecer ali na posição tônica: espiar [ej'pja] (olhar)> éspia ['ajpj] (ele / ela olha), ' ' peschar [pej'sa] (pescar)> pescha ['pajs] (ele / ela está pescando).
+Atrás de È, no caso geral, o S é tornado surdo e a vogal adota sua forma tensa e se alonga em [e:]: tèsta [te: t] (cabeça), estestar [ejte: 'ta] (parar),' 'arrèsta' '['re: t] (para),' 'prisões' '[re:' te:] (para que pare), un pè [ym 'p] (um pé),' 'dos pès' '[du: pe:] (dois pés),' 'mèsme' '[' me: m] (mesmo). Observe que o grupo se mantém [e:] mesmo em uma posição não tônica.
+Atrás da tônica, no caso geral, há um enfraquecimento do S e o vogal adota sua forma mas extensa e se alonga em [o:]: còsta [ko: t] (costela), gròs [ gro:] (gordo). Em alguns casos, pode haver uma ditongação de [o:] em [ow]: nòstre [no: tr] o [nowtr] (nosso / nosso).
+Atrás do O tônico ou lento, normalmente há amolecimento do S e alongamento compensatório da vogal: dos [du:] (dois), dosta ['du: t] (ele tira), dostar [du: 'ta] (remover), dostat [du:' ta] (remover).
+Atrás dos vogais I e U anteriores fechadas, o "S" geralmente soa, mas os vogais fechadas anteriores têm pouca tendência a se alongar, por isso é raro encontra-los longos. O alongamento compensatório do fortalecimentoo do "S" não faz sentido
+Os primeiros trovadores que escreveram em Limousin foram Guilherme IX da Aquitânia, Bernart de Ventadorn]], Giraut de Bornelh freqüentemente também seus herdeiros. Sobre a conservação dos principais documentos do Occitano sobre o Ritmo do Diálogo, notadamente o "Boecis, como versões críticas do 1000. Foi também a língua nativa dos grandes senhores da Aquitânia ou de seu sua Limousin por exemplo Aliénor d 'Aquitânia ou Richard Coer de Lion, que compõe poemas em uma limusine langue.
+
+Geografia
+
+| alt = Mapa da França cujas áreas geográficas correspondentes aos dialetos são coloridas.]]
+É falado nos três departamentos da região francesa de Limousin (antiga região administrativa) - toda Haute-Vienne]], os três quartos ocidentais de Corrèze (o resto fala Auvergnat também reduzida a algumas comunas no extremo sul de Languedoc, a metade ocidental de Creuse (o resto falando Auvergnat]]). Limousin também é historicamente falado em algumas cidades na parte sudeste do departamento de Vienne, no terço oriental de Charente ( Charente occitane , que inclui a Charente limousina, a fronteira leste de Angoumois e uma orla sudeste do departamento que faz fronteira com a Dordonha e ao longo da metade norte da Dordonha até linha oeste-leste linha que vai do sul de Mussidan ao sul de Montignac-Lascau.
+
+Situação
+
+O dialeto Limousin foi até o século XVI a língua oficial da província e permaneceu como a língua oral dominante até o início do século XX, incluindo em alguns bairros operários de ambientes urbanos (Limoge, Saint-Junien), época da qual os franceses dominaram. Em 2010, a Organização das Nações Unidas - UNESCO classificou-o como "gravemente ameaçado de extinção" em seu "Atlas de línguas ameaçadas de extinção".
+O Limousin é usado principalmente por residentes rurais com mais de 70 anos. Todos os seus falantes também falam francês e seu uso ainda tende a diminuir. Mas a maioria dos Limousins de nascimento sabe, mesmo quando não compreende totalmente a língua, expressões, provérbios ou outras canções na língua occitana que fazem parte de sua herança cultural.
+Existem duas creches / escolas primárias Occitanas imersivas (calandreta} ) na área do dialeto Limousin: uma em Limoges e a outra em Périgueux]]. Eles são seculares, gratuitos e usam uma pedagogia ativa e participativa resultante da pedagogia de Freinet. Eles estão abertos a todos, sem exceção, incluindo crianças cujos pais não falam occitano. Eles participam da transmissão e da continuidade da língua Limousin, educando as crianças no bilinguismo Occitano-Francês. Três professores ensinam Limousin Occitan em faculdades, escolas secundárias e no University Institute of Technology em Limousin.
+Traços de Limousin Occitan ainda podem ser encontrados em muitos sobrenomes e nomes de lugares. A língua também deixou sua marca nas expressões dos Limousins (Limousinisms), bem como em seus sotaques regionais na França quando se falava francês.
+No século XVI, na Comunidade Valenciana e em Maiorca]], a expressão Língua Limousin ou llemosí era usado pela primeira vez para falar sobre a maneira de falar dos trovadores catalães. Então, este termo foi usado até o século XIX, às vezes para falar da língua catalã] e
+Painéis laterais.
+
+Escritores em Limousin
+Jean-Baptiste Foucaud (1747-1818), Limougeaud conhecido por suas adaptações occitanas das fábulas de La Fontaine.
+Édouard Cholet (1833-1917) conhecido como Lingamiau - Limoges - Autor de La Nhiorlas de Lingamiau.
+Padre Joseph Roux] (1834–1905), de Tulle, que reviveu a escrita literária de Limousin no século XIX com seu longo poema La Chansou lemouzina } et codifié l’orthographe limousine dans sa Grammaire limousine (1893–1895).
+Roger Ténèze (1904–1976), journaliste à « la Voix du Nord », autor de romances Noreia e os poemas Las Ombras Sobeiranas).
+Marcelle Delpastre]] (1925–1998), poeta, etnógrafo, memorialista …
+Jean Mouzat, poeta e autor de estudos sobre os Trovadores, em particular sobre Gaulcem Faidit.
+Albert Pestour]] (1892–1965), poète (Lous rebats sus l’Autura).
+Jan dau Melhau
+.
+Paul-Louis Grenier, originário de Creuse e de Chambon-sur-Voueize.
+Jean Ganiayre
+.
+
+Amostra de texto
+Totas las personas naisson liuras e egalas en dignitat e en drech. Son dotadas de rason e de consciéncia e lor chau (/fau) agir entre elas emb un esperit de frairesa.
+Português
+Todos os seres humanos nascem livres e iguais em dignidade e direitos. Eles são dotados de razão e consciência e devem agir em relação uns aos outros com espírito de fraternidade. (Artigo 1 da Declaração Universal dos Direitos Humanos)

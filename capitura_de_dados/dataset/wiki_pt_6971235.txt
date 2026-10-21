@@ -1,0 +1,42 @@
+Zen (microarquitetura)
+
+Zen é uma família de microarquiteturas de processadores de computador da AMD, lançada pela primeira vez em fevereiro de 2017 com a primeira geração de suas CPUs Ryzen. É usada em Ryzen (desktop e mobile), Ryzen Threadripper (estação de trabalho/desktop de ponta) e Epyc (servidor).
+
+Comparação
+
+História
+
+Primeira geração
+
+A primeira geração do Zen foi lançada com a série Ryzen 1000 de CPUs (codinome Summit Ridge) em fevereiro de 2017. O primeiro sistema de pré-visualização baseado em Zen foi demonstrado na E3 2016 e detalhado pela primeira vez substancialmente em um evento realizado a um quarteirão do Intel Developer Forum 2016. As primeiras CPUs baseadas em Zen chegaram ao mercado no início de março de 2017, e os processadores de servidor Epyc derivados do Zen (codinome "Naples") foram lançados em junho de 2017 e APUs baseadas em Zen (codinome "Raven Ridge") chegaram em novembro de 2017. Esta primeira iteração do Zen utilizou o processo de fabricação de 14 nm da GlobalFoundries. Processadores baseados em Zen modificados para o mercado chinês foram construídos sob a joint venture AMD-China.
+
+Atualização da primeira geração
+
+O Zen+ foi lançado pela primeira vez em abril de 2018, alimentando a segunda geração de processadores Ryzen, conhecidos como Ryzen 2000 (codinome "Pinnacle Ridge") para sistemas de desktop convencionais, e Threadripper 2000 (codinome "Colfax") para configurações de desktop high-end. O Zen+ usou o processo de 12 nm da GlobalFoundries, uma versão aprimorada de seu nó de 14 nm.
+
+Segunda geração
+
+As CPUs da série Ryzen 3000 foram lançadas em 7 de julho de 2019, enquanto as CPUs de servidor Epyc baseadas em Zen 2 (codinome "Rome") foram lançadas em 7 de agosto de 2019. Os produtos Zen 2 Matisse foram as primeiras CPUs de consumo a usar o nó de processo de 7 nm, da TSMC. O Zen 2 introduziu a arquitetura baseada em chiplets, onde CPUs de desktpo, estações de trabalho e servidores são todas produzidas como módulos multi-chip (MCMs); esses produtos Zen 2 utilizam os mesmos chiplets de núcleo, mas são conectados a diferentes silícios uncore (diferentes matrizes IO) em uma topologia hub e spoke. Esta abordagem difere dos produtos Zen 1, onde o mesmo die (Zeppelin) é usado em um pacote monolítico simples para produtos Summit Ridge (série Ryzen 1000) ou usado como blocos de construção interconectados em um MCM (até quatro dies Zeppelin) para para produtos Epyc e Threadripper primeira geração. Para produtos Zen 2 anteriores, as funções de I/O e uncore são executadas dentro deste die de I/O separado, que contém os controladores de memória, a malha para habilitar a comunicação de núcleo ara núcleo e parte das funções uncore. O die de I/O usado pelos processadores Matisse é um pequeno chip produzido em GF 12 nm, enquanto o die de I/O do servidor utilizado para Threadripper e Eyc é muito maior. O die de I/O do servidor é capaz de servir como um hub para conectar até oito chiplets de 8 núcleos, enquanto o die de I/O para Matisse é capaz de conectar até dois chiplets de 8 núcleos. Esses chiplets são ligados elo Infinity Fabric de segunda geração da AMD, permitindo uma interconexão de baixa latência entre os núcleos e para IO. Os núcleos de processamento nos chiplets são organizados em CCXs (Core Complexes) de quatro núcleos, ligados entre si para formar um único CCD (Core Chiplet Die) de oito núcleos.
+O Zen 2 também alimenta uma linha de APUs móveis e de desktop comercializadas como Ryzen 4000, bem como consoles Xbox de quarta geração e o PlayStation 5. A microarquitetura central do Zen 2 também é usada na APU Mendocino, um sistema de 6 nm em um chip voltado para dispositivos móveis convencionais e outros produtos de computação de baixo consumo com eficiência energética.
+
+Terceira geração
+
+O Zen 3 foi lançado em 5 de novembro de 2020, usando um processo de fabricação de 7 nm mais amadurecido, alimentando CPUs e APUs da série Ryzen 5000 (codinome "Vermeer" (CPU) e "Cézanne" (APU)) e processadores Epyc (codinome "Milan"). O principal ganho de desempenho do Zen 3 em relação ao Zen 2 é a introdução de um CCX unificado, o que significa que cada chiplet de núcleo agora é composto por oito núcleos com acesso a 32 MB de cache L3, em vez de dois conjuntos de quatro núcleos com acesso a 16 MB de cache L3 cada.
+Em 1 de abril de 2022, a AMD lançou a nova série Ryzen 6000 para laptop, usando uma arquitetura Zen 3+ aprimorada, trazendo gráficos RDNA 2 integrados em uma APU para PC pela primeira vez. 
+O Zen 3 com 3D V-Cache foi oficialmente apresentado em 31 de maio de 2021. Ele difere do Zen 3 porque inclui cache L3 empilhado em 3D sobre o cache L3 normal no CCD, fornecendo um total de 96 MB. O primeiro produto que o utiliza, o Ryzen 7 5800X3D, foi lançado em 20 de abril de 2022. O cache adicionado traz um aumento de desempenho de aproximadamente 15% em aplicativos de jogos, em média.
+O Zen 3 com 3D V-Cache para servidor, codinome Milan-X, foi anunciado na palestra Accelerated Data Center Premiere da AMD em 8 de novembro de 2021. Ele traz um aumento de 50% em aplicativos de datacenter selecionados em relação às CPUs Milan do Zen 3, mantendo a compatibilidade de soquete entre elas. O Milan-X foi lançado em 21 de março de 2022.
+
+Quarta geração
+
+As CPUs de servidor Epyc com Zen 4, codinome Genoa, foram oficialmente reveladas na palestra do Accelerated Data Center Premiere da AMD em 8 de novembro de 2021, e lançadas um ano depois, em novembro de 2022. Eles têm até 96 núcleos Zen 4 e oferecem suporte a PCIe 5.0 e DDR5.
+Além disso, o Zen 4 Cloud (uma variante do Zen 4), abreviado para Zen 4c, também foi anunciado. O Zen 4c foi projetado para ter densidade significativamente maior do que o Zen 4 padrão, ao mesmo tempo que oferece maior eficiência energética. Isto é obtido redesenhando o núcleo e o cache do Zen 4 para maximizar a densidade e a taxa de transferência de dados. Ele tem 50% menos cache L3 do que o Zen 4 e não consegue atingir um clock tão alto. Bergamo (série Epyc 9704) tem até 128 núcleos Zen 4c e é compatível com soquete com Genoa. Foi lançado em junho de 2023. Outra linha de produtos de servidor que usa núcleos Zen 4c é o Siena (série Epyc 8004), que tem até 64 núcleos, usa um soquete menor diferente e se destina a casos que favorecem tamanho menor, custo, energia e pegadas térmicas em vez de alto desempenho.
+Tanto o Zen 4 quanto o Zen 4 Cloud são fabricados no nó de 5 nm da TSMC.
+Além dos processadores de servidor Epyc 9004, 9704 e 8004 (Genoa, Bergamo e Siena respectivamente), o Zen 4 também alimenta os processadores de desktop Ryzen 7000 (codinome "Raphael"), processadores móveis de ponta (codinome "Dragon Range") e processadores móveis finos e leves (codinome "Phoenix"). Ele também alimenta a série Ryzen 8000 G de APUs de desktop.
+
+Quinta geração
+
+O Zen 5 foi mostrado no roteiro Zen da AMD em maio de 2022. Acredita-se que ele use os processos de 4 nm e 3 nm da TSMC. Ele alimentará os principais processadores de desktop Ryzen 9000 (codinome "Granite Ridge"), processadores móveis de última geração (codinome "Strix Point") e processadores de servidor Epyc 9005 (codinome "Turin").
+O Zen 5c é uma variante compacta do núcleo Zen 5, voltada principalmente para clientes de servidores de computação em nuvem em hiperescala.
+
+Vulnerabilidade de Sinkclose
+Em 9 de agosto de 2024, uma vulnerabilidade denominada "Sinkclose" foi anunciada afetando todos os processadores baseados em Zen até aquela data. O Sinkclose afeta o Modo de Gerenciamento do Sistema (SMM). Ele só pode ser explorado comprometendo primeiro o kernel do sistema operacional. Uma vez afetado, é possível evitar a detecção por software antivírus e até mesmo comprometer um sistema após o sistema operacional ter sido reinstalado. A AMD seguiu com patches a serem lançados em 20 de agosto de 2024.

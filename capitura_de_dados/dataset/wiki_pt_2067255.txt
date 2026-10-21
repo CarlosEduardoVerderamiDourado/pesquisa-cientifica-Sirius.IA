@@ -1,0 +1,139 @@
+Prefixo aeronáutico
+
+Na aviação civil, o prefixo ou marca de nacionalidade é um código alfabético ou alfanumérico que identifica, nacional e internacionalmente, a nacionalidade de uma aeronave.
+A marca de nacionalidade é considerada um prefixo porque ela precede a marca de matrícula, que por sua vez é considerada um sufixo. A combinação do prefixo com o sufixo forma o que a ICAO denomina aircraft marks, ou seja, as marcas da aeronave.
+
+História
+Desenvolvidos pela ICAO, os International Standards and Recommended Practices - SARPS (Padrões e Práticas Recomendadas Internacionais) contidos nos dezoito anexos da Convenção de Aviação Civil Internacional (também denominada Convenção de Chicago) aplicam-se universalmente e garantem um elevado grau de uniformidade técnica, o que tem permitido à aviação civil internacional desenvolver-se de modo seguro, ordenado e eficiente. O Anexo 7 da Convenção de Chicago, intitulado Aircraft Nationality and Registration Marks (Marcas de Nacionalidade e de Matrícula de Aeronaves) e adotado pela ICAO, estabeleceu os SARPS necessários à adequada exibição das marcas de nacionalidade, marcas comuns e marcas de matrícula das aeronaves. Esses SARPS foram instituídos em conformidade com os artigos 17 a 21 da Convenção de Chicago.
+As questões relacionadas aos aspectos técnicos e legais relevantes para o futuro da aviação, entre as quais estava a questão da nacionalidade e da matrícula das aeronaves, foram discutidas pela primeira vez na Conferência de Paris de 1910. Embora essa Conferência tenha fracassado na tentativa de obter um tratado assinado, o esboço nela produzido posteriormente serviu de base para a Conferência de Paris de 1919. A Primeira Comissão, que entre outros assuntos lidou com a questão da matrícula das aeronaves, apresentou o Annex A - Registration of Aircraft (Anexo A - Matrícula de Aeronaves), que apresentava uma lista de marcas de nacionalidade para os países participantes. Importante ressaltar que a identificação feita com uma letra para cinco países foi baseada nos call sign prefixes (prefixos de indicativo de chamada) adotados na Conferência Radiotelegráfica de 1912, que ocorrera em Londres. A preocupação era garantir que os países que porventura aderissem à Convention Relating to the Regulation of Aerial Navigation (Convenção Relativa à Regulação da Navegação Aérea) informassem à International Commission for Air Navigation - ICAN (Comissão Internacional para a Navegação Aérea) a marca de nacionalidade escolhida. Deste modo, a Comissão atuaria como um órgão de coordenação que impediria a duplicação de códigos já alocados.
+Na segunda sessão da ICAN, ocorrida em Londres em outubro de 1922, a Delegação da França sugeriu que, para instituir as marcas de nacionalidade das aeronaves, seria mais prático adotar as mesmas letras já alocadas para os wireless call signs (indicativos de chamada sem fio). Como isto já havia sido proposto na London International Radiotelegraph Conference (Conferência Radiotelegráfica Internacional de Londres), ocorrida em Londres no período de 4 de junho a 5 de julho de 1912, a então denominada International Telegraph Union - ITU (União Telegráfica Internacional), que a partir de 1º de janeiro de 1934 passou a ser denominada International Telecommunication Union (União Internacional de Telecomunicações), elaborou uma lista de letras a serem utilizadas como indicativos de chamada para as chamadas sem fio. Como resultado disto, em 1º de julho de 1913 passou a vigorar a International Radiotelegraph Convention (Convenção Radiotelegráfica Internacional ou Convenção Internacional de Radiotelegrafia). Embora de início a reserva de letras pela Convenção tenha sido feita não especificamente para aeronaves, mas para qualquer usuário das radiocomunicações, a Convenção Relativa à Regulação da Navegação Aérea reservou algumas letras especificamente para aeronaves, baseando-se na lista de indicativos de chamada de 1913 e suas revisões posteriores, adotadas pelas Conferências da ITU: a Conferência Radiotelegráfica Internacional, realizada em Washington no período de 4 de outubro a 25 de novembro de 1927, a realizada em Madrid no período de 3 de setembro a 10 de dezembro de 1932 e a Conferência Internacional de Radiocomunicações, realizada no Cairo no período de 1º de fevereiro a 8 de abril de 1938.
+As marcas da aeronave identificam individualmente uma aeronave civil, de modo similar ao que faz uma placa de automóvel. As marcas foram modificadas e aprimoradas ao longo dos anos, até que, após a Segunda Guerra Mundial, com a criação definitiva da ICAO em abril de 1947, os padrões normativos elaborados durante a Convenção de Chicago passaram por grandes modificações. Por conta disto, o até então denominado Annex H - Aircraft Registration and Identification Marks (Anexo H - Matrícula de Aeronaves e Marcas de Identificação) passou a ser denominado Annex 7 - Aircraft Nationality and Registration Marks (Anexo 7 - Marcas de Nacionalidade e de Matrícula de Aeronaves). O Conselho da ICAO adotou os primeiros padrões internacionais a respeito deste tema na data de 7 de fevereiro de 1949 e a adoção desses padrões foi oficializada em 1º de julho de 1949. Desde então a ICAO vem, ao longo dos anos, atualizando e aprimorando esses padrões referentes às marcas das aeronaves.
+
+Aviação internacional
+O Anexo 7 da Convenção de Chicago estipula o tamanho, o formato e a posição da marca de nacionalidade e da marca de matrícula na carenagem da aeronave, assim como também define o formato do Certificate of Registration (Certificado de Matrícula) que deve sempre acompanhar a aeronave. Ainda de acordo com o Anexo 7, a marca de nacionalidade (prefixo) da aeronave deve sempre ser grafada antes da marca de matrícula (sufixo).
+Ainda, de acordo com a última versão da Convenção Relativa à Regulação da Navegação Aérea, as marcas de nacionalidade e de matrícula de uma aeronave devem formar um grupo de cinco letras:
+
+A nacionalidade deve ser indicada pela primeira letra ou por um grupo de duas letras, selecionadas dentro da série de símbolos de nacionalidade que fazem parte dos indicativos de radiochamada estabelecidos pela ITU para o Estado.
+Um hífen deve ser grafado imediatamente após a(s) letra(s) que compõe(m) a marca de nacionalidade.
+A marca de matrícula deve ser constituída pelas três ou quatro letras restantes, de modo a totalizar, com a marca de nacionalidade, no máximo cinco letras. Exemplos: F-ABCD e HS-XYZ.
+As marcas de nacionalidade e de matrícula devem ser pintadas na aeronave ou de algum outro modo afixadas à aeronave, desde que assegurado o mesmo grau de aderência e durabilidade de uma marca que foi pintada.
+Todas as letras devem ser maiúsculas, no formato romano e sem ornamentações.
+
+Prefixos por país lusófono
+
+Angola
+O prefixo aeronáutico utilizado em Angola é D2.
+
+Brasil
+Embora o Anexo 7 da Convenção de Chicago defina prefixo como sinônimo de marca de nacionalidade, no Brasil o uso do termo prefixo (e também o do termo matrícula) consolidou-se como sinônimo de registro aeronáutico ou marcas da aeronave, ou seja, a palavra prefixo é utilizada para representar a união do "prefixo ICAO" (marca de nacionalidade) com o "sufixo ICAO" (marca de matrícula).
+Em virtude dessa consolidação linguística, o RBAC 45, aprovado em 2012, estabeleceu que as aeronaves civis brasileiras deverão ser identificadas por um prefixo composto por duas marcas: a marca de nacionalidade e a marca de matrícula (nesta ordem).
+
+Marca de nacionalidade
+Assim sendo, os prefixos das aeronaves civis brasileiras são iniciados por uma marca de nacionalidade. Essa marca é constituída por um dos seguintes pares de letras maiúsculas: PP, PR, PS, PT ou PU.
+
+Marca de matrícula
+Os prefixos das aeronaves civis brasileiras também devem conter uma marca de matrícula, que é grafada após a marca de nacionalidade. As marcas de matrícula são constituídas por arranjos de três letras maiúsculas. Exemplos: AAC, KKA, ZZA. Restrições:
+
+A primeira letra não pode ser Q.
+A segunda letra não pode ser W.
+Os arranjos SOS, XXX, PAN, TTT, VFR, IFR, VMC e IMC não podem ser utilizados.
+Também é proibido arranjos de prefixo que apresentem significado pejorativo, impróprio ou ofensivo. Exemplo: PR-PQP, PU-TAS, PS-VSF, PP-XXX.
+
+Composição do prefixo
+Na constituição do prefixo de uma aeronave civil brasileira, a marca de nacionalidade deve preceder a marca de matrícula e as duas devem ser separadas por um hífen posicionado a meia altura das letras. Exemplo: PP-DAC.
+
+Cabo Verde
+O prefixo aeronáutico utilizado em Cabo Verde é D4.
+
+Guiné-Bissau
+O prefixo aeronáutico utilizado em Guiné-Bissau é J5.
+
+Macau
+O prefixo aeronáutico utilizado em Macau é B.
+
+Moçambique
+O prefixo aeronáutico utilizado em Moçambique é C9.
+
+Portugal
+Os prefixos aeronáuticos utilizados em Portugal são CR e CS .
+
+São Tomé e Príncipe
+O prefixo aeronáutico utilizado em São Tomé e Príncipe é S9.
+
+Timor-Leste
+O prefixo aeronáutico utilizado no Timor-Leste é 4W.
+
+Prefixos em outros países
+
+Alemanha
+O prefixo aeronáutico utilizado na Alemanha é D.
+
+Argélia
+O prefixo aeronáutico utilizado na Argélia é 7T.
+
+Austrália
+O prefixo aeronáutico utilizado na Austrália é VH.
+
+Bolívia
+O prefixo aeronáutico utilizado na Bolívia é CP.
+
+Canadá
+O prefixo aeronáutico utilizado no Canadá é C.
+
+Catar
+O prefixo aeronáutico utilizado no Catar é A7.
+
+Chile
+O prefixo aeronáutico utilizado no Chile é CC.
+
+Colômbia
+O prefixo aeronáutico utilizado na Colômbia é HK.
+
+Croácia
+O prefixo aeronáutico utilizado na Croácia é 9A.
+
+Emirados Árabes Unidos
+O prefixo aeronáutico utilizado nos Emirados Árabes Unidos é A6.
+
+Estados Unidos
+O prefixo aeronáutico utilizado nos Estados Unidos é N.
+
+França
+O prefixo aeronáutico utilizado na França é F.
+
+Holanda
+O prefixo aeronáutico utilizado na Holanda é PH.
+
+Itália
+O prefixo aeronáutico utilizado na Itália é I.
+
+Japão
+O prefixo aeronáutico utilizado no Japão é JA.
+
+Malásia
+O prefixo aeronáutico utilizado na Malásia é 9M.
+
+México
+O prefixo aeronáutico utilizado no 
+México é XA.
+
+Nova Zelândia
+O prefixo aeronáutico utilizado na Nova Zelândia é ZK.
+
+Omã
+O prefixo aeronáutico utilizado em Omã é A4O.
+
+Polônia
+O prefixo aeronáutico utilizado na Polônia é SP.
+
+Quênia
+O prefixo aeronáutico utilizado no Quênia é 5Y.
+
+Reino Unido
+O prefixo aeronáutico utilizado no Reino Unido é G.
+
+Ruanda
+O prefixo aeronáutico utilizado em Ruanda é 9XR.
+
+Rússia
+Os prefixos aeronáuticos utilizados na Rússia são RA e RF.

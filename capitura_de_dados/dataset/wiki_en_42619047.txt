@@ -1,0 +1,24 @@
+Core Infrastructure Initiative
+
+The Core Infrastructure Initiative (CII) was a project of the Linux Foundation to fund and support free and open-source software projects that are critical to the functioning of the Internet and other major information systems. The project was announced on 24 April 2014 in the wake of Heartbleed, a critical security bug in OpenSSL that is used on millions of websites.
+OpenSSL is among the first software projects to be funded by the initiative after it was deemed underfunded, receiving only about $2,000 per year in donations. The initiative will sponsor two full-time OpenSSL core developers. In September 2014, the Initiative offered assistance to Chet Ramey, the maintainer of bash, after the Shellshock vulnerability was discovered.
+The CII has since been superseded by the Open Source Security Foundation.
+
+Heartbleed bug
+
+OpenSSL is an open-source implementation of Transport Layer Security (TLS), allowing anyone to inspect its source code. It is, for example, used by smartphones running the Android operating system and some Wi-Fi routers, and by organizations including Amazon.com, Facebook, Netflix, Yahoo!, the United States of America's Federal Bureau of Investigation and the Canada Revenue Agency.
+On 7 April 2014, OpenSSL's Heartbleed bug was publicly disclosed and fixed. The vulnerability, which had been shipped in OpenSSL's current version for more than two years, made it possible for hackers to retrieve information such as usernames, passwords and credit card numbers from supposedly secure transactions. At that time, roughly 17% (around half a million) of the Internet's secure web servers certified by trusted authorities were believed to be vulnerable to the attack.
+
+Open-source software
+According to Linus's law, from Raymond's book The Cathedral and the Bazaar, "Given enough eyeballs, all bugs are shallow." In other words, if there are enough people working on the software, a problem will be found quickly and its fix will be obvious to someone. Raymond stated in an interview that "there weren't any eyeballs" for the Heartbleed bug.
+Prior to the CII funding, only one person, Stephen Henson, worked full-time on OpenSSL; Henson approved well over half of the updates to more than 450,000 lines of the OpenSSL's source code. Besides Henson, there are three core volunteer programmers. The OpenSSL Project existed on a budget of $2,000 per year in donations, which was enough to cover the electrical bill, and Steve Henson was earning around $20,000 per year. To gather more revenue for the project, Steve Marquess, a consultant for the Defense Department, created the OpenSSL Software Foundation. This allowed programmers to make some money by consulting for organizations that used the code. However, the foundation brought in less than $1 million per year, and the contract work tended to focus on adding new features rather than maintaining the old ones.
+Other open-source software projects have similar difficulties. For example, the maintainers of OpenBSD, a security-conscious operating system, nearly had to shut the project down in early 2014 because it could not pay the electricity bills.
+
+The initiative
+Jim Zemlin, the executive director of the Linux Foundation, conceived the idea of the Core Infrastructure Initiative not long after Heartbleed was announced, and spent the night of April 23 calling firms for support. Thirteen companies responded and joined the initiative: Amazon Web Services, Cisco Systems, Dell, Facebook, Fujitsu, Google, IBM, Intel, Microsoft, NetApp, Rackspace, Qualcomm and VMware. The list was mainly determined by who Zemlin knew. Each of the thirteen companies has pledged to donate $100,000 a year for the next three years bringing the initial funding pool to almost $4 million. An additional five companies—Adobe Systems, Bloomberg L.P., Hewlett-Packard, Huawei, and Salesforce.com—have since joined the initiative.
+The money that the CII pooled was used to fund specific tasks such as providing compensation to developers to work full-time on an open-source software project, conducting reviews and security audits, deploying test infrastructure, and facilitating travel and face-to-face meetings among developers.
+The CII was composed of two bodies, a steering committee and an advisory board. The steering committee was made up of representatives from the member companies and other industry stakeholders and the committee was in charge of identifying target software projects and approving specific funding to those projects. The advisory board, composed of developers and other stakeholders, provided advice to the steering committee.
+
+Projects backed in 2016
+
+The Core Infrastructure Initiative also invested 120,000 USD for education to the good practices of open-source development, 120,000 USD in popular open-source project analysis and 95,000 USD for auditing OpenSSL

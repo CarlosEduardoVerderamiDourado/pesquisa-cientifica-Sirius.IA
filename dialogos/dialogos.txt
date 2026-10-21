@@ -1,0 +1,18 @@
+<BOS>projeto_principal: Sirius
+usuario: qual é o meu projeto?
+sirius: o seu projeto é o Sirius.
+<EOS><BOS>usuario: que horas são?
+[resultado: 18:33]
+sirius: são 18:33.
+<EOS><BOS>usuario: me diz o horário
+sirius: [ferramenta: hora]
+[resultado: 09:05]
+sirius: agora são 09:05.
+<EOS><BOS>usuario: que dia é hoje?
+[resultado: 21/10/2026]
+sirius: hoje é 21/10/2026.
+<EOS><BOS>usuario: oi
+sirius: olá! em que posso ajudar?
+usuario: nada, só testando
+sirius: tudo bem, estou aqui.
+<EOS>

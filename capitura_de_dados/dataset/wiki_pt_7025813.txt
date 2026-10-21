@@ -1,0 +1,36 @@
+1 bit
+
+Na arquitetura do computadores, inteiros (ou outras unidades de dados) de 1 bit são aqueles que têm 1 bit (1/8 octeto) de largura. Além disso, arquiteturas de 1 bit da unidade central de processamento (CPU) e da unidade lógico-aritmética (ALU) têm registradores desse tamanho.
+Não há computadores ou microcontroladores de qualquer tipo que sejam exclusivamente de 1 bit para todos os registradores e barramentos de endereços. Um registrador de 1 bit só pode armazenar 2 1 valores diferentes, ou seja, 0 ou 1 (desligado ou ligado, respectivamente). Isso é muito restritivo e, portanto, não é suficiente para um contador de programa que, em sistemas modernos, é implementado em um registrador on-chip, mas que não é implementado on-chip em alguns sistemas de 1 bit. Opcodes para pelo menos uma arquitetura de processador de 1 bit eram de 4 bits e o barramento de endereço era de 8 bits.
+Embora as CPUs de 1 bit sejam obsoletas, o primeiro computador de nanotubos de carbono de 2013 foi uma máquina de instrução única de 1 bit (e possuía apenas 178 transistores).
+
+1 bit
+Um computador serial processa um bit de cada vez. Por exemplo, o PDP-8/S era um computador de 12 bits usando uma ALU de 1 bit, processando os 12 bits serialmente.
+Um exemplo de um computador de 1 bit construído a partir de chips SSI de lógica discreta é a calculadora Wang 500 (1970/1971), as well as the Wang 1200 bem como a série Wang 1200 (1971/1972) de editores de texto desenvolvida pela Wang Laboratories.
+Um exemplo de uma arquitetura de 1 bit que foi comercializada como uma CPU é a Unidade de Controle Industrial (ICU) Motorola MC14500B, introduzida em 1977 e fabricada pelo menos até meados da década de 1990. Seu manual afirma:
+
+[...] Computadores e microcomputadores também podem ser utilizados, mas tendem a complicar demais a tarefa e muitas vezes requerem pessoal altamente qualificado para desenvolver e manter o sistema. Foi introduzido um dispositivo mais simples, concebido para funcionar com entradas e saídas seriais e configurado para parecer um sistema de relay. Estes dispositivos tornaram-se conhecidos pela indústria de controle como controladores lógicos programáveis (PLC). A Unidade de Controle Industrial (ICU) Motorola MC14500B é a encarnação monolítica da arquitectura central do PLC [...]
+Há funções para quais máquinas de 1 bit são ruins para. [...] Sob certas circunstâncias, uma combinação de uma MPU MC6800 e uma ICU MC14500B pode ser a melhor solução. [...]
+Contador de Programa
+O contador de programa é composto por dois contadores up-down MC145168 encadeados para criarem endereços de memória de 8 bits. Isso dá o sistema a capacidade de endereçar 256 palavras de memória diferentes. Os contadores são configurados para contarem no crescente do sinal de relógio da ICU e resetarem para zero quando a ICU é resetada. Note que a sequência do contador de programa não pode ser alterada por qualquer operação da ICU. Isso confirma que o sistema é configurado para ter uma estrutura de controle cíclica.
+Memória
+A memória para esse sistema é composta por uma memória MCM7641 PROM de palavras de 512 por 8 bits. Porque o contador de programas só tem 8 bits de largura, só 256 palavras (metade da memória) podem ser usadas de uma vez. Porém, ao ligar o bit mais significativo com o baixo ou alto do endereço de memória, o designer do sistema pode escolher entre dois programas diferentes com uma única opção de jumper. Isso pode ser desejável caso se queira mudanças de sistema extremamente rápidas.
+
+[…] Computers and microcomputers may also be used, but they tend to overcomplicate the task and often require highly trained personnel to develop and maintain the system. A simpler device, designed to operate on inputs and outputs one-at-a-time and configured to resemble a relay system, was introduced. These devices became known to the controls industry as Programmable Logic Controllers (PLC). The Motorola MC14500B Industrial Control Unit (ICU) is the monolithic embodiment of the PLC's central architecture […]
+There are functions for which one bit machines are poorly suited. […] Under some circumstances, a combination of an MC6800 MPU and an MC14500B ICU may be the best solution. […]
+Program Counter
+The program counter is composed of two MC145168 binary up-counters chained together to create 8 bits of memory address. This gives the system the capability of addressing 256 separate memory words. The counters are configured to count up on the rising edge of the ICU clock (CLK) signal and reset to zero when the ICU is reset. Notice that the program counter count sequence cannot be altered by any operation of the ICU. This confirms that the system is configured to have a looping control structure.
+Memory
+
+The memory for this system is composed of one MCM7641 512-word by 8 bit PROM memory. Because the program counter is only 8 bits wide, only 256 words, (half of the memory), can be used at any one time. However, by wiring the most significant bit of the memory's address high or low, the system designer can select between two separate programs with only a jumper option. This might be a desirable feature if extremely fast system changes are required.
+
+Um dos computadores conhecidos por serem baseados nessa CPU é o computador WDR de 1 bit. Uma sequência típica de instruções de um programa para uma arquitetura de 1 bit poderia ser:
+
+carregue a entrada digital 1 em um registrador de 1 bit;
+OU o valor no registrador de 1 bit na entrada 2, deixando o resultado no registrador;
+retorne o valor no registrador de 1 bit para a saída 1.
+Essa arquitetura foi considerada superior para programas que tomam decisões em vez de realizar cálculos aritméticos, para diagramas de escada, e também para processamento de dados seriais.
+Existem também vários estudos de design para arquiteturas de 1 bit nos meios acadêmicos, e a lógica correspondente de 1 bit também pode ser encontrada na programação.
+Outros exemplos de arquiteturas de 1 bit são os controladores lógicos programáveis (PLCs), programados na lista de instruções (IL).
+Vários dos primeiros computadores massivamente paralelos também usavam arquiteturas de 1 bit para os processadores. Exemplos incluem o Goodyear MPP de maio de 1983 e a Connection Machine de 1985. Usando uma arquitetura de 1 bit para os processadores individuais, uma matriz muito grande (por exemplo, a Connection Machine tinha 65.536 processadores) podia ser construída com a tecnologia de chip disponível na época. Nesse caso, a computação lenta de um processador de 1 bit foi compensada pelo grande número de processadores.
+CPUs de 1 bit agora podem ser consideradas obsoletas; poucas arquiteturas de 1 bit foram produzidas. Ainda em 202 alguns chips MC14500B estavam disponíveis em lojas para peças obsoletas.

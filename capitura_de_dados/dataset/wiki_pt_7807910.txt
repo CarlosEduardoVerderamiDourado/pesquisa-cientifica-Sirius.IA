@@ -1,0 +1,98 @@
+Teoria das categorias superiores
+
+Em matemática, a teoria das categorias superiores (ou teoria de categorias superiores) é a parte da teoria das categorias em uma ordem superior, o que significa que algumas igualdades são substituídas por setas explícitas (morfismos) a fim de se poder estudar explicitamente a estrutura por trás dessas igualdades. A teoria das categorias superiores é frequentemente aplicada na topologia algébrica (especialmente na teoria da homotopia), onde se estuda invariantes algébricos de espaços topológicos, como o 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-grupoide fraco fundamental.
+Na teoria das categorias superiores, o conceito de estruturas categóricas superiores, como as (
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-categorias), permite um tratamento mais robusto da teoria da homotopia, possibilitando capturar distinções homotópicas mais finas, como a diferenciação de dois espaços topológicos que possuem o mesmo grupo fundamental, mas diferem em seus grupos de homotopia superiores. Esta abordagem é particularmente valiosa ao lidar com espaços com características topológicas intrincadas, como o espaço de Eilenberg-MacLane.
+
+Categorias superiores estritas
+Uma categoria comum possui objetos e morfismos, que são chamados de 1-morfismos no contexto da teoria das categorias superiores. Uma 2-categoria generaliza isso incluindo também 2-morfismos entre os 1-morfismos. Continuar esse processo até n-morfismos entre (n 1)-morfismos resulta em uma n-categoria.
+Assim como a categoria conhecida como Cat, que é a categoria das categorias pequenas e funtores, é na verdade uma 2-categoria com as transformações naturais servindo como seus 2-morfismos, a categoria n-Cat de n-categorias (pequenas) é na verdade uma (n + 1)-categoria.
+Uma n-categoria é definida por indução em n como:
+
+Uma 0-categoria é um conjunto (da categoria dos conjuntos),
+Uma (n + 1)-categoria é uma categoria enriquecida sobre a categoria n-Cat.
+Portanto, uma 1-categoria é apenas uma categoria (localmente pequena).
+A estrutura monoidal de Set (conjuntos) é aquela dada pelo produto cartesiano como tensor e um conjunto unitário como unidade. De fato, qualquer categoria com produtos finitos pode receber uma estrutura monoidal. A construção recursiva de n-Cat funciona bem porque, se uma categoria 
+ 
+ 
+ 
+ C
+ 
+ 
+ 
+ 
+ possui produtos finitos, a categoria de categorias enriquecidas sobre 
+ 
+ 
+ 
+ C
+ 
+ 
+ 
+ 
+ também possui produtos finitos.
+Embora esse conceito seja muito estrito para alguns propósitos em, por exemplo, teoria da homotopia, onde estruturas "fracas" surgem na forma de categorias superiores, grupoides de homotopia superior cúbicos estritos também surgiram como uma nova base para a topologia algébrica na fronteira entre a homologia e a teoria da homotopia; veja o artigo Topologia algébrica não abeliana, referenciado no livro abaixo.
+
+Categorias superiores fracas
+
+Em n-categorias fracas, a associatividade e as condições de identidade não são mais estritas (isto é, não são dadas por igualdades exatas), mas são satisfeitas a menos de um isomorfismo do próximo nível. Um exemplo na topologia é a composição de caminhos, onde a identidade e as condições de associação valem apenas a menos de reparametrização e, consequentemente, a menos de homotopia, que atua como o 2-isomorfismo para esta 2-categoria. Esses n-isomorfismos devem se comportar bem entre os conjuntos hom (hom-sets), e expressar isso é a grande dificuldade na definição das n-categorias fracas. As 2-categorias fracas, também chamadas de bicategorias, foram as primeiras a serem definidas explicitamente. Uma particularidade delas é que uma bicategoria com um único objeto é exatamente uma categoria monoidal, de modo que pode-se dizer que bicategorias são "categorias monoidais com muitos objetos". As 3-categorias fracas, também chamadas de tricategorias, e as generalizações de níveis superiores são cada vez mais difíceis de definir explicitamente. Várias definições foram propostas, e determinar quando elas são equivalentes, e em que sentido, tornou-se um novo objeto de estudo na teoria das categorias.
+
+Quase-categorias
+
+Complexos de Kan fracos, ou quase-categorias, são conjuntos simpliciais que satisfazem uma versão fraca da condição de Kan. André Joyal mostrou que eles são uma boa base para a teoria das categorias superiores ao construir a estrutura de modelo de Joyal na categoria dos conjuntos simpliciais, cujos objetos fibrantes são exatamente as quase-categorias. Recentemente, em 2009, a teoria foi ainda mais sistematizada por Jacob Lurie, que as chama simplesmente de 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-categorias (categorias infinito), embora este último termo também seja um rótulo genérico para todos os modelos de (
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+, k)-categorias para qualquer k.
+
+Categorias enriquecidas simplicialmente
+
+Categorias enriquecidas simplicialmente, ou categorias simpliciais, são categorias enriquecidas sobre conjuntos simpliciais. No entanto, quando as consideramos como um modelo para (
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+, 1)-categorias, muitas noções categóricas (por exemplo, limites) não concordam com as noções correspondentes no sentido das categorias enriquecidas. O mesmo se aplica a outros modelos enriquecidos, como as categorias topologicamente enriquecidas.
+
+Categorias topologicamente enriquecidas
+
+Categorias topologicamente enriquecidas (às vezes chamadas simplesmente de categorias topológicas) são categorias enriquecidas sobre alguma categoria conveniente de espaços topológicos, por exemplo, a categoria de espaços de Hausdorff fracos compactamente gerados.
+
+Categorias de Segal
+
+Estas são modelos de categorias superiores introduzidas por Hirschowitz e Simpson em 1998, inspiradas em parte pelos resultados de Graeme Segal em 1974.

@@ -1,0 +1,84 @@
+Placa-mãe
+
+Uma placa-mãe (também chamada de mainboard, placa de circuito principal, mb, mboard, backplane board, base board, system board, placa de sistema (somente em computadores Apple) ou mobo) é a placa de circuito impresso principal (PCB) em computadores de uso geral e outros sistemas expansíveis. Ele contém e permite a comunicação entre muitos dos componentes eletrônicos cruciais de um sistema, como a unidade central de processamento (CPU) e a memória, além de fornecer conectores para outros periféricos. Ao contrário de um backplane, uma placa-mãe geralmente contém subsistemas significativos, como o processador central, os controladores de entrada/saída e memória do chipset, conectores de interface e outros componentes integrados para uso geral.
+Motherboard significa especificamente um PCB com capacidade de expansão. Como o nome sugere, esta placa é muitas vezes referida como a "mãe" de todos os componentes conectados a ela, que geralmente incluem periféricos, placas de interface e placas filhas: placas de som, placas de vídeo, placas de rede, adaptadores de barramento de host, placas sintonizadoras de TV, cartões IEEE 1394; e uma variedade de outros componentes personalizados.
+
+Da mesma forma, o termo placa-mãe descreve um dispositivo com uma única placa e sem expansões ou recursos adicionais, como placas de controle em impressoras a laser, aparelhos de televisão, máquinas de lavar, telefones celulares e outros sistemas integrados com capacidade de expansão limitada.
+
+História
+
+Antes da invenção do microprocessador, o computador digital consistia em várias placas de circuito impresso em uma caixa de cartão com componentes conectados por um backplane, um conjunto de soquetes interconectados. Em designs muito antigos, os fios de cobre eram as conexões discretas entre os pinos do conector do cartão, mas as placas de circuito impresso logo se tornaram a prática padrão. A unidade central de processamento (CPU), memória e periféricos foram alojados em placas de circuito impresso individualmente, que foram conectadas ao backplane. O onipresente barramento S-100 da década de 1970 é um exemplo desse tipo de sistema de backplane.
+Os computadores mais populares da década de 1980, como o Apple II e o IBM PC, publicaram diagramas esquemáticos e outras documentações que permitiram uma rápida engenharia reversa e placas-mãe de substituição de terceiros. Normalmente destinadas à construção de novos computadores compatíveis com os exemplares, muitas placas-mãe ofereciam desempenho adicional ou outros recursos e eram usadas para atualizar o equipamento original do fabricante.
+Durante o final dos anos 1980 e início dos anos 1990, tornou-se econômico mover um número crescente de funções periféricas para a placa-mãe. No final dos anos 1980, as placas-mãe dos computadores pessoais começaram a incluir ICs únicos (também chamados de chips Super I/O) capazes de suportar um conjunto de periféricos de baixa velocidade: teclado e mouse PS/2, unidade de disquete, portas seriais e portas paralelas. No final da década de 1990, muitas placas-mãe de computadores pessoais incluíam funções integradas de áudio, vídeo, armazenamento e rede de consumo sem a necessidade de qualquer placa de expansão; sistemas de ponta para jogos 3D e computação gráfica normalmente retinha apenas a placa gráfica como um componente separado. PCs empresariais, estações de trabalho e servidores eram mais propensos a precisar de placas de expansão, seja para funções mais robustas ou para velocidades mais altas; esses sistemas geralmente tinham menos componentes incorporados.
+Os laptops e notebooks desenvolvidos na década de 1990 integravam os periféricos mais comuns. Isso incluía até mesmo placas-mãe sem componentes atualizáveis, uma tendência que continuaria à medida que sistemas menores fossem introduzidos após a virada do século (como o tablet e o netbook). Memória, processadores, controladores de rede, fonte de energia e armazenamento seriam integrados em alguns sistemas.
+
+Design
+
+Uma placa-mãe fornece as conexões elétricas pelas quais os outros componentes do sistema se comunicam. Ao contrário de um backplane, ele também contém a unidade central de processamento e aloja outros subsistemas e dispositivos.
+Um computador de mesa típico tem seu microprocessador, memória principal e outros componentes essenciais conectados à placa-mãe. Outros componentes, como armazenamento externo, controladores para exibição de vídeo e som e dispositivos periféricos, podem ser conectados à placa-mãe como placas plug-in ou por meio de cabos; nos microcomputadores modernos, é cada vez mais comum integrar alguns desses periféricos na própria placa-mãe.
+Um componente importante de uma placa-mãe é o chipset de suporte do microprocessador, que fornece as interfaces de suporte entre a CPU e os vários barramentos e componentes externos. Este chipset determina, até certo ponto, os recursos e capacidades da placa-mãe.
+Placas-mãe modernas incluem:
+
+Soquetes de CPU (ou slots de CPU) nos quais um ou mais microprocessadores podem ser instalados. No caso de CPUs em pacotes ball grid array, como o VIA Nano e o Goldmont Plus, a CPU é soldada diretamente na placa-mãe
+Os slots de memória nos quais a memória principal do sistema deve ser instalada, geralmente na forma de módulos DIMM contendo chips DRAM podem ser DDR3, DDR4, DDR5, ou integrado LPDDRx.
+O chipset que forma uma interface entre a CPU, a memória principal, e os barramentos periféricos
+Chips de memória não voláteis (geralmente Flash ROM em placas-mãe modernas) contendo o firmware ou BIOS do sistema
+O gerador de clock que produz o sinal de clock do sistema para sincronizar os vários componentes
+Slots para placas de expansão (a interface com o sistema através dos barramentos suportados pelo chipset)
+Conectores de alimentação, que recebem energia elétrica da fonte de alimentação do computador e a distribuem para a CPU, chipset, memória principal e placas de expansão. A partir de 2007, algumas placas gráficas (por exemplo, GeForce 8 e Radeon R600) exigem mais energia do que a placa-mãe pode fornecer e, portanto, conectores dedicados foram introduzidos para conectá-los diretamente à fonte de alimentação
+Conectores para unidades de disco rígido, unidades de disco óptico ou unidades de estado sólido, geralmente SATA e NVMe agora.
+Além disso, quase todas as placas-mãe incluem lógica e conectores para suportar dispositivos de entrada comumente usados, como USB para dispositivos de fone de ouvido, mouse e teclados. Os primeiros computadores pessoais, como o Apple II ou o IBM PC, incluíam apenas esse suporte periférico mínimo na placa-mãe. Ocasionalmente, o hardware da interface de vídeo também era integrado à placa-mãe; por exemplo, no Apple II e raramente em computadores compatíveis com IBM, como o IBM PC Jr. Periféricos adicionais, como controladores de disco e portas seriais, foram fornecidos como placas de expansão.
+Dado o alto poder de design térmico das CPUs e componentes de computador de alta velocidade, as placas-mãe modernas quase sempre incluem dissipadores de calor e pontos de montagem para que os ventiladores dissipem o excesso de calor.
+
+Fator de forma
+As placas-mãe são produzidas em uma variedade de tamanhos e formatos chamados de fatores de forma, alguns dos quais são específicos para fabricantes de computadores individuais. No entanto, as placas-mãe usadas em sistemas compatíveis com IBM são projetadas para caber em vários tamanhos de gabinete. A partir de 2005, a maioria das placas-mãe de computadores desktop usam o fator de forma padrão ATX - mesmo aquelas encontradas em computadores Macintosh e Sun, que não foram construídas a partir de componentes comuns. O fator de forma da placa-mãe e da unidade de fonte de alimentação (PSU) de um gabinete deve corresponder, embora algumas placas-mãe de fator de forma menor da mesma família caibam em gabinetes maiores. Por exemplo, um gabinete ATX geralmente acomoda uma placa-mãe microATX. Os laptops geralmente usam placas-mãe altamente integradas, miniaturizadas e personalizadas. Esta é uma das razões pelas quais os laptops são difíceis de atualizar e caros de consertar. Freqüentemente, a falha de um componente do laptop requer a substituição de toda a placa-mãe, que geralmente é mais cara do que uma placa-mãe de desktop.
+
+Soquetes de CPU
+Um soquete de CPU (unidade central de processamento) ou slot é um componente elétrico que se conecta a uma placa de circuito impresso (PCB) e é projetado para abrigar uma CPU (também chamada de microprocessador). É um tipo especial de soquete de circuito integrado projetado para contagens de pinos muito altas. Um soquete de CPU fornece muitas funções, incluindo uma estrutura física para suportar a CPU, suporte para um dissipador de calor, facilitar a substituição (além de reduzir custos) e, o mais importante, formar uma interface elétrica tanto com a CPU quanto com a PCB. Os soquetes de CPU na placa-mãe podem ser encontrados com mais frequência na maioria dos computadores desktop e servidores (laptops normalmente usam CPUs de montagem em superfície), particularmente aqueles baseados no Intel x86 arquitetura. O tipo de soquete da CPU e o chipset da placa-mãe devem suportar a série e a velocidade da CPU.
+
+Periféricos integrados
+
+Com a redução constante dos custos e tamanho dos circuitos integrados, agora é possível incluir suporte para muitos periféricos na placa-mãe. Combinando muitas funções em um PCB, o tamanho físico e o custo total do sistema podem ser reduzidos; placas-mãe altamente integradas são, portanto, especialmente populares em computadores de fator de forma pequeno e de baixo custo.
+
+Controladores de disco para unidades SATA e unidades PATA históricas.
+Controlador de disquete histórico
+Controlador gráfico integrado com suporte a gráficos 2D e 3D, com saída VGA, DVI, HDMI, DisplayPort e TV
+placa de som integrada com suporte para áudio de 8 canais (7.1) e saída S/PDIF
+Controlador de rede Ethernet para conexão a uma LAN e para receber Internet
+Controlador USB
+Controlador de interface de rede sem fio
+Controlador Bluetooth
+Sensores de temperatura, tensão e velocidade do ventilador que permitem que o software monitore a integridade dos componentes do computador.
+
+Slots de cartão periférico
+Uma placa-mãe típica terá um número diferente de conexões, dependendo de seu padrão e fator de forma.
+Uma placa-mãe ATX padrão e moderna normalmente possui duas ou três conexões PCI-Express x16 para uma placa gráfica, um ou dois slots PCI herdados para várias placas de expansão e um ou dois PCI-E x1 (que substituiu o PCI). Uma placa-mãe EATX padrão terá de duas a quatro conexões PCI-E x16 para placas gráficas e um número variável de slots PCI e PCI-E x1. Às vezes, também pode ter um slot PCI-E x4 (varia entre marcas e modelos).
+Algumas placas-mãe possuem dois ou mais slots PCI-E x16, para permitir mais de 2 monitores sem hardware especial, ou usam uma tecnologia gráfica especial chamada SLI (para Nvidia) e Crossfire (para AMD). Estes permitem que 2 a 4 placas gráficas sejam ligadas entre si, para permitir um melhor desempenho em tarefas de computação gráfica intensiva, como jogos, edição de vídeo, etc.
+Em placas-mãe mais novas, os slots M.2 são para SSD e/ou controlador de interface de rede sem fio.
+
+Temperatura e confiabilidade
+
+As placas-mãe geralmente são resfriadas a ar com dissipadores de calor geralmente montados em chips maiores nas placas-mãe modernas. Resfriamento insuficiente ou impróprio pode causar danos aos componentes internos do computador ou causar falhas. O resfriamento passivo, ou um único ventilador montado na fonte de alimentação, era suficiente para muitas CPUs de computadores desktop até o final dos anos 1990; desde então, a maioria exigiu ventiladores de CPU montados em dissipadores de calor, devido ao aumento da velocidade do clock e do consumo de energia. A maioria das placas-mãe tem conectores para ventiladores de computador adicionais e sensores de temperatura integrados para detectar as temperaturas da placa-mãe e da CPU e conectores de ventilador controláveis que o BIOS ou o sistema operacional podem usar para regular a velocidade do ventilador. Como alternativa, os computadores podem usar um sistema de resfriamento a água em vez de muitos ventiladores.
+Alguns computadores de fator de forma pequeno e PCs de home theater projetados para operação silenciosa e com baixo consumo de energia apresentam designs sem ventilador. Isso normalmente requer o uso de uma CPU de baixo consumo de energia, bem como um layout cuidadoso da placa-mãe e de outros componentes para permitir a colocação do dissipador de calor.
+Um estudo de 2003 descobriu que algumas falhas espúrias de computador e problemas gerais de confiabilidade, variando de distorções de imagem de tela e erros de leitura/gravação de E/S, podem ser atribuídos não a software ou hardware periférico, mas a capacitores antigos nas placas-mãe do PC. Em última análise, isso foi mostrado como resultado de uma formulação de eletrólito defeituosa, um problema denominado praga do capacitor.
+As placas-mãe modernas usam capacitores eletrolíticos para filtrar a energia DC distribuída pela placa. Esses capacitores envelhecem a uma taxa dependente da temperatura, à medida que seus eletrólitos à base de água evaporam lentamente. Isso pode levar à perda de capacitância e subsequente mau funcionamento da placa-mãe devido a instabilidades de tensão. Embora a maioria dos capacitores seja classificada para 2.000 horas de operação a 105 °C (221 °F), sua vida útil esperada dobra aproximadamente para cada 10 °C (18 °F) abaixo disso. A 65 °C (149 °F), pode-se esperar uma vida útil de 3 a 4 anos. No entanto, muitos fabricantes fornecem capacitores abaixo do padrão, que reduzem significativamente a expectativa de vida. Resfriamento inadequado do gabinete e temperaturas elevadas ao redor do soquete da CPU agravam esse problema. Com ventiladores superiores, os componentes da placa-mãe podem ser mantidos abaixo de 95 °C (203 °F), dobrando efetivamente a vida útil da placa-mãe.
+Placas-mãe de gama média e alta, por outro lado, usam exclusivamente capacitores sólidos. Para cada 10 °C a menos, sua vida útil média é multiplicada aproximadamente por três, resultando em uma expectativa de vida útil 6 vezes maior a 65 °C (149 °F). Esses capacitores podem ser classificados para 5.000, 10.000 ou 12.000 horas de operação a 105 °C (221 °F), estendendo a vida útil projetada em comparação com capacitores sólidos padrão.
+Em desktops e notebooks, as soluções de resfriamento e monitoramento da placa-mãe geralmente são baseadas em Super I/O ou Embedded Controller.
+
+Bootstrapping
+As placas-mãe contêm uma ROM (e posteriormente EPROM, EEPROM, NOR flash) para inicializar dispositivos de hardware e carregar um sistema operacional de um dispositivo periférico. Microcomputadores como o Apple II e o IBM PC usavam chips ROM montados em soquetes na placa-mãe. Ao ligar, a unidade central do processador carregaria seu contador de programa com o endereço da ROM de inicialização e começaria a executar as instruções da ROM de inicialização. Essas instruções inicializaram e testaram o hardware do sistema, exibiram as informações do sistema na tela, executaram verificações de RAM e carregaram um sistema operacional de um dispositivo periférico. Se nenhum estiver disponível, o computador executará tarefas de outros armazenamentos de ROM ou exibirá uma mensagem de erro, dependendo do modelo e design do computador. Por exemplo, tanto o Apple II quanto o IBM PC original tinham IBM Cassette BASIC (ROM BASIC) e iniciariam se nenhum sistema operacional pudesse ser carregado a partir do disquete ou disco rígido.
+A maioria dos projetos de placas-mãe modernas usa um BIOS, armazenado em um chip EEPROM ou NOR flash soldado ou encaixado na placa-mãe, para inicializar um sistema operacional. Quando o computador é ligado, o firmware do BIOS testa e configura a memória, os circuitos e os periféricos. Este autoteste de inicialização (POST) pode incluir o teste de algumas das seguintes coisas:
+
+Placa de vídeo
+Placas de expansão inseridas em slots, como PCI convencional e PCI Express
+Unidade de disquete histórica
+Temperaturas, tensões e velocidades do ventilador para monitoramento de hardware
+Memória CMOS usada para armazenar a configuração do BIOS
+Teclado e Mouse
+Placa de som
+Adaptador de rede
+Unidades ópticas: CD-ROM ou DVD-ROM
+Unidade de disco rígido e unidade de estado sólido
+Dispositivos de segurança, como um leitor de impressão digital
+Dispositivos USB, como um dispositivo de armazenamento em massa USB
+Muitas placas-mãe agora usam um sucessor do BIOS chamado UEFI. Tornou-se popular depois que a Microsoft começou a exigir que um sistema fosse certificado para executar o Windows 8.

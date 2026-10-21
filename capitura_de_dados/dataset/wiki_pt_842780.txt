@@ -1,0 +1,72 @@
+Legítima defesa
+
+A Legítima defesa é uma causa de exclusão da ilicitude que se caracteriza pela existência de agressão ilícita, atual ou iminente, a direito próprio ou alheio, que pode ser repelida usando-se moderadamente dos meios necessários. No direito brasileiro, essa situação justificante encontra-se positivada no art. 23, II, e no art. 25, ambos do Código Penal.
+Agindo nos termos que justificam a legítima defesa o agente não pratica crime, devido à exclusão da antijuridicidade, que é elemento integrante e essencial do fato punível. No entanto, o agente pode responder pelo excesso a título de dolo ou culpa.
+
+Antijuridicidade
+"Em Direito Penal a antijuridicidade é uma contradição entre a ação humana (realizada ou omitida) e o ordenamento jurídico no conjunto de suas proibições e permissões: as proibições são os tipos legais, como descrição de ações realizadas ou omitidas; as permissões são as justificações legais e supralegais, como situações legais que excluem as proibições"
+Caso adotemos a concepção bipartida de fato punível, tipicidade e antijuridicidade devem ser analisadas em conjunto, como se o tipo descrevesse os elementos positivos para caracterizar a conduta criminosa enquanto a antijuridicidade os elementos negativos, que estando presentes justificam a conduta. A legitima defesa seria assim, não um fato típico sem antijuridicidade, mas um fato atípico.
+Por outro lado, a teoria tripartida do delito, adotada pela maioria da doutrina analisa os elementos do tipo de injusto, tipicidade e antijuridicidade, separadamente."A relação funciona como regra e exceção: se a tipicidade da ação indica a antijuridicidade e as causas de justificação excluem a antijuridicidade, então toda ação típica é antijurídica, exceto as ações tipicas justificadas"
+
+Quando é legitima defesa
+Entende-se em legítima defesa quem, usando moderadamente dos meios necessários, repele injusta agressão, atual ou iminente, a direito seu ou de outrem.
+
+As características da legítima defesa
+O cidadão pode usar qualquer meio necessário para proteger a si ou a terceiros; A injusta agressão sofrida deve ser atual ou iminente; A defesa deve ser proporcional à agressão sofrida; A legítima defesa é válida para proteger tanto a si mesmo quanto a terceiros.
+
+Componentes da Legítima Defesa
+"Agressão é toda ação humana de violência real ou ameaçada dirigida contra bens jurídicos do agredido ou de terceiro. O conceito de agressão não abrange as chamadas não-ações, no caso de lesão de bens jurídicos relacionada a ataques epiléticos ou estados de insciência, como sono, desmaio ou embriaguez comatosa - que podem todavia, fundamentar o estado de necessidade -, porque movimentos corporais meramente causas não constituem ações humanas"
+Injusta é aquela ação não provocada ou não motivada pelo agente da legítima defesa. 
+Atual ou iminente. Atual é aquela agressão que esta sendo realizada ou continuada no momento. Iminente, segundo Roxin, está situada no momento final da preparação, relacionado ao conceito de desencadeamento imediato (ex. dedo em riste), inerente ao conceito de tentativa: a aproximação do agressor com um porrete na mão para agredir, ou o movimento da mão do agressor em direção à arma, não configuram, ainda, tentativa, mas o último momento da fase preparatória, suficiente para caracterizar a iminência da agressão, e assim, justificar a defesa. 
+Direito próprio ou de outrem são os bens jurídicos que podem ser protegidos através da legitima defesa. O bem jurídico não se confunde com o objeto da ação, caso alguém ataque outrem com o objetivo de feri-la, o objeto da ação é a pessoa em concreto, enquanto o bem jurídico protegido é a integridade física ou a vida.
+
+Elementos Objetivos da Legítima Defesa
+Meios necessários usados moderadamente. "Necessários são os meios suficientes e indispensáveis para o exercício eficaz da defesa. Senão houver outros meios poderá ser considerado necessário único meio disponível além, do meio utilizado dever ser o necessário para repulsa eficaz, exige-se que seu uso seja moderado, especialmente quando se tratar do único meio disponível e apresentar-se visivelmente superior ao que seria necessário. Essa circunstância deve ser determinada pela intensidade da agressão e pela forma do emprego e dos meios utilizados" Assim, os meios não devem ir além do estritamente necessário para que seja realizada uma defesa eficaz.
+A defesa necessária não exige proporcionalidade entre os meios de defesa e os meios de agressão, porém modernamente defende-se que desproporcionalidade extrema é incompatível com o conceito de necessidade de defesa, assim não seria legitimo atirar em meninos que furtam laranjas no quintal de casa
+
+Elemento Subjetivo da Legítima Defesa
+Para a doutrina dominante basta que a pessoa tenha conhecimento da situação justificante para se caracterizar a legítima defesa, já outra parte da doutrina entende que além de conhecimento da situação justificante deve haver vontade de defesa, conhecida como animus defendi. Assim, a mulher que pensando atirar em seu marido que voltava de uma orgia noturna atinge um ladrão armada que adentrava sua casa, não encontra-se em situação justificada, pois não tinha conhecimento da situação de legítima defesa, havendo um desvalor da ação.
+
+Excesso na Legítima Defesa
+Consiste na desnecessária intensificação de uma conduta inicialmente legítima. O excesso pode decorrer tanto do emprego do meio desnecessário, quanto da falta de moderação. Segundo o parágrafo único do artigo 23 do Código Penal, o agente pode responder pelo excesso culposo ou doloso. No excesso doloso o agente tem plena consciência que intensifica desnecessariamente sua conduta de início legítima, já no excesso culposo o excesso é inconsciente, ou involuntário, de maneira que sua conduta resulta de uma má apreciação da realidade, incidindo em erro de tipo. Nestes casos, deve-se avaliar se este erro foi evitável ou inevitável, caso evitável o agente será punido a título de culpa (culpa imprópria), caso inevitável, exclui-se dolo e culpa Parte da doutrina costuma analisar a inevitabilidade conforme o critério do homem-médio, de maneira a considerar evitável, o erro que uma pessoa de mediana prudência e discernimento não teria cometido, e inevitável o erro em que qualquer pessoa mediana incorreria. No entanto, a dourina mais apurada reconhece que o conceito de homem-médio, como um ser abstrato, não é racional, visto que impossível estabelecer aprioristicamente padrões de conduta que possam ser sempre exigidos no caso concreto. Os seres humanos não existem na abstração, e somente em sua concretude podem ser analisados como critério de culpabilidade.
+
+Legítima Defesa Própria ou a Legítima Defesa de Terceiro
+A legítima defesa pode ser classificada, quanto à titularidade do interesse protegido, em legítima defesa própria (quando a agressão injusta se voltar contra direito do agente) e legítima defesa de terceiro (quando a agressão injusta ocorrer contra direito de terceiro).
+
+Legitima defesa protetiva
+Parágrafo único. Observados os requisitos previstos no caput deste artigo, considera-se também em legítima defesa o agente de segurança pública que repele agressão ou risco de agressão a vítima mantida refém durante a prática de crimes.
+
+Legítima Defesa Sucessiva ou Recíproca
+Quando a legítima defesa é exercida de maneira desproporcional o agressor inicial se torna vítima da agressão desproporcional, este pode então defender-se desta agressão que não mais se encontra justificada. "Imagine-se, por exemplo, que para defender-se das agressões verbais proferidas por José, Maria pega a faca de cozinha que tinha ao alcance da mão com a intenção de feri-lo, momento em que José agarra violentamente Maria pelo braço, causando-lhe escoriações, logrando desta forma retirar a faca de cozinha que esta empunhava. As escoriações estarão justificadas porque trata-se de defesa exercida legitimamente pelo agressor inicial frente a uma reação desproporcionada daquela que inicialmente foi agredida" Neste situação existe legítima defesa sucessiva.
+Ao contrário da legítima defesa sucessiva, que é permitida pelo Direito, a legitima defesa recíproca não é admitida, pois incabível legítima defesa contra legítima defesa. Este é o caso típico do duelo, no qual ambos são agressores recíprocos. Pode-se considerar possível a legítima defesa recíproca no caso haver legítima defesa real contra legítima defesa putativa, na qual o agente encontra-se em erro, supondo situação de fato, que permitiria a ação de defesa, que não existe.
+
+Legítima Defesa Putativa
+A legítima defesa putativa pode se dar por duas espécies: Por erro de tipo permissivo, regida pelo art. 20, 1º, CP ou por erro de proibição, inscrito no art. 21 do CP. No erro de tipo permissivo ocorre falsa percepção da realidade que recai sobre situação de fato descrita como requisito objetivo da legítima defesa. Se em uma situação concreta, a pessoa acreditando estar diante de uma injusta e iminente agressão, quando está de fato não existe, age em legítima defesa, ocorre erro de tipo permissivo. Nestas situações, caso o erro seja plenamente justificado pelas circunstâncias, o agente é isento de pena, porém, caso o erro derive de culpa, e o fato seja punível como crime culposo, não há isenção de pena. 
+Já no erro de proibição, o erro do agente recai sobre os limites legais da legítima defesa. O agente tem perfeita percepção da realidade fática da situação, porém, desconhece que a lei proíbe sua conduta. Trata-se de erro de proibição indireto (falsa percepção da realidade incide sobre uma autorização contida em uma norma permissiva). Se o erro é inevitável, há exclusão da culpabilidade, se evitável, leva a diminuição da pena.
+
+Código Civil a legítima Defesa da Posse
+A legítima defesa da posse esta prevista no Código Civil no Artigo 1.210. O possuidor tem direito a ser mantido na posse em caso de turbação, restituído no de esbulho, e segurado de violência iminente, se tiver justo receio de ser molestado.
+ 1 o O possuidor turbado, ou esbulhado, poderá manter-se ou restituir-se por sua própria força, contanto que o faça logo; os atos de defesa, ou de desforço, não podem ir além do indispensável à manutenção, ou restituição da posse.
+ 2 o Não obsta à manutenção ou reintegração na posse a alegação de propriedade, ou de outro direito sobre a coisa.
+Exemplos:
+
+A legítima defesa da posse consiste no direito de autoproteção da posse no caso do possuidor, apesar de presente na coisa, estar sendo perturbado. Neste caso, ainda não chegou a haver perda da posse (turbação).
+O desforço imediato consiste no direito de autoproteção da posse no caso de esbulho, de perda da posse. A lei apenas permite o desforço imediato se a vítima do esbulho agir imediatamente após a agressão ou logo que possa agir.
+O possuidor legítimo ausente só perderá esse direito se não agir logo após tomar conhecimento da agressão à sua posse, ou tentando recuperá-la for.
+Artigo 188 Não constituem atos ilícitos:
+I - os praticados em legítima defesa ou no exercício regular de um direito reconhecido;
+II - a deterioração ou destruição da coisa alheia, ou a lesão a pessoa, a fim de remover perigo iminente.
+Parágrafo único. No caso do inciso II, o ato será legítimo somente quando as circunstâncias o tornarem absolutamente necessário, não excedendo os limites do indispensável para a remoção do perigo.
+
+Art. 929. Se a pessoa lesada, ou o dono da coisa, no caso do inciso II do art. 188 , não forem culpados do perigo, assistir-lhes-á direito à indenização do prejuízo que sofreram.
+Art. 930. No caso do inciso II do art. 188 , se o perigo ocorrer por culpa de terceiro, contra este terá o autor do dano ação regressiva para haver a importância que tiver ressarcido ao lesado.
+Parágrafo único. A mesma ação competirá contra aquele em defesa de quem se causou o dano ( art. 188, inciso I ).
+
+Legítima defesa no Código Penal Militar
+Art. 44. Entende-se em legítima defesa quem, usando moderadamente dos meios necessários, repele injusta agressão, atual ou iminente, a direito seu ou de outrem.
+Excesso culposo
+Art. 45. O agente que, em qualquer dos casos de exclusão de crime, excede culposamente os limites da necessidade, responde pelo fato, se êste é punível, a título de culpa.
+Excesso escusável
+Parágrafo único. Não é punível o excesso quando resulta de escusável surprêsa ou perturbação de ânimo, em face da situação.
+Excesso doloso
+Art. 46. O juiz pode atenuar a pena ainda quando punível o fato por excesso doloso.

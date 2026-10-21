@@ -1,0 +1,38 @@
+Televisão por assinatura
+
+A televisão por assinatura, televisão de pagamento, televisão fechada, televisão premium ou televisão por subscrição é um serviço de televisão mediante pagamento, disponível através de plataformas de televisão por cabo, satélite e IPTV.
+Serviço de pagamento por visão (PPV) e vídeo sob demanda são uma variante que permite aceder a um produto de radiodifusão específico, como um evento desportivo ou um filme.
+
+História
+A história da televisão por assinatura começou nos Estados Unidos, com a televisão a cabo. No Brasil, a televisão por assinatura surgiu primeiro com o Serviço Especial de Televisão por Assinatura em 1989 (Canal+, inspirado no nome e no logotipo do homônimo francês que transmitia a programação da programadora norte-americana ESPN através do canal UHF 29, em São Paulo). Posteriormente surgiram as retransmissões da italiana RAI e da norte-americana CNN, através dos canais VHF 4 e 5, além da nacional TVM (canal 2 VHF), especializada em programas musicais; e depois com o cabo, em 30 de julho de 1990. A ideia deu tão certo nos Estados Unidos que, de 1984 a 1992, foram investidos 15 bilhões de dólares estadunidenses para o cabeamento de ruas e mais bilhões para o desenvolvimento de programação, financiados pelas operadoras de televisão a cabo.
+O grande número de assinantes das operadoras de televisão por assinatura fez com que, em meados dos anos 1990, o grande número de cabos instalados nas ruas fosse usado para oferecer outros tipos de serviço, como internet de banda larga, nascendo, assim, a internet a cabo. Em 1997, a indústria de televisão por assinatura faturaria 1,2 bilhão de dólares estadunidense só com vendas de pay-per-view, que representam uma das principais fontes de lucro para as operadoras. Em 1999, pela primeira vez, os domicílios somaram mais tempo assistindo à televisão por assinatura do que à televisão aberta.
+
+Métodos
+Os métodos de distribuição de televisão por assinatura mais populares são o cabo e satélite. Ao lado desses métodos mais populares, há, também o IPTV (cuja transmissão de sinais é feita via protocolo IP, transmitido em redes xDSL ou Fibra Óptica), o serviço chamado MMDS (cuja transmissão de sinais é via micro-ondas) e o Serviço Especial de Televisão por Assinatura (TVA), estes dois últimos já praticamente em desuso.
+
+Mercado brasileiro
+A televisão por assinatura no Brasil tinha, até o mês de agosto do ano de 2011, 11,6 milhões de clientes (com 38,3 milhões de moradores) em todo o país. O setor era praticamente monopolizado pelas empresas NET e Sky que distribuem praticamente os mesmos canais de televisão paga, com poucas variações, no entanto, a Claro TV, chegou com novos preços e canais, e já é a 4ª maior operadora do Brasil. Entre os canais que estes operadores distribuem, estão os canais Globosat, considerados entre os mais vistos do mercado. Estes canais são de propriedade da Organizações Globo. Recentemente, devido a acordos com o Conselho Administrativo de Defesa Econômica (CADE), produtos de uma ação da associação Neo TV (que reúne a maioria dos operadores independentes do mercado), tais canais poderão ser distribuídos por tais operadoras independentes.
+A NET, de propriedade da Claro, com parcela minoritária da Rede Globo, consolidou sua liderança no mercado com a aquisição da Vivax em 2006 e da operadora BIG TV no final de 2007. A Vivax operava no interior de São Paulo e a BIG TV opera a praça de Guarulhos, considerada estratégica.
+Em 2006, novos jogadores entraram neste mercado. Eles são as operadores de telefonia fixa ou operadores incumbentes. A espanhola Telefônica, gigante da telefonia no estado de São Paulo lançou serviços de DTH em parceria com uma empresa que já operava no segmento, a Astralsat, criando a VocêTV. Em 2007, a multinacional espanhola obteve permissão da Anatel para lançar um serviço próprio, a Telefônica TV Digital, atualmente Vivo TV. Com a queda de receita do negócio de voz e dados, avançar em cima deste mercado de TV paga era um passo lógico para eles, e uma forma de defender seu negócio tradicional avançando no negócio dos operadores de televisão paga. Já estes últimos, faz alguns anos, entraram no serviço de internet em banda larga concorrendo com o serviço ADSL operadora pelas incumbentes.
+Também em 2006, a Telefônica entrou com autorização para a aquisição da TVA, do Grupo Abril, na forma permitida pela lei. Nisto, encontrou grande oposição da ABTA, entidade de classe que nucleia operadores de televisão paga e os principais programadores. Mesmo assim, a operação foi autorizada pois não vulnera a lei no parecer da Anatel.
+A operadora Oi antiga Telemar conseguiu permissão para a aquisição da operadora mineira Way TV (atual Oi TV) comprada em um leilão em 2006. Em novembro de 2008, a Embratel, também do ramo de telefonia entrou no negócio com sua operadora, inicialmente chamada Via Embratel, que posteriormente operou com o nome Claro TV já que esta fez fusão com a NET tornando um serviço único chamado de "Claro net hd".
+No ano de 2011, a operadora telefônica GVT entrou no mercado de TV paga, através de um sistema híbrido de DTH e IPTV.
+Em setembro de 2011, o Brasil chegou a quase 11,9 milhões de domicílios com TV por assinatura totalizando 258,5 mil novos assinantes. Em apenas um ano, foram 2,1 milhões de novos assinantes totalizando um crescimento de 21,7% segundo a Anatel.
+No mesmo mês, a então presidente do Brasil Dilma Rousseff sancionou a lei 12 485/2011 com a nova lei, as operadoras de telefonia poderão oferecer serviços de TV por assinatura, com o estabelecimento de novas cotas para conteúdo nacional incluindo três horas e meia por semana de produções brasileiras entre 18 e 22 horas.
+Em outubro de 2014, o Brasil registrou 19,65 milhões de assinantes de TV por assinatura.
+No dia 1 de março, a Melo Telecomunicações lançou o serviço de TV por assinatura, no estado de Goiás atuando nas praças de Jaraguá, Ceres, Rialma, Goiânia e Aparecida de Goiânia, mesmo tendo concessão para atuar em todo território nacional. A empresa foi criada no ano de 2006 pelo empresário e empreendedor Walter Alves de Melo, quando atuava somente com internet via rádio, hoje é uma empresa Triple Play atuando com TV, Telefonia fixa e Internet via cabo óptico.
+
+De dezembro de 2014 até 2020, a TV por assinatura perdeu cinco milhões de assinantes. Escrevendo para o Splash (UOL), Ricardo Feltrin apontou os motivos dos cancelamentos das assinaturas:Pacotes caros, canais inúteis impostos na marra, intervalos intermináveis, atrações que chegam a ser reprisadas até quatro vezes por dia, mas ainda há a cereja (podre) do bolo do mau gosto: programas ruins. Ah, e como tem programa ruim na TV paga! Desde os desnecessários e dedicados a nichos minúsculos —se é que existem— até as mais completas idiotices. Esses também são grandes campeões de desinteresse e certamente são uma das causas para que tanta gente cancele o serviço.
+
+A pirataria, crise econômica e o desemprego também são apontados como um dos responsáveis pela queda de assinantes da TV a cabo no Brasil.
+Em junho de 2020, pela primeira vez, a TV por assinatura foi ultrapassada pela audiência dos serviços de streaming, e nos quatro primeiros meses de 2021 perdeu meio milhão de assinantes. No mesmo ano, as operadoras começaram a contratar mais profissionais para atender ao número clientes que pedem o cancelamento do serviço.
+
+Operadoras no Brasil
+
+Mercado português
+
+Operadoras em Portugal
+MEO
+NOS
+Nowo
+Vodafone

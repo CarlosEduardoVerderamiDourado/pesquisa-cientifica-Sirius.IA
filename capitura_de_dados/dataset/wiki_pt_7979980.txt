@@ -1,0 +1,68 @@
+Montanha-russa de aço
+
+Uma montanha-russa de aço é um tipo de montanha-russa caracterizada por seus trilhos tubulares dispostos em pares, que são sustentados por colunas ou vigas do mesmo material. Os componentes primários do sistema compreendem uma via elevada contínua e um subsistema de rodeiros articulados que percorrem os trilhos, geralmente utilizando rodas de poliuretano ou náilon para manter o trem ancorado de forma segura.
+
+Diferente das tradicionais montanhas-russas de madeira, que historicamente utilizavam vigas combinadas a fitas planas de ferro ou perfis de cantoneira, o trilho de aço tubular atua como uma treliça espacial tridimensional. Essa tecnologia permitiu a concepção de transições mais suaves, curvas tridimensionais fechadas com inclinação precisa, inversões acrobáticas completas e circuitos que ultrapassam 160 metros de altura estrutural e 250 km/h de velocidade máxima.
+A empresa norte-americana Arrow Dynamics é creditada por inventar o trilho de aço tubular moderno com a inauguração da atração Matterhorn Bobsleds na Disneyland em 1959. Contudo, modelos mais simples e rústicos com trilhos planos de aço operavam previamente, como a Little Dipper no Memphis Kiddie Park (a mais antiga em operação na América do Norte) e a Montaña Suiza no Parque de Atracciones Monte Igueldo, na Espanha, que opera desde 1928 e é considerada a mais antiga do mundo com trilhos de aço em funcionamento.
+
+História
+Até meados do século XX, o projeto de montanhas-russas estava amplamente restrito às limitações mecânicas da construção em madeira. Embora algumas pistas utilizassem barras planas de aço para reduzir a manutenção em comparação à madeira pura, os traçados permaneciam limitados em termos de curvatura e suavidade de marcha.
+Em 1959, Walt Disney buscou desenvolver para a Disneyland uma atração com temática de trenó alpino que integrasse cenografia imersiva e uma experiência de deslocamento contínuo. Para viabilizar a proposta, a Disney firmou parceria com a fabricante Arrow Development. O resultado foi a Matterhorn Bobsleds, inaugurada como a primeira montanha-russa de circuito contínuo com trilhos tubulares de aço e rodas revestidas de náilon do mundo. O projeto também foi pioneiro ao introduzir um sistema de segurança de zonas de bloqueio para coordenar a operação simultânea de múltiplos veículos. Na época, antes do advento de softwares de desenho assistido por computador (CAD), os cálculos dos raios de curvatura, inclinações e forças atuantes eram efetuados manualmente pelos engenheiros.
+O crescimento das montanhas-russas de aço foi impulsionado pelo engenheiro mecânico Ron Toomer. Graduado em 1961, Toomer trabalhou no lançamento dos primeiros satélites norte-americanos e atuou na NASA projetando escudos térmicos para o Projeto Apollo, tecnologia aproveitada no módulo lunar da Apollo 11. Em 1965, ingressou na Arrow Development, onde permaneceu por mais de três décadas e projetou dezenas de montanhas-russas de aço ao redor do mundo.
+Sob sua liderança técnica, a Arrow desenvolveu a Runaway Mine Train (1966) no Six Flags Over Texas e a Corkscrew (1975) no Knott's Berry Farm, reconhecida como a primeira montanha-russa moderna a apresentar uma inversão completa por meio de um elemento em saca-rolhas duplo. A fabricante continuou expandindo o número de manobras acrobáticas com a Corkscrew de Cedar Point em 1976 (três inversões), a Loch Ness Monster em 1978 (primeiros loops verticais entrelaçados) e a Carolina Cyclone em 1980 (quatro inversões).
+As primeiras tentativas de montanhas-russas com inversões verticais no século XIX, como a Flip-Flap Railway em 1885 ou testes em 1846 na França, utilizavam loops perfeitamente circulares. Essa geometria gerava picos bruscos e perigosos de força G vertical na transição de entrada, causando lesões em passageiros e provocando o desuso do conceito por quase um século.
+O engenheiro alemão Werner Stengel, atuando em colaboração com o construtor Anton Schwarzkopf e a Intamin, solucionou a instabilidade dinâmica ao desenvolver o loop vertical em clotóide. Na clotóide, o raio de curvatura varia de forma contínua e gradual do solo até o topo em formato de lágrima, reduzindo a aceleração vertical a níveis fisiologicamente seguros. Essa inovação estreou mundialmente em 8 de maio de 1976 com a montanha-russa The New Revolution no Six Flags Magic Mountain, estabelecendo o padrão geométrico adotado pela indústria em todos os loops verticais subsequentes.
+
+A "Guerra das Alturas" e a diversificação tecnológica
+A partir do final da década de 1980, os avanços computacionais e a metalurgia desencadearam a chamada "Guerra das Alturas" (Coaster Wars) entre operadoras e fabricantes:
+
+Hypercoaster (1989): A Arrow Dynamics construiu a Magnum XL-200 no Cedar Point, a primeira montanha-russa de circuito fechado a superar 61 metros de altura, focada em grandes quedas e acelerações verticais negativas (airtime) sem inversões.
+Montanha-russa Invertida (1992): A fabricante suíça Bolliger & Mabillard (B&M) estreou a Batman: The Ride no Six Flags Great America, suspendendo os carros permanentemente sob os trilhos e deixando as pernas dos passageiros livres.
+Lançamento Magnético (1996): A Premier Rides inaugurou a Outer Limits: Flight of Fear, introduzindo motores de indução linear (LIM) para impulsionar veículos magneticamente sem a necessidade de uma subida mecânica por corrente.
+Gigacoaster (2000): A Intamin construiu a Millennium Force no Cedar Point, tornando-se a primeira de circuito completo a ultrapassar 94 metros de altura, utilizando um sistema de tração por cabo de aço (cable lift) mais veloz e silencioso.
+Quarta Dimensão (2002): A Arrow Dynamics desenvolveu a X no Six Flags Magic Mountain, cujos assentos rotacionavam independentemente para frente e para trás sobre eixos transversais. Os custos e atrasos decorrentes da complexidade do projeto levaram a Arrow à concordata, culminando na venda de seus ativos para a S&S Power no final de 2002.
+Conversões Híbridas (década de 2010): A Rocky Mountain Construction (RMC) revolucionou o setor ao introduzir trilhos de aço rígidos instalados sobre estruturas originais de madeira (como na reforma da Texas Giant em 2010 e na Steel Vengeance em 2018), combinando suporte de madeira com manobras acrobáticas complexas e alta suavidade.
+
+Engenharia estrutural e materiais
+
+Distribuição de cargas e fundações
+
+O trilho e sua estrutura de sustentação atuam como um sistema mecânico contínuo para transferir as forças do trem para o solo. A via define a geometria tridimensional do circuito, resiste às forças dinâmicas induzidas pelas massas aceleradas e deve ser dimensionada contra a fadiga provocada por centenas de milhares de ciclos de carga ao longo de décadas de operação. A absorção dos esforços divide-se em:
+
+Percurso de Cargas: O peso e as acelerações passam das rodas para os tubos de rodagem, fluem pelas travessas transversais (cross-ties) até a espinha dorsal (spine) e descem pelas colunas até as sapatas e estacas no terreno.
+Estruturas de Suporte: Utilizam colunas verticais e pórticos com contraventamentos para suportar compressão e esforços laterais, ou torres em formato "A" (A-frames) e estruturas treliçadas nas zonas de grande altura, colinas de subida e inversões para absorver mudanças rápidas de direção vetorial.
+Fundações: Varia de sapatas isoladas de concreto em trechos de baixa carga até fundações em radier e estaqueamento profundo em zonas de looping e torres elevadas, onde ocorrem fortes esforços dinâmicos de tração e arrancamento (uplift).
+
+Tipologias de trilhos de aço
+A indústria emprega quatro modelos estruturais principais de trilho de aço:
+
+Espinha Tubular: Um tubo central cilíndrico de grande diâmetro soldado aos tubos de rodagem por meio de travessas estruturais. Oferece elevada rigidez flexional e torcional em todas as direções, sendo o padrão em montanhas-russas velozes e de múltiplas inversões com grandes vãos livres entre colunas.
+Trilho Único: Uma única viga metálica profunda sustenta e guia todo o veículo. Reduz sensivelmente o volume de aço visível e viabiliza manobras e inversões em espaços compactos inferiores a 2.000 metros quadrados.
+Viga em I e Barras Planas: Utiliza perfis laminados em "I" ou barras chatas onde as rodas se travam superior, inferior e lateralmente. Proporciona forte retenção lateral e custo reduzido, padrão clássico em modelos compactos como o tipo Wild Mouse.
+Treliça Espacial: Substitui a viga tubular central por perfis triangulados menores. É estruturalmente mais leve para vãos longos e facilita a galvanização e transporte, mas exige maior área de manutenção de pintura devido à grande quantidade de arestas e juntas.
+
+Dinâmica de rodagem
+
+O acoplamento físico entre os vagões e a via tubular ocorre por meio de truques articulados (wheel bogies) dotados de um conjunto de três rodas ortogonais que abraçam o tubo de aço:
+
+As rodas são construídas com cubos de alumínio ou aço acoplados a rolamentos de alta velocidade e revestidos por bandas de rodagem sintéticas:
+Náilon: Material plástico de alta dureza superficial com resistência ao rolamento mínima, proporcionando maior velocidade de marcha ao trem. Por ter baixa deformação elástica, transfere mais vibrações do trilho para o chassi, resultando em um deslocamento mais áspero e maior desgaste nos trilhos.
+Poliuretano e Vulkollan: Elastômeros sintéticos que absorvem impactos e atenuam ruídos acústicos, assegurando um passeio mais suave. Por sofrerem deformação viscoelástica contínua sob cargas dinâmicas elevadas, apresentam maior coeficiente de resistência ao rolamento.
+Histerese e Velocidade: Sob rotações extremas que podem atingir cerca de 3.900 RPM em rodas a 112 km/h, o atrito interno do elastômero gera aquecimento excessivo, criando o risco de bolhas internas e estouro (blowout) do revestimento. Para contornar esses limites, projetos modernos utilizam rodas de grande diâmetro e aros dotados de aletas de ventilação ativa (como na Falcon's Flight) para dissipar calor em temperaturas desérticas.
+
+Sistemas de propulsão e frenagem
+
+Tecnologias de propulsão
+As montanhas-russas de aço empregam diferentes métodos mecânicos e eletromagnéticos para transferir energia cinética aos veículos:
+
+Subida Mecânica por Corrente (Chain Lift): Sistema em que cães de arrasto (chain dogs) sob o trem engatam em uma corrente contínua motorizada para elevar o trem até o topo da colina inicial.
+Tração por Cabo (Cable Lift): Utiliza um guincho elétrico com cabo de aço que traciona o veículo de maneira contínua, silenciosa e rápida em aclives íngremes.
+Lançamento Eletromagnético (LIM e LSM): Utilizam eletroímãs lineares para propelir os veículos por atração e repulsão magnética sem contato mecânico direto entre as peças. Sistemas LSM utilizam ímãs permanentes montados nos vagões que interagem com estatores elétricos sincronizados na via, permitindo acelerar, desacelerar ou reverter a direção do trem de forma programada.
+Lançamentos Hidráulicos e Pneumáticos: Empregam fluido pressurizado ou ar comprimido para propelir o trem por meio de cabos de aço em curtos intervalos de aceleração insana (como na Formula Rossa, que atinge 240 km/h).
+Pneus de Tração (Kicker Wheels / Drive Tyres): Rodas motorizadas revestidas de borracha instaladas diretamente nos trilhos das estações e áreas de manobra para posicionar e deslocar os veículos em baixa velocidade.
+
+Sistemas de frenagem
+O circuito conta com subsistemas dedicados à redução de velocidade e fechamento de zonas de segurança:
+
+Freios Magnéticos por Correntes de Foucault (Eddy-Current): Placas de cobre ou alumínio que passam entre ímãs permanentes. A força de frenagem gerada pela indução eletromagnética é proporcional à velocidade do trem, garantindo desaceleração progressiva e suave sem atrito mecânico ou desgaste de sapatas.
+Freios de Fricção Pneumáticos: Pinças mecânicas acionadas por ar comprimido que pressionam pastilhas de atrito contra aletas de aço sob o veículo para imobilizá-lo na estação ou em paradas finais.

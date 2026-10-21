@@ -1,0 +1,496 @@
+Forma diferencial
+
+Em geometria diferencial, uma forma diferencial é um objeto matemático pertencente a um espaço vetorial que aparece no cálculo multivariável, cálculo tensorial ou em física. Pode ser comumente entendida como um operador multilinear antissimétrico definido sobre o espaço vetorial tangente a uma variedade diferenciável. Em um espaço ou variedade de dimensão n, podem definir-se 0-formas, 1-formas, ... e n-formas. Pela propriedade da antissimetria, as k-formas para k > n são identicamente nulas.
+O conceito de forma diferencial é uma generalização sobre ideias prévias como o gradiente, a divergência, o rotacional, etc. Essa generalização e a moderna notação usada no estudo das formas diferenciais se deve a Elie Cartan.
+
+Definição
+Relembrando algumas definições: Um k-Tensor em um Espaço vetorial V é um k-funcional linear 
+ 
+ 
+ 
+ f
+ :
+ V
+ 
+ 
+ 
+ V
+ 
+ 
+ R
+ 
+ .
+ 
+ 
+ 
+ 
+ Um k-Tensor 
+ 
+ 
+ 
+ f
+ 
+ 
+ 
+ 
+ é alternado se, para qualquer permutação 
+ 
+ 
+ 
+ 
+ 
+ 
+ S
+ 
+ k
+ 
+ 
+ 
+ 
+ 
+ 
+, 
+ 
+ 
+ 
+ f
+ (
+ 
+ v
+ 
+ 
+ (
+ 1
+ )
+ 
+ 
+ ,
+ …
+ ,
+ 
+ v
+ 
+ 
+ (
+ k
+ )
+ 
+ 
+ )
+ =
+ sgn
+ 
+ 
+ f
+ (
+ 
+ v
+ 
+ 1
+ 
+ 
+ ,
+ …
+ ,
+ 
+ v
+ 
+ k
+ 
+ 
+ )
+ ,
+ 
+ 
+ 
+ 
+ onde 
+ 
+ 
+ 
+ sgn
+ 
+ 
+ 
+ 
+ 
+ 
+ é a função Função sinal da permutação 
+ 
+ 
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+ 
+Uma k-forma diferencial em uma variedade M é um funcional 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ que associa a cada ponto 
+ 
+ 
+ 
+ p
+ 
+ M
+ 
+ 
+ 
+ 
+ um k-funcional 
+ 
+ 
+ 
+ 
+ 
+ 
+ p
+ 
+ 
+ 
+ 
+ 
+ 
+ k
+ 
+ 
+ (
+ 
+ T
+ 
+ p
+ 
+ 
+ 
+ 
+ 
+ M
+ )
+ 
+ 
+ 
+ 
+, onde 
+ 
+ 
+ 
+ 
+ T
+ 
+ p
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ denota o espaço dual ao espaço tangente de 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ em 
+ 
+ 
+ 
+ p
+ 
+ 
+ 
+ 
+ denotado por 
+ 
+ 
+ 
+ 
+ T
+ 
+ p
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ 
+ 
+ 
+ k
+ 
+ 
+ (
+ 
+ T
+ 
+ p
+ 
+ 
+ 
+ 
+ 
+ M
+ )
+ 
+ 
+ 
+ 
+ é descrito como sendo o espaço vetorial de todos os k-tensores alternados em 
+ 
+ 
+ 
+ 
+ T
+ 
+ p
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ .
+
+0-formas, 1-formas e k-formas
+O exemplo não trivial mais notável de uma forma diferencial é constituído pelas 1-formas, também chamadas formas pfaffianas. Essas formas são a maneira rigorosa de tratar os diferenciais das funções reais sobre uma variedade (para funções ordinárias a variedade é simplesmente o espaço euclidiano, 
+ 
+ 
+ 
+ 
+ 
+ R
+ 
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+). As 1-formas também aparecem em física, assim, por exemplo, as "diferenciais" das variáveis de estado usadas em termodinâmica são de fato 1-formas (ainda que o tratamento informal das mesmas despreze esse fato). Na geometria diferencial, o estudo das variedades diferenciáveis, as 1-formas atuam como funções lineares reais definidas sobre o espaço vetorial tangente à variedade diferencial que se está considerando. Assim pois o conjunto de todas as 1-formas definidas em um ponto da variedade é isomorfo ao espaço dual do espaço vetorial tangente neste ponto.
+Outro exemplo, um tanto trivial, são as funções reais definidas sobre uma variedade, que podem ser tratadas formalmente como 0-formas. O nome é justificado porque existe um operador denominado diferencial exterior que aplica k-formas em k+1-formas; dado que a diferencial exterior de uma função real é 1-forma é conveniente se chamar 0-formas aos objetos matemáticos, como as funções reais, cuja diferencial é uma 1-forma. Assim, por exemplo, as funções de estado da termodinâmica, a lagrangiana da mecânica lagrangiana ou o hamiltoniano da mecânica hamiltoniana são de fato 0-formas definidas sobre os respectivos espaços de configuração ou espaços de fases do sistema físico.
+Finalmente, e usando o maior nível de generalidade se definem as k-formas, uma forma de grau k, ou k-forma, é uma seção diferenciável da k-ésima potencia exterior do fibrado cotangente da variedade. Em qualquer ponto P em uma variedade, uma k-forma resulta em uma função multilinear desde a potência cartesiana k-ésima do espaço tangente em P a R.
+
+Algumas definições formais
+O conjunto de todas as k-formas definidas no espaço vetorial tangente de um ponto x de uma variedade se chama 
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ k
+ 
+ 
+ 
+ 
+ 
+ 
+.
+O conjunto de todas as formas diferenciais sobre uma variedade de dimensão n, que resulta ser 
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ =
+ 
+ 
+ 
+ x
+ 
+ 
+ 0
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ , é a álgebra de Grassmann da variedade e é em si mesma um espaço vetorial de dimensão 2n.
+Existe um operador, chamado diferencial exterior 
+ 
+ 
+ 
+ d
+ :
+ 
+ 
+ 
+ x
+ 
+ 
+ k
+ 
+ 1
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ k
+ 
+ 
+ 
+ 1
+ 
+ k
+ 
+ n
+ 
+ 
+ 
+ 
+
+Uma k-forma diferencial 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ se chama fechada se seu diferencial exterior é zero, ou seja, 
+ 
+ 
+ 
+ d
+ 
+ =
+ 0
+ 
+ 
+ 
+ 
+ 
+.
+Uma k-forma diferencial 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ se denomina exata se existe outra uma (k-1)-forma 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ tal que sua derivada exterior é precisamente 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+, ou seja, 
+ 
+ 
+ 
+ 
+ =
+ d
+ 
+ 
+ 
+ 
+ 
+ 
+.
+
+Integração das formas
+
+Em uma variedade diferenciável de dimensão 
+ 
+ 
+ 
+ n
+ 
+ k
+ 
+ 
+ 
+ 
+ pode-se definir o análogo da longitude de uma curva, a área de uma superfície, o volume, ou em geral o k-volume.
+Cada um dos conceitos métricos anteriores é calculado como a integração de uma forma diferencial sobre um subconjunto da variedade diferenciável. Assim o conceito de longitude está associado com 1-formas, o de área com 2-formas (elemento de área), o de volume com 3-formas (elemento de volume), etc.
+Matematicamente, as formas diferenciáveis de grau k podem ser integradas sobre cadeias k dimensionais ou mais geralmente conjuntos de dimensão topológica k. Se k = 0, isto é simplesmente a avaliação de funções nos pontos. Outros valores de k = 1, 2, 3 correspondem às integrais de linha, às integrais superficiais, às integrais de volume, etc. Um resultado muito importante, relacionado com a integração de formas se chama teorema de Stokes (do qual a regra de Barrow para integrais ou o teorema da divergência são casos particulares).
+
+Operações em formas
+O conjunto de todas as k-formas em uma variedade são um espaço vetorial. Além disso, há duas outras operações: "cunha" e derivada exterior. Ver cohomologia de Rham para mais detalhes.
+A relação fundamental entre a derivada exterior e a integração é dada pelo teorema de Stokes generalizado, que também proporciona a dualidade entre a cohomologia de Rham e a homologia de cadeias.
+
+Formas diferenciais em física
+Em física, o uso de formas diferenciais é comum em várias áreas, por exemplo, a termodinâmica e a teoria da relatividade.
+Em termodinâmica é prática comum chamar formas pfaffianas às 1-formas. Lamentavelmente, a maior parte dos manuais recorre ao uso convencional destes objetos de uma forma pouco ou nada rigorosa. Igualmente se pode chamar diferenciais exatas às 1-formas exatas.

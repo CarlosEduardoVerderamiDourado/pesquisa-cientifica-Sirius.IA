@@ -1,0 +1,343 @@
+Sistema integrado de diagnose e recomendação
+
+O Sistema Integrado de Diagnose e Recomendação (DRIS) é uma metodologia utilizada para avaliar o estado nutricional de plantas cultivadas, com o objetivo de fornecer orientações para a recomendação de adubação em culturas agrícolas.
+O princípio do DRIS é simples: todas as relações de um nutriente são comparadas com os demais nutrientes presentes em uma mesma análise foliar (ou outro tecido vegetal), utilizando-se valores de referência conhecidos como normas DRIS. Essa comparação permite ordenar os nutrientes, classificando-os de acordo com a sua deficiência ou excesso, através dos chamados índices DRIS.
+Essas informações sobre o equilíbrio nutricional podem ser utilizadas para tomar decisões relacionadas ao manejo da adubação, tais como: aumentar a disponibilidade do nutriente limitante em caso de deficiência; manter o nutriente em níveis adequados de disponibilidade; ou reduzir a disponibilidade do nutriente limitante em caso de excesso.
+Uma das dificuldades do DRIS é que a comparação das relações entre um nutriente e os demais nutrientes requer uma grande quantidade de cálculos.
+Esses cálculos são todos baseados em operações matemáticas simples, como subtração, adição, divisão e multiplicação. No entanto, devido ao alto volume de cálculos necessários, o uso prático do DRIS só é viável por meio da informatização. 
+Por isso, existem diversos tipos de softwares disponíveis para a utilização desse sistema, sendo a maioria deles gratuitos. Esses softwares são baseados em planilhas eletrônicas, sistemas de bancos de dados locais ou sistemas de bancos de dados online.
+
+Breve histórico com destaque para pesquisas feitas no Brasil
+O sistema foi desenvolvido a partir da década de 1950 por E. R. Beaulfis , em pesquisas agronômicas envolvendo seringueiras e cereais. A metodologia foi consolidada e posteriormente publicada no clássico trabalho intitulado "Diagnosis and Recommendation Integrated System - DRIS".
+A metodologia foi desenvolvida como parte de um escopo mais abrangente, que incluía não apenas a avaliação do estado nutricional das plantas, mas também a análise de todos os possíveis fatores limitantes da produção vegetal. Seu objetivo era fornecer recomendações de adubação e orientações sobre práticas adequadas para o manejo das culturas..
+Somente no final da década de 1970 é que a metodologia passou a ser mais conhecida, principalmente devido a uma série de publicações feitas por M. E.Sumner . Essas publicações descreviam o processo e apresentavam exemplos de aplicação em estudos sobre nutrição mineral de plantas. 
+A partir da década de 1980 até o final da década de 1990, o DRIS despertou um interesse crescente entre pesquisadores científicos na área de nutrição de plantas, setor produtivo e consultores privados. Esses profissionais começaram a enxergar no sistema uma alternativa para melhorar a eficiência das adubações e aumentar a lucratividade das lavouras comerciais.
+Em sua essência, o sistema consiste em determinar o balanço dos nutrientes nos tecidos foliares, estabelecendo uma ordem de prioridade para atender às necessidades nutricionais das plantas. Essa ordem vai desde os nutrientes com maior deficiência, passando pelos que estão em equilíbrio, até aqueles em excesso. Isso é feito através dos chamados "índices DRIS".
+Nessa época, as pesquisas se concentraram na comparação entre o sistema DRIS e os métodos convencionais de interpretação do estado nutricional das plantas, bem como na proposição de novas fórmulas para interpretar as relações nutricionais. Além do método original proposto por Beaufils em 1973, destacam-se as contribuições de Jones em 1981 , Elwali e Gascho em 1984, Rafthon e Burger em 1991 e Wadt e colaboradores em 2007.Também merece destaque o método baseado em relações multivariadas proposto por Parent e Dafir em 1992.
+Para interpretar de forma sistemática os índices DRIS, foram sugeridos dois processos principais. Um deles é baseado na comparação com o índice de matéria seca, proposto por Hallmark e colaboradores em 1987. O outro processo é baseado na comparação com o índice de balanço nutricional médio, proposto por Wadt em 1996. No Brasil, o segundo processo, juntamente com suas variações, tem sido o mais adotado.
+No Brasil, destacam-se como importantes disseminadores da metodologia o pesquisador científico Ondino Cleonte Bataglia, do Instituto Agronômico de Campinasa e o professor titular Victor Hugo Alvarez V., da Universidade Federal de Viçosa. Além disso, em 1999, o extinto Instituto Internacional de Nutrição de Plantas - IPNI, promoveu o primeiro evento dedicado exclusivamente ao sistema DRIS .
+
+DRIS
+O DRIS é composto por uma série de procedimentos que têm como objetivo o monitoramento do estado nutricional das plantas, a definição de padrões nutricionais e o diagnóstico do estado nutricional propriamente dito. A partir da década de 2020, novos estudos também passaram a avaliar a qualidade e a precisão dos diagnósticos nutricionais . Anteriormente, com exceção de alguns trabalhos, a maioria dos autores limitava-se a avaliar os resultados por meio de comparações entre métodos diagnósticos.
+O monitoramento nutricional não se restringe ao sistema DRIS e envolve a coleta e armazenamento sistemático de informações sobre cultivos agrícolas em uma determinada região. Para aplicar o método DRIS, são necessárias informações como análises químicas dos nutrientes presentes nos tecidos vegetais e a produtividade das lavouras. Normalmente, são utilizadas amostras de folhas maduras e fisiologicamente ativas, pois elas representam de forma mais precisa o estado nutricional das plantas cultivadas. Os dados do monitoramento nutricional são então utilizados para estabelecer os padrões nutricionais.
+Os padrões nutricionais são compostos por um conjunto de estatísticas básicas, como média, variância e número de observações, obtidas de subpopulações de culturas monitoradas. Essas subpopulações são comumente classificadas com base na produtividade, dividindo-se em grupos de baixa, média e alta produtividade. Essas estatísticas são conhecidas como Normas DRIS e são calculadas para as relações entre os teores de nutrientes, geralmente por meio de análises bivariadas ou multivariadas.
+O diagnóstico nutricional é realizado comparando as relações nutricionais de uma planta ou lavoura com as respectivas normas DRIS da subpopulação de alta produtividade, frequentemente chamada de população de referência. Isso é feito utilizando os índices DRIS. Para fazer essa comparação, cada relação nutricional na planta diagnosticada é comparada com a mesma relação na norma DRIS, utilizando uma função DRIS. Ao final, obtém-se o valor médio das funções DRIS ou, mais comumente, o índice DRIS.
+As funções DRIS são calculadas por meio de diferentes fórmulas. 
+São obtidos dois tipos de índices: o índice DRIS específico para cada nutriente, que indica o estado nutricional relacionado a esse nutriente em particular, e o Índice de Balanço Nutricional (IBN), que reflete o estado geral da nutrição da planta.
+O IBN é calculado somando-se, em valor absoluto, os índices DRIS de cada nutriente avaliado. Um índice derivado do IBN é o Índice de Balanço Nutricional Médio (IBNm), que corresponde ao IBN dividido pelo número de nutrientes avaliados em uma determinada planta ou amostra.
+Na interpretação dos índices DRIS, existem dois principais critérios: o critério do M-DRIS ou Índice DRIS de Matéria Seca e o critério do Potencial de Resposta a Adubação. 
+A qualidade do diagnóstico pode ser avaliada utilizando medidas de acurácia .
+
+Normas DRIS
+Normas DRIS são os parâmetros estatísticos (média, desvio padrão, variância, coeficiente de variação) que descrevem aos valores estimados para as relações entre nutrientes em determinado conjunto de lavouras ou situações de cultivo . 
+
+População de referência
+Ao conjunto de lavouras utilizados para a obtenção das normas DRIS denomina-se população de referência.
+Em termos estatísticos, população de referência refere-se ao subconjunto de lavouras que representam as diferentes condições de crescimento das lavouras e que atendam a determinadas condições consideradas desejáveis, como por exemplo, boa sanidade e elevada produtividade.
+Existem diferentes critérios para se determinar a população de referência a ser utilizada para a obtenção das normas DRIS.
+O principal deles trata das características das próprias lavouras que podem ser consideradas adequadas para a obtenção das normas DRIS. Normalmente, as características desejadas são lavouras produtivas e reconhecidamente sadias. Outras características podem ser utilizadas, como por exemplo a qualidade do produto agrícola.
+É também possível a obtenção das normas DRIS a partir de um conjunto de dados independente da produtividade das culturas. Uma das premissas deste critério consiste de que a estimativa dos parâmetros populacionais seria mais adequado quanto maior o número de plantas amostradas, uma vez que para grandes amostras populacionais as normas DRIS convergem para um valor comum entre grupos de plantas de alta ou baixa produtividade, valor este que pode representar melhor a situação ideal para as relações nutricionais em determinada cultura .
+O uso de grandes amostras (quando volume de dados) é considerado ideal para a obtenção das normas DRIS, porque quanto maior o tamanho amostral da população de referência, maior a probabilidade delas representarem os verdadeiros valores ótimos para as relações nutricionais , o que leva à recomendação de que as normas DRIS devem ter caráter universal, representando o maior conjunto possível de situações de desenvolvimento das lavouras .
+Assim, dependendo do tamanho e da abrangência da população de referência, as normas derivadas da amostragem das culturas podem ser denominadas "universais", ou seja, seriam normas que representam o maior número possível de situações de crescimento, condições ambientais e de manejo fitotécnico .
+Normalmente, neste caso, a população de referência resultante da amostragem de um grande número de casos, incluindo tanto cultivos conduzidos sob condições comerciais ou mesmo informações obtidas de ensaios experimentais .
+Por outro lado, vários autores argumentam pelo melhor desempenho de normas representativas de uma região ou condição de manejo , e mesmo para a possibilidade de se utilizar um pequeno número de casos que sejam representativos de cultivos de plantas sadias e produtivas . As normas definidas a partir de uma condição específica quanto a região geográfica ou tipo de manejo fitotécnico são denominadas de "normas DRIS específicas".
+A população de referência pode também ser definida como um conjunto de situações de lavouras de alta produtividade ou de média produtividade, ou ainda de lavouras reconhecidamente sadias e de média produtividade . 
+Também é comum obter as normas DRIS para conjunto de plantas de baixa produtividade, entretanto, não com o propósito de utilizar essas normas no cálculo dos índices DRIS, mas para selecionar quais relações nutricionais apresentam maior utilidade no cálculo dos índices DRIS. Por exemplo, pode-se utilizar a relação de variâncias entre relações nutricionais de subpopulações de baixa e alta produtividade, comparando-se a relação das variâncias nas formas diretas e inversas de uma função DRIS, e mantendo-se no cálculo do índice DRIS somente aquela relação com maior valor para a relação das variâncias .
+Quando o sistema DRIS foi desenvolvido, uma de suas premissas mais fortes a serem aplicadas para a obtenção das normas DRIS resultavam do entendimento de que qualquer conjunto de observações obtidas em determinado local, sob condições provocadas ou não, somente representam uma determinada fração do fenômeno total a ser observado. Portanto, para se conhecer com clareza a abrangência das relações nutricionais nas plantas cultivadas, todas as condições de cultivo, quaisquer que fossem sua origem e localização, necessitavam ser estudadas sem restrição para a geração das normas DRIS . 
+Esta abordagem consiste na geração de normas DRIS "universais" e tem como finalidade obter um grande conjunto de dados, que reflita as condições de cultivo de determinada cultura, na maior amplitude possível de situações de manejo fitotécnico e ambiental, ou seja, as normas DRIS seriam consideradas serem obtidas sob condições irrestritas quanto as condições de crescimento .
+Este entendimento vem sendo abandonado por diversos autores , os quais sugerem que as normas DRIS devem ser determinadas para condições restritas, como por exemplo, para uma determinada região do pais (norte, nordeste), estado da federação ou região administrativa de um estado federativo, ou ainda, para determinada condição de manejo fitotécnico (convencional ou orgânico).
+Ambas alternativas de obtenção das normas DRIS (universais ou regionais) possuem vantagens e desvantagens. 
+As normas DRIS são obtidas mais facilmente quando restritas a determinada condição de manejo ou região geográfica. O risco desta decisão é que determinadas interações entre nutrientes, que são importantes para a cultura, não estejam adequadamente representadas quando se obtém as normas DRIS específicas, ou seja, restritas a uma determinada condição. Determinadas interações que não sejam determinadas podem ser importantes para definir tanto o verdadeiro equilíbrio nutricional ou alguma situação de limitação nutricional. Por este motivo, alguns autores advogam que normas DRIS universais, embora exigindo um maior esforço na coleta, organização e tratamento de dados, poderiam identificar melhor a importância das relações nutricionais para a determinação do equilíbrio nutricional .
+
+Tecidos amostrados
+O principal tecido vegetal amostrado para as normas DRIS são os tecidos foliares. Nada impede, entretanto, que outro tipo de tecido seja utilizado, como a seiva do floema, galhos finos, flores ou grãos. 
+Entretanto, a preferência tem sido pela utilização dos tecidos foliares, e neste caso, adota-se as mesmas amostragem utilizadas para outros métodos diagnósticos, que normalmente, são feitas sobre folhas fisiologicamente ativas e recém maduras.
+
+Índices DRIS
+Os índices DRIS consistem no principal indicador relacionado ao método DRIS para a determinado do estado nutricional das plantas cultivadas. 
+O índice DRIS de um determinado nutriente representa o estado nutricional da planta para aquele nutriente, e informa se o nutriente está em uma condição de equilíbrio fisiológico ou em uma situação de desequilíbrio nutricional, que pode ser devido a insuficiência ou excesso.
+No cálculo do índice DRIS são consideradas todas as interações de um dado nutriente com os todos os demais nutrientes analisados na amostra foliar; essas interações são avaliadas por meio da uma determinada fórmula DRIS, a qual consiste das equações matemáticas utilizadas para descrever uma função DRIS entre dois ou mais nutrientes, ou seja, a fórmula DRIS representa como as interações dos nutrientes serão computadas.
+
+Funções DRIS
+A função DRIS indica qual interação entre um ou mais nutriente está sendo avaliada.
+A função DRIS, quando representando uma relação bivariada é expressa como f(A/B), ou seja, a função da relação entre o nutriente A e o nutriente B. A função DRIS também pode ser uma relação na forma de produto, como f(A x B), neste caso representando o produto dos nutrientes A e B. Também pode ser expressa como uma relação multivariada como f(A/G), onde A representa o nutriente e G a média geométrica da composição nutricional do tecido analisado.
+Essa notação vem sendo utilizada desde a primeira publicação de Beaufils . 
+Os nutrientes são apresentados sempre em letras maiúsculas, significando que a relação se trata de uma amostra específica. Nas equações matemáticas (fórmulas) que descrevem as funções DRIS, os parâmetros estatísticos da população de referência (normas DRIS) relacionados a respectiva relação são apresentados em letras minúsculas. Ou seja, a expressão a/b, em letras minúsculas, representa a média aritmética da relação A/B na população de referência, o mesmo se aplicando para os demais parâmetros estatísticos, como a variância ou o desvio padrão.
+
+ 
+ 
+ 
+ a
+ 
+ /
+ 
+ b
+ =
+ 
+ 
+ 1
+ N
+ 
+ 
+ 
+ 
+ 
+ i
+ =
+ 1
+ 
+ 
+ N
+ 
+ 
+ (
+ 
+ A
+ 
+ i
+ 
+ 
+ 
+ /
+ 
+ 
+ B
+ 
+ i
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+
+Em que i representa cada indivíduo da população de referência com N indivíduos.
+
+Funções na forma direta e na forma inversa
+Outro aspecto importante relacionado as funções DRIS trata-se de ser na forma direta ou na forma indireta.
+A função DRIS será na forma direta quanto f(A/B) for usado no cálculo do índice DRIS que se encontra no numerador da relação (A). Neste caso, no cálculo do índice DRIS do nutriente A, a função A/B deverá manter o mesmo sinal. Por sua vez, será na forma inversa quanto f(A/B) for usado no cálculo do indice DRIS do nutriente que se encontra no denominador (B), significando que no cálculo do índice DRIS do nutriente B, a função A/B deverá ter ser valor multiplicado por -1 antes de ser adicionada ao cálculo do nutriente.
+O conceito forma direta e inversa não se aplica para relações na forma de produto (A x B) ou para o cálculo do índice DRIS em relações multivariadas. Contudo, pode ser utilizado para relações multivariadas se for feito o cálculo do índice DRIS de matéria seca da relação multivariada.
+Portanto, resumindo, função DRIS representa o tipo de relação que está sendo utilizado no cálculo de um determinado nutriente e como os nutrientes são relacionados entre si neste cálculo.
+
+Fórmulas DRIS
+As fórmulas DRIS representam diferentes equações matemáticas que podem ser utilizadas para o cálculo das relações descritas pelas funções DRIS.
+As principais fórmulas DRIS são as fórmulas de Beaufils e a fórmula de Jones . As demais fórmulas DRIS existentes são pouco utilizadas.
+
+Fórmula de Beaufils
+Esta consiste da fórmula original proposta para o sistema Dris por Beuafils, em 1973, na publicação " Diagnosis and Recommendation Integrated System - DRIS" . Sua expressão é:
+Se A/B < a/b, então:
+
+f(A/B) = (1 - (a/b - A/B)) x (1000/CV)
+
+senão:
+
+f(A/B) = ((A/B - a/b) - 1) x (1000/CV)
+
+Onde:
+
+ A/B = quociente entre as concentrações de dois nutrientes, A e B, em uma amostra foliar;
+ a/b = média da relação entre as concentrações dos nutrientes A e B na população de referência;
+ CV = coeficiente de variação da relação entre as concentrações dos nutrientes A e B na população de referência.
+
+Esta mesma fórmula pode ser representada pela expressão:
+Se A/B < a/b, então:
+
+ f(A/B) = ((A/B - a/b)/ ) x ((a/b)/(A/B))
+
+senão:
+
+ f(A/B) = ((A/B - a/b)/ )
+
+Onde: 
+
+ A/B = quociente entre as concentrações de dois nutrientes, A e B, em uma amostra foliar;
+ a/b = média da relação entre as concentrações dos nutrientes A e B na população de referência;
+ = desvio padrão da relação entre as concentrações dos nutrientes A e B na população de referência.
+
+Ainda hoje é a fórmula mais utilizada na literatura especializada, embora seja adequada para a avaliação de poucos nutrientes para os quais as culturas são normalmente mais responsivas.
+
+Fórmula de Jones
+Também conhecida como fórmula reduzida, foi proposta originalmente em 1981 com o propósito de simplificar o cálculo das funções DRIS e é apresentada como: 
+
+ f(A/B) = (A/B - a/b) / 
+
+Onde: 
+
+ A/B = quociente entre as concentrações de dois nutrientes, A e B, em uma amostra foliar;
+ a/b = média da relação entre as concentrações dos nutrientes A e B na população de referência;
+ = desvio padrão da relação entre as concentrações dos nutrientes A e B na população de referência.
+
+Nesta fórmula, o equilíbrio nutricional é determinado com base exclusivamente na medida padronizada do desvio de uma relação bivariada em função de seu valor ótimo. É uma fórmula adotada na literatura e corresponde ao valor médio padronizado de todas as relações bivariadas computadas. 
+A princípio, sua restrição consiste em mascarar a deficiência de alguns nutrientes que sejam responsivos, o que não ocorreria com a fórmula original de Beaufils. Por outro lado, sua adoção simplifica os procedimentos matemáticos para o cálculo dos índices DRIS.
+
+Fórmula de Elwali & Gascho
+A fórmula proposta por Elwali & Gascho em 1984, e teve como objetivo fazer com que os desequilíbrios nutricionais medidos em cada relação bivariada somente fossem computados quando o desvio absoluto em relação ao valor ótimo fosse maior que o desvio padrão amostral. Sua expressão é: 
+Se A/B < (a/b - a), então:
+
+ f(A/B) = (1 - (a/b - A/B)) x (1000/CV)
+
+Se A/B > (a/b + a), então:
+
+ f(A/B) = ((A/B - a/b) - 1) x (1000/CV)
+
+Senão:
+
+ f(A/B) = 0
+
+Onde:
+
+ A/B = quociente entre as concentrações de dois nutrientes, A e B, em uma amostra foliar;
+ a/b = média da relação entre as concentrações dos nutrientes A e B na população de referência;
+ CV = coeficiente de variação da relação entre as concentrações dos nutrientes A e B na população de referência;
+ a = desvio padrão amostral da relação entre as concentrações dos nutrientes A e B na população de referência
+
+É uma fórmula pouco utilizada, indicada apenas para situações em que houver excessivo número de diagnósticos falso negativo ou falso positivo (indicação de deficiência nutricional quando a planta não responde à aplicação do nutriente que estiver com a suposta deficiência). 
+Na interpretação dos valores dos índices DRIS por esta fórmula, valores negativos ou positivos devem ser interpretados como provável desequilíbrio nutricional, não se recomendando o uso de métodos adicionais para a interpretação dos índices DRIS.
+
+Fórmula de Rathfon & Burger
+Fórmula proposta por Rathfon & Burger e idêntica à fórmula de Elwali & Gascho para macronutrientes, sendo que para micronutrientes, adotou-se o critério de somente estimar o desvio de uma relação quando seu valor ultrapassar os valores máximos e mínimos da respectiva relação na população de referência. 
+Sua expressão é:
+Para macronutrientes, se A/B < (a/b - a), então:
+
+ f(A/B) = (1 - (a/b - A/B)) x (1000/CV)
+
+Se A/B > (a/b + a), então:
+
+ f(A/B) = ((A/B - a/b) - 1) x (1000/CV)
+
+Senão:
+
+ f(A/B) = 0
+
+Para micronutrientes, se A/B < (Min), então:
+
+ f(A/B) = (1 - (a/b - A/B)) x (1000/CV)
+
+Se A/B > (Max), então:
+
+ f(A/B) = ((A/B - a/b) - 1) x (1000/CV)
+
+Senão:
+
+ f(A/B) = 0
+
+Onde:
+
+ A/B = quociente entre as concentrações de dois nutrientes, A e B, em uma amostra foliar;
+ a/b = média da relação entre as concentrações dos nutrientes A e B na população de referência;
+ CV = coeficiente de variação da relação entre as concentrações dos nutrientes A e B na população de referência;
+ a = desvio padrão amostral da relação entre as concentrações dos nutrientes A e B na população de referência;
+ Min = valor mínimo para a relação entre as concentrações dos nutrientes A e B na população de referência;
+ Max = valor mínimo para a relação entre as concentrações dos nutrientes A e B na população de referência.
+
+Sua tendência é eliminar diagnósticos falso positivo e falso negativo, principalmente para micronutrientes; por outro lado, tem o inconveniente de gerar diagnósticos falsos para equilíbrio nutricional.
+
+Fórmula de Wadt e colaboradores
+Esta fórmula foi proposta a partir de análise crítica publicada originalmente por Celsemy Maia, em 1999 e consistiu na adoção dos conceitos propostos por Celsemy Maia na modelagem das funções DRIS .
+Nesta fórmula, os nutrientes em análise são classificados em quatro categorias quanto a responsividade à aplicação de fertilizantes: macronutrientes responsivos, macronutrientes não responsivos, micronutrientes responsivos e micronutrientes não responsivos (ou com efeito potencialmente tóxico em elevadas concentrações).
+Também foi introduzido o fator de sensibilidade (fk), ou fator k (Maia, 1999), consistindo em um fator que altera a curvatura da função DRIS em relação ao valor da relação entre dois nutrientes e tem como finalidade alterar a probabilidade de um dado nutriente ser estimado como em estado de deficiência ou excesso nutricional.
+Sua expressão é:
+Se o nutriente A for um macronutriente responsivo:
+
+ f(A/B) = fk x ((A/B – a/b)/) x (a/b / A/B)
+
+Se o nutriente A for um macronutriente não responsivo, e 
+
+ Se A/B < a/b e A/B > a/b/2, então:
+
+ f(A/B) = fk x (A/B – a/b)/ x (A/B / a/b)
+
+ Se A/B < a/b e A/B <= a/b/2, então:
+
+ f(A/B) = fk x (A/B – a/b)/ 
+
+ Se A/B >= a/b, então:
+ 
+ f(A/B) = fk x (A/B – a/b)/ x (a/b / A/B)
+
+Se o nutriente A for um micronutriente responsivo: 
+
+ Se A/B < a/b, então:
+
+ f(A/B) = fk x (A/B – a/b)/
+
+ Se A/B >= a/b, então:
+
+ f(A/B) = fk x (A/B – a/b)/ x (A/B / a/b)
+
+Se o nutriente A for um micronutriente não responsivo ou com potencial de efeito tóxico em altas concentrações: 
+
+ Se A/B < a/b e A/B > a/b/2, então:
+
+ f(A/B) = fk x {[log(A/B) – log(a/b)]/(log(a/b))} x [log(A/B ) / log(a/b)]
+
+ Senão:
+
+ f(A/B) = fk x (A/B – a/b)/
+
+ 
+Onde:
+
+ A/B = quociente entre as concentrações de dois nutrientes, A e B, em uma amostra foliar;
+ a/b = média da relação entre as concentrações dos nutrientes A e B na população de referência;
+ a = desvio padrão amostral da relação entre as concentrações dos nutrientes A e B na população de referência;
+ fk = fator de sensibilidade
+
+O fator de sensibilidade utilizado em algumas apresentações de fórmulas DRIS observadas na literatura especializada eram adotados simplesmente como fator de escala (Maia, 1999), com a única finalidade de aumentar o valor do índice DRIS para valores inteiros. Somente nestas novas fórmulas que o fator de sensibilidade modela o valor do indice DRIS em respeito ao seu papel na nutrição mineral das plantas cultivadas.
+O fator de sensibilidade pode assumir diferentes valores, normalmente, sendo variavel entre 10 e 0,1 (Wadt & Lemos, 2010).
+Esta fórmula, é pouco utilizada por necessitar de ajustes no coeficiente de sensibilidade para cada nutriente, tornando o método mais complexo. Por outro lado, é o único método que permite otimizar, para uma dada população de plantas monitoradas, o diagnóstico que resulte no maior número de acertos, minimizando os diagnósticos incosistentes: falso negativo, falso positivo e falso equilibrado.
+
+Fórmula DRIS multivariada ou fórmula de Parent & Dafir
+Esta fórmula, embora considerada pelos autores que a desenvolveram (L. E.Parent & M. Dafir ) , como sendo um método distinto em relação a metodologia DRIS, pelo fato de ter substituido as relações bivariadas entre dois nutrientes por relações multivariadas, ainda assim deve ser considerada como uma variação do sistema DRIS.
+E. R. Beaufils, idealizador do sistema DRIS, preconizou que todo e qualquer tipo de relação deve ser considerada na avaliação do estado nutricional das plantas, sem qualquer restrição prévia à forma de expressão das relações nutricionais, sendo aceitas relações na forma de quociente, somatório ou produtos, podem ser considerados como relações DRIS.
+Por esta fórmula, o índice DRIS de um nutriente é calculado pela função:
+
+ f(Y) = (Y - y)/s
+
+Onde: 
+Y = corresponde a relação entre o nutriente "A" e a média geométrica dos constituintes da amostra avaliada; 
+y = média da relação "Y" na população de referência;
+s = desvio padrão da relação "Y" na população de referência.
+Por esta fórmula, cada relação "Y" é calculada pelo teor do nutriente A dividido pela sua média geométrica, pela expressão A/G, onde A corresponde ao teor de um nutriente qualquer, e G = (A x B x C x ....x R)(1/n), sendo A, B, C.... os nutrientes analisados em cada amostra, R o complemento da soma dos nutrientes analisados para 100% e n, o número de elementos, inclusive R, que compõe cada análise. Para esta fórmula, os macro e micronutientes devem ser expressos sempre na mesma unidade, em dag/kg ou %.
+
+Critérios para interpretação dos índices DRIS
+Existem basicamente cinco critérios para a interpretação dos índices DRIS, relacionando esta interpretação ao estado nutricional das plantas avaliadas.
+
+Ordem de limitação nutricional
+O critério mais importante tem sido considerar a Ordem de Limitação dos Nutrientes, ordenando o nutriente daquele de índice DRIS de menor valor (negativo) até aquele com maior valor (positivo). Neste caso, o primeiro nutriente ordenado corresponde ao nutriente que estando deficiente, seria requerido em maior quantidade pela planta e, o último nutriente, aquele que estaria em excesso. Nutrientes com índice DRIS próximos de zero, ou com valores iguais a zero, seriam considerados nutricionalmente equilibrados. Este critério, adotado indistintamente por todos os autores, foi proposto inicialmente por E. R. Beaufils .
+Por esse critério, os nutrientes são apresentados segundo sua ordem de limitação. Por exemplo: N < P < Fe < .... < Zn < K < Ca. A interpretação significa que N é o nutriente mais limitante por insuficiência, seguido pelo P e depois pelo Fe. Ao final da lista, são apresentados os nutrientes mais limitantes por excesso, e no exemplo, Ca seria o mais limitante por excesso, seguido pelo K e depois pelo Zn. Normalmente, todos os nutrientes analisados são apresentados na lista de ordem de limitação.
+A ordem de limitação é obtida simplesmente ordenando os nutrientes em função da ordem crescente do índice DRIS, ou seja, daquele com menor índice DRIS (cujo valor será necessariamente negativo) ao nutriente com maior valor para o índice DRIS (cujo valor será necessariamente positivo).
+A ordem de limitação é uma informação acerca do equilíbrio relativo dos nutrientes, implicando que em caso de deficiência nutricional,a resposta da planta estará dependente primariamente da adição do nutriente com maior grau de insuficiência.
+
+Identificando nutrientes fora do equilíbrio nutricional
+Outro critério utilizado para a interpretação dos índices DRIS considera deficiente todo nutriente cujo índice DRIS negativo (menor que zero) e em suficiência ou excesso todo nutriente com índice DRIS positivo (maior que zero). Nutrientes com índice DRIS igual a zero são sempre considerados como equilibrados. Este critério, não mais adotado no Brasil, ainda é adotado na maioria das pesquisas com DRIS, embora, já se tenha mostrado que não resulte em vantagens para o uso do método DRIS em relação a abordagem convencional .
+
+Usando valores críticos para definir nutrientes limitantes
+Também tem sido comum a utilização de um valor arbitrário para distinguir nutrientes deficientes daqueles não deficientes. Esta técnica, muito pouco utilizada, é válida somente para situações específicas e é extremamente dependente das normas DRIS, ou seja, se houver mudança nas normas DRIS, os valores adotados para a distinção podem ser alterados.
+
+Separando Nutriente Limitantes de Nutrientes Não Limitantes
+Um importante critério para a interpretação dos índices DRIS consiste no método do DRIS da Matéria Seca (M-DRIS), onde além dos índices DRIS dos nutrientes, calcula-se também o índice DRIS da matéria seca, que serve tanto para estimar a magnitude dos efeitos de diluição ou concentração dos nutrientes avaliados, como também para separar os nutrientes limitantes daqueles não limitantes . 
+O índice de DRIS da Matéria Seca é obtido pelo inverso das funções DRIS para os teores dos nutrientes. Baseia-se na premissa de que o teor do nutriente na amostra é a relação entre o conteúdo do nutriente e o conteúdo de matéria seca.
+Assim, para aplicação deste critério, primeiro deve-se calcular o índice de DRIS de Matéria Seca.
+Depois, compara-se o índice DRIS de Matéria Seca com o índice DRIS de um nutriente. Se o índice DRIS do nutriente for menor que zero e menor que o índice DRIS de Matéria Seca, então o nutriente é considerando "Limitante". Nos demais casos, o nutriente é considerado "Não Limitante".
+
+Classificando os nutrientes quanto ao seu potencial de resposta à adubação
+No Brasil, o critério mais largamente utilizado tem sido o critério do Potencial de Resposta à Adubação . Por este critério, os índices DRIS são classificados em cinco categorias, cada qual relacionada a um determinado estado nutricional:
+
+a maior insuficiência, correspondendo a situação em que o nutriente apresenta alta probabilidade de resposta à correção da deficiência. Nesta situação, o nutriente apresenta simultaneamente a condição de ser o nutriente com menor valor para o índice DRIS e, cujo módulo do índice DRIS seja maior que o índice de balanço nutricional médio (IBNm);
+b insuficiência moderada, correspondendo a situação em que o nutriente apresenta moderada probabilidade de resposta à correção da deficiência; nesta situação, o nutriente deficiente não é o de menor índice DRIS, porém, o módulo do índice DRIS deste nutriente é maior que o IBNm;
+c equilibrado, corresponde a situação em que o nutriente apresenta-se nutricionalmente equilibrado, não requerendo mudança na sua disponibilidade para a planta avaliada;
+d excesso moderado, correspondendo a situação em que o nutriente apresenta moderada probabilidade de resposta à correção do excesso. Nesta situação, o nutriente em excesso não é o de maior índice DRIS, porém, o módulo do índice DRIS deste nutriente é maior que o IBNm;
+e maior excesso, correspondendo a situação em que o nutriente apresenta alta probabilidade de resposta à correção do excesso. Nesta situação, o nutriente em excesso corresponde simultaneamente aquele com maior índice DRIS e cujo módulo do índice DRIS é maior que o IBNm.
+
+O DRIS na recomendação de adubação
+DRIS significa, literalmente, sistema integrado de diagnose e recomendação, e o nome "recomendação" refere-se a toda e qualquer recomendação de manejo cultural que possa ser feita com base nas informações obtidas pelo sistema, e em especial, inclui a recomendação de adubação.
+Contudo, são raros os exemplos para a utilização do DRIS em sistemas de recomendação de adubação.
+Um dos exemplos mais completos de indicação do DRIS para o manejo da adubação é a publicação "Recomendação de Adubação e Calagem para o Cupuaçueiro .
+Além do cupuaçu, também há algumas recomendações para o uso do DRIS na adubação de mangueieras , embora neste caso, as informações disponíveis não estejam totalmente estruturadas e organizadas .
+Em linhas gerais, o DRIS pode ser utilizado para definir a demanda do nutriente pela planta a partir de seu balanço nutricional . , enquanto a interpretação da análise de solos fornece informações sobre sua disponibilidade no sistema solo-planta e a interpretação da análise foliar por métodos convencionais fornece indicações da quantidade efetivamente absorvida pela planta .
+Isto significa que enquanto a interpretação da análise de solos e a interpretação da análise foliar por métodos convencionais fornecem informações sobre a quantidade de nutrientes a serem utilizados na adubação, o DRIS informa como devem ser feitos os ajustes nestas quantidades para que se atinja um melhor equilíbrio nutricional.
+Portanto, o DRIS não é um sistema de deve substituir os demais métodos, mas sim ser utilizado complementariamente . 
+Os métodos convencionais são baseados em informações ajustadas experimentalmente, onde por meio de ensaios de calibração se determina a relação entre doses de nutrientes aplicados, disponibilidade no solo e na planta, com a expectativa de produtividade.
+Por sua vez, o DRIS avalia a situação específica de uma cultivo, comparando-o com uma população de referência, de forma a informar quais ajustes devem ser feitos na programação de adubação para que o melhor balanço nutricional seja alcançado. Uma vez alcançado esse melhor balanço nutricional, haveria melhores condições para a lavoura expressar sua máxima capacidade produtiva.

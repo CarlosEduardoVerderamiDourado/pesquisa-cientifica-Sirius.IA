@@ -1,0 +1,268 @@
+Sistema límbico
+
+Na superfície medial do cérebro dos mamíferos, o sistema límbico é a unidade responsável pelas emoções e comportamentos sociais. É uma região constituída de neurônios, células que formam uma massa cinzenta denominada de lobo límbico.
+Originou-se a partir da emergência dos mamíferos mais antigos. Através do sistema nervoso autônomo, ele comanda certos comportamentos necessários à sobrevivência de todos os mamíferos, interferindo positiva ou negativamente no funcionamento visceral e na regulamentação metabólica de todo o organismo.
+O termo límbico corresponde a um adjetivo que dá o valor de relativo ou pertencente ao limbo, ou seja, remete para o conceito de margem. O Sistema Límbico compreende todas as estruturas cerebrais que estejam relacionadas, principalmente, com comportamentos emocionais e sexuais, aprendizagem, memória, motivação, mas também com algumas respostas homeostáticas. Resumindo, a sua principal função será a integração de informações sensitivo-sensoriais com o estado psíquico interno, onde é atribuído um conteúdo afetivo a esses estímulos, a informação é registrada e relacionada com as memórias preexistentes, o que leva à produção de uma resposta emocional adequada, consciente e/ou vegetativa. Estas formações podem dividir-se em componentes corticais e componentes subcorticais, estando associadas a esta região cerebral um conjunto de estruturas que, contribuem para a execução das funções deste sistema.
+Enumerando os componentes corticais pertencentes ao Sistema Límbico podemos observar o hipocampo e o lobo límbico de Broca. “Le grande lobe limbique”, foi o termo criado em 1878, por Pierre-Paul Broca, referente ao conjunto de estruturas que se situam em volta do tronco encefálico, na face interna (medial) e inferior dos hemisférios cerebrais. Já 1664, Thomas Willlis designou o anel cortical que circundava o tronco cerebral de cerebri limbus. Quanto aos componentes subcorticais é possível diferenciar as amígdalas (núcleos amigdalinos), a área septal, os corpos mamilares, os núcleos anteriores do tálamo, os núcleos habenulares e os núcleos Accumbens. Os componentes cerebrais associados ao Sistema Límbico são o Tronco Cerebral, o Hipotálamo, o Tálamo, a Área Pré-frontal e o Rinencéfalo (Sistema Olfativo).
+
+Componentes do sistema límbico
+
+Quanto às estruturas cerebrais na formação das emoções, são algumas das partes mais importantes do sistema límbico:
+
+Amígdala: A destruição experimental das amígdalas (são duas, uma para cada um dos hemisférios cerebrais) faz com que o animal se torne dócil, sexualmente indiscriminativo, afetivamente descaracterizado e indiferente às situações de risco. O estímulo elétrico dessas estruturas provoca crises de violenta agressividade. Em humanos, a lesão da amígdala faz, entre outras coisas, com que o indivíduo perca o sentido afetivo da percepção de uma informação vinda de fora, como a visão de uma pessoa conhecida. Ele sabe quem está vendo mas não sabe se gosta ou desgosta da pessoa em questão. Localizada na profundidade de cada lobo temporal anterior, funciona de modo íntimo com o hipotálamo. É o centro identificador de perigo, gerando medo e ansiedade e colocando o animal em situação de alerta, aprontando-se para fugir ou lutar.
+Hipocampo: Envolvido com os fenômenos da memória de longa duração. Quando ambos os hipocampos (direito e esquerdo) são destruídos, nada mais é gravado na memória. Um hipocampo intacto possibilita ao animal comparar as condições de uma ameaça atual com experiências passadas similares, permitindo-lhe, assim, escolher qual a melhor opção a ser tomada para garantir sua preservação.
+Tálamo: São lesões ou estimulações do dorso medial e dos núcleos anteriores que estão correlacionadas com as reações da reatividade emocional do homem e dos animais. A importância dos núcleos na regulação do comportamento emocional possivelmente decorre, não de uma atividade própria, mas das conexões com outras estruturas do sistema límbico. O núcleo dorso-medial conecta com as estruturas corticais da área pré-frontal e com o hipotálamo. Os núcleos anteriores ligam-se aos corpos mamilares no hipotálamo (e através destes, via fórnix, com o hipocampo) e ao giro cingulado.
+Hipotálamo: É parte mais importante do sistema límbico (que atua principalmente no controle da temperatura corporal das aves e mamíferos). Essas funções internas são em conjunto denominadas funções vegetativas do encéfalo, e seu controle está relacionado com o comportamento. Ele mantém vias de comunicação com todos níveis do sistema límbico. O hipotálamo desempenha, ainda, um papel nas emoções. Especificamente, as partes laterais parecem envolvidas com o prazer e a raiva, enquanto que a porção mediana parece mais ligada à aversão, ao desprazer e a tendência ao riso (gargalhada) incontrolável. De um modo geral, contudo, a participação do hipotálamo é menor na gênese do que na expressão (manifestações sintomáticas) dos estados emocionais. Quando os sintomas físicos da emoção aparecem, a ameaça que produzem, retorna, via hipotálamo, aos centros límbicos e, destes, aos núcleos pré-frontais, aumentando, por um mecanismo de feed-back negativo, a ansiedade, podendo até chegar a gerar um estado de pânico. O Conhecimento desse fenômeno tem, como veremos adiante, importante sentido prático, dos pontos de vista clínico e terapêutico.
+Giro cingulado: Situado na face medial do cérebro entre o sulco singulado e o corpo caloso, que é um feixe nervoso que liga os 2 hemisférios cerebrais. Há ainda muito por conhecer a respeito desse giro, mas sabe-se que a sua porção frontal coordena odores, e visões com memórias agradáveis de emoções anteriores. Esta região participa ainda, da reação emocional à dor e da regulação do comportamento agressivo. A ablação do giro cingulado (cingulectomia) em animais selvagens, domestica-os totalmente. A simples secção de um feixe desse giro (cingulotomia), interrompendo a comunicação neural do circuito de Papez, reduz o nível de depressão e de ansiedade preexistentes.
+Tronco cerebral: Região responsável pelas reações emocionais. Na verdade, apenas respostas reflexas de alguns vertebrados, como répteis e os anfíbios. As estruturas envolvidas são a formação reticular e o locus ceruleus, uma massa concentrada de neurônios secretores de norepinefrina. É importante assinalar que, até mesmo em humanos, essas primitivas estruturas continuam participando, não só dos mecanismos de alerta, vitais para a sobrevivência, mas também da manutenção do ciclo vigília-sono.
+Área tegmental ventral: Grupo de neurônios localizados em uma parte do tronco cerebral. Uma parte dele secreta dopamina. A descarga espontânea ou a estimulação elétrica dos neurônios da região dopaminérgica na via mesolímbica produzem sensações de prazer, algumas delas similares ao orgasmo. Indivíduos que apresentam, por defeito genético, redução no número de receptores das células neurais dessa área, tornam-se incapazes de se sentirem recompensados pelas satisfações comuns da vida e buscam alternativas "prazerosas" atípicas e nocivas como, por exemplo, alcoolismo, cocainomania, compulsividade por alimentos doces e pelo jogo desenfreado.
+Septo: Situado à frente do tálamo, por cima do hipotálamo. A estimulação de diferentes partes desse septo pode causar muitos efeitos comportamentais distintos. Anteriormente ao tálamo, situa-se a área septal, onde estão localizados os centros do orgasmo (quatro para mulher e um para o homem). Certamente por isto, esta região se relaciona com as sensações de prazer, mormente aquelas associadas às experiências sexuais.
+Área pré-frontal: Não faz parte do Lobo límbico tradicional, mas suas intensas conexões com o tálamo, amígdala e outras sub-corticais, explicam o importante papel que desempenha na expressão dos estados afetivos. Está classicamente dividido em três áreas funcionais e anatômicas: a área dorsolateral, a área orbitofrontal e a área cingulada anterior.A área dorsolateral está relacionada com o raciocínio, permite a integração de percepções temporalmente descontinuas em componentes de ação dirigidos a um objectivo. A área orbitofrontal representa um interface entre os domínio afectivo/ emocional e a tomada de decisões centradas nos dominios pessoal e social. A área dorsolateral, funciona como um "secretário de direcção" da área dorsolateral, ao dirigir a atenção. Tem um papel igualmente importante na motivação do comportamento. As três áreas contribuem para o que se designa de "Funções Executivas". Quando o córtex pré-frontal é lesado , o indivíduo perde o senso de suas responsabilidades sociais (lesões orbitofrontais), bem como a capacidade de concentração e de abstração (lesões dorsolaterais). Em alguns casos, a pessoa, conquanto mantendo intactas a consciência e algumas funções cognitivas, como a linguagem, já não consegue resolver problemas, mesmo os mais elementares. Quando se praticava a lobotomia pré-frontal para tratamento de certos distúrbios psiquiátricos, os pacientes entravam em estado de "tamponamento afetivo", não mais evidenciando quaisquer sinais de alegria, tristeza, esperança ou desesperança. Portanto infere-se que o essa área é essencial para possibilitar afetividade.
+
+Anatomia Descritiva
+
+Tronco Cerebral
+No tronco cerebral é possível encontrar os vários núcleos (origens reais) dos pares cranianos, bem como centros viscerais importantes para a manutenção da vida, como são o centro respiratório e o centro vasomotor. A ativação destas estruturas ocorre perante os diferentes estados emocionais. Esta ativação faz com que se dê uma resposta periférica das emoções como é o caso do choro, da sudorese, do aumento da frequência cardíaca, entre outros.
+Nesta porção do Sistema Nervoso tem origem a via mesolímbica, via dopaminérgica, que se inicia ao nível da área tegmental do Mesencéfalo. Esta via projeta-se para a área pré-frontal e para o sistema límbico através da conexão com o núcleo Accumbens, a amígdala e o hipocampo. Está relacionada com a regulação de fenómenos emocionais, essencialmente associados ao prazer, recompensa e à aprendizagem.
+
+Hipotálamo
+O hipotálamo corresponde a uma das estruturas do diencéfalo e constitui um dos principais componentes do Sistema Nervoso Autónomo (SNA), essencial na homeostasia. Apresenta um conjunto de funções, onde se destaca o papel na regulação do comportamento emocional, nomeadamente nas respostas periféricas como o choro, a salivação, a alteração do ritmo cardíaco e respiratório e nos processos motivacionais. As principais lesões nesta região, associadas ao comportamento emocional e verificadas em animais, estão associadas ao núcleo ventromedial, provocando reação de defesa. A estimulação do hipotálamo anterior (núcleos laterais) provoca a reação de fuga.
+Todas estas funções, relacionadas com o comportamento e com a emoção estão associadas ao sistema límbico, sendo a conexão entre o Área Pré-Frontal (límbica) e o hipotálamo posterior um dos principais meios de controlo da resposta visceral à emoção.
+Outras conexões do hipotálamo, associadas ao sistema límbico, passam pela que se faz através do fórnix/trígono que, associa o hipotálamo ao hipocampo (conexão entre o hipocampo e os corpos mamilares – Circuito de Papez); a que se faz pelo feixe prosencefálico medial (feixe medial do telencéfalo) entre o hipotálamo e a área septal e ainda a que se faz pela estria terminalis entre o hipotálamo e o corpo amigdaloide (amígdala).
+
+Tálamo
+O tálamo constitui uma das estruturas do Diencéfalo, sendo que a sua principal função, no que respeita ao sistema límbico consiste na integração da informação somática e visceral e na sua associação às emoções e aos estados subjetivos do indivíduo. No tálamo, para além dos núcleos anteriores que são parte integrante do sistema límbico, como componentes subcorticais e que serão descritos mais à frente, o núcleo dorsomedial apresenta conexão com áreas relacionadas com o sistema límbico. Vão se realizar conexões recíprocas com a área pré-frontal, o hipotálamo e os restantes núcleos talâmicos.
+
+Área Pré-Frontal
+Atentando às áreas funcionais do lobo frontal, podemos destacar, associada ao sistema límbico, a área ou córtex pré-frontal. A área pré-frontal situa-se anteriormente à área pré-central (área 6 de Brodman) e compreende as áreas 9,10,11,12 e 46 de Brodman, situadas nas faces externa (lateral), interna (medial) e orbitária (inferior) do lobo frontal. Apresenta conexões (aferências e eferências) com o restante córtex cerebral, tálamo, hipotálamo e corpo estriado. A sua função tem sido estudada essencialmente em macacos e em humanos com lesões nesta área (Gage Harlow, por exemplo.), e está relacionada com a estruturação da personalidade do indivíduo, capacidade de julgamento, motivação e comportamento emocional. Cada uma destas funções estará distribuída por cada uma das porções desta área funcional. Assim sendo, a porção dorsolateral (áreas 9,10 e 46 de Brodman) é responsável pela memória a curto prazo, pela distribuição da atenção e pela velocidade de processamento; a porção medial superior (áreas 6 e partes da 9 e 32 de Brodman) é responsável pelas emoções, motivação e iniciação dos movimentos e finalmente a área ventromedial (áreas 11 e 12 de Brodman) é responsável pela tomada de decisões e ainda pelo controlo das emoções.
+
+Rinencéfalo (Sistema Olfativo)
+Devido ao tamanho do lobo límbico em animais filogeneticamente primitivos pensava-se que todo o sistema límbico apresentava uma função meramente olfativa, fazendo parte do rinencéfalo. Atualmente excluiu-se desta hipótese devido às efetivas funções do sistema límbico. Contudo, o sistema olfativo apresenta uma relação importante com o sistema límbico, pois os impulsos olfativos projetam-se diretamente para a área cortical (córtex olfativo), sem passagem prévia no tálamo. O córtex olfativo divide-se em primário e em secundário, sendo que ambos apresentam estruturas pertencentes ao sistema límbico.
+Fazem parte do Rinencéfalo as seguintes estruturas:
+
+Células Olfativas;
+Bulbo Olfativo;
+Pedúnculo Olfativo;
+Trígono Olfativo:
+Fitas Olfativas (interna, externa e intermédia) e
+Córtex Olfativo
+As células olfativas correspondem às células recetoras que se encontram na mucosa nasal (mancha nasal). Estas células são neurónios sensitivos bipolares, com uma extremidade apical que contata com o espaço olfativo das fossas nasais e que apresenta cílios que funcionam como quimiorrecetores específicos para determinados odores. A extremidade contra lateral apresenta-se sob a forma de um axónio amielinizado que se junta às extremidades das células recetoras adjacentes e origina os filetes que atravessam a lâmina crivosa do etmoide e constituem o I par craniano, o nervo olfativo que acaba por alcançar a face inferior do bulbo olfativo.
+O bulbo olfativo constitui a principal estação retransmissora da via olfativa. Localiza-se sobre a lâmina crivosa do etmoide e podemos observá-lo na face inferior/orbitária do lobo frontal. O bulbo, histologicamente divide-se em 5 camadas: estrato das neurofibras (contém fibras do nervo olfativo), estrato glomerular (formações sinápticas entre os axónios do nervo olfativo e as dentrites dos neurónios mitrais e em tufo); estrato plexiforme (contém os corpos celulares do neurónios em tufo); estrato de células mitrais (contém neurónios mitrais) e estrato granular (contém neurónios pequenos e granulares). O bulbo olfativo recebe aferências das células ciliadas olfativas da muscosa nasal, do bulbo olfativo contra lateral, do córtex olfativo primário, da estria diagonal (de Broca) e do núcleo olfativo anterior. As eferências desta estrutura são dirigidas para o bulbo olfativo contra lateral, a circunvolução subcalosa/paraterminal, para a substância perfurada anteriores para o córtex olfativo primário e para o córtex entorrinal anterior.
+O Pedúnculo Olfativo é um cordão de substância branca situado no sulco olfativo que constitui a via eferente (principal) do Bulbo Olfativo. Termina ao nível da substância perfurada anterior onde forma o trígono olfativo, constituídos pelas três fitas olfativas (interna, externa e intermédia). A fita olfativa interna projeta-se para a área olfativa medial, que corresponde à área septal (Sistema Límbico). A fita olfativa intermédia funde-se com a substância perfurada anterior e constitui uma estrutura inconstante. A fita olfativa externa projeta-se para o córtex olfativo, que se situa no lobo temporal e é constituído pelo córtex piriforme, área periamigdalina e parte da área entorrinal.
+
+Componentes Corticais
+
+Lobo Límbico de Broca
+O Lobo Límbico constitui uma estrutura anatómica em forma de anel, situado na porção interna de cada hemisfério, em torno das formações inter-hemisféricas fechado anteriormente pelas fitas olfativas. É constituído por 3 circunvoluções (subcalosa, do cíngulo e 5ª circunvolução temporal) e um espessamento da 5ª circunvolução temporal, o úncus.
+
+Circunvoluções Subcalosa/Paraterminal
+A circunvolução subcalosa situa-se inferiormente ao joelho e ao rostrum do corpo caloso e anteriormente à lâmina terminalis.
+
+Circunvolução do Cíngulo
+A circunvolução do cíngulo corresponde à área limitada inferiormente pelo sulco do corpo caloso e superiormente pelos regos/sulcos caloso-marginal e sub-parietal.
+Circunvolução Para-hipocâmpica (5ª Circunvolução Temporal)
+A circunvolução para-hipocâmpica corresponde à 5ª circunvolução temporal. Localiza-se na face inferior e porção mais interna do lobo temporal, sendo atravessada longitudinalmente pelo sulco do hipocampo, no qual está alojada a formação hipocâmpica. Esta circunvolução continua-se posteriormente com a 5ª circunvolução occipital. Não existe um limite definido entre estas duas circunvoluções, sendo que conjuntamente formam o Lobo Lingual.
+ 
+
+Úncus
+A extremidade anterior da circunvolução para-hipocâmpica apresenta uma reflexão em sobrada posterior e superiormente em forma de gancho que se denomina de úncus.
+
+Hipocampo
+O hipocampo é uma estrutura que se divide em duas porções que se continuam: o hipocampo ventral e o hipocampo dorsal. Este localiza-se, essencialmente, no sulco hipocâmpico, na 5ª circunvolução temporal e dirige-se para o corno temporal do ventrículo lateral.
+
+Hipocampo Dorsal
+O hipocampo dorsal corresponde ao indusium griseum, ou seja, a uma banda de substância cinzenta que tem a sua origem ao nível da circunvolução subcalosa e que se prolonga sobre toda a face superior do corpo caloso, cobrindo-a. Ao longo do seu trajeto é acompanhado internamente por uma fita de substância branca – estria longitudinal interna/ feixe de Lancisi – e externamente é possível observar a fita longitudinal externa, fita de substância cinzenta. Ao nível de esplenium/debrum do corpo caloso, esta banda de substância cinzenta e as estrias longitudinais continuam-se pela fascíola cinérea e de seguida pela circunvolução dentada do hipocampo ventral.
+Feixe de Lancisi:
+
+Contorna o joelho do corpo caloso;
+Segue a face superior do corpo caloso (pedúnculo do corpo caloso);
+Contorna a substância perfurada anterior (fita diagonal de Broca);
+Termina da circunvolução dentada.
+Circunvolução intra-límbica:
+
+Circunvolução atrofiada (só são visíveis alguns vestígios) formada pela circunvolução dentada, fascíola cinérea e fita diagonal de Broca.
+
+Hipocampo Ventral
+O Hipocampo Ventral localiza-se no fundo do sulco do hipocampo e apresenta três porções: corno de Amon (hipocampo propriamente dito); circunvolução dentada e o subiculum.
+O Corno de Amon ou hipocampo propriamente dito, consiste num aglomerado de substância cinzenta que estende por todo o comprimento do pavimento do corno inferior do ventrículo lateral. Esta porção do hipocampo ventral denomina-se desta forma pois em cortes coronais assemelha-se a um cavalo-marinho ou ao corno do deus egípcio Amon. Apresenta uma extremidade anterior que uma expansão que se designa de pé do hipocampo. A sua superfície ventricular (corno inferior do ventrículo lateral) é convexa e revestida por epêndima, abaixo da qual existe uma camada de substância branca denominada álveo. O álveo é formado por fibras nervosas originadas no hipocampo, que convergem internamente para formar a fímbria, a qual se continua posteriormente pelo pilar posterior do fórnix (trígono) e termina anteriormente no úncus.
+A circunvolução dentada forma o lábio superior do sulco do hipocampo, sendo que ocupa o intervalo entre o hipocampo e o subiculum. Corresponde à parte terminal da fita diagonal de Broca (hipocampo dorsal) anteriormente e posteriormente, após se separa da fascíola, continua-se pela fascíola cinérea.
+O subiculum constitui o lábio inferior do sulco do hipocampo.
+
+Componentes Subcorticais
+
+Amígdalas (Núcleos Amigdalinos)
+As amígdalas são duas massas de substância cinzenta que apresentam a forma de uma amêndoa e estão situadas na continuidade da cauda do núcleo caudado. É possível encontra-las na extremidade do lobo temporal, anterior e superiormente ao vértice do corno inferior dos ventrículos laterais, ou seja, sob o córtex do úncus.
+Apresentam dois grupos de núcleos, um corticomedial-central e outro basolateral. O grupo corticomedial-central é filogeneticamente mais antigo do que o basolateral, sendo que as suas conexões serão para as áreas filogeneticamente mais antigas (bulbo olfativo, hipotálamo e tronco encefálico) e mais recentes, respetivamente. Neste núcleo da base é possível detetar diversos neurotransmissores tais como a acetilcolina, a noradrenalina, a serotonina, o ácido gama-aminobutírico (GABA), a substância P e encefalinas.
+
+Área Septal
+A Área Septal é constituída por duas porções: o septo pelúcido e o septo verum (septo pré-comissural).
+O septo pelúcido consiste numa dupla membrana vertical, que encerra no seu interior a cavidade septal e, que se estende da face inferior do corpo caloso à face superior do fórnix/trígono. Tem uma forma triangular, onde se destacam 3 bordos: bordo superior que está unido à face inferior do corpo caloso; bordo ântero-inferior que se relaciona com o joelho do corpo caloso e bordo póstero-inferior que se encontra unido aos pilares anteriores do fórnix e 3 ângulos: ângulo anterior que se relacionado com o joelho do corpo caloso e com o corpo do trígono; ângulo posterior que se encontra na união do corpo caloso com o corpo do fórnix e ângulo inferior que está localizado na união dos pilares anteriores do trígono, bico do corpo caloso e comissura branca anterior.
+O septo verum ou pré-comissural é anterior ao septo pelúcido. Situado entre a circunvolução subcalosa e a comissura branca anterior e hipotálamo. Neste região estão localizadas importantes estruturas nervosas, onde se destacam: a fita diagonal de Broca, o núcleo da estria terminalis (fita semicircular), o núcleo accubens e os núcleos septais (externo (lateral) – recebe a maioria das aferências que envia para o grupo medial, interno (medial) – origina a maioria das eferências e posterior – recebe aferências do hipocampo e envia aferências para os núcleos habenulares).
+
+Corpos Mamilares
+Os corpos mamilares são duas massas de substância cinzenta do hipotálamo posterior, situadas anteriormente ao espaço interpeduncular e substância perfurada anterior e caudalmente ao túber cinereum (hipocampo). Cada corpo mamilar apresenta dois núcleos: um medial (especialmente desenvolvido no homem) e um lateral.
+A sua conexão mais importante, no sistema límbico, faz-se com os núcleos anteriores do tálamo, pelo feixe mamilotalâmico de Vicq-d'Azyr. Este feixe é integrante do Circuito de Papez.
+
+Núcleos Anteriores do Tálamo
+Os núcleos anteriores tálamo estão situados na porção anterior do tálamo, mais propriamente no meio dos “braços” do Y da lâmina medular interna. Estes núcleos recebem o feixe mamilotalâmico, vindo dos corpos mamilares, sendo que as suas eferências serão enviadas principalmente para a circunvolução do cíngulo, através do braço anterior da cápsula interna (Circuito de Papez). O grupo nuclear anterior do tálamo é constituído por 2 núcleos: anterior e ântero-dorsal.
+
+Núcleos Habenulares
+Os núcleos habenulares, são pequenos grupos de neurónios situados internamente à extremidade posterior do tálamo, em relação com o trígono da habénula. Encontram-se unidos pela comissura habenular. Recebem aferências da amígdala através da stria medullaris (fita semicircular) e enviam eferências para o núcleo interpeduncular do mesencéfalo pela via habenulo-interpeduncular ou feixe retroflexo de Meynert.
+
+Núcleos Accumbens
+Os núcleos Accumbens são massas de substância cinzenta ainda não muito conhecidas que se situam no septo verum e correspondem à maior parte do estriado ventral incluído nos gânglios basais. A partir de estudos, realizados por uma equipa da Faculdade de Medicina de Lisboa, foram, recentemente delineados os limites (mais precisos) da sua localização, que correspondem:
+
+Posteriormente – bordo posterior da comissura anterior
+Anteriormente – zona de separação da cabeça no núcleo caudado e putamen pela cápsula interna
+Internamente – plano vertical que passa pelo bordo inferior do ventrículo lateral
+Externamente – relacionado com a cápsula interna
+Dorsalmente – plano horizontal que passa abaixo da cabeça do núcleo caudado, desde o bordo inferior do ventrículo lateral até o limite inferior da cápsula interna
+
+Funções
+
+Lobo Límbico de Broca
+Comportamento emocional e
+Memória
+
+Hipocampo
+As funções do hipocampo têm de ser analisadas tendo em conta as vastas conexões que este apresenta. Assim sendo, por exemplo, os efeitos de estimulação ou ablação do hipocampo não podem ser estudados isoladamente. O hipocampo apresenta potenciais de ação quando se realizam estímulos visuais, acústicos, gustativos e somaticosensitivos.
+
+Memória Associativa (declarativa);
+Atenção;
+Alerta;
+Funções endócrinas;
+Funções viscerais e
+Funções comportamentais e sociais
+
+Amígdala
+Efeitos autónomos (aquando da estimulação da amígdala):
+
+Alterações da frequência cardíaca;
+Respiração;
+Pressão Arterial e
+Motilidade Gástrica
+Comportamento Emocional e Ingestão Alimentar:
+
+Núcleos corticomediais (lesão): afagia, vigor emocional reduzido, agressividade, tristeza e medo; (estimulação): reação agressiva e defensiva
+Núcleos basolaterais (lesão): hiperfagia, felicidade, reações prazerosas; (estimulação): medo e fuga
+Expressão Facial:
+A amígdala tem o papel de associar a expressão facial face ao conhecimento sobre o significado emocional e social de um acontecimento.
+Atividade Sexual
+A amígdala apresenta uma grande quantidade de recetores específicos para hormonas sexuais. A estimulação da amígdala estará então associada a comportamentos sexuais como: ejaculação, ereção, movimentos de cópula e ovulação. Lesões laterais da amígdala levam a distúrbios de hípersexualidade e comportamento sexual pervertido.
+Resumindo:
+
+Funções autonómicas;
+Orientação (atenção nas tarefas);
+Ingestão de alimentos;
+Excitação e
+Atividade sexual e motora.
+
+Região Septal
+Comportamento Emocional;
+Ingestão de Água;
+Aprendizagem;
+Recompensa e
+Efeitos Autonómicos.
+
+Núcleos Anteriores do Tálamo
+Mecanismos de memória e
+Comportamento emocional
+
+Núcleos Accumbens
+Funções emocionais;
+Funções cognitivas e
+Funções psicomotoras.
+
+Conexões
+
+Circuito de Papez
+Em 1937, Papez publicou um estudo onde propunha uma nova teoria para explicar o mecanismo da emoção. Este mecanismo envolve as estruturas do lobo límbico, do hipotálamo e do tálamo, todas unidas por um circuito hoje conhecido como o Circuito de Papez. Atualmente sabe-se que este circuito está, também, relacionado com a memória.
+Hipocampo > Fórnix > Corpos Mamilares > N. Anterior do Tálamo > Cingulo > Circunvalação Parahipocâmpica
+
+Área Septal
+Conexões recíprocas:
+
+Hipocampo (conexão feita através do trígono)
+Amígdala (estria terminalis e a via amigdofugal ventral)
+Hipotálamo (feixe prosencefálico medial - une a área septal ao mesencéfalo, passando pelo núcleos do hipotálamo lateral)
+Mesencéfalo
+Núcleo habenular (estria medular)
+Circunvolução do cíngulo
+Tálamo (núcleos anteriores e medial dorsal)
+
+Amígdalas
+
+Vias aferentes
+Grupo basolateral
+
+Córtex pré-frontal
+Córtex temporal
+Córtex occipital
+Córtex da insula
+Tálamo (núcleo dorsomedial)
+Córtex Olfativo
+Núcleo de Meynert
+Grupo corticomedial central
+
+Bulbo Olfativo
+Tálamo (núcleo dorsomedial)
+Hipotálamo (núcleo ventromedial e área hipotalâmica lateral)
+Área Septal
+Substância Cinzenta Periaquedutal do Mesencéfalo
+Núcleo Parabraquial
+Núcleo do Trato Solitário
+
+Vias eferentes
+Estria Terminal (Fita semicircular/ Via Amigdalofugal Dorsal)
+
+Núcleos Septais
+Núcleos pré-ótico, anterior e ventromedial do hipotálamo
+Área hipotalâmica lateral
+Núcleo da Estria Terminalis
+Via Amigdalofugal Ventral
+
+Córtex pré-frontal
+Área entorrinal
+Subículo
+Córtex da insula
+Córtex occipital
+Cíngulo (Circunvolução do cíngulo)
+Estriado Ventral
+Tálamo (núcleo dorsomedial)
+Hipotálamo (área pré-ótica e hipotalâmica lateral)
+Área septal
+Núcleo basilar (substância inominada)
+
+Hipocampo
+
+Aferências
+Área Entorrinal (área 28 de Brodman)
+Hipocampo contralateral (através da comissura hipocâmpica ou do fórnix - rudimentar em humanos)
+Hipotálamo (fibras originárias dos corpos mamilares)
+Amígdala (fibras adjacentes à substância branca do lobo temporal)
+Tálamo (do núcleo anterior)
+Locus ceruleus - também conhecido por nucleus pigmentosus, encontra-se na parte mais superior da protuberância e porção mais inferior do mesencéfalo, fornecendo fibras noradrenérgicas através de 3 principais feixes: Feixe tegmental central, Feixe prosencefálico medial e Feixe longitudinal dorsal (feixe de Schutz)
+Núcleos da rafe (núcleos do tronco cerebral pertencentes à formação reticular, que apresenta um papel importante no controlo motor e estado de alerta e sono, entre outras funções; providencia fibras serotonérgicas)
+Área tegmental ventral de Tsai (porção do tegmento do mesencéfalo próxima à substância nigra medial; origina fibras dopaminérgicas)
+
+Eferências
+Subículo
+Córtex Límbico
+Área Entorrinal
+Corpos Mamilares
+Núcleos Anteriores do Tálamo
+Núcleos Septais
+Hipotálamo Anterior
+Núcleos Pré-Óticos
+Estriado Ventral
+
+Lesões
+
+Síndrome de Klüver e Bucy
+Os animais com esta síndrome apresentam:
+
+Domesticação: animais que usualmente eram selvagens e agressivos tornam-se apáticos e sem qualquer resposta emocional
+Perversão do apetite: os animais passam a ter uma alimentação que anteriormente não realizavam
+Agnosia visual: os animais perdem a capacidade de reconhecer objetos e animais dos quais anteriormente tinham medo
+Tendência Oral: estes animais levam à boca qualquer objeto que encontrem
+Tendência Hipersexual: estes animais tentam continuamente o ato sexual, mesmo com indivíduos do próprio sexo, de outras espécies e com os próprios (masturbação)

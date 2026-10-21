@@ -1,0 +1,31 @@
+Directive (European Union)
+
+A directive is a legal act of the European Union which requires member states to achieve particular goals without dictating how the member states achieve those goals. A directive's goals have to be made the goals of one or more new or changed national laws by the member states before this legislation applies to individuals residing in the member states. Directives normally leave member states with a certain amount of leeway as to the exact rules to be adopted. Directives can be adopted by means of a variety of legislative procedures depending on their subject matter.
+The text of a draft directive (if subject to the co-decision process, as contentious matters usually are) is prepared by the Commission after consultation with its own and national experts. The draft is presented to the Parliament and the Council—composed of relevant ministers of member governments, initially for evaluation and comment and then subsequently for approval or rejection.
+
+Justifications
+Directives commence with a preamble and a number of recitals which provide treaty contexts, references to other relevant legislation, and principles seen as justifying the terms of the directive.
+There are justifications for using a directive rather than a regulation: (i) it complies with the EU's desire for "subsidiarity"; (ii) it acknowledges that different member States have different legal systems, legal traditions and legal processes; and (iii) each Member State has leeway to choose its own statutory wording, rather than accepting the Brussels' official "Eurospeak" terminology. For example, while EU Directive 2009/20/EC (which simply requires all vessels visiting EU ports to have P&I cover) could have been a regulation (without requiring member states to implement the directive), the desire for subsidiarity was paramount, so a directive was the chosen vehicle.
+
+Legal basis
+The legal basis for the enactment of directives is Article 288 of the Treaty on the Functioning of the European Union (formerly Article 249 TEC).
+
+Article 288
+To exercise the Union's competences, the institutions shall adopt regulations, directives, decisions, recommendations and opinions.
+A regulation shall have general application. It shall be binding in its entirety and directly applicable in all Member States.
+A directive shall be binding, as to the result to be achieved, upon each Member State to which it is addressed, but shall leave to the national authorities the choice of form and methods.
+A decision shall be binding in its entirety upon those to whom it is addressed.
+
+Recommendations and opinions shall have no binding force.
+The Council can delegate legislative authority to the Commission and, depending on the area and the appropriate legislative procedure, both institutions can seek to make laws. There are Council directives and Commission directives. Article 288 does not clearly distinguish between legislative acts and administrative acts, as is normally done in national legal systems.
+
+Legal effect
+Directives are binding only on the member states to whom they are addressed, which can be just one member state or a group of them. In general, however, with the exception of directives related to the Common Agricultural Policy, directives are addressed to all member states.
+
+Implementation
+When adopted, directives give member states a timetable for the implementation of the intended outcome. Occasionally, the laws of a member state may already comply with this outcome, and the state involved would be required only to keep its laws in place. More commonly, member states are required to make changes to their laws (commonly referred to as transposition) in order for the directive to be implemented correctly. This is done in approximately 99% of the cases. If a member state fails to pass the required national legislation, or if the national legislation does not adequately comply with the requirements of the directive, the European Commission may initiate legal action against the member state in the European Court of Justice. This may also happen when a member state has transposed a directive in theory but has failed to abide by its provisions in practice.
+If a Member State fails to implement a Directive timely or correctly, the Directive itself becomes binding on the Member States, meaning that parties in proceedings against the state may rely on provisions of the untimely or incorrectly transposed Directive. An example of a case in which the applicant was able to invoke the provisions of an untimely transposed Directive is the Verkooijen case, in which the European Court of Justice rendered a judgement on 6 June 2000 (case no. C-35/98).
+The United Kingdom passed a statutory instrument (SI), the Unfair Terms in Consumer Contracts Regulations 1994, to implement the EU Unfair Terms in Consumer Contracts Directive 1993. For reasons that are not clear, the 1994 SI was deemed inadequate and was repealed and replaced by the Unfair Terms in Consumer Contracts Regulations 1999. The Consumer Rights Act 2015, a major United Kingdom statute consolidating consumer rights, then abolished the 1999 SI; so presumably the 2015 Act complies with the 1993 EU directive, which remains extant.
+
+Direct effect
+Even though directives were not originally thought to be binding before they were implemented by member states, the European Court of Justice developed the doctrine of direct effect where unimplemented or badly implemented directives can actually have direct legal force. In the important case of Francovich v. Italy, the ECJ extended the principle of Van Gend en Loos to provide that Member States who failed to implement a directive could incur liability to pay damages to individuals and companies who had been adversely affected by such non-implementation.

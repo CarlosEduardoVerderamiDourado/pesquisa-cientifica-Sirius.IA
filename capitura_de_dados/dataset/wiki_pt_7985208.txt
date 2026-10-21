@@ -1,0 +1,6791 @@
+Matriz definida
+
+Em matemática, uma matriz simétrica 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ com entradas reais é positiva definida se o número real 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ for positivo para todo vetor coluna real não nulo 
+ 
+ 
+ 
+ 
+ x
+ 
+ ,
+ 
+ 
+ 
+ 
+ em que 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ é o vetor linha [en] transposto de 
+ 
+ 
+ 
+ 
+ x
+ 
+ .
+ 
+ 
+ 
+ 
+
+De modo mais geral, uma matriz hermitiana (isto é, uma matriz complexa igual à sua conjugada transposta) é positiva definida se o número real 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ for positivo para todo vetor coluna complexo não nulo 
+ 
+ 
+ 
+ 
+ z
+ 
+ ,
+ 
+ 
+ 
+ 
+ em que 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ denota a conjugada transposta de 
+ 
+ 
+ 
+ 
+ z
+ 
+ .
+ 
+ 
+ 
+ 
+
+As matrizes positivas semidefinidas são definidas de forma semelhante, exceto que se exige que os escalares 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ sejam positivos ou nulos (isto é, não negativos). As matrizes negativas definidas e negativas semidefinidas são definidas de forma análoga. Uma matriz que não é positiva semidefinida nem negativa semidefinida é por vezes chamada de indefinida.
+Alguns autores usam definições mais gerais de definitude, permitindo que as matrizes sejam não simétricas ou não hermitianas. As propriedades dessas matrizes definidas generalizadas são exploradas na seção Extensão para matrizes quadradas não hermitianas, mais adiante, mas não são o foco principal deste artigo.
+
+Definições
+Nas definições a seguir, 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ é a transposta de 
+ 
+ 
+ 
+ 
+ x
+ 
+ ,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ é a conjugada transposta de 
+ 
+ 
+ 
+ 
+ z
+ 
+ ,
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ 
+ 0
+ 
+ 
+ 
+ 
+ 
+ denota o vetor nulo n-dimensional.
+
+Definições para matrizes reais
+Uma matriz real simétrica 
+ 
+ 
+ 
+ n
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é dita positiva definida se 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ 
+ x
+ 
+ >
+ 0
+ 
+ 
+ 
+ 
+ para todo 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ não nulo em 
+ 
+ 
+ 
+ 
+ 
+ R
+ 
+ 
+ n
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+ Formalmente,
+
+ 
+ 
+ 
+ M
+ 
+ positiva definida
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ 
+ x
+ 
+ >
+ 0
+ 
+ para todo 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ R
+ 
+ 
+ n
+ 
+ 
+ 
+ {
+ 
+ 0
+ 
+ }
+ 
+ 
+ 
+ 
+
+Uma matriz real simétrica 
+ 
+ 
+ 
+ n
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é dita positiva semidefinida ou definida não negativa se 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ 
+ x
+ 
+ 
+ 0
+ 
+ 
+ 
+ 
+ para todo 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ em 
+ 
+ 
+ 
+ 
+ 
+ R
+ 
+ 
+ n
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+ Formalmente,
+
+ 
+ 
+ 
+ M
+ 
+ positiva semidefinida
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ 
+ x
+ 
+ 
+ 0
+ 
+ para todo 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ R
+ 
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+
+Uma matriz real simétrica 
+ 
+ 
+ 
+ n
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é dita negativa definida se 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ 
+ x
+ 
+ <
+ 0
+ 
+ 
+ 
+ 
+ para todo 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ não nulo em 
+ 
+ 
+ 
+ 
+ 
+ R
+ 
+ 
+ n
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+ Formalmente,
+
+ 
+ 
+ 
+ M
+ 
+ negativa definida
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ 
+ x
+ 
+ <
+ 0
+ 
+ para todo 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ R
+ 
+ 
+ n
+ 
+ 
+ 
+ {
+ 
+ 0
+ 
+ }
+ 
+ 
+ 
+ 
+
+Uma matriz real simétrica 
+ 
+ 
+ 
+ n
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é dita negativa semidefinida ou definida não positiva se 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ 
+ x
+ 
+ 
+ 0
+ 
+ 
+ 
+ 
+ para todo 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ em 
+ 
+ 
+ 
+ 
+ 
+ R
+ 
+ 
+ n
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+ Formalmente,
+
+ 
+ 
+ 
+ M
+ 
+ negativa semidefinida
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ 
+ x
+ 
+ 
+ 0
+ 
+ para todo 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ R
+ 
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+
+Uma matriz real simétrica 
+ 
+ 
+ 
+ n
+ 
+ n
+ 
+ 
+ 
+ 
+ que não é nem positiva semidefinida nem negativa semidefinida é chamada de indefinida.
+
+Definições para matrizes complexas
+Todas as definições a seguir envolvem o termo 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ z
+ 
+ .
+ 
+ 
+ 
+ 
+ Observe que ele é sempre um número real para qualquer matriz quadrada hermitiana 
+ 
+ 
+ 
+ M
+ .
+ 
+ 
+ 
+ 
+
+Uma matriz complexa hermitiana 
+ 
+ 
+ 
+ n
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é dita positiva definida se 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ z
+ 
+ >
+ 0
+ 
+ 
+ 
+ 
+ para todo 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ não nulo em 
+ 
+ 
+ 
+ 
+ 
+ C
+ 
+ 
+ n
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+ Formalmente,
+
+ 
+ 
+ 
+ M
+ 
+ positiva definida
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ z
+ 
+ >
+ 0
+ 
+ para todo 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ C
+ 
+ 
+ n
+ 
+ 
+ 
+ {
+ 
+ 0
+ 
+ }
+ 
+ 
+ 
+ 
+
+Uma matriz complexa hermitiana 
+ 
+ 
+ 
+ n
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é dita positiva semidefinida ou definida não negativa se 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ z
+ 
+ 
+ 0
+ 
+ 
+ 
+ 
+ para todo 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ em 
+ 
+ 
+ 
+ 
+ 
+ C
+ 
+ 
+ n
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+ Formalmente,
+
+ 
+ 
+ 
+ M
+ 
+ positiva semidefinida
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ z
+ 
+ 
+ 0
+ 
+ para todo 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ C
+ 
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+
+Uma matriz complexa hermitiana 
+ 
+ 
+ 
+ n
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é dita negativa definida se 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ z
+ 
+ <
+ 0
+ 
+ 
+ 
+ 
+ para todo 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ não nulo em 
+ 
+ 
+ 
+ 
+ 
+ C
+ 
+ 
+ n
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+ Formalmente,
+
+ 
+ 
+ 
+ M
+ 
+ negativa definida
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ z
+ 
+ <
+ 0
+ 
+ para todo 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ C
+ 
+ 
+ n
+ 
+ 
+ 
+ {
+ 
+ 0
+ 
+ }
+ 
+ 
+ 
+ 
+
+Uma matriz complexa hermitiana 
+ 
+ 
+ 
+ n
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é dita negativa semidefinida ou definida não positiva se 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ z
+ 
+ 
+ 0
+ 
+ 
+ 
+ 
+ para todo 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ em 
+ 
+ 
+ 
+ 
+ 
+ C
+ 
+ 
+ n
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+ Formalmente,
+
+ 
+ 
+ 
+ M
+ 
+ negativa semidefinida
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ z
+ 
+ 
+ 0
+ 
+ para todo 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ C
+ 
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+
+Uma matriz complexa hermitiana 
+ 
+ 
+ 
+ n
+ 
+ n
+ 
+ 
+ 
+ 
+ que não é nem positiva semidefinida nem negativa semidefinida é chamada de indefinida.
+
+Consistência entre as definições real e complexa
+Como toda matriz real é também uma matriz complexa, as definições de "definitude" para as duas classes devem coincidir. Para matrizes complexas, a definição mais comum diz que 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é positiva definida se e somente se 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ for real e positivo para todos os vetores coluna complexos não nulos 
+ 
+ 
+ 
+ 
+ z
+ 
+ .
+ 
+ 
+ 
+ 
+ Essa condição implica que 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é hermitiana (isto é, sua transposta é igual à sua conjugada), pois, sendo 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ real, ele é igual ao seu conjugado transposto 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ para todo 
+ 
+ 
+ 
+ 
+ z
+ 
+ ,
+ 
+ 
+ 
+ 
+ o que implica 
+ 
+ 
+ 
+ M
+ =
+ 
+ M
+ 
+ 
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+Por essa definição, uma matriz real positiva definida 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é hermitiana, logo simétrica; e 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ é positivo para todos os vetores coluna reais não nulos 
+ 
+ 
+ 
+ 
+ z
+ 
+ .
+ 
+ 
+ 
+ 
+ No entanto, essa última condição, por si só, não é suficiente para que 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ seja positiva definida. Por exemplo, se
+
+ 
+ 
+ 
+ M
+ =
+ 
+ 
+ [
+ 
+ 
+ 
+ 1
+ 
+ 
+ 1
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ 
+ 1
+ 
+ 
+ 
+ ]
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+
+então, para qualquer vetor real 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ com entradas 
+ 
+ 
+ 
+ a
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ b
+ 
+ 
+ 
+ 
+ tem-se 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ 
+ z
+ 
+ =
+ 
+ (
+ 
+ a
+ +
+ b
+ 
+ )
+ 
+ a
+ +
+ 
+ (
+ 
+ 
+ a
+ +
+ b
+ 
+ )
+ 
+ b
+ =
+ 
+ a
+ 
+ 2
+ 
+ 
+ +
+ 
+ b
+ 
+ 2
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+ que é sempre positivo se 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ não for nulo. Contudo, se 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ for o vetor complexo com entradas 1 e 
+ 
+ 
+ 
+ i
+ 
+ 
+ 
+ 
+, obtém-se
+
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ z
+ 
+ =
+ 
+ 
+ [
+ 
+ 
+ 
+ 1
+ 
+ 
+ 
+ i
+ 
+ 
+ 
+ ]
+ 
+ 
+ M
+ 
+ 
+ [
+ 
+ 
+ 
+ 1
+ 
+ 
+ 
+ 
+ i
+ 
+ 
+ 
+ ]
+ 
+ 
+ =
+ 
+ 
+ [
+ 
+ 
+ 
+ 1
+ +
+ i
+ 
+ 
+ 1
+ 
+ i
+ 
+ 
+ 
+ ]
+ 
+ 
+ 
+ 
+ [
+ 
+ 
+ 
+ 1
+ 
+ 
+ 
+ 
+ i
+ 
+ 
+ 
+ ]
+ 
+ 
+ =
+ 2
+ +
+ 2
+ i
+ .
+ 
+ 
+ 
+ 
+
+que não é real. Portanto, 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ não é positiva definida.
+Por outro lado, para uma matriz real simétrica 
+ 
+ 
+ 
+ M
+ ,
+ 
+ 
+ 
+ 
+ a condição "
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ 
+ z
+ 
+ >
+ 0
+ 
+ 
+ 
+ 
+ para todos os vetores reais não nulos 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+" de fato implica que 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é positiva definida no sentido complexo.
+
+Notação
+Se uma matriz hermitiana 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é positiva semidefinida, às vezes escreve-se 
+ 
+ 
+ 
+ M
+ 
+ 0
+ 
+ 
+ 
+ 
+ e, se 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é positiva definida, escreve-se 
+ 
+ 
+ 
+ M
+ 
+ 0.
+ 
+ 
+ 
+ 
+ Para indicar que 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é negativa semidefinida, escreve-se 
+ 
+ 
+ 
+ M
+ 
+ 0
+ 
+ 
+ 
+ 
+ e, para indicar que 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é negativa definida, escreve-se 
+ 
+ 
+ 
+ M
+ 
+ 0.
+ 
+ 
+ 
+ 
+
+Na análise funcional, as matrizes positivas semidefinidas definem operadores positivos. Se duas matrizes 
+ 
+ 
+ 
+ A
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ B
+ 
+ 
+ 
+ 
+ satisfazem 
+ 
+ 
+ 
+ B
+ 
+ A
+ 
+ 0
+ ,
+ 
+ 
+ 
+ 
+ pode-se definir uma ordem parcial não estrita 
+ 
+ 
+ 
+ B
+ 
+ A
+ 
+ 
+ 
+ 
+ que é reflexiva, antissimétrica e transitiva; no entanto, ela não é uma ordem total, pois 
+ 
+ 
+ 
+ B
+ 
+ A
+ ,
+ 
+ 
+ 
+ 
+ em geral, pode ser indefinida. Observe também que 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ não satisfazem a correspondência usual entre relações de ordem parcial não estrita e estrita, porque 
+ 
+ 
+ 
+ B
+ 
+ A
+ 
+ B
+ 
+ A
+ 
+ 
+ 
+ 
+ não implica 
+ 
+ 
+ 
+ B
+ 
+ A
+ 
+ 
+ 
+ 
+.
+
+Caracterizações
+Decorre das definições acima que uma matriz hermitiana é positiva definida se e somente se ela é a matriz de uma forma quadrática positiva definida ou de uma forma hermitiana.
+As matrizes positivas definidas e positivas semidefinidas podem ser caracterizadas de muitas maneiras, o que pode explicar a importância do conceito em diversas partes da matemática. Uma matriz hermitiana M é positiva definida se e somente se satisfaz qualquer uma das seguintes condições equivalentes.
+
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é congruente a uma matriz diagonal com entradas reais positivas.
+
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é hermitiana, e todos os seus autovalores são reais e positivos.
+
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é hermitiana, e todos os seus menores principais líderes são positivos.
+Existe uma matriz invertível 
+ 
+ 
+ 
+ B
+ 
+ 
+ 
+ 
+ com conjugada transposta 
+ 
+ 
+ 
+ 
+ B
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ tal que 
+ 
+ 
+ 
+ M
+ =
+ 
+ B
+ 
+ 
+ 
+ 
+ B
+ .
+ 
+ 
+ 
+ 
+
+Uma matriz é positiva semidefinida se satisfaz condições equivalentes semelhantes, em que, nas condições sobre congruência, autovalores e decomposição, "positivo" é substituído por "não negativo" e "matriz invertível" é substituído por "matriz".
+As matrizes reais positivas definidas e positivas semidefinidas estão na base da otimização convexa [en], pois, dada uma função de várias variáveis reais que seja duas vezes diferenciável, se sua matriz hessiana (matriz de suas derivadas parciais de segunda ordem) for positiva definida em um ponto 
+ 
+ 
+ 
+ p
+ ,
+ 
+ 
+ 
+ 
+ então a função é convexa perto de p e, reciprocamente, se a função for convexa perto de 
+ 
+ 
+ 
+ p
+ ,
+ 
+ 
+ 
+ 
+ então a matriz hessiana é positiva semidefinida em 
+ 
+ 
+ 
+ p
+ .
+ 
+ 
+ 
+ 
+
+O conjunto das matrizes positivas definidas é um cone convexo [en] aberto, enquanto o conjunto das matrizes positivas semidefinidas é um cone convexo fechado.
+
+Exemplos
+
+Autovalores
+Seja 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ uma matriz hermitiana 
+ 
+ 
+ 
+ n
+ 
+ n
+ 
+ 
+ 
+ 
+ (isso inclui as matrizes simétricas reais). Todos os autovalores de 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ são reais, e seus sinais caracterizam sua definitude:
+
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é positiva definida se e somente se todos os seus autovalores são positivos.
+
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é positiva semidefinida se e somente se todos os seus autovalores são não negativos.
+
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é negativa definida se e somente se todos os seus autovalores são negativos.
+
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é negativa semidefinida se e somente se todos os seus autovalores são não positivos.
+
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é indefinida se e somente se possui autovalores positivos e negativos.
+Seja 
+ 
+ 
+ 
+ P
+ D
+ 
+ P
+ 
+ 
+ 1
+ 
+ 
+ 
+ 
+ 
+ 
+ uma decomposição em autovalores [en] de 
+ 
+ 
+ 
+ M
+ ,
+ 
+ 
+ 
+ 
+ em que 
+ 
+ 
+ 
+ P
+ 
+ 
+ 
+ 
+ é uma matriz complexa unitária cujas colunas formam uma base ortonormal de autovetores de 
+ 
+ 
+ 
+ M
+ ,
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ D
+ 
+ 
+ 
+ 
+ é uma matriz diagonal real cuja diagonal principal contém os autovalores correspondentes. A matriz 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ pode ser vista como uma matriz diagonal 
+ 
+ 
+ 
+ D
+ 
+ 
+ 
+ 
+ reexpressa nas coordenadas da base (de autovetores) 
+ 
+ 
+ 
+ P
+ .
+ 
+ 
+ 
+ 
+ Dito de outro modo, aplicar 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ a algum vetor 
+ 
+ 
+ 
+ 
+ z
+ 
+ ,
+ 
+ 
+ 
+ 
+ obtendo 
+ 
+ 
+ 
+ M
+ 
+ z
+ 
+ ,
+ 
+ 
+ 
+ 
+ é o mesmo que mudar a base para o sistema de coordenadas dos autovetores usando 
+ 
+ 
+ 
+ 
+ P
+ 
+ 
+ 1
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+ obtendo 
+ 
+ 
+ 
+ 
+ P
+ 
+ 
+ 1
+ 
+ 
+ 
+ z
+ 
+ ,
+ 
+ 
+ 
+ 
+ aplicar a transformação de dilatação 
+ 
+ 
+ 
+ D
+ 
+ 
+ 
+ 
+ ao resultado, obtendo 
+ 
+ 
+ 
+ D
+ 
+ P
+ 
+ 
+ 1
+ 
+ 
+ 
+ z
+ 
+ ,
+ 
+ 
+ 
+ 
+ e então voltar à base original usando 
+ 
+ 
+ 
+ P
+ ,
+ 
+ 
+ 
+ 
+ obtendo 
+ 
+ 
+ 
+ P
+ D
+ 
+ P
+ 
+ 
+ 1
+ 
+ 
+ 
+ z
+ 
+ .
+ 
+ 
+ 
+ 
+
+Com isso em mente, a mudança de variável bijetora 
+ 
+ 
+ 
+ 
+ y
+ 
+ =
+ P
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ mostra que 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ é real e positivo para qualquer vetor complexo 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ se e somente se 
+ 
+ 
+ 
+ 
+ 
+ y
+ 
+ 
+ 
+ 
+ 
+ D
+ 
+ y
+ 
+ 
+ 
+ 
+ 
+ é real e positivo para qualquer 
+ 
+ 
+ 
+ y
+ ;
+ 
+ 
+ 
+ 
+ em outras palavras, se 
+ 
+ 
+ 
+ D
+ 
+ 
+ 
+ 
+ é positiva definida. Para uma matriz diagonal, isso só é verdadeiro se cada elemento da diagonal principal — isto é, cada autovalor de 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ — for positivo.
+
+Decomposição
+Seja 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ uma matriz hermitiana 
+ 
+ 
+ 
+ n
+ 
+ n
+ 
+ 
+ 
+ 
+.
+
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é positiva semidefinida se e somente se pode ser decomposta como um produto
+
+ 
+ 
+ 
+ M
+ =
+ 
+ B
+ 
+ 
+ 
+ 
+ B
+ 
+ 
+ 
+ 
+
+de uma matriz 
+ 
+ 
+ 
+ B
+ 
+ 
+ 
+ 
+ por sua conjugada transposta.
+Quando 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é real, 
+ 
+ 
+ 
+ B
+ 
+ 
+ 
+ 
+ também pode ser real, e a decomposição pode ser escrita como 
+ 
+ 
+ 
+ M
+ =
+ 
+ B
+ 
+ 
+ T
+ 
+ 
+ 
+ B
+ .
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é positiva definida se e somente se existe tal decomposição com 
+ 
+ 
+ 
+ B
+ 
+ 
+ 
+ 
+ invertível.
+De modo mais geral, 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é positiva semidefinida com posto 
+ 
+ 
+ 
+ k
+ 
+ 
+ 
+ 
+ se e somente se existe uma decomposição com uma matriz 
+ 
+ 
+ 
+ k
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ B
+ 
+ 
+ 
+ 
+ de posto completo por linhas (isto é, de posto 
+ 
+ 
+ 
+ k
+ 
+ 
+ 
+ 
+).
+Além disso, para qualquer decomposição 
+ 
+ 
+ 
+ M
+ =
+ 
+ B
+ 
+ 
+ 
+ 
+ B
+ ,
+ 
+ 
+ 
+ 
+ tem-se 
+ 
+ 
+ 
+ rank
+ 
+ (
+ M
+ )
+ =
+ rank
+ 
+ (
+ B
+ )
+ .
+ 
+ 
+ 
+ 
+
+As colunas 
+ 
+ 
+ 
+ 
+ b
+ 
+ 1
+ 
+ 
+ ,
+ …
+ ,
+ 
+ b
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ de 
+ 
+ 
+ 
+ B
+ 
+ 
+ 
+ 
+ podem ser vistas como vetores no espaço vetorial complexo ou no espaço vetorial real 
+ 
+ 
+ 
+ 
+ 
+ R
+ 
+ 
+ k
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+ respectivamente.
+Então as entradas de 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ são produtos internos (isto é, produtos escalares, no caso real) desses vetores
+
+ 
+ 
+ 
+ 
+ M
+ 
+ i
+ j
+ 
+ 
+ =
+ 
+ 
+ b
+ 
+ i
+ 
+ 
+ ,
+ 
+ b
+ 
+ j
+ 
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+Em outras palavras, uma matriz hermitiana 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é positiva semidefinida se e somente se ela é a matriz de Gram [en] de alguns vetores 
+ 
+ 
+ 
+ 
+ b
+ 
+ 1
+ 
+ 
+ ,
+ …
+ ,
+ 
+ b
+ 
+ n
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+Ela é positiva definida se e somente se é a matriz de Gram de alguns vetores linearmente independentes.
+Em geral, o posto da matriz de Gram dos vetores 
+ 
+ 
+ 
+ 
+ b
+ 
+ 1
+ 
+ 
+ ,
+ …
+ ,
+ 
+ b
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ é igual à dimensão do espaço gerado por esses vetores.
+
+Unicidade a menos de transformações unitárias
+A decomposição não é única:
+se 
+ 
+ 
+ 
+ M
+ =
+ 
+ B
+ 
+ 
+ 
+ 
+ B
+ 
+ 
+ 
+ 
+ para alguma matriz 
+ 
+ 
+ 
+ k
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ B
+ 
+ 
+ 
+ 
+ e se 
+ 
+ 
+ 
+ Q
+ 
+ 
+ 
+ 
+ é qualquer matriz unitária 
+ 
+ 
+ 
+ k
+ 
+ k
+ 
+ 
+ 
+ 
+ (ou seja, 
+ 
+ 
+ 
+ 
+ Q
+ 
+ 
+ 
+ 
+ Q
+ =
+ Q
+ 
+ Q
+ 
+ 
+ 
+ 
+ =
+ I
+ 
+ 
+ 
+ 
+),
+então 
+ 
+ 
+ 
+ M
+ =
+ 
+ B
+ 
+ 
+ 
+ 
+ B
+ =
+ 
+ B
+ 
+ 
+ 
+ 
+ 
+ Q
+ 
+ 
+ 
+ 
+ Q
+ B
+ =
+ 
+ A
+ 
+ 
+ 
+ 
+ A
+ 
+ 
+ 
+ 
+ para 
+ 
+ 
+ 
+ A
+ =
+ Q
+ B
+ .
+ 
+ 
+ 
+ 
+
+No entanto, essa é a única maneira pela qual duas decomposições podem diferir: a decomposição é única a menos de transformações unitárias.
+Mais formalmente, se 
+ 
+ 
+ 
+ A
+ 
+ 
+ 
+ 
+ é uma matriz 
+ 
+ 
+ 
+ k
+ 
+ n
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ B
+ 
+ 
+ 
+ 
+ é uma matriz 
+ 
+ 
+ 
+ l
+ 
+ n
+ 
+ 
+ 
+ 
+ tais que 
+ 
+ 
+ 
+ 
+ A
+ 
+ 
+ 
+ 
+ A
+ =
+ 
+ B
+ 
+ 
+ 
+ 
+ B
+ ,
+ 
+ 
+ 
+ 
+
+então existe uma matriz 
+ 
+ 
+ 
+ l
+ 
+ k
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q
+ 
+ 
+ 
+ 
+ com colunas ortonormais (ou seja, 
+ 
+ 
+ 
+ 
+ Q
+ 
+ 
+ 
+ 
+ Q
+ =
+ 
+ I
+ 
+ k
+ 
+ k
+ 
+ 
+ 
+ 
+ 
+ 
+) tal que 
+ 
+ 
+ 
+ B
+ =
+ Q
+ A
+ .
+ 
+ 
+ 
+ 
+
+Quando 
+ 
+ 
+ 
+ l
+ =
+ k
+ 
+ 
+ 
+ 
+ isso significa que 
+ 
+ 
+ 
+ Q
+ 
+ 
+ 
+ 
+ é unitária.
+Essa afirmação tem uma interpretação geométrica intuitiva no caso real:
+sejam as colunas de 
+ 
+ 
+ 
+ A
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ B
+ 
+ 
+ 
+ 
+ os vetores 
+ 
+ 
+ 
+ 
+ a
+ 
+ 1
+ 
+ 
+ ,
+ …
+ ,
+ 
+ a
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ 
+ b
+ 
+ 1
+ 
+ 
+ ,
+ …
+ ,
+ 
+ b
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ em 
+ 
+ 
+ 
+ 
+ 
+ R
+ 
+ 
+ k
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+Uma matriz unitária real é uma matriz ortogonal, que descreve uma transformação rígida [en] (uma isometria do espaço euclidiano 
+ 
+ 
+ 
+ 
+ 
+ R
+ 
+ 
+ k
+ 
+ 
+ 
+ 
+ 
+ 
+) que preserva o ponto 0 (isto é, rotações e reflexões, sem translações).
+Portanto, os produtos escalares 
+ 
+ 
+ 
+ 
+ a
+ 
+ i
+ 
+ 
+ 
+ 
+ a
+ 
+ j
+ 
+ 
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ 
+ b
+ 
+ i
+ 
+ 
+ 
+ 
+ b
+ 
+ j
+ 
+ 
+ 
+ 
+ 
+ 
+ são iguais se e somente se alguma transformação rígida de 
+ 
+ 
+ 
+ 
+ 
+ R
+ 
+ 
+ k
+ 
+ 
+ 
+ 
+ 
+ 
+ transforma os vetores 
+ 
+ 
+ 
+ 
+ a
+ 
+ 1
+ 
+ 
+ ,
+ …
+ ,
+ 
+ a
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ em 
+ 
+ 
+ 
+ 
+ b
+ 
+ 1
+ 
+ 
+ ,
+ …
+ ,
+ 
+ b
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ (e 0 em 0).
+
+Raiz quadrada
+Uma matriz hermitiana 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é positiva semidefinida se e somente se existe uma matriz positiva semidefinida 
+ 
+ 
+ 
+ B
+ 
+ 
+ 
+ 
+ (em particular, 
+ 
+ 
+ 
+ B
+ 
+ 
+ 
+ 
+ é hermitiana, logo 
+ 
+ 
+ 
+ 
+ B
+ 
+ 
+ 
+ 
+ =
+ B
+ 
+ 
+ 
+ 
+) que satisfaz 
+ 
+ 
+ 
+ M
+ =
+ B
+ B
+ .
+ 
+ 
+ 
+ 
+ Essa matriz 
+ 
+ 
+ 
+ B
+ 
+ 
+ 
+ 
+ é única, é chamada de raiz quadrada [en] não negativa de 
+ 
+ 
+ 
+ M
+ ,
+ 
+ 
+ 
+ 
+ e é denotada por 
+ 
+ 
+ 
+ B
+ =
+ 
+ M
+ 
+ 
+ 1
+ 2
+ 
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+Quando 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é positiva definida, 
+ 
+ 
+ 
+ 
+ M
+ 
+ 
+ 1
+ 2
+ 
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+ também o é, de modo que ela é também chamada de raiz quadrada positiva de 
+ 
+ 
+ 
+ M
+ .
+ 
+ 
+ 
+ 
+
+Decomposição de Cholesky
+Uma matriz hermitiana positiva definida 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ pode ser escrita como 
+ 
+ 
+ 
+ M
+ =
+ L
+ 
+ L
+ 
+ 
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+ em que 
+ 
+ 
+ 
+ L
+ 
+ 
+ 
+ 
+ é triangular inferior com diagonal positiva (equivalentemente, 
+ 
+ 
+ 
+ M
+ =
+ 
+ B
+ 
+ 
+ 
+ 
+ B
+ 
+ 
+ 
+ 
+ em que 
+ 
+ 
+ 
+ B
+ =
+ 
+ L
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ é triangular superior); essa é a decomposição de Cholesky, que é única. Reciprocamente, se 
+ 
+ 
+ 
+ L
+ 
+ 
+ 
+ 
+ é triangular inferior com diagonal não negativa, então 
+ 
+ 
+ 
+ L
+ 
+ L
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ é positiva semidefinida.
+A decomposição de Cholesky é especialmente útil para cálculos numéricos eficientes.
+
+Outras caracterizações
+Seja 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ uma matriz hermitiana 
+ 
+ 
+ 
+ n
+ 
+ n
+ 
+ 
+ 
+ 
+. As seguintes propriedades são equivalentes a 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ ser positiva definida:
+
+A forma sesquilinear associada é um produto interno
+A forma sesquilinear definida por 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é a função 
+ 
+ 
+ 
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+ 
+ 
+ de 
+ 
+ 
+ 
+ 
+ 
+ C
+ 
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ C
+ 
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ em 
+ 
+ 
+ 
+ 
+ C
+ 
+ 
+ 
+ 
+ 
+ tal que 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ ,
+ 
+ y
+ 
+ 
+ 
+ 
+ 
+ y
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ para todos 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ 
+ y
+ 
+ 
+ 
+ 
+ 
+ em 
+ 
+ 
+ 
+ 
+ 
+ C
+ 
+ 
+ n
+ 
+ 
+ ,
+ 
+ 
+ 
+ 
+ em que 
+ 
+ 
+ 
+ 
+ 
+ y
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ é a conjugada transposta de 
+ 
+ 
+ 
+ 
+ y
+ 
+ .
+ 
+ 
+ 
+ 
+ Para qualquer matriz complexa 
+ 
+ 
+ 
+ M
+ ,
+ 
+ 
+ 
+ 
+ essa forma é linear em 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ e semilinear em 
+ 
+ 
+ 
+ 
+ y
+ 
+ .
+ 
+ 
+ 
+ 
+ Portanto, a forma é um produto interno em 
+ 
+ 
+ 
+ 
+ 
+ C
+ 
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ se e somente se 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ ,
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ 
+ é real e positivo para todo vetor não nulo 
+ 
+ 
+ 
+ 
+ z
+ 
+ ;
+ 
+ 
+ 
+ 
+ isto é, se e somente se 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é positiva definida. (De fato, todo produto interno em 
+ 
+ 
+ 
+ 
+ 
+ C
+ 
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ surge dessa maneira a partir de uma matriz hermitiana positiva definida.)
+Seus menores principais líderes são todos positivos
+O k-ésimo menor principal líder de uma matriz 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é o determinante de sua submatriz 
+ 
+ 
+ 
+ k
+ 
+ k
+ 
+ 
+ 
+ 
+ superior esquerda. Acontece que uma matriz é positiva definida se e somente se todos esses determinantes são positivos. Essa condição é conhecida como critério de Sylvester [en].
+Uma matriz positiva semidefinida é positiva definida se e somente se ela é invertível.
+Uma matriz 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é negativa (semi)definida se e somente se 
+ 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é positiva (semi)definida.
+
+Formas quadráticas
+
+A forma quadrática (pura) associada a uma matriz real 
+ 
+ 
+ 
+ n
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é a função 
+ 
+ 
+ 
+ Q
+ :
+ 
+ 
+ R
+ 
+ 
+ n
+ 
+ 
+ 
+ 
+ R
+ 
+ 
+ 
+ 
+ 
+ tal que 
+ 
+ 
+ 
+ Q
+ (
+ 
+ x
+ 
+ )
+ =
+ 
+ 
+ x
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ para todo 
+ 
+ 
+ 
+ 
+ x
+ 
+ .
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ pode ser suposta simétrica substituindo-a por 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+ 2
+ 
+ 
+ 
+ 
+ (
+ 
+ M
+ +
+ 
+ M
+ 
+ 
+ T
+ 
+ 
+ 
+ 
+ )
+ 
+ ,
+ 
+ 
+ 
+ 
+ pois qualquer parte assimétrica é anulada no produto bilateral.
+Uma matriz simétrica 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é positiva definida se e somente se sua forma quadrática é uma função estritamente convexa.
+De modo mais geral, qualquer função quadrática de 
+ 
+ 
+ 
+ 
+ 
+ R
+ 
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ em 
+ 
+ 
+ 
+ 
+ R
+ 
+ 
+ 
+ 
+ 
+ pode ser escrita como 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ 
+ x
+ 
+ +
+ 
+ 
+ b
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ 
+ x
+ 
+ +
+ c
+ 
+ 
+ 
+ 
+ em que 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é uma matriz simétrica 
+ 
+ 
+ 
+ n
+ 
+ n
+ 
+ 
+ 
+ 
+, 
+ 
+ 
+ 
+ 
+ b
+ 
+ 
+ 
+ 
+ 
+ é um vetor real de dimensão n e 
+ 
+ 
+ 
+ c
+ 
+ 
+ 
+ 
+ é uma constante real. No caso 
+ 
+ 
+ 
+ n
+ =
+ 1
+ 
+ 
+ 
+ 
+, trata-se de uma parábola e, assim como no caso 
+ 
+ 
+ 
+ n
+ =
+ 1
+ 
+ 
+ 
+ 
+, tem-se
+Teorema: Essa função quadrática é estritamente convexa e, portanto, possui um único mínimo global finito, se e somente se 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é positiva definida.
+Demonstração: Se 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é positiva definida, então a função é estritamente convexa. Seu gradiente se anula no único ponto 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+ 2
+ 
+ 
+ 
+ 
+ M
+ 
+ 
+ 1
+ 
+ 
+ 
+ b
+ 
+ ,
+ 
+ 
+ 
+ 
+ que deve ser o mínimo global, já que a função é estritamente convexa. Se 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ não é positiva definida, então existe algum vetor 
+ 
+ 
+ 
+ 
+ v
+ 
+ 
+ 
+ 
+ 
+ tal que 
+ 
+ 
+ 
+ 
+ 
+ v
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ 
+ v
+ 
+ 
+ 0
+ ,
+ 
+ 
+ 
+ 
+ de modo que a função 
+ 
+ 
+ 
+ f
+ (
+ t
+ )
+ 
+ (
+ t
+ 
+ v
+ 
+ 
+ )
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ (
+ t
+ 
+ v
+ 
+ )
+ +
+ 
+ b
+ 
+ 
+ T
+ 
+ 
+ 
+ (
+ t
+ 
+ v
+ 
+ )
+ +
+ c
+ 
+ 
+ 
+ 
+ é uma reta ou uma parábola voltada para baixo, logo não é estritamente convexa e não possui mínimo global.
+Por esse motivo, as matrizes positivas definidas desempenham um papel importante em problemas de otimização.
+
+Diagonalização simultânea
+Uma matriz simétrica e outra matriz que seja ao mesmo tempo simétrica e positiva definida podem ser diagonalizadas simultaneamente. Isso ocorre embora a diagonalização simultânea não seja necessariamente realizada por meio de uma transformação de semelhança. Nesta seção, trata-se do caso real.
+Seja 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ uma matriz simétrica e 
+ 
+ 
+ 
+ N
+ 
+ 
+ 
+ 
+ uma matriz simétrica e positiva definida. Escreva a equação generalizada de autovalores como 
+ 
+ 
+ 
+ 
+ (
+ 
+ M
+ 
+ 
+ N
+ 
+ )
+ 
+ 
+ x
+ 
+ =
+ 0
+ 
+ 
+ 
+ 
+ em que se impõe que 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ seja normalizado, isto é, 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ N
+ 
+ x
+ 
+ =
+ 1.
+ 
+ 
+ 
+ 
+ Agora, usa-se a decomposição de Cholesky para escrever a inversa de 
+ 
+ 
+ 
+ N
+ 
+ 
+ 
+ 
+ como 
+ 
+ 
+ 
+ 
+ Q
+ 
+ 
+ T
+ 
+ 
+ 
+ Q
+ .
+ 
+ 
+ 
+ 
+ Multiplicando por 
+ 
+ 
+ 
+ Q
+ 
+ 
+ 
+ 
+ e fazendo 
+ 
+ 
+ 
+ 
+ x
+ 
+ =
+ 
+ Q
+ 
+ 
+ T
+ 
+ 
+ 
+ 
+ y
+ 
+ ,
+ 
+ 
+ 
+ 
+ obtém-se 
+ 
+ 
+ 
+ Q
+ 
+ (
+ 
+ M
+ 
+ 
+ N
+ 
+ )
+ 
+ 
+ Q
+ 
+ 
+ T
+ 
+ 
+ 
+ 
+ y
+ 
+ =
+ 0
+ ,
+ 
+ 
+ 
+ 
+ que pode ser reescrita como 
+ 
+ 
+ 
+ 
+ (
+ 
+ Q
+ M
+ 
+ Q
+ 
+ 
+ T
+ 
+ 
+ 
+ 
+ )
+ 
+ 
+ y
+ 
+ =
+ 
+ 
+ y
+ 
+ 
+ 
+ 
+ 
+ em que 
+ 
+ 
+ 
+ 
+ 
+ y
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ 
+ y
+ 
+ =
+ 1.
+ 
+ 
+ 
+ 
+ Manipulações adicionais fornecem então 
+ 
+ 
+ 
+ M
+ X
+ =
+ N
+ X
+ 
+ 
+ 
+ 
+ 
+ em que 
+ 
+ 
+ 
+ X
+ 
+ 
+ 
+ 
+ é uma matriz que tem como colunas os autovetores generalizados e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ é uma matriz diagonal dos autovalores generalizados. Agora, a pré-multiplicação por 
+ 
+ 
+ 
+ 
+ X
+ 
+ 
+ T
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ fornece o resultado final: 
+ 
+ 
+ 
+ 
+ X
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ X
+ =
+ 
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ 
+ X
+ 
+ 
+ T
+ 
+ 
+ 
+ N
+ X
+ =
+ I
+ ,
+ 
+ 
+ 
+ 
+ mas observe que essa já não é uma diagonalização ortogonal em relação ao produto interno em que 
+ 
+ 
+ 
+ 
+ 
+ y
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ 
+ y
+ 
+ =
+ 1.
+ 
+ 
+ 
+ 
+ Na verdade, diagonalizou-se 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ em relação ao produto interno induzido por 
+ 
+ 
+ 
+ N
+ .
+ 
+ 
+ 
+ 
+
+Observe que esse resultado não contradiz o que é dito sobre diagonalização simultânea no artigo Matriz diagonalizável, que se refere à diagonalização simultânea por uma transformação de semelhança. O resultado aqui é mais próximo de uma diagonalização simultânea de duas formas quadráticas e é útil para a otimização de uma forma sob condições impostas à outra.
+
+Propriedades
+
+Ordem parcial induzida
+Para matrizes simétricas reais 
+ 
+ 
+ 
+ M
+ ,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ N
+ 
+ 
+ 
+ 
+ escreve-se 
+ 
+ 
+ 
+ M
+ 
+ N
+ 
+ 
+ 
+ 
+ se 
+ 
+ 
+ 
+ M
+ 
+ N
+ 
+ 0
+ 
+ 
+ 
+ 
+ isto é, se 
+ 
+ 
+ 
+ M
+ 
+ N
+ 
+ 
+ 
+ 
+ é positiva semidefinida. Isso define uma ordem parcial no conjunto de todas as matrizes simétricas reais. De modo semelhante, pode-se definir uma ordem parcial estrita 
+ 
+ 
+ 
+ M
+ >
+ N
+ .
+ 
+ 
+ 
+ 
+
+Inversa de uma matriz positiva definida
+Toda matriz positiva definida é invertível, e sua inversa também é positiva definida. Se 
+ 
+ 
+ 
+ M
+ 
+ N
+ >
+ 0
+ 
+ 
+ 
+ 
+ então 
+ 
+ 
+ 
+ 
+ N
+ 
+ 
+ 1
+ 
+ 
+ 
+ 
+ M
+ 
+ 
+ 1
+ 
+ 
+ >
+ 0.
+ 
+ 
+ 
+ 
+ Além disso, pelo teorema min-max [en], o k-ésimo maior autovalor de 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é maior ou igual ao k-ésimo maior autovalor de 
+ 
+ 
+ 
+ N
+ .
+ 
+ 
+ 
+ 
+
+Multiplicação por escalar
+Se 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é positiva definida e 
+ 
+ 
+ 
+ r
+ >
+ 0
+ 
+ 
+ 
+ 
+ é um número real, então 
+ 
+ 
+ 
+ r
+ M
+ 
+ 
+ 
+ 
+ é positiva definida.
+
+Adição
+Se 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ N
+ 
+ 
+ 
+ 
+ são positivas definidas, então a soma 
+ 
+ 
+ 
+ M
+ +
+ N
+ 
+ 
+ 
+ 
+ também é positiva definida.
+Se 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ N
+ 
+ 
+ 
+ 
+ são positivas semidefinidas, então a soma 
+ 
+ 
+ 
+ M
+ +
+ N
+ 
+ 
+ 
+ 
+ também é positiva semidefinida.
+Se 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é positiva definida e 
+ 
+ 
+ 
+ N
+ 
+ 
+ 
+ 
+ é positiva semidefinida, então a soma 
+ 
+ 
+ 
+ M
+ +
+ N
+ 
+ 
+ 
+ 
+ também é positiva definida.
+
+Multiplicação
+Se 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ N
+ 
+ 
+ 
+ 
+ são positivas definidas, então os produtos 
+ 
+ 
+ 
+ M
+ N
+ M
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ N
+ M
+ N
+ 
+ 
+ 
+ 
+ também são matrizes positivas definidas. Se 
+ 
+ 
+ 
+ M
+ N
+ =
+ N
+ M
+ ,
+ 
+ 
+ 
+ 
+ então 
+ 
+ 
+ 
+ M
+ N
+ 
+ 
+ 
+ 
+ também é positiva definida.
+Se 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é positiva semidefinida, então 
+ 
+ 
+ 
+ 
+ A
+ 
+ 
+ 
+ 
+ M
+ A
+ 
+ 
+ 
+ 
+ é positiva semidefinida para qualquer matriz (possivelmente retangular) 
+ 
+ 
+ 
+ A
+ .
+ 
+ 
+ 
+ 
+ Se 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é positiva definida e 
+ 
+ 
+ 
+ A
+ 
+ 
+ 
+ 
+ tem posto completo por colunas, então 
+ 
+ 
+ 
+ 
+ A
+ 
+ 
+ 
+ 
+ M
+ A
+ 
+ 
+ 
+ 
+ é positiva definida.
+
+Traço
+As entradas diagonais 
+ 
+ 
+ 
+ 
+ m
+ 
+ i
+ i
+ 
+ 
+ 
+ 
+ 
+ 
+ de uma matriz positiva semidefinida são reais e não negativas. Como consequência, o traço satisfaz 
+ 
+ 
+ 
+ tr
+ 
+ (
+ M
+ )
+ 
+ 0.
+ 
+ 
+ 
+ 
+ Além disso, como toda submatriz principal (em particular, 2 por 2) é positiva semidefinida,
+
+ 
+ 
+ 
+ 
+ |
+ 
+ m
+ 
+ i
+ j
+ 
+ 
+ |
+ 
+ 
+ 
+ 
+ 
+ m
+ 
+ i
+ i
+ 
+ 
+ 
+ m
+ 
+ j
+ j
+ 
+ 
+ 
+ 
+ 
+ 
+ i
+ ,
+ j
+ 
+ 
+ 
+ 
+
+e, portanto, quando 
+ 
+ 
+ 
+ n
+ 
+ 1
+ ,
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ max
+ 
+ i
+ ,
+ j
+ 
+ 
+ 
+ |
+ 
+ m
+ 
+ i
+ j
+ 
+ 
+ |
+ 
+ 
+ 
+ max
+ 
+ i
+ 
+ 
+ 
+ m
+ 
+ i
+ i
+ 
+ 
+ 
+ 
+ 
+ 
+
+Uma matriz hermitiana 
+ 
+ 
+ 
+ n
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é positiva definida se satisfaz as seguintes desigualdades de traço:
+
+ 
+ 
+ 
+ tr
+ 
+ (
+ M
+ )
+ >
+ 0
+ 
+ 
+ e
+ 
+ 
+ 
+ 
+ 
+ (
+ tr
+ 
+ (
+ M
+ )
+ 
+ )
+ 
+ 2
+ 
+ 
+ 
+ 
+ tr
+ 
+ (
+ 
+ M
+ 
+ 2
+ 
+ 
+ )
+ 
+ 
+ 
+ >
+ n
+ 
+ 1.
+ 
+ 
+ 
+ 
+
+Outro resultado importante é que, para quaisquer matrizes positivas semidefinidas 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ N
+ 
+ 
+ 
+ 
+ tem-se 
+ 
+ 
+ 
+ tr
+ 
+ (
+ M
+ N
+ )
+ 
+ 0.
+ 
+ 
+ 
+ 
+ Isso decorre de se escrever 
+ 
+ 
+ 
+ tr
+ 
+ (
+ M
+ N
+ )
+ =
+ tr
+ 
+ (
+ 
+ M
+ 
+ 
+ 1
+ 2
+ 
+ 
+ 
+ N
+ 
+ M
+ 
+ 
+ 1
+ 2
+ 
+ 
+ 
+ )
+ .
+ 
+ 
+ 
+ 
+ A matriz 
+ 
+ 
+ 
+ 
+ M
+ 
+ 
+ 1
+ 2
+ 
+ 
+ 
+ N
+ 
+ M
+ 
+ 
+ 1
+ 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ é positiva semidefinida e, portanto, tem autovalores não negativos, cuja soma, o traço, é portanto também não negativa.
+
+Produto de Hadamard
+Se 
+ 
+ 
+ 
+ M
+ ,
+ N
+ 
+ 0
+ ,
+ 
+ 
+ 
+ 
+ embora 
+ 
+ 
+ 
+ M
+ N
+ 
+ 
+ 
+ 
+ não seja necessariamente positiva semidefinida, o produto de Hadamard o é, 
+ 
+ 
+ 
+ M
+ 
+ N
+ 
+ 0
+ 
+ 
+ 
+ 
+ (esse resultado é frequentemente chamado de teorema do produto de Schur [en]).
+Quanto ao produto de Hadamard de duas matrizes positivas semidefinidas 
+ 
+ 
+ 
+ M
+ =
+ (
+ 
+ m
+ 
+ i
+ j
+ 
+ 
+ )
+ 
+ 0
+ ,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ N
+ 
+ 0
+ ,
+ 
+ 
+ 
+ 
+ há duas desigualdades notáveis:
+
+Desigualdade de Oppenheim: 
+ 
+ 
+ 
+ det
+ (
+ M
+ 
+ N
+ )
+ 
+ det
+ (
+ N
+ )
+ 
+ 
+ 
+ i
+ 
+ 
+ 
+ m
+ 
+ i
+ i
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ det
+ (
+ M
+ 
+ N
+ )
+ 
+ det
+ (
+ M
+ )
+ det
+ (
+ N
+ )
+ .
+ 
+ 
+ 
+ 
+
+Produto de Frobenius
+Se 
+ 
+ 
+ 
+ M
+ ,
+ N
+ 
+ 0
+ ,
+ 
+ 
+ 
+ 
+ embora 
+ 
+ 
+ 
+ M
+ N
+ 
+ 
+ 
+ 
+ não seja necessariamente positiva semidefinida, o produto interno de Frobenius [en] satisfaz 
+ 
+ 
+ 
+ M
+ :
+ N
+ 
+ 0
+ 
+ 
+ 
+ 
+ (Lancaster–Tismenetsky, The Theory of Matrices, p. 218).
+
+Convexidade
+O conjunto das matrizes simétricas positivas semidefinidas é convexo. Isto é, se 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ N
+ 
+ 
+ 
+ 
+ são positivas semidefinidas, então, para qualquer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ entre 0 e 1, 
+ 
+ 
+ 
+ 
+ M
+ +
+ 
+ (
+ 
+ 1
+ 
+ 
+ 
+ )
+ 
+ N
+ 
+ 
+ 
+ 
+ também é positiva semidefinida. Para qualquer vetor 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+:
+
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ 
+ (
+ 
+ 
+ M
+ +
+ 
+ (
+ 
+ 1
+ 
+ 
+ 
+ )
+ 
+ N
+ 
+ )
+ 
+ 
+ x
+ 
+ =
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ 
+ x
+ 
+ +
+ (
+ 1
+ 
+ 
+ )
+ 
+ 
+ x
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ N
+ 
+ x
+ 
+ 
+ 0.
+ 
+ 
+ 
+ 
+
+Essa propriedade garante que problemas de programação semidefinida [en] convergem para uma solução globalmente ótima.
+
+Outras propriedades
+Sejam 
+ 
+ 
+ 
+ M
+ >
+ 0
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ N
+ 
+ 
+ 
+ 
+ hermitiana. Se 
+ 
+ 
+ 
+ M
+ N
+ +
+ N
+ M
+ 
+ 0
+ 
+ 
+ 
+ 
+ (resp. 
+ 
+ 
+ 
+ M
+ N
+ +
+ N
+ M
+ >
+ 0
+ 
+ 
+ 
+ 
+), então 
+ 
+ 
+ 
+ N
+ 
+ 0
+ 
+ 
+ 
+ 
+ (resp. 
+ 
+ 
+ 
+ N
+ >
+ 0
+ 
+ 
+ 
+ 
+).
+Se 
+ 
+ 
+ 
+ M
+ >
+ 0
+ 
+ 
+ 
+ 
+ é real, então existe 
+ 
+ 
+ 
+ 
+ >
+ 0
+ 
+ 
+ 
+ 
+ tal que 
+ 
+ 
+ 
+ M
+ >
+ 
+ I
+ ,
+ 
+ 
+ 
+ 
+ em que 
+ 
+ 
+ 
+ I
+ 
+ 
+ 
+ 
+ é a matriz identidade.
+Se 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é uma matriz real positiva definida, então existe um número real positivo 
+ 
+ 
+ 
+ m
+ 
+ 
+ 
+ 
+ tal que, para todo vetor 
+ 
+ 
+ 
+ 
+ v
+ 
+ ,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ v
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ 
+ v
+ 
+ 
+ m
+ 
+ 
+ v
+ 
+ 
+ 
+ 
+ 2
+ 
+ 
+ 2
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+Matrizes em blocos e submatrizes
+Uma matriz positiva 
+ 
+ 
+ 
+ 2
+ n
+ 
+ 2
+ n
+ 
+ 
+ 
+ 
+ também pode ser definida por blocos:
+
+ 
+ 
+ 
+ M
+ =
+ 
+ 
+ [
+ 
+ 
+ 
+ A
+ 
+ 
+ B
+ 
+ 
+ 
+ 
+ C
+ 
+ 
+ D
+ 
+ 
+ 
+ ]
+ 
+ 
+ 
+ 
+ 
+ 
+
+em que cada bloco é 
+ 
+ 
+ 
+ n
+ 
+ n
+ ,
+ 
+ 
+ 
+ 
+ Aplicando a condição de positividade, segue-se imediatamente que 
+ 
+ 
+ 
+ A
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ D
+ 
+ 
+ 
+ 
+ são hermitianas e que 
+ 
+ 
+ 
+ C
+ =
+ 
+ B
+ 
+ 
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+
+Tem-se 
+ 
+ 
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ z
+ 
+ 
+ 0
+ 
+ 
+ 
+ 
+ para todo vetor complexo 
+ 
+ 
+ 
+ 
+ z
+ 
+ ,
+ 
+ 
+ 
+ 
+ e, em particular, para 
+ 
+ 
+ 
+ 
+ z
+ 
+ =
+ [
+ 
+ v
+ 
+ ,
+ 0
+ 
+ ]
+ 
+ 
+ T
+ 
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+ Então
+
+ 
+ 
+ 
+ 
+ 
+ [
+ 
+ 
+ 
+ 
+ 
+ v
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0
+ 
+ 
+ 
+ ]
+ 
+ 
+ 
+ 
+ [
+ 
+ 
+ 
+ A
+ 
+ 
+ B
+ 
+ 
+ 
+ 
+ 
+ B
+ 
+ 
+ 
+ 
+ 
+ 
+ D
+ 
+ 
+ 
+ ]
+ 
+ 
+ 
+ 
+ [
+ 
+ 
+ 
+ 
+ v
+ 
+ 
+ 
+ 
+ 
+ 0
+ 
+ 
+ 
+ ]
+ 
+ 
+ =
+ 
+ 
+ v
+ 
+ 
+ 
+ 
+ 
+ A
+ 
+ v
+ 
+ 
+ 0.
+ 
+ 
+ 
+ 
+
+Um argumento semelhante pode ser aplicado a 
+ 
+ 
+ 
+ D
+ ,
+ 
+ 
+ 
+ 
+ e assim conclui-se que tanto 
+ 
+ 
+ 
+ A
+ 
+ 
+ 
+ 
+ quanto 
+ 
+ 
+ 
+ D
+ 
+ 
+ 
+ 
+ devem ser positivas definidas. O argumento pode ser estendido para mostrar que qualquer submatriz principal de 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é ela própria positiva definida.
+Resultados recíprocos podem ser demonstrados com condições mais fortes sobre os blocos, por exemplo, usando o complemento de Schur.
+
+Extremos locais
+Uma forma quadrática geral 
+ 
+ 
+ 
+ f
+ (
+ 
+ x
+ 
+ )
+ 
+ 
+ 
+ 
+ em 
+ 
+ 
+ 
+ n
+ 
+ 
+ 
+ 
+ variáveis reais 
+ 
+ 
+ 
+ 
+ x
+ 
+ 1
+ 
+ 
+ ,
+ …
+ ,
+ 
+ x
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ 
+ pode sempre ser escrita como 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ em que 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ é o vetor coluna com essas variáveis e 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ é uma matriz real simétrica. Portanto, o fato de a matriz ser positiva definida significa que 
+ 
+ 
+ 
+ f
+ 
+ 
+ 
+ 
+ tem um único mínimo (zero) quando 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ é zero e é estritamente positiva para qualquer outro 
+ 
+ 
+ 
+ 
+ x
+ 
+ .
+ 
+ 
+ 
+ 
+
+Extensão para matrizes quadradas não hermitianas
+A definição de positiva definida pode ser generalizada designando como positiva definida qualquer matriz complexa 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ (por exemplo, real não simétrica) tal que 
+ 
+ 
+ 
+ 
+ 
+ 
+ R
+ 
+ e
+ 
+ 
+ 
+ 
+ 
+ {
+ 
+ 
+ 
+ z
+ 
+ 
+ 
+ 
+ 
+ M
+ 
+ z
+ 
+ 
+ }
+ 
+ >
+ 0
+ 
+ 
+ 
+ 
+ para todos os vetores complexos não nulos 
+ 
+ 
+ 
+ 
+ z
+ 
+ ,
+ 
+ 
+ 
+ 
+ em que 
+ 
+ 
+ 
+ 
+ 
+ 
+ R
+ 
+ e
+ 
+ 
+ 
+ 
+ {
+ c
+ }
+ 
+ 
+ 
+ 
+ denota a parte real de um número complexo 
+ 
+ 
+ 
+ c
+ .
+ 
+ 
+ 
+ 
+ Somente a parte hermitiana 
+ 
+ 
+ 
+ 
+ 
+ 1
+ 2
+ 
+ 
+ 
+ (
+ 
+ M
+ +
+ 
+ M
+ 
+ 
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ {\textstyle {\frac {1}{2}}\left(M+M^{*}\right)}
+ 
+ determina se a matriz é positiva definida, e ela é avaliada no sentido mais restrito acima. De modo semelhante, se 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ e 
+ 
+ 
+ 
+ M
+ 
+ 
+ 
+ 
+ são reais, tem-se 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ 
+ x
+ 
+ >
+ 0
+ 
+ 
+ 
+ 
+ para todos os vetores reais não nulos 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ 
+ 
+ se e somente se a parte simétrica 
+ 
+ 
+ 
+ 
+ 
+ 1
+ 2
+ 
+ 
+ 
+ (
+ 
+ M
+ +
+ 
+ M
+ 
+ 
+ T
+ 
+ 
+ 
+ 
+ )
+ 
+ 
+ 
+ {\textstyle {\frac {1}{2}}\left(M+M^{\mathsf {T}}\right)}
+ 
+ é positiva definida no sentido mais restrito. É imediatamente claro que 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ 
+ x
+ 
+ =
+ 
+ 
+ 
+ i
+ j
+ 
+ 
+ 
+ x
+ 
+ i
+ 
+ 
+ 
+ M
+ 
+ i
+ j
+ 
+ 
+ 
+ x
+ 
+ j
+ 
+ 
+ 
+ 
+ {\textstyle \mathbf {x} ^{\mathsf {T}}M\mathbf {x} =\sum _{ij}x_{i}M_{ij}x_{j}}
+ 
+ é insensível à transposição de 
+ 
+ 
+ 
+ M
+ .
+ 
+ 
+ 
+ 
+
+Uma matriz real não simétrica com apenas autovalores positivos pode ter uma parte simétrica com autovalores negativos, caso em que não será positiva (semi)definida. Por exemplo, a matriz 
+ 
+ 
+ 
+ M
+ =
+ 
+ [
+ 
+ 
+ 
+ 
+ 
+ 4
+ 
+ 
+ 9
+ 
+ 
+ 
+ 
+ 1
+ 
+ 
+ 4
+ 
+ 
+ 
+ 
+ 
+ ]
+ 
+ 
+ 
+ {\textstyle M=\left[{\begin{smallmatrix}4&9\\1&4\end{smallmatrix}}\right]}
+ 
+ tem autovalores positivos 1 e 7, mas 
+ 
+ 
+ 
+ 
+ 
+ x
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ M
+ 
+ x
+ 
+ =
+ 
+ 2
+ 
+ 
+ 
+ 
+ com a escolha 
+ 
+ 
+ 
+ 
+ x
+ 
+ =
+ 
+ [
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ 
+ 
+ 
+ 1
+ 
+ 
+ 
+ 
+ 
+ ]
+ 
+ 
+ 
+ 
+ 
+.
+Em resumo, a característica que distingue o caso real do complexo é que um operador positivo limitado em um espaço de Hilbert complexo é necessariamente hermitiano, ou autoadjunto. A afirmação geral pode ser justificada usando a identidade de polarização. Isso já não é verdade no caso real.
+
+Aplicações
+
+Matriz de condutividade térmica
+A lei de Fourier da condução de calor, que fornece o fluxo de calor 
+ 
+ 
+ 
+ 
+ q
+ 
+ 
+ 
+ 
+ 
+ em termos do gradiente de temperatura 
+ 
+ 
+ 
+ 
+ g
+ 
+ =
+ 
+ T
+ 
+ 
+ 
+ 
+, é escrita para meios anisotrópicos como 
+ 
+ 
+ 
+ 
+ q
+ 
+ =
+ 
+ K
+ 
+ g
+ 
+ ,
+ 
+ 
+ 
+ 
+ em que 
+ 
+ 
+ 
+ K
+ 
+ 
+ 
+ 
+ é a matriz de condutividade térmica. O sinal negativo é inserido na lei de Fourier para refletir a expectativa de que o calor sempre flua do quente para o frio. Em outras palavras, como o gradiente de temperatura 
+ 
+ 
+ 
+ 
+ g
+ 
+ 
+ 
+ 
+ 
+ sempre aponta do frio para o quente, espera-se que o fluxo de calor 
+ 
+ 
+ 
+ 
+ q
+ 
+ 
+ 
+ 
+ 
+ tenha produto interno não positivo com 
+ 
+ 
+ 
+ 
+ g
+ 
+ 
+ 
+ 
+ 
+ de modo que 
+ 
+ 
+ 
+ 
+ 
+ q
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ 
+ g
+ 
+ 
+ 0.
+ 
+ 
+ 
+ 
+ Substituindo a lei de Fourier, essa expectativa se escreve como 
+ 
+ 
+ 
+ 
+ 
+ g
+ 
+ 
+ 
+ T
+ 
+ 
+ 
+ K
+ 
+ g
+ 
+ 
+ 0
+ ,
+ 
+ 
+ 
+ 
+ o que implica que a matriz de condutividade deve ser positiva semidefinida, condição exigida pela segunda lei da termodinâmica.

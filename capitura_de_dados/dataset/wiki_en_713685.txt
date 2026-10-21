@@ -1,0 +1,61 @@
+RL10
+
+The RL10 is a liquid-fuel cryogenic rocket engine built in the United States by Aerojet Rocketdyne that burns cryogenic liquid hydrogen and liquid oxygen propellants. Modern versions produce up to 110 kN (24,700 lbf) of thrust per engine in vacuum. RL10 versions were produced for the Centaur upper stage of the Atlas V and the DCSS of the Delta IV. More versions are in development or in use for the Space Launch System and the Centaur V of the Vulcan rocket.
+The expander cycle that the engine uses drives the turbopump with waste heat absorbed by the engine combustion chamber, throat, and nozzle. This, combined with the hydrogen fuel, leads to very high efficiency, with in-service variants achieving specific impulses (Isp) of up to 465.5 s (4.565 km/s) in a vacuum. Mass ranges from 131 to 317 kg (289–699 lb) depending on the version of the engine.
+
+History
+The RL10 was the first liquid hydrogen rocket engine to be built in the United States, with development of the engine by Marshall Space Flight Center and Pratt & Whitney beginning in the 1950s. The RL10 was originally developed as a throttleable engine for the USAF Lunex lunar lander. The engine was electric spark ignited.
+
+The RL10 was first tested on the ground in 1959, at Pratt & Whitney's Florida Research and Development Center in West Palm Beach, Florida. The first successful flight took place on November 27, 1963. For that launch, two RL10A-3 engines powered the Centaur upper stage of an Atlas launch vehicle. The launch was used to conduct a heavily instrumented performance and structural integrity test of the vehicle.Multiple versions of this engine have been flown. The S-IV of the Saturn I used a cluster of six RL10A-3S, a version which was modified for installation on the Saturn and the Titan program included Centaur D-1T upper stages powered by two RL10A-3-3 Engines.
+Four modified RL10A-5 engines were used in the McDonnell Douglas DC-X.
+A flaw in the brazing of an RL10B-2 combustion chamber was identified as the cause of failure for the 4 May 1999 Delta III launch carrying the Orion-3 communications satellite.
+The DIRECT version 3.0 proposal to replace Ares I and Ares V with a family of rockets sharing a common core stage recommended the RL10 for the second stage of the J-246 and J-247 launch vehicles. Up to seven RL10 engines would have been used in the proposed Jupiter Upper Stage, serving an equivalent role to the Space Launch System Exploration Upper Stage.
+
+Common Extensible Cryogenic Engine
+
+In the early 2000s, NASA contracted with Pratt & Whitney Rocketdyne to develop
+the Common Extensible Cryogenic Engine (CECE) demonstrator. CECE was intended to lead to RL10 engines capable of deep throttling. In 2007, its operability (with some "chugging") was demonstrated at 11:1 throttle ratios. In 2009, NASA reported successfully throttling from 104 percent thrust to eight percent thrust, a record for an expander cycle engine of this type. Chugging was eliminated by injector and propellant feed system modifications that control the pressure, temperature and flow of propellants. In 2010, the throttling range was expanded further to a 17.6:1 ratio, throttling from 104% to 5.9% power.
+
+Early 2010s possible successor
+
+In 2012 NASA joined with the US Air Force (USAF) to study next-generation upper stage propulsion, formalizing the agencies' joint interests in a new upper stage engine to replace the Aerojet Rocketdyne RL10.
+
+"We know the list price on an RL10. If you look at cost over time, a very large portion of the unit cost of the EELVs is attributable to the propulsion systems, and the RL10 is a very old engine, and there's a lot of craftwork associated with its manufacture. ... That's what this study will figure out, is it worthwhile to build an RL10 replacement?" 
+From the study, NASA hoped to find a less expensive RL10-class engine for the upper stage of the Space Launch System (SLS).
+USAF hoped to replace the Rocketdyne RL10 engines used on the upper stages of the Lockheed Martin Atlas V and the Boeing Delta IV Evolved Expendable Launch Vehicles (EELV) that were the primary methods of putting US government satellites into space. A related requirements study was conducted at the same time under the Affordable Upper Stage Engine Program (AUSEP).
+
+Improvements
+The RL10 has undergone multiple upgrades over the decades. The RL10B-2, used on the DCSS, incorporated an extendable nozzle made from carbon–carbon, electro-mechanical gimbaling to reduce weight and increase reliability, and achieved a specific impulse of 465.5 seconds (4.565 km/s).
+Beginning in the 2000s, Aerojet Rocketdyne introduced 3D printing (additive manufacturing) into RL10 production. The RL10C-1-1 was the first engine to include a 3D-printed component, featuring a nickel superalloy main injector. Building on that experience, in 2015 the company began developing a more extensive upgrade that employed an additively manufactured copper thrust chamber. According to the company, the new process reduced chamber fabrication time from approximately 20 months to 4–6 months compared with earlier hand-fabricated stainless steel chambers, enabling production of up to one engine per week rather than one per month. This variant, designated RL10C-X during development, entered production as the RL10E-1 and is planned for use on United Launch Alliance’s Vulcan Centaur rocket, scheduled for its first flight in 2025.
+
+Applications
+
+Current
+Centaur III: The single engine (SEC) version uses the RL10C-1, while the dual engine (DEC) version retains the smaller RL10A-4-2. An Atlas V mission (SBIRS-5) marked the first use of the RL10C-1-1 version. The mission was successful but observed unexpected vibration, and further use of the RL10C-1-1 model is on hold until the problem is better understood. The engine was used again successfully on SBIRS-6.
+Centaur V: On May 11, 2018, United Launch Alliance (ULA) announced that the RL10 upper stage engine had been selected for its Vulcan Centaur rocket following a competitive procurement process. Early versions of the Centaur V will use the RL10C-1-1, but later versions will transition to the RL10E in 2025. Vulcan flew its successful maiden flight on January 8, 2024.
+Interim Cryogenic Propulsion Stage (ICPS): Used for the SLS and is similar to the DCSS, except that the engine is an RL10B-2 and it is adapted to fit on top of the 8.4-metre (28 ft) diameter core stage with four RS-25 Space Shuttle Main Engines.
+
+Cancelled
+OmegA Upper Stage: In April 2018, Northrop Grumman Innovation Systems announced that two RL10C-5-1 engines would be used on OmegA in the upper stage. Blue Origin's BE-3U and Airbus Safran's Vinci were also considered before Aerojet Rocketdyne's engine was selected. OmegA development was halted after it failed to win a National Security Space Launch contract.
+Advanced Cryogenic Evolved Stage: As of 2009, an enhanced version of the RL10 was proposed to power the Advanced Cryogenic Evolved Stage (ACES), a long-duration, low-boiloff extension of existing ULA Centaur and Delta Cryogenic Second Stage (DCSS) technology for the Vulcan launch vehicle. Long-duration ACES technology is intended to support geosynchronous, cislunar, and interplanetary missions. Another possible application is as in-space propellant depots in LEO or at L2 that could be used as way-stations for other rockets to stop and refuel on the way to beyond-LEO or interplanetary missions. Cleanup of space debris was also proposed.
+Exploration Upper Stage: The Exploration Upper Stage was planned use four RL10C-3 engines.
+
+Table of versions
+
+Gallery
+
+Engines on display
+An RL10A-1 is on display at the New England Air Museum, Windsor Locks, Connecticut
+An RL10 is on display at the Museum of Science and Industry, Chicago, Illinois
+An RL10A-1 is on display at the Cernan Earth and Space Center, River Grove, Illinois
+An RL10 is on display at the U.S. Space & Rocket Center, Huntsville, Alabama
+An RL10 is on display at Southern University, Baton Rouge, Louisiana
+Two RL10 engines are on display at US Space Walk of Fame, Titusville, Florida
+An RL10 is on display at the Cox Science Center and Aquarium, West Palm Beach, Florida.
+An RL10 is on display in the Department of Aerospace Engineering, 3rd Floor, Davis Hall at Auburn University.
+An RL10A-4 is on display at the Science Museum in London, UK.
+An RL10 is on display at the Museum of Life and Science in Durham, NC
+An RL10 is on display at the San Diego Air & Space Museum in San Diego, CA.
+An RL10B-2 is on display outside the Discovery Cube Orange County in Santa Ana, CA.
+Multiple RL10’s and components are on display (badge required) at the Pratt & Whitney Florida Research & Development Center, Apix, Florida.
+An RL-10 is on display in the Apollo gallery at the Cosmosphere Space Museum in Hutchinson, Kansas

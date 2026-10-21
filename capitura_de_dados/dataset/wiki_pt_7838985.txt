@@ -1,0 +1,46 @@
+Clevidipina
+
+A clevidipina, comercializada como Cleviprex, é um bloqueador dos canais de cálcio da classe das diidropiridinas. É administrada por via intravenosa para reduzir a pressão arterial quando o tratamento oral não é viável ou adequado. A velocidade de infusão é ajustada à resposta clínica. Sua meia-vida inicial é de aproximadamente um minuto, e o medicamento é rapidamente inativado por esterases.
+A clevidipina foi aprovada pela Food and Drug Administration dos Estados Unidos em 1.º de agosto de 2008.
+
+Propriedades químicas e farmacológicas básicas
+
+A clevidipina é um bloqueador dos canais de cálcio do tipo dihidropiridina tipo L, altamente seletivo para músculo liso vascular, em oposição ao miocárdio e, portanto, tem pouco ou nenhum efeito na contratilidade miocárdica ou na condução cardíaca. Reduz a pressão arterial média, diminuindo a resistência vascular sistêmica. A clevidipina não reduz a pressão de enchimento cardíaco (pré-carga), confirmando a ausência de efeitos nos vasos de capacitância venosa. Não foi observado aumento na produção de lactato miocárdico no sangue do seio coronário, confirmando a ausência de isquemia miocárdica devido ao roubo coronário.
+A clevidipina é rapidamente metabolizada pelas esterases no sangue e nos tecidos extravasculares. Portanto, é pouco provável que a sua eliminação seja afetada por disfunção hepática (fígado) ou renal (rim). A clevidipina não se acumula no organismo e a sua depuração é independente do peso corporal.
+A meia-vida da fase inicial é de aproximadamente 1 minuto e a meia-vida terminal é de aproximadamente 15 minutos. A clevidipina ainda será rapidamente metabolizada em pacientes com deficiência de pseudocolinesterase.
+A clevidipina é formulada como uma emulsão lipídica em óleo de soja a 20% (Intralipid) e contém aproximadamente 0,2 g de gordura por mL (2,0 kcal/ml). A clevidipina também contém glicerina (22,5 mg/mL), fosfolipídios de gema de ovo purificados (12 mg/mL) e hidróxido de sódio para ajustar o pH. Clevidipina tem um pH de 6,0-8,0
+Na população de pacientes perioperatórios, a clevidipina produz uma redução de 4-5% na pressão arterial sistólica dentro de 2-4 minutos após o início de uma infusão intravenosa de 1-2 mg/hora.
+Em estudos com até 72 horas de infusão contínua, não houve evidência de tolerância.
+Na maioria dos pacientes, a recuperação total da pressão arterial é alcançada em 5-15 minutos após a interrupção da infusão.
+
+Estereoquímica
+A clevidipina contém um estereocentro e consiste em dois enantiômeros. Este é um racemato, ou seja, uma mistura 1:1 de (R) - e a forma (S) -:
+
+Dosagem e administração
+Por conter uma emulsão lipídica que pode favorecer o crescimento microbiano, a formulação exige técnica asséptica no manuseio.
+Cleviprex é administrado por via intravenosa e deve ser titulado para atingir a redução desejada da pressão arterial. A pressão arterial e a frequência cardíaca devem ser monitoradas continuamente durante a infusão.
+A formulação é de uso único, não é diluída e não deve compartilhar a mesma linha de infusão com outros medicamentos. Após a perfuração da tampa, o frasco é utilizado por até 12 horas, e o restante é descartado. A troca das linhas de infusão segue o protocolo hospitalar.
+Uma infusão intravenosa de 1-2 mg/hora é recomendada para início e deve ser titulada dobrando a dose a cada 90 segundos. À medida que a pressão arterial se aproxima do objetivo, a taxa de infusão deve ser aumentada em incrementos menores e titulada com menos frequência. A taxa máxima de infusão de Cleviprex é de 32 mg/hora. A maioria dos pacientes em ensaios clínicos foram tratados com doses de 16 mg/hora ou menos.
+Devido a restrições de carga lipídica, não é recomendado mais de 1.000 mL (ou uma média de 21 mg/hora) de infusão de Cleviprex por 24 horas. Em estudos clínicos, não ocorreram alterações significativas nos níveis séricos de triglicerídeos nos pacientes tratados com Cleviprex. Há pouca experiência com durações de infusão superiores a 72 horas em qualquer dose. A infusão pode ser reduzida ou interrompida para atingir a pressão arterial desejada enquanto a terapia oral apropriada é estabelecida.
+
+Informações de segurança
+Cleviprex destina-se ao uso intravenoso. Titule o medicamento dependendo da resposta de cada paciente para atingir a redução desejada da pressão arterial. Monitore a pressão arterial e a frequência cardíaca continuamente durante a infusão e depois até que os sinais vitais estejam estáveis. Os pacientes que recebem infusões prolongadas de Cleviprex e não fazem transição para outras terapias anti-hipertensivas devem ser monitorados quanto à possibilidade de hipertensão rebote por pelo menos 8 horas após a interrupção da infusão.
+Em ensaios clínicos, o perfil de segurança da clevidipina foi geralmente semelhante ao do nitroprussiato de sódio, nitroglicerina ou nicardipina em pacientes submetidos a cirurgia cardíaca.
+Cleviprex é contraindicado em pacientes com alergia a soja, produtos de soja, ovos ou ovoprodutos; metabolismo lipídico defeituoso, como hiperlipemia patológica (distúrbios genéticos raros caracterizados por metabolismo anormal de triglicerídeos), nefrose lipóide ou pancreatite aguda se for acompanhada de hiperlipidemia; e em pacientes com estenose aórtica grave.
+Hipotensão e taquicardia reflexa são consequências potenciais da rápida titulação ascendente de Cleviprex. Em ensaios clínicos, foi observado um aumento semelhante na frequência cardíaca tanto no braço Cleviprex como no braço comparador. Os bloqueadores dos canais de cálcio diidropiridínicos podem produzir efeitos inotrópicos negativos e exacerbar a insuficiência cardíaca. Pacientes com insuficiência cardíaca devem ser monitorados cuidadosamente. Cleviprex não oferece proteção contra os efeitos da retirada abrupta do betabloqueador.
+As reações adversas mais comuns (>2%) são dor de cabeça, náusea e vômito.
+Cleviprex só deve ser utilizado durante a gravidez se o benefício potencial justificar o risco potencial para o feto.
+A presença de fosfolipídios exige cuidados de assepsia, e a formulação não é utilizada quando há suspeita de contaminação. Após a abertura, o prazo de uso é de 12 horas.
+
+Interações medicamentosas
+Não foram realizados estudos clínicos de interação medicamentosa. Cleviprex não tem potencial para bloquear ou induzir quaisquer enzimas CYP.
+
+Armazenamento
+A clevidipina é fornecida em frascos de vidro de 50 e 100 mL, com concentração de 0,5 mg/mL de butirato de clevidipina. A conservação refrigerada ocorre entre 2 °C e 8 °C. A formulação pode permanecer em temperatura ambiente controlada por até dois meses. Como é fotossensível, a embalagem protege contra a fotodegradação. Não é necessária proteção contra a luz durante a infusão.
+
+Resultados de ensaios clínicos de Fase III
+Cleviprex foi avaliado em 6 estudos clínicos de Fase III, incluindo ambientes perioperatórios e de pronto-socorro/cuidados intensivos. Estes incluem os ensaios ESCAPE-1, ESCAPE-2, ECLIPSE e VELOCITY.
+ESCAPE-1 foi um ensaio de eficácia duplo-cego, randomizado e controlado por placebo com 105 pacientes de cirurgia cardíaca. No ESCAPE-1, o Cleviprex teve uma taxa significativamente menor de falha do tratamento quando comparado com o placebo (7,5% vs 82,7%) e uma taxa de sucesso de 92,5% na redução da pressão arterial sistólica (PAS) em 15%. O tempo médio para reduzir a PAS 15% em relação ao valor basal foi de 6 minutos.
+ESCAPE-2 foi um ensaio de eficácia duplo-cego, randomizado e controlado por placebo em 110 pacientes de cirurgia cardíaca. No ESCAPE-2, o Cleviprex teve uma taxa significativamente menor de falha do tratamento quando comparado com o placebo (8,2% vs 79,6%) e uma taxa de sucesso do tratamento de 91,8%. O tempo médio para reduzir a PAS 15% em relação ao valor basal foi de 5,3 minutos.
+Os ensaios ECLIPSE consistiram em três ensaios de segurança nos quais 1.506 pacientes foram randomizados para receber Cleviprex, nitroglicerina, nitroprussiato de sódio ou nicardipina, para o tratamento da hipertensão associada à cirurgia cardíaca. A incidência de morte, acidente vascular cerebral, enfarte do miocárdio (ataque cardíaco) e disfunção renal aos 30 dias não diferiu significativamente entre os braços de tratamento agrupados com Cleviprex e comparador.
+VELOCITY foi um estudo aberto com 126 pacientes com hipertensão grave (PA > 180/115 mmHg) no pronto-socorro e na unidade de terapia intensiva. No VELOCITY, 104 de 117 pacientes (88,9%) alcançaram uma redução média alvo da PAS de 21,1% em 30 minutos.

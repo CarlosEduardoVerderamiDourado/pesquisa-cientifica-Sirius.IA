@@ -1,0 +1,44 @@
+Senecavirus
+
+Senecavirus is a genus of viruses in the order Picornavirales, in the family Picornaviridae. Mammals of the order Artiodactyla (even-toed ungulates) serve as natural hosts, with senecaviruses reported in cows, pigs and dolphins. The genus contains two species. Senecavirus is a replication-competent oncolytic picornavirus. It has selective tropism for cancers with neuroendocrine features including small cell lung cancer (SCLC) and several pediatric solid tumors including retinoblastoma, neuroblastoma, and medulloblastoma. A Phase I clinical trial of Senecavirus in adults with neuroendocrine tumors showed that senecavirus is apparently safe to administer at doses up to 1E11 vp/kg.
+It has potential antineoplastic activity.
+
+Taxonomy
+The genus contains the following species, listed by scientific name and followed by the exemplar virus of the species:
+
+Senecavirus cetus; Cetacean picornavirus 1
+Senecavirus valles; Senecavirus A1, also called Seneca Valley virus
+
+Structure
+Viruses in Senecavirus are non-enveloped, with icosahedral, spherical, and round geometries, with T=pseudo3 symmetry. The diameter is around 30 nm. Genomes are linear and non-segmented, around 7.3kb in length.
+
+Life cycle
+Viral replication is cytoplasmic. Entry into the host cell is achieved by attachment of the virus to host receptors, which mediates endocytosis. Replication follows the positive stranded RNA virus replication model. Positive stranded RNA virus transcription is the method of transcription. The virus exits the host cell by lysis, and viroporins. Pig and maybe also cow serve as the natural host.
+
+The receptor for Seneca Valley virus has been identified as anthrax toxin receptor 1.
+
+Discovery and origin
+The complete genome sequence of senecavirus was completed in 2008.
+
+An infectious clone of senecavirus was reported in 2012.
+
+Senecavirus has been proposed to attack cancer stem cells.
+
+Diagnostic monoclonal antibodies have been generated against senecavirus.
+
+While the sequence of SVV's protein-coding genome is most similar to members in the Cardiovirus genus, the non-coding RNA internal ribosome entry site (IRES) is most similar to those of the Pestivirus genus, including classical swine fever virus, and Hepacivirus genus, including Hepatitis C virus.
+
+The SVV IRES RNA shares similarities in sequence, structure, and function with the hepatitis C virus IRES. Subdomain IIa of the SVV and HCV IRES shares a similar structure and ligand-binding function as seen in its crystal structure. This subdomain IIa region is classified as a ligand-responsive RNA switch which adopts well-defined ligand-free and bound conformations without breaking or forming any base pairs in its secondary structure upon interconversion between the two states. This RNA switch from the SVV IRES has been incorporated into triangular RNA nanostructures.
+
+Clinical trials
+The initial isolate is being developed as an anti-cancer therapeutic by virtual company Neotropix, Inc. under the name NTX-010.
+
+Phase I
+Safety study of senecavirus in patients with solid tumors with neuroendocrine features. This study was published in 2011 and the data show that the virus was well tolerated by 30 patients and some signs of anti-tumour activity were observed. The data warranted further investigation of the virus in a phase II trial in small cell lung cancer.
+
+Phase II
+Senecavirus after chemotherapy in treating patients with extensive-stage small cell lung cancer
+Senecavirus and cyclophosphamide in young patients with neuroblastoma, rhabdomyosarcoma, or rare tumors with neuroendocrine features
+
+Virus replication
+Senecavirus uses the anthrax toxin receptor 1 (ANTXR1) protein as a receptor. A high-resolution structure of senecavirus with this receptor has been published.

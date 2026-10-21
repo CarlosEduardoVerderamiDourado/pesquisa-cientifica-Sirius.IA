@@ -1,0 +1,146 @@
+Phishing
+
+Phishing é uma técnica de engenharia social usada para enganar usuários de internet usando fraude eletrônica para obter informações confidenciais, como nome de usuário, senha e detalhes do cartão de crédito. São comunicações falsificadas praticada por criminosos chamados phishers que parecem vir de uma fonte confiável.
+Para cometer as fraudes os criminosos utilizam mensagens aparentemente reais. Os usuários geralmente são atraídos por comunicações que parecem vir de redes sociais, sites de leilões, bancos, processadores de pagamento on-line ou administradores de TI.
+E-mails de bancos talvez sejam o exemplo mais comum. Uma mensagem tão real quanto possível faz solicitações de "recadastramento" de dados bancários, alteração da senha eletrônica ou outro pedido. No entanto, o usuário é direcionado a um site falso, com a mesma aparência do site legítimo que pretende imitar para inserir essas informações pessoais.
+Embora esse tipo de ataque seja o mais comum - ou seja, disfarçar-se de site confiável para obter informações pessoais -, aproveitando-se da desatenção de certos usuários, indivíduos maliciosos desenvolvem e põem em prática métodos cada vez mais sofisticados para cometer ações ilícitas, incluindo promoções e sorteios falsos, prometendo montantes exorbitantes e negócios potencialmente irrecusáveis.
+Para evitar incidentes de phishing, é preciso envolver legislação, treinamento de usuários, conscientização do público e medidas técnicas de segurança, uma vez que ataques de phishing frequentemente exploram os pontos fracos da atual segurança na web.
+Em 2014, estimava-se que o seu impacto econômico mundial fosse de 5 bilhões de dólares.
+
+Termo
+A palavra phishing é um neologismo homófono de fishing, palavra em inglês que significa "pesca", fazendo alusão ao ato de se lançar uma vara e esperar que "mordam a isca".
+A substituição da letra "f" pelo dígrafo "ph" pode ser pela junção das palavras phony ("falso") e phishing. Pode também ser por referência ao termo phreaking.
+
+História
+O termo phishing é relativamente novo - sua criação data de meados de 1996, quando hackers praticavam roubo de contas da AOL, fraudando senhas de usuários. Sua primeira menção pública ocorreu no grupo blackhat alt.2600, em 28 de janeiro do mesmo ano, feita pelo usuário mk590, que dizia:
+"O que acontece é que, antigamente, podia-se fazer uma conta falsa na AOL, uma vez que se tivesse um gerador de cartões de crédito. Porém, a AOL foi esperta. Agora, após digitar os dados do cartão, é feita uma verificação com o respectivo banco. Alguém mais conhece outra maneira de adquirir uma conta que não seja através de Phishing?"
+Apenas um ano depois, em 1997, o termo foi citado na mídia. Neste mesmo ano, os phishs (contas hackeadas) já eram utilizados como moeda no mundo hacker; e podia-se facilmente trocar 10 phishs da AOL por uma parte de um software malicioso.
+Antigamente utilizado para roubar contas de usuários da AOL, o phishing hoje tem aplicações muito maiores e mais obscuras, como o roubo de dinheiro de contas bancárias.
+Infelizmente, as buscas por essas informações sensíveis crescem com o aumento da possibilidade de realizar diversas tarefas no conforto do lar, como transações financeiras, compras e muito mais. Isso pode trazer a uma grande massa de internautas uma ilusória sensação de segurança. Uma vez que a internet é uma tendência globalizada, a presença de criminosos é esperada.
+
+Técnicas
+
+Tipos de phishing
+
+Spear phishing
+Técnicas de phishing direcionadas a instituições ou indivíduos específicos são denominadas de spear phishing. Consiste na coleção de detalhes e informação pessoais de modo a aumentar a probabilidade de sucesso dos atacantes. É a técnica de phishing mais eficaz atualmente, sendo responsável por 91% de ataques deste gênero.
+
+Clone phishing
+Clone phishing designa a tentativa de redirecionar o usuário a um site clonado do original que a vítima pretende entrar. Consiste normalmente de uma página de início de sessão que requer a inserção de usuário e senha. Enquanto o usuário é redirecionado para o site original, seus dados são armazenadas pelos atacantes. Essa técnica também pode ser feita por e-mail. O usuário pode receber um e-mail legítimo ou falso de um site e, ao entrar entrar com suas informações, elas são roubadas. A aparência é sempre falsificada para que se pareça com uma instituição legítima.
+
+Whaling
+Whaling — em referência à pesca de baleia, pelo ato de apanhar um "peixe grande" (mesmo que baleias sejam, na verdade, mamíferos) — envolve a procura de dados e informação relativas a altos cargos ou personalidades de relevância. Neste caso, os ataques são normalmente disfarçados de notificações judiciais, queixas de clientes ou outras questões empresariais.
+Alguns destes métodos, contudo, se destacam por sua eficácia e rendimento, e dentre estes, podemos citar, certamente, o ataque de Phishing Scam.
+
+Detalhes
+
+Ataque ao Servidor DNS
+Ataque baseado na técnica "DNS cache poisoning", ou envenenamento de cache DNS, consiste em corromper o DNS (sistema de nomes de domínio) em uma rede de computadores, fazendo com que a URL (localizador de recursos ou endereço www) de um site passe a apontar para um servidor diferente do original. Ao digitar a URL do site que você deseja acessar, como um banco, o servidor DNS converte o endereço em um número IP correspondente ao do servidor do banco. Se o servidor DNS estiver vulnerável a um ataque, o endereço poderá apontar para uma página falsa hospedada em outro servidor com outro endereço IP sob controle de um golpista.
+
+URLs falsas
+Uma outra maneira é a criação de URLs extensas que dificultam a identificação por parte do usuário. Um exemplo simples pode ser: secure.nomedoseubanco.com.br/internetbanking/eud=651656JFYDHJJUHGRedirectto:maisalgumacoisa.dominiofalso.com. O usuário pode olhar o início da URL e acreditar que está na região segura do site do seu banco, enquanto na verdade está em um subdomínio do website "dominiofalso.com".
+
+Formulários HTML falsos em E-mails
+Outra técnica menos frequente é a utilização de formulários em e-mails com formatação HTML. Com isso, um usuário desatento pode incluir as informações requeridas pelo atacante diretamente no seu e-mail, sem a necessidade da clonagem da interface do banco ou de outro site.
+
+Tipos de mensagens utilizadas
+
+E-mail
+Um estelionatário envia e-mails falsos fingindo ser de um site confiável, como sites de entretenimento, bancos, empresas de cartão de crédito, lojas, órgãos governamentais etc. Geralmente, as mensagens são enviadas para milhões de endereços de e-mail que foram previamente coletados na internet. A entrega dos e-mails, normalmente, é feita por computadores que estão sob o controle de pessoas mal intencionadas e incluem principalmente servidores mal configurados e computadores com conexão banda larga infectados com cavalos de Tróia, propositadamente desenvolvidos para permitir o envio de e-mail em massa.
+
+Spear Phishing
+Spear Phishing é um ataque altamente localizado que exige toda uma etapa de minuciosa pesquisa por parte dos atacantes, além de muita paciência. Correlacionando ao nome “phishing”, sua denominação pode ser entendida como algo semelhante à “pesca com arpão”. Neste tipo de ataque, o criminoso estabelece seu alvo (geralmente uma empresa ou departamento de empresa, podendo incluir ainda universidades, instituições governamentais, dentre outras). Em seguida, inicia a etapa na qual sonda informações básicas de diferentes funcionários. Aqui, explora-se uma grande falha humana: a incapacidade de avaliar corretamente a sensibilidade de uma informação. Enquanto sozinha, esta informação pode não significar muito, mas, em conjunto, se utilizada de forma inteligente pelo atacante, pode garantir-lhe conhecimento suficiente para assimilar a identidade de alguém com mais poder na empresa.
+
+Fraude 419
+Essa técnica foi criada por estudantes universitários em meados de 1980, quando a economia petrolífera da Nigéria estava em crise, a fim de manipular indivíduos interessados no petróleo nigeriano. Eram inicialmente distribuídos por cartas ou fax, mas, com a popularização do e-mail, este passou a ser o meio utilizado. Na verdade, há registros de que a fraude já existia previamente, datando de antes de 1588, quando redigiam-se cartas supostamente provenientes de prisioneiros de castelos espanhóis que prometiam compartilhar um tesouro com aquele que os enviasse dinheiro para subornar os guardas. Seu nome vem da seção 419 do código penal nigeriano, que tipifica atividades fraudulentas.
+O e-mail é proveniente de indivíduos que dizem ser do Banco Central da Nigéria ou do governo deste mesmo país, mas não se resume a isso. Muito além, é um verdadeiro jogo, no qual o risco e as regras dependem das capacidades de persuasão do atacante. Vale frisar que, neste caso, o “atacante” é geralmente uma verdadeira equipe de criminosos profissionais, articulando minuciosamente seus planos.
+
+iPhishing
+iPhishing é a vertente que visa explorar vulnerabilidades consequentes do avanço excessivamente rápido da tecnologia, que acaba por deixar aspectos de segurança em segundo plano, dando lugar à funcionalidade e ao design. O ataque pode ocorrer de diferentes maneiras, sendo o envenenamento de DNS um exemplo.
+Neste caso, um servidor DNS, ou Domain Name System (Sistema de Nomes e Domínios), que tem como função traduzir nomes para IPs e vice-versa, é hackeado e faz com que usuários sejam redirecionados para sites diferentes daqueles que desejavam abrir. Devido a limitação de espaço na tela de celulares como o iPhone, os usuários podem não conseguir ver toda a URL das páginas que visitam, tornando-se assim muito mais vulneráveis.
+
+Vishing Scam
+A VoIP (Voice over IP), tecnologia desenvolvida para possibilitar comunicação telefônica através da internet baseando-se no Protocolo de Internet (IP), também é utilizada em técnicas da phishing. Com a possibilidade de mascarar o número de telefone que será identificado pelo receptor, a VoIP se tornou uma oportunidade para fraudes.
+Ataques de "Vishing" são geralmente propagados através de mensagens de texto (SMS), e-mails ou até mesmo mensagens de voz, e seu procedimento assemelha-se em muito ao do Phishing Scam tradicional: um estelionatário envia mensagens falsas fingindo ser uma instituição de confiança. Estas mensagens pedem normalmente respostas com dados como cartão de crédito e senhas, ou até mesmo que a pessoa retorne a ligação para um certo número e fale com um atendente golpista. As justificativas dadas para se efetuar a ligação variam. Dentre as mais comuns podemos citar, por exemplo, “a ocorrência de possíveis atividades fraudulentas na conta bancária que levaram à suspensão da mesma”.
+
+Mensagens Instantâneas
+Como uma das principais formas de comunicação no mundo atual, os mensageiros instantâneos (como WhatsApp e Facebook Messenger) estão longe de estarem isentos dos perigos do phishing. Na verdade, são uns dos terrenos mais férteis para a proliferação deste ataque, por conta do tipo de comunicação que geralmente se estabelece neles. É uma comunicação mais informal, entre indivíduos que geralmente se conhecem ou que são grandes amigos. Todo este ambiente “familiar” traz uma maior sensação de segurança, fazendo com que os cuidados sejam reduzidos. Quando o remetente da mensagem é um "amigo de confiança", tendemos a não duvidar da mensagem. Contudo, ele foi na verdade infectado por um malware que está distribuindo mensagens através de sua rede de contatos.
+A velocidade (em tempo real) e a grande quantidade de conversas estabelecidas simultaneamente são outros fatores que facilitam o ataque. Estando o usuário perdido em tantas conversas, nas quais a troca de URLs é comum e constante, uma URL maliciosa tem maiores chances de passar despercebida.
+Além disso, a maior percentagem de usuários deste tipo de software engloba leigos em geral, crianças e adolescentes, que muitas vezes não possuem a capacidade de discernir entre mensagens autênticas e maliciosas, acabando por acessar portais maliciosos e/ou efetuar o download de malwares sem perceber. Este fato agrava-se caso o computador ou celular seja compartilhado com outros, que possam efetuar possíveis transações bancárias (ou ações de importância equivalente) nesta mesma máquina.
+Fatores humanos somam-se a periculosidade deste ataque, tornando-o possivelmente mais ameaçador que os e-mails.
+
+Sites de Relacionamento
+Assim como no caso dos mensageiros instantâneos, os sites de relacionamento são, por assim dizer, ambientes virtuais mais descontraídos onde há uma redução na cautela. Existem ainda outras semelhanças: na maior parte das vezes, o remetente da mensagem é algum amigo de confiança, possivelmente infectado por um malware, além de muitos usuários serem leigos e completamente vulneráveis, passíveis de serem facilmente fraudados.
+Por se tratar de uma rede onde circulam fotografias, informações da vida alheia, e onde estabelecem-se paralelos com o mundo real, são estes os pontos que os phishers exploram. As possibilidades são inesgotáveis: os atacantes indicam a existência de uma foto da vítima circulando pela rede, de uma comunidade difamando-a, ou de um vídeo que deve ser assistido, dentre outros.
+Além da disseminação de links ser normal nas páginas, esses sites são de acesso público (se não forem definidos como privados) e há a possibilidade de fisgar outros usuários que naveguem pela rede.
+
+Atuação dos Phishers
+Os phishers adotam diversos vetores para distribuir seus ataques, indo do massivo envio de mensagens conhecido como spam, até ataques altamente focalizados, conhecidos como Spear Phishing. De qualquer modo, os ataques têm nível razoavelmente alto de sucesso, ultrapassando os 5%, de acordo com o Anti-Phishing Working Group.
+
+Etapas do processo tradicional
+1) Fase de planejamento (Fase inicial): nesta fase, o atacante escolhe seu alvo, define o objetivo do ataque, de que artimanhas vai se valer e qual método a utilizar.
+2) Fase de preparação: nesta fase, elabora-se todo o material a ser utilizado, como e-mails, websites falsos, dentre outros. Obtém-se informações sobre o alvo, prepara toda a parte eletrônica a ser utilizada no ataque e, no caso de atacantes mais experientes, eleva seu nível de ocultação.
+3) Fase de ataque: na fase de ataque, o atacante utiliza a via pela qual optou na fase de planejamento. O ataque pode ocorrer:
+
+Via e-mail;
+Via website;
+Via mensageiros instantâneos;
+Via VoIP;
+Via malware.
+4) Fase de coleta: nesta fase, ocorre a coleta dos dados obtidos com o ataque, como dados inseridos em páginas web previamente preparadas para o ataque, em respostas a mensagens disparadas ou capturadas por malwares.
+5) Fase da fraude: fase onde ocorre a fraude propriamente dita. Nesta fase, há o roubo de dinheiro, de informações sensíveis, apropriação da identidade alheia para cometer outros delitos, para vendê-las a quem interesse ou para utilizar em um segundo ataque em busca do objetivo definido na fase inicial.
+6) Fase pós-ataque: nesta fase, ocorre o desligamento das máquinas utilizadas e a destruição das evidências. Há ainda a avaliação da efetividade e possivelmente lavagem do dinheiro adquirido.
+
+Tipos de Furtos
+
+Furto de identidade
+Uma técnica popular é o furto de identidade via e-mail. Estelionatários enviam e-mails tentando persuadir os receptores a fornecer dados pessoais sensíveis, tais como nome completo, endereço, nome da mãe, número da segurança social, cartões de crédito, números de conta bancária, entre outros. Se captados, esses dados podem ser usados para obter vantagens financeiras ilícitas.
+A identidade usada nessas mensagens é geralmente de órgãos governamentais, bancos e empresas de cartão de crédito. No corpo da mensagem, normalmente, existem ligações que apontam para sites falsos, geralmente muito parecidos com os sites verdadeiros, onde existem formulários que a vítima deve preencher com as informações solicitadas. O conteúdo preenchido no formulário é enviado ao estelionatário.
+
+Furto de informações bancárias
+A forma de persuasão é semelhante à do furto de identidade, porém a mensagem recebida contém ligações que apontam pra sites que contém programas de computador que, se instalados, podem permitir a captura de informações, principalmente números de conta e senhas bancárias. A instalação desses programas é, na maioria dos casos, feita manualmente pelo usuário. Tecnicamente, pode existir a possibilidade da instalação automática desses programas apenas pela leitura da mensagem, mas isso depende de uma combinação de muitos fatores, que raramente acontece.
+No Brasil, o phishing via e-mail não vem apenas com o nome de entidades famosas; são usados diversos tipos de assuntos com o intuito de atrair a curiosidade e fazer com que o receptor da mensagem clique no link contido no corpo do e-mail. Por exemplo, uma suposta admiradora secreta envia fotos suas. Na verdade, o link não contém fotos, mas sim um arquivo executável que, ao ser baixado, instala um cavalo de Tróia bancário no computador do usuário.
+Outro tema muito comum são os cartões virtuais. Eles são um bom chamariz, visto que é comum as pessoas trocarem cartões virtuais via e-mail. Os supostos cartões normalmente têm a sua identidade associada a de algum site popular de cartões virtuais, o que dá mais credibilidade à farsa. A mensagem tem o mesmo formato e, geralmente, utiliza as imagens originais dos sites legítimos. Um detalhe em que o usuário deve prestar a atenção são os erros de gramática que essas mensagens geralmente apresentam.
+Outro detalhe é que, ao clicar em links contidos nessas mensagens, quase sempre é aberta uma janela para download de arquivo. Nenhum site de cartões requer que o usuário baixe qualquer arquivo.
+
+Respostas a Phishing
+Há sites que atuam em anti-phishing e que focam em publicar mensagens fraudulentas que circulam na internet, como o FraudWatch International e o Millersmiles. Essas páginas informam detalhes a respeito das mensagens de forma a auxiliar na identificação de ataques de phishing.
+Até o ano de 2007, a adoção de estratégias anti-phishing por empresas que precisam proteger informações pessoais e financeiras era considerada baixa por entidades de análise de vulnerabilidade. Recentemente, várias técnicas para combater o phishing surgiram, incluindo novas legislações e tecnologias criadas especificamente para proteger contra esses ataques. Essas técnicas incluem etapas que podem ser executadas por indivíduos e também por organizações. Em alguns países, as tentativas de phishing por telefone, site e e-mail agora podem ser denunciadas às autoridades, conforme descrito abaixo.
+
+Treinamento de Usuários
+As pessoas podem ser treinadas para reconhecer tentativas de phishing e lidar com elas por meio de uma variedade de abordagens. Essa educação pode ser eficaz, especialmente onde o treinamento enfatiza o conhecimento conceitual e fornece feedback direto a respeito das ações tomadas pelos usuários. Por isso, muitas organizações executam campanhas simuladas de phishing regulares e com foco em sua equipe de trabalho para medir a eficácia de seu treinamento.
+Pessoas que não pertencem a organizações também podem tomar medidas para evitar tentativas de phishing, modificando ligeiramente seus hábitos de navegação. Quando contatado sobre uma conta que precisa ser supostamente "verificada" (ou qualquer outro tópico usado por phishers), é uma precaução sensata entrar em contato com a empresa de onde o e-mail aparentemente se origina para verificar se a mensagem é legítima. Como alternativa, o endereço que o indivíduo sabe ser do site genuíno da empresa pode ser digitado na barra de endereço do navegador, em vez de confiar em qualquer hiperligação (link) incluída na mensagem de phishing suspeita.
+Quase todas as mensagens de e-mail legítimas de empresas para seus clientes contêm um item de informação que não está publicamente disponível para phishers utilizarem. Algumas empresas, como o PayPal, sempre se dirigem a seus clientes pelo nome de usuário em e-mails; portanto, se um e-mail abordar o destinatário de maneira genérica ("Prezado cliente do PayPal"), provavelmente será uma tentativa de phishing. Além disso, o PayPal oferece vários métodos para determinar e-mails falsos e aconselha os usuários a encaminhar e-mails suspeitos para seu domínio spoof@PayPal.com para investigar e avisar outros clientes.
+Não é seguro presumir que a presença de informações pessoais garante que uma mensagem é legítima. Alguns estudos mostraram que a presença de informações pessoais não afeta significativamente a taxa de sucesso de ataques de phishing, o que sugere que a maioria das pessoas não presta atenção a tais detalhes.
+E-mails de bancos e empresas de cartão de crédito geralmente incluem números parciais de contas. No entanto, pesquisas mostram que o público normalmente não distingue entre os primeiros dígitos e os últimos dígitos de um número de conta - um problema significativo, visto que os primeiros dígitos costumam ser os mesmos para todos os clientes de uma instituição financeira.
+
+Abordagens Técnicas
+Há uma ampla gama de abordagens técnicas disponível para evitar que ataques de phishing atinjam usuários ou para impedir que informações confidenciais sejam capturadas nesses ataques.
+
+Filtros de e-mails de phishing
+Filtros de spam especializados podem reduzir o número de e-mails de phishing que chegam às caixas de entrada de seus destinatários. Esses filtros aplicam várias técnicas, incluindo aprendizado de máquina e abordagens de processamento de linguagem natural para classificar e-mails de phishing e rejeitar e-mails com endereços falsos.
+
+Navegadores alertando usuários a respeito de sites fraudulentos
+Outra abordagem popular para combater o phishing é manter uma lista de sites de phishing conhecidos e comparar os sites visitados com a lista. Um desses serviços é o modo de Navegação Segura. Navegadores da Web como Google Chrome, Microsoft Edge, Mozilla Firefox, Safari e Opera contêm esse tipo de medida anti-phishing. O Firefox utiliza o software anti-phishing implementado pela Google. O Opera utiliza listas de bloqueio ativas dos sites Phishtank, Cyscon e GeoTrust, bem como listas de sites confiáveis ativos do GeoTrust. Algumas implementações dessa abordagem enviam as URLs visitadas a um serviço central para serem verificadas, o que tem levantado críticas a respeito da privacidade dos usuários.
+Uma abordagem introduzida em meados de 2006 envolve a mudança para um serviço DNS especial que filtra domínios de phishing conhecidos funcionando com qualquer navegador e sendo semelhante em princípio a usar um serviço distribuído para bloquear anúncios na web.
+Para atenuar o problema de sites de phishing que se fazem passar pelo site de uma vítima incorporando suas imagens (como logotipos), vários proprietários de sites alteraram suas configurações para enviar uma mensagem ao visitante de que um site pode ser fraudulento. A imagem pode ser movida para um novo nome de arquivo e o original substituído permanentemente, ou um servidor pode detectar que a imagem não foi solicitada como parte da navegação normal e, em vez disso, enviar uma imagem de aviso.
+
+Aprimoramento de senhas e métodos de acesso
+Alguns sites de serviços bancários pedem aos usuários que selecionem uma imagem, exibindo tal imagem selecionada pelo usuário com quaisquer formulários que solicitem uma senha. Os usuários dos serviços online do banco são instruídos a inserir uma senha apenas ao visualizar a imagem que selecionaram. No entanto, vários estudos sugerem que poucos usuários evitam inserir suas senhas quando as imagens estão ausentes. Além disso, esse recurso (como outras formas de autenticação de dois fatores) é suscetível a outros ataques, como os sofridos pelo banco escandinavo Nordea no final de 2005 e pelo Citibank em 2006. Um sistema semelhante, no qual uma "sugestão de identidade" é gerada automaticamente, consistindo de uma palavra colorida dentro de uma caixa colorida e exibida para cada usuário do site, está em uso em outras instituições financeiras.
+As skins de segurança são uma técnica relacionada que envolve a sobreposição de uma imagem selecionada pelo usuário no formulário de login como uma indicação visual de que o formulário é legítimo. Ao contrário dos esquemas baseados em imagem para captcha utilizados em alguns sites, no entanto, a imagem em si é compartilhada apenas entre o usuário e o navegador, e não entre o usuário e o site. O esquema também depende de um protocolo de autenticação mútua, o que o torna menos vulnerável a ataques que afetam os esquemas de autenticação somente do usuário.
+Outra técnica de imagem comum depende de uma grade dinâmica de imagens que é diferente para cada tentativa de login. O usuário deve identificar as fotos que se enquadram nas categorias pré-escolhidas (como cachorros, carros e flores). Somente após terem identificado corretamente as imagens que se enquadram em suas categorias é que eles podem inserir sua senha alfanumérica para completar o login. Ao contrário das imagens estáticas usadas no site do Bank of America, um método de autenticação baseado em imagem dinâmica cria uma senha única para o login, requer a participação ativa do usuário e é muito difícil para um site de phishing replicar corretamente porque seria necessário exibir uma grade diferente de imagens geradas aleatoriamente que inclui as categorias secretas do usuário.
+
+Monitoramento e remoção
+Várias empresas oferecem a bancos e outras organizações serviços 24 horas por dia para monitorar, analisar e auxiliar no fechamento de sites de phishing. Porém, a detecção automatizada de conteúdo de phishing ainda está abaixo dos níveis aceitos para que uma ação direta seja habilitada, com análise baseada em conteúdo alcançando entre 80-90% de sucesso e fazendo com que a maioria das ferramentas inclua etapas manuais para certificar a detecção e autorizar alguma resposta. Indivíduos podem contribuir relatando phishing para grupos de voluntários e da indústria, como Cyscon ou PhishTank. Nos Estados Unidos, os indivíduos também podem contribuir relatando tentativas de phishing por telefone para o Phone Phishing da Comissão Federal de Comércio. Páginas da web e e-mails de phishing podem ser relatados ao Google. O quadro de avisos do Internet Crime Complaint Center contém alertas de phishing e ransomware.
+
+Verificação e assinatura da transação
+Ao longo dos últimos anos, com a popularização dos aparelhos, também surgiram soluções a partir do celular (smartphone) como segundo canal de verificação e autorização de transações bancárias.
+
+Autenticação multifator
+As organizações estão adotando cada vez mais a implementação de autenticação de dois fatores ou multifator (MFA), que exige que um usuário use pelo menos 2 fatores ao fazer o login. Por exemplo, um usuário deve apresentar um cartão inteligente e uma senha. Isso reduz alguns riscos - no caso de um ataque de phishing bem-sucedido, a senha roubada por si só não pode ser reutilizada para violar ainda mais o sistema protegido. No entanto, existem vários métodos de ataque que podem derrotar muitos dos sistemas tipicamente implementados. Os esquemas de MFA, como o WebAuthn, tentam tratar essa problema por design.
+
+Ocultação de conteúdo de e-mail
+As organizações que priorizam a segurança sobre a conveniência podem exigir que os usuários de seus computadores usem um e-mail que edita URLs de mensagens, impossibilitando que o leitor clique em um link ou mesmo copie uma URL. Embora isso possa resultar em situações inconvenientes, este método elimina quase completamente os ataques de phishing por e-mail.
+
+Limitações de respostas técnicas
+Um artigo da Forbes de agosto de 2014 argumenta que a razão pela qual os problemas de phishing persistem mesmo depois de uma década de vendas de tecnologias anti-phishing é que o phishing é "um meio tecnológico para explorar as fraquezas humanas" e que a tecnologia não pode compensar totalmente essas fraquezas. Além disso, respostas completamente automatizadas ainda não são possíveis, pois o nível de detecção ainda está bem abaixo do necessário.

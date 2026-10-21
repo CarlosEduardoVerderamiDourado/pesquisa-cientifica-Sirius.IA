@@ -1,0 +1,53 @@
+Hyper-threading
+
+Hyperthreading (oficialmente chamada Hyper-Threading Technology, abreviada como HTT ou HT, do inglês: hiperprocessamento), é uma tecnologia proprietária da Intel usada para computação paralela em processadores do tipo x86 (32 bits). Uma tecnologia que une porções não usadas de um núcleo físico do processador para criar um novo núcleo lógico para realizar processamento (processador multinúcleo), onde normalmente são criados dois threads por núcleo de uma única vez; tornando o sistema mais rápido quando se usam vários programas ao mesmo tempo, oferecendo maior eficiência na utilização dos recursos de execução do processador. Segundo a Intel, a Hyperthreading oferece um aumento de desempenho de até 30% dependendo da configuração do sistema.
+Foi primeiramente empregada no processador Pentium 4 de núcleo Northwood, de 32 bit. Apesar do foco da tecnologia Hyper-Threading ser os processadores para servidores de rede, os processadores da série Intel Core2 (Extreme Edition) e Intel Core (i3 e i7) usufruem dessa tecnologia proporcionando até 12 núcleos totais (i7 4960x). 
+A simulação do segundo processador é feito utilizando partes não aproveitadas do processador na previsão de desvio do pipeline. Estas partes são conhecidas como bolhas do pipeline e não teriam nenhuma utilidade, desperdiçando ciclos. Simulando dois processadores lógicos em um único processador físico, cada processador lógico recebe seu próprio controlador de interrupção programável (EPIC) e um conjunto de registradores. Os outros recursos do processador físico como cache de memória, unidade lógica e aritmética, barramentos, são compartilhados entre os processadores lógicos, parecendo assim um sistema com dois processadores.
+Os aplicativos que mais se beneficiam do HT, de uma forma geral, são os aplicativos de compressão de áudio e vídeo, compactação e descompactação de arquivos, aplicativos de renderização 3D e alguns jogos. Os ganhos são mais expressivos em ambientes multitarefa.
+Um efeito colateral do Hyper-Threading é o aumento do consumo de energia e, consequentemente, a dissipação térmica do processador em 6 a 8%. É comum que a temperatura do processador suba 5 ou 6 graus Celsius, o que pode prejudicar a estabilidade do sistema, caso a ventilação dentro do gabinete não seja boa e o processador já esteja trabalhando próximo do limite. Os aplicativos que costumam apresentar perdas mais frequentes de desempenho são sobretudo os aplicativos do dia a dia, como navegadores, editores de texto e planilhas.
+
+Requisitos do sistema
+A tecnologia Hyper-Threading está disponível em sistemas para laptops, desktops, servidores e workstations.
+A tecnologia HT requer um sistema de computador com :
+
+Um processador Intel que suporta a tecnologia HT;
+Chipset Intel e BIOS habilitados para a tecnologia HT;
+Sistema operacional com otimizações para a tecnologia HT:
+Microsoft Windows XP ou superior;
+Kernel Linux a partir da versão 2.4.x.
+O desempenho varia dependendo do hardware e software específicos utilizados.
+
+Objetivos do Hyper-Threading
+O Hyper-Threading foi uma das tecnologias mais anunciadas da Intel com o passar dos anos. A ideia básica era melhorar o desempenho utilizando algumas técnicas de computação paralela devido à duplicação de algumas unidades de chips internos.
+A tecnologia Hyper-Threading foi introduzida pela Intel em uma época em que os processadores dual core não podiam ser vendidos e produzidos a preços acessíveis.
+Essa tecnologia foi introduzida primeiramente em servidores com Xeon e Itanium 2, e em setores que já se tinha alguma previsão de aplicações projetadas de acordo com os critérios de paralelização.
+No inicio dos anos 2000, a Intel já tinha atingido 3GHz no processador Pentium 4 para desktops. A Intel, a fim de melhorar o desempenho de seus processadores sem ter que aumentar a frequência e o consumo máximo, decidiu promover a adoção da tecnologia Hyper-Threading. O primeiro processador a ser usado com a tecnologia Hyper-Threading foi o Pentium 4 Northwood 3.06 GHz com um bus de 533 MHz. Depois essa mesma tecnologia foi implantada em todos os processadores posteriores ao Pentium 4. E comparado aos processadores Dual Core, a única característica diferente foi a presença do Hyper-Threading.
+Segundo a Intel, logo após ter lançado essa tecnologia, a tecnologia Hyper-Threading deve melhorar o desempenho do processador em 24%, independente da velocidade do clock. Mas, mais tarde foi-se provado que se houvesse um melhoramento, esse melhoramento seria muito menor do que o esperado. No campo de desempenho, essa tecnologia melhorou de 5 a 10% o desempenho do processador.
+
+Como funciona
+Em processadores com essa tecnologia, fisicamente cada um dos processadores lógicos tem seu próprio conjunto de registradores e controlador de interrupção, e o restante dos elementos do processador são comuns (ALU, Cache, barramentos). Quando ocorre uma pausa no fluxo de execução de um dos processadores - por exemplo, quando há a necessidade de buscar dados na memória, o controle é transferido para o fluxo do outro processador lógico. Assim, enquanto um processo está esperando por esses dados da memória, os processadores físicos são usados para executar outro processo.
+
+História
+
+A tecnologia Hyper-Threading foi inicialmente projetada na Digital Equipment Corporation, mas quem a comercializou foi a Intel. Essa tecnologia foi introduzida pela primeira vez no processador Xeon MP Foster, em Março de 2002. Ele apareceu no Pentium 4 Northwood em novembro do mesmo ano. Depois de aparecer no Pentium 4 Northwood, apareceu em todos os Pentium 4 HP e Pentium 4 Extreme Edition. Portanto, processadores anteriores ao Pentium 4 Northwood 3.06 GHz não tem Hyper-Threading.
+O processador Core i7 (Nehalem), lançado em novembro de 2008, contém quatro núcleos e permite escalar até oito threads.
+O processador Itanium 9300 foi lançado com oito threads por processador através de uma versão aprimorada da tecnologia hyper-threading.
+O processador Intel Xeon 550 também possui tecnologia hyper-threading.
+
+Diferença entre processadores Dual Core e HT
+Apesar de a Intel ter dito, quando estava lançando a tecnologia Hyper-Threading, que as melhorias do processador com a tecnologia seriam de mais de 25%, comparado ao dual core, essa tecnologia não teve um aumento tão significativo. Diz-se que o processador com a tecnologia Hyper-Threading teve um melhoramento no processador de 5%. Comparado esse aumento ao esperado, em qualquer caso, um aumento modesto em ambos, a superfície do processador pode conter custos de produção. E portanto, a relação custo/benefício foi em favor de modelos de integração da tecnologia Hyper-Threading em relação aos Dual-Core.
+Ponto fraco do Hyper-Threading, quando for comparado com um processador Dual-Core: um processador Hyper-Threading só pode se beneficiar apenas as aplicações com vários segmentos, enquanto em um Dual Core podem ser executadas aplicações em threads paralelas em um único programa. Ambos pertencentes à tópicos programas diferentes, que podem ser executadas simultaneamente apenas nos sistemas com processadores Dual Core.
+
+Processadores Intel que incorporam a tecnologia Hyper-Threading
+Intel Pentium 4
+Intel Pentium 4 Extreme Edition
+Intel Pentium D Extreme Edition
+Todos os modelos e gerações do Intel Core i3
+Todos os modelos do Core i5 
+Todos os modelos e gerações do Intel Core i7
+Intel Atom N450
+Intel Atom Z2480
+Intel Atom D510
+Intel Atom D525
+Intel Atom N270
+Intel Pentium Dual Core

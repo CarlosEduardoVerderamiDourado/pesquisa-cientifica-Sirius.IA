@@ -1,0 +1,32 @@
+Brexpiprazol
+
+O brexpiprazol(pt-BR) ou brexpiprazole(pt-PT?) (nomes comerciais: Rexulti, Rxulti, entre outros) é um antipsicótico atípico, da classe dos aceleradores e moduladores de serotonina (AMS), que atua como agonista parcial do receptor D2 de dopamina. Em 10 de julho de 2015, a droga foi aprovada nos Estados Unidos pela Food and Drug Administration (FDA) para tratamento de esquizofrenia e tratamento adjuvante para casos de depressão. O brexpripazol foi projetado para fornecer maior eficácia e tolerabilidade em relação aos tratamentos adjuvantes estabelecidos para transtorno depressivo maior (por exemplo, produz menos efeitos colaterais, como acatisia, inquietação e/ou insônia).
+A droga foi desenvolvida pelas companhias farmacêuticas Otsuka e Lundbeck, e é considerada uma sucessora do antipsicótico atípico aripiprazol.
+
+Usos médicos
+O brexpiprazol é usado no tratamento da esquizofrenia e como adjuvante no transtorno depressivo maior (TDM).
+
+Efeitos colaterais
+Os efeitos colaterais mais comuns relacionados ao brexpiprazol, comparado a placebo, foram infecção do trato respiratório superior (6,9% vs. 4,8%), acatisia (6,6% vs. 3,2%), ganho de peso (6,3% vs. 0,8%) e nasofaringite (5,0% vs. 1,6%).
+
+Interações
+Assim como seu antecessor aripiprazol, o brexpiprazol é um substrato dos citocromos CYP2D6 e CYP3A4. As pessoas que participaram dos ensaios clínicos foram aconselhadas a evitar toranjas, laranjas de Sevilha e outros alimentos cítricos, visto que estes podem aumentar a concentração do fármaco.
+
+Farmacologia
+
+Farmacodinâmica
+
+O brexpiprazol é um agonista parcial do receptor de serotonina 5-H1A e dos receptores de dopamina D2 e D3. Os agonistas parciais têm propriedades de bloqueio e propriedades estimulantes em relação ao receptor ao qual se ligam. A proporção da atividade bloqueadora e a atividade estimulante é responsável por uma parte dos efeitos clínicos do brexpiprazol, pois um agonista parcial pode reduzir a resposta produzida por um agonista. O brexpiprazol possui atividade bloqueadora maior, enquanto seu potencial de ação nos receptores de dopamina é menor, comparado ao que seu antecessor, o aripiprazol, o que pode diminuir seu risco de agitação e inquietude ocasionadas estimulação da contração muscular.
+Enquanto o aripiprazol possui actividade intrínseca ou efeito agonista nos receptores D2 de aproximadamente 60%, o brexpiprazol tem uma atividade intrínseca no mesmo receptor de cerca de 45%. Isso significa que, com o aripiprazol, o receptor de dopamina é ativado em doses mais baixas, com o bloqueio sendo alcançado em doses mais altas, enquanto o brexpiprazol funciona de modo oposto. Em contraste, o brexpiprazol tem uma afinidade muito maior para o receptor 5-H1A do que o aripiprazol, bem como uma atividade intrínseca maior. Exames in vivo demonstraram que o brexpiprazol atua como um agonista quase integral do receptor 5-HT11A . Tal diferença parece estar associada ao menor potencial do brexpiprazol, comparado ao aripiprazolM em causar distúrbios relacionados ao movimento decorrentes do tratamento com antipsicóticos, como acatisia, devido à liberação de dopamina desencadeada pelo agonismo do receptor 5-HT1A. O brexpiprazol também é um antagonista dos receptores serotoninérgicos 5-HT2A, 5-HT2B, 5-H <sub>7</sub>, o que pode contribuir para o efeito antidepressivo dofármaco.
+O brexpiprazol bloqueia e se liga aos receptores adrenérgicos 1A-, 1B-, 1D- e 2C-. A droga não possui efeito clinicamente relevante para os receptores muscarínicos de acetilcolina e, portanto, não tem efeitos anticolinérgicos. Embora o brexpiprazol tenha menor afinidade pelo H1 comparação com o aripiprazol, pode ocorrer ganho de peso em ambos os fármacos como efeito adverso.
+
+História
+
+Parceria com a Lundbeck
+Em novembro de 2011, a Otsuka Pharmaceutical e a Lundbeck anunciaram uma aliança global. A Lundbeck deu à Otsuka um pagamento adiantado de US$ 200 milhões, e o acordo firmado propunha pagamentos de desenvolvimento, regulamentação e de vendas Especificamente para o Brepriprazol (OPC-34712), a Lundbeck obterá 50% das vendas líquidas na Europa e Canadá e 45% das vendas líquidas nos EUA da Otsuka.
+
+Ensaios clínicos
+O brexpiprazol estava em ensaios clínicos para tratamento adjuvante de TDM, TDAH em adultos, transtorno bipolar e esquizofrenia .
+
+Pesquisa médica
+O brexpiprazol estava em fase testes para potencial tratamento do transtorno de déficit de atenção e hiperatividade (TDAH), mas foi descontinuado para esta indicação. Alcançou a fase 2 de ensaios clínicos para este uso antes da descontinuação.

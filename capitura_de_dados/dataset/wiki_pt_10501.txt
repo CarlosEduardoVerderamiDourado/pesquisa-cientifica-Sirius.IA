@@ -1,0 +1,137 @@
+Dia
+
+No uso comum, um dia é um período de tempo de 24 horas, ou 86.400 segundos. Essa duração vem da forma como organizamos o ciclo produzido pela rotação da Terra em relação ao Sol. Ao longo desse ciclo, um lugar passa por manhã, tarde, começo da noite e noite, enquanto a alternância entre luz e escuridão ajuda a manter sincronizados os ritmos circadianos de muitos seres vivos.
+Os dias são organizados em calendários e recebem datas. Costumam ser agrupados em semanas, mêses e anos. Os calendários solares acompanham o ciclo anual do Sol e mantêm as quatro estações do ano aproximadamente nas mesmas datas. Os calendários lunares tomam como referência as fases da Lua.
+Na convenção civil mais usada, um novo dia começa à meia-noite. Como a meia-noite não acontece ao mesmo tempo em todos os lugares da Terra, os fusos horários permitem que cada região use uma hora legal comum. Outras maneiras de contar os dias já começaram no amanhecer, no anoitecer e até ao meio-dia.
+Em astronomia e metrologia, a palavra pode ter sentidos mais precisos. Um dia usado como unidade de medida vale exatamente 86.400 segundos. O tempo solar médio acompanha a rotação terrestre em relação ao Sol, enquanto o dia estelar e o dia sideral usam referências celestes. Um dia civil também pode fugir das 24 horas usuais por causa de mudanças na hora legal ou de ajustes do UTC.
+
+Etimologia
+
+A palavra portuguesa dia vem do latim clássico die-, por intermédio do latim vulgar *dia-. O latim dies, -ei também é dado como origem direta do termo.
+
+Definições
+
+Dia solar aparente e médio
+A palavra dia pode indicar intervalos diferentes, dependendo da referência usada. Além das 24 horas convencionais, ou 86.400 segundos, há definições baseadas diretamente na rotação da Terra. O dia solar é o intervalo entre duas culminações superiores sucessivas do Sol no mesmo meridiano. A órbita terrestre não é perfeitamente circular, por isso a velocidade da Terra ao redor do Sol muda durante o ano. A inclinação do eixo terrestre também altera a projeção desse movimento no equador celeste. Juntos, esses efeitos fazem o dia solar aparente ficar até cerca de meio minuto mais curto ou mais longo que 24 horas.
+
+A própria rotação da Terra não mantém exatamente a mesma duração quando medida em segundos do SI. Pequenas mudanças, da ordem de milissegundos, surgem por movimentos na atmosfera, nos oceanos e no interior do planeta. O IERS e o U.S. Naval Observatory acompanham essas variações. Um ano trópico médio tem cerca de 365,2422 dias solares.
+Para medir o tempo de maneira mais regular, os astrônomos também usam um Sol médio fictício. Essa referência imaginária percorre o equador celeste a velocidade constante. O tempo solar médio é calculado a partir dela e elimina as pequenas diferenças que o movimento aparente do Sol acumula de um dia para outro ao longo do ano.
+Durante um dia solar médio, a Terra gira cerca de 360,9856° entre duas passagens sucessivas do Sol médio pelo mesmo meridiano. A rotação precisa passar um pouco de 360° porque a Terra avança em sua órbita enquanto gira sobre o próprio eixo.
+
+Equação do tempo
+
+Um relógio de sol e um relógio ajustado ao tempo solar médio não ficam perfeitamente sincronizados durante o ano, porque o Sol aparente não atravessa o céu a uma velocidade uniforme. A equação do tempo mede a diferença entre o tempo solar aparente e o tempo solar médio. Ela nasce da combinação entre a excentricidade da órbita terrestre e a inclinação do eixo da Terra, e pode chegar a cerca de 16 minutos.
+
+Dia estelar e dia sideral
+
+Se as estrelas distantes forem usadas como referência no lugar do Sol, a rotação da Terra termina cerca de quatro minutos antes de completar um dia solar de 24 horas. O dia estelar é o intervalo necessário para uma rotação em relação ao fundo da esfera celeste ou a estrelas distantes tomadas como praticamente fixas.
+Em astronomia e geodesia, há uma distinção mais precisa entre duas dessas medidas. O dia sideral usa o equinócio médio como referência, enquanto o dia estelar usa um referencial fixo formado por estrelas distantes. O dia estelar dura cerca de 23 horas, 56 minutos e 4,0989 segundos. O dia sideral é cerca de 8,4 milissegundos mais curto, com 23 horas, 56 minutos e 4,0905 segundos. O nome dia sideral também pode ser usado para o intervalo medido diretamente em relação às estrelas distantes.
+Um ano trópico médio contém cerca de 366,2422 dias siderais, aproximadamente um a mais que o número de dias solares.
+
+Dia civil e dia de calendário
+
+Na convenção civil mais comum, o dia começa à meia-noite da hora legal local e termina na meia-noite seguinte. Esse intervalo também recebe o nome de dia de calendário. Ele costuma ser dividido em 24 horas, com 60 minutos em cada hora e 60 segundos em cada minuto. Onde existe horário de verão, a mudança do relógio pode fazer um dia civil local ter 23 ou 25 horas na data da transição.
+
+Fusos horários e Linha Internacional de Data
+
+Usar a hora solar de cada cidade seria pouco prático para viagens, comunicações e horários compartilhados. Por isso, regiões inteiras adotam a mesma hora legal. A expansão das ferrovias tornou essa padronização especialmente útil no século XIX, e as companhias ferroviárias da América do Norte passaram a trabalhar com quatro zonas coordenadas em 1883.
+Os fusos civis não precisam acompanhar meridianos separados exatamente por 15°, e suas regras podem mudar por decisão legal. Alguns também usam diferenças de minutos em relação ao UTC, em vez de apenas horas inteiras. A referência comum é UTC+00, baseada no Tempo Universal Coordenado.
+Como a mudança de data acontece em momentos diferentes de um fuso para outro, a Linha Internacional de Data separa convencionalmente duas datas consecutivas. Ela atravessa principalmente o oceano Pacífico, perto do lado oposto ao meridiano de Greenwich, mas faz desvios para acompanhar fronteiras e escolhas administrativas.
+
+Tempo decimal
+
+No tempo decimal, as divisões do dia são organizadas em potências de dez. O sistema criado durante a Revolução Francesa dividia o dia em 10 horas, cada hora em 100 minutos e cada minuto em 100 segundos.
+No calendário revolucionário francês, 10 dias formavam uma décade, e três décades formavam um mês. Outras propostas mantiveram a duração comum do dia, mas mudaram suas subdivisões. Henri de Sarrauton dividiu cada hora em 100 minutos. Mendizábal y Tamborel tomou o dia sideral como unidade de base e criou subdivisões próprias. Rey-Pailhade dividiu o dia em 100 cés.
+
+Dia como unidade de medida
+
+No SI, a unidade de base do tempo é o segundo, não o dia. A versão 4.01 da nona edição da Brochura do SI, publicada em 2026 pelo BIPM, põe o dia entre as unidades não SI usadas tradicionalmente para tempo e ângulo. Essa edição também esclarece que essas unidades não recebem um estatuto especial dentro do SI.
+O símbolo do dia é d. A conversão entre essas unidades é exata: 1 d = 24 h = 86.400 s.
+
+Dias em outros corpos celestes
+
+Fora da Terra, a palavra dia também pode ser usada para medir a rotação de um objeto astronômico ou o tempo que o Sol, ou outra estrela, leva para voltar à mesma posição aparente em seu céu. O valor depende da convenção usada para cada corpo.
+Para os planetas e a Lua, a tabela abaixo usa a coluna Length of Day da ficha planetária da NASA, em horas. Para Ceres, foi usado o período de rotação, de cerca de nove horas.
+
+Outros usos do termo
+
+Fora das definições astronômicas e civis mais estritas, a palavra dia também pode indicar um ciclo completo de luz e escuridão, uma parte de uma data ou simplesmente um intervalo aproximado contado em dias.
+
+Dia completo
+Um período completo de escuridão e luz, antigamento chamado de nictêmero, do grego "noite-dia", ou, de modo mais coloquial, "24 horas".
+Uma aproximação na contagem de dias, como em "vejo você daqui a três dias" ou "no dia seguinte".
+Parte de uma data, como o dia do ano em uma data ordinal, o dia do mês em uma data ou o dia da semana em uma data semanal.
+O tempo regularmente dedicado ao trabalho remunerado em um único dia de trabalho, como em homem-dia e semana de trabalho.
+Período claro
+O período com luz em que o Sol está acima do horizonte, do nascer do sol ao pôr do sol.
+O período entre a primeira luz da aurora e a última luz do crepúsculo.
+Outros usos
+Um período específico do dia, definido pelo que está sendo feito, como "dia escolar" ou "dia de trabalho".
+No estudo das marés, o dia lunar é o tempo necessário para que um ponto da Terra volte à mesma posição em relação à Lua. Ele dura cerca de 24 horas e 50 minutos, porque a Lua avança em sua órbita no mesmo sentido da rotação terrestre.
+
+Variações na duração do dia terrestre
+
+Mudanças na rotação terrestre
+
+A interação gravitacional com a Lua transfere lentamente energia da rotação terrestre e, na média de muitos séculos, faz o dia ficar mais longo. Eclipses e ocultações observados entre 720 a.C. e 2020 permitem calcular um aumento médio de 1,72 0,03 milissegundo por século na duração do dia.
+Esse valor resulta de efeitos que atuam em sentidos diferentes. A dissipação de maré causada pela Lua tende a alongar o dia em cerca de 2,4 milissegundos por século. O ajuste isostático glacial, por sua vez, acelera a rotação e compensa parte desse aumento.
+Em períodos mais curtos, a duração do dia oscila quando a distribuição de massa e o momento angular mudam na atmosfera, nos oceanos e no interior da Terra. O derretimento de gelo redistribui massa pelo planeta e também tende a alongar o dia. Desde 2000, essa parcela ligada ao clima acelerou para 1,33 0,03 milissegundo por século. Para o século XXI, a taxa calculada de alongamento causada por essa redistribuição está entre as mais altas reconstruídas para os últimos 3,6 milhões de anos.
+
+UTC e segundos intercalares
+
+O segundo do SI é definido por uma transição atômica e não muda de duração quando a rotação terrestre acelera ou desacelera um pouco. Para manter o Tempo Universal Coordenado perto de UT1, uma escala baseada na orientação da Terra, podem ser usados segundos intercalares.
+Um dia civil comum tem 86.400 segundos SI. Quando se acrescenta um segundo intercalar positivo, ele passa a ter 86.401 segundos. Um segundo intercalar negativo, que ainda não havia sido usado até 2026, faria o dia ter 86.399 segundos. O IERS mede a orientação terrestre e publica as decisões sobre esses ajustes no Bulletin C. Desde a criação do sistema em 1972, foram acrescentados 27 segundos intercalares, todos positivos. O mais recente entrou em vigor em 31 de dezembro de 2016.
+A Conferência Geral de Pesos e Medidas decidiu em 2022 ampliar, em 2035 ou antes, o limite permitido para a diferença entre UT1 e UTC. A mudança deve permitir que o UTC siga sem segundos intercalares por pelo menos um século.
+Para a 28ª reunião da conferência, marcada para 13 de outubro de 2026 a 15 de outubro de 2026, foi apresentada uma proposta para que o UTC contínuo entre em vigor em 20 de maio de 2027 e para que o limite máximo de |UT1-UTC| passe a 3.600 segundos. Esses pontos ainda dependem da votação da conferência.
+
+Duração do dia no tempo geológico
+A duração dos dias em épocas muito anteriores aos relógios pode ser estimada a partir de estruturas naturais que repetem ciclos regulares. Bandas de crescimento em fósseis e camadas sedimentares podem guardar ritmos diários, mensais ou sazonais. A cicloestratigrafia também procura nas rochas ciclos produzidos pelos movimentos orbitais da Terra.
+Trinta e quatro sequências cicloestratigráficas de alta qualidade cobrem os últimos 650 milhões de anos. A reconstrução obtida com elas mostra que a duração do dia e a distância entre a Terra e a Lua não mudaram a uma taxa constante. A dissipação de maré parece ter sido especialmente alta entre cerca de 300 e 200 milhões de anos atrás. No fim do Cambriano, há cerca de 493 milhões de anos, ciclos preservados em sedimentos dão uma duração de 21,78 0,29 horas para o dia.
+
+Há cerca de 1,4 bilhão de anos, o dia tinha uma duração estimada em 18,68 0,25 horas.
+Uma hipótese propõe que o dia tenha permanecido perto de 19 horas durante parte do intervalo entre aproximadamente 2 e 1 bilhão de anos atrás. Nessa situação, o torque produzido pelas marés térmicas da atmosfera teria acelerado a rotação quase na mesma medida em que as marés oceânicas causadas pela Lua a desaceleravam.
+Outra reconstrução deu 17,82 0,15 horas para cerca de 1,634 bilhão de anos atrás e 18,12 0,19 horas para cerca de 1,48 bilhão de anos atrás. Ela também encontrou um possível pico de dissipação de maré entre aproximadamente 1,3 e 1,5 bilhão de anos atrás. A ideia de um longo intervalo com dias perto de 19 horas ainda é uma hipótese em teste, não uma cronologia firmemente estabelecida.
+
+Início e fim do dia
+
+A fronteira entre um dia e o seguinte nem sempre foi colocada à meia-noite. Diferentes sociedades usaram o amanhecer, o anoitecer e o meio-dia, dependendo de seus calendários e maneiras de contar as horas.
+No Antigo Egito, o dia começava ao amanhecer, antes do nascer do Sol, e seguia até o amanhecer seguinte. O ciclo era repartido em 24 horas, doze para o período claro e doze para a noite. Durante a noite, a passagem das horas podia ser acompanhada pelo movimento de grupos de estrelas chamados decanos.
+Na Bíblia hebraica, Gênesis 1:5 fala do dia em termos de "tarde" e "manhã" antes de narrar a criação do Sol como fonte de luz: "Deus chamou à luz Dia e às trevas chamou Noite. Houve tarde e manhã: o primeiro dia." No calendário religioso judaico, o novo dia começa no anoitecer. O intervalo entre o pôr do sol e o aparecimento de três estrelas funciona como período de transição, e o Shabat e as festas começam no pôr do sol e terminam depois do anoitecer do dia seguinte.
+Em Florença, uma maneira de contar as horas chamada hora italiana usava o pôr do sol como limite do dia. No sistema florentino, "duas horas do dia" queria dizer duas horas depois do pôr do sol. Quando essas horas são convertidas para a contagem civil usada no presente, alguns momentos da noite passam para o dia de calendário anterior.
+No fim do Império Otomano e nos primeiros anos da República da Turquia, o sistema alaturka fazia o pôr do sol corresponder às 12 horas. Ele coexistiu com a contagem europeia, chamada alafranga. A Lei nº 697, aprovada em 26 de dezembro de 1925 e publicada em 2 de janeiro de 1926, determinou que o dia civil começasse à meia-noite e que as horas fossem contadas de zero a 24.
+Entre os romanos antigos, e na convenção civil mais difundida, o dia começa à meia-noite, às 00:00, e termina 24 horas depois, às 24:00, que é o mesmo instante indicado como 00:00 do dia seguinte.
+A Conferência Internacional do Meridiano de 1884 aprovou uma resolução esperando que os dias astronômico e náutico passassem a começar à meia-noite assim que isso fosse praticável. A contagem astronômica ainda manteve o meio-dia como começo do dia até 1 de janeiro de 1925, quando passou a usar a meia-noite. A data juliana, usada em astronomia, ainda muda de data ao meio-dia.
+
+Partes do dia
+
+Os nomes usados para dividir o dia não têm fronteiras universais. Manhã, tarde, começo da noite e noite mudam de sentido conforme os costumes, as rotinas e a quantidade de luz solar disponível em cada lugar.
+
+Dia natural
+
+O dia natural vai do nascer do sol ao pôr do sol, enquanto há luz solar direta. Para calcular esses dois momentos, a astronomia usa a borda superior do disco solar tocando o horizonte. Nessa situação, o centro do Sol está cerca de 50 minutos de arco abaixo do plano horizontal. Esse valor combina aproximadamente 16 minutos de arco do raio aparente do Sol com 34 minutos de arco de refração atmosférica média.
+Essa convenção faz o período claro durar um pouco mais que o intervalo em que o centro do Sol está geometricamente acima do horizonte. A diferença muda conforme a latitude e a época do ano. Perto dos equinócios, o dia pode durar cerca de sete minutos a mais que a noite em latitudes até aproximadamente 25°, e dez minutos ou mais perto de 50°. As condições da atmosfera e a altura do horizonte local também podem deslocar os horários calculados.
+
+Variação com a latitude e a estação do ano
+
+A duração do período claro depende da latitude e da época do ano. Como o eixo terrestre é inclinado, cada hemisfério recebe dias mais longos no verão e mais curtos no inverno. Perto do equador, o dia natural fica próximo de 12 horas durante o ano. A diferença entre verão e inverno aumenta em latitudes mais altas. Dentro dos círculos polares, há épocas em que o Sol não se põe e outras em que não chega a nascer. O fotoperíodo, isto é, o tempo diário de luz, varia em sentidos opostos nos dois hemisférios.
+
+Crepúsculo
+
+O crepúsculo ocupa o intervalo antes do nascer do Sol e depois do pôr do Sol em que ainda existe luz natural, embora o Sol já esteja abaixo do horizonte. Pela manhã, ele começa na aurora e termina no nascer do Sol. No fim do dia, começa no pôr do Sol e termina quando a luz solar residual desaparece.
+Cada período de crepúsculo pode ser dividido em civil, náutico e astronômico. O crepúsculo civil vai até o Sol ficar 6° abaixo do horizonte, o náutico até 12° e o astronômico até 18°.
+
+Noite
+
+A noite é o período de escuridão entre o fim do crepúsculo e a aurora, quando a luz do Sol já não ilumina diretamente o céu.
+
+Divisões convencionais do dia
+No uso cotidiano, o período claro costuma ser separado em manhã e tarde. A manhã fica entre o nascer do sol e o meio-dia. A tarde vai do meio-dia ao pôr do sol, embora também possa ser entendida como o intervalo entre o meio-dia e o começo da noite.
+O inglês usa a palavra evening para um intervalo que pode cobrir o fim da tarde e o começo da noite. Ele pode começar antes do pôr do sol e se estender pelo crepúsculo. Em usos comuns, começa por volta das 17 ou 18 horas, ou no pôr do sol, e termina perto da hora de dormir.
+No Brasil, uma convenção comum divide as 24 horas em quatro partes de seis horas. A madrugada vai da meia-noite às 6 horas, a manhã das 6 ao meio-dia, a tarde do meio-dia às 18 horas e a noite das 18 horas à meia-noite.
+
+Ritmos biológicos
+
+A alternância entre luz e escuridão ajuda organismos a manter seus ritmos circadianos alinhados com o ciclo de aproximadamente 24 horas. Esses ritmos existem em animais, plantas e microrganismos. Nos seres humanos, coordenam o sono e a vigília, a temperatura corporal, a liberação de hormônios e mudanças previsíveis no estado de alerta.
+
+Nas espécies diurnas, a fase de maior atividade costuma cair durante a parte clara do ciclo, embora o horário mude entre espécies e ambientes. Nos seres humanos, o estado de alerta e o desempenho dependem da combinação entre o relógio circadiano e a pressão de sono acumulada desde o último descanso. Quando esses dois efeitos são separados em condições controladas, a parcela circadiana do desempenho em três testes neurocomportamentais chega ao ponto mais alto no fim da tarde biológica.
+A poluição luminosa durante a noite pode alterar ritmos biológicos de seres humanos e de outros animais. Pessoas mais expostas à luz artificial noturna apresentaram maior frequência de distúrbios do sono, embora ainda existam limitações na forma como essa exposição é medida. Em animais silvestres, a luz artificial noturna foi relacionada a mudanças fisiológicas, alterações nos horários de atividade e diferenças em características do ciclo de vida.

@@ -1,0 +1,405 @@
+Seleção de parentesco
+
+A seleção de parentesco é um mecanismo evolutivo que favorece o sucesso reprodutivo dos parentes de um organismo, mesmo que custe a própria sobrevivência e reprodução do organismo. A seleção de parentesco pode ser entendida pelo valor adaptativo inclusivo, o efeito total que um indivíduo tem sobre a proliferação de seus genes produzindo a sua própria prole e fornecendo ajuda para que outros parentes próximos produzam descendentes.
+Charles Darwin discutiu o conceito de seleção de parentesco em seu livro de 1859, A Origem das Espécies, onde refletiu sobre o enigma dos insetos sociais estéreis, como as abelhas, argumentando que um benefício de seleção para organismos relacionados permitiria a evolução de um traço que confere o benefício, mas, ao mesmo tempo, destrói um indivíduo. Ronald Fisher (1930) e J. B. S. Haldane (1932) estabeleceram a base matemática para a seleção de parentesco. Em 1964, William Donald Hamilton popularizou o conceito que se tornou conhecido como regra de Hamilton. No mesmo ano, John Maynard Smith usou o termo seleção de parentesco pela primeira vez.
+De acordo com a regra de Hamilton, a seleção de parentesco faz com que os genes aumentem em frequência quando a relação genética de um receptor com um ator multiplicado pelo benefício para o receptor é maior que o custo reprodutivo para o ator. Hamilton propôs dois mecanismos para seleção de parentesco. Primeiro, o reconhecimento de parentesco permite que os indivíduos identifiquem seus parentes. Em segundo lugar, em populações "viscosas", populações nas quais as taxas de dispersão são baixas, as interações locais tendem a ocorrer entre parentes por padrão.
+
+Visão geral histórica
+
+Charles Darwin foi o primeiro a discutir o conceito de seleção de parentesco. Em A Origem das Espécies, ele escreveu claramente sobre o enigma representado pelos insetos sociais estéreis e altruístas:
+
+Neste trecho, a "família" e o "estoque" representam um grupo de parentesco. Estas passagens e outras de Darwin sobre "seleção de parentesco" são destacadas no livro Biologia Evolutiva de Douglas Futuyma e no livro de E. O. Wilson Sociobiologia. J.B.S. Haldane compreendeu plenamente as quantidades e considerações básicas na seleção de parentesco, ao brincar com a famosa frase: "eu daria minha vida por dois irmãos ou por oito primos". A observação de Haldane aludiu ao fato de que, se um indivíduo perde a vida para salvar dois irmãos, quatro sobrinhos ou oito primos, é um "negócio justo" em termos evolutivos, pois os irmãos são em média 50% idênticos por descendência, sobrinhos 25%, e primos 12,5% (em uma população diploide). Posteriormente, ele clarificou:
+
+Os primeiros tratamentos matematicamente formais da seleção de parentesco foram por R. A. Fisher em 1930 e J. B. S. Haldane em 1932 e 1955.
+W. D. Hamilton, em 1963 e especialmente em 1964, popularizou o conceito e o tratamento matemático mais completo dado a ele por George Price.
+John Maynard Smith pode ter cunhado o termo "seleção de parentesco" em 1964:
+
+Chamarei esses processos de seleção de parentesco e seleção de grupo, respectivamente. A seleção de parentesco foi discutida por Haldane e por Hamilton. Por seleção de parentesco entendo a evolução dos caracteres que favorecem a sobrevivência dos parentes próximos do indivíduo afetado, por processos que não requerem descontinuidade na estrutura da população. 
+A seleção de parentesco causa mudanças na frequência gênica ao longo das gerações, impulsionado por interações entre indivíduos relacionados. Esta dinâmica forma a base conceitual da teoria da evolução social. Alguns casos de evolução por seleção natural só podem ser entendidos ao se considerar como parentes biológicos influenciam a aptidão uns dos outros. Na seleção natural, um gene que codifica uma característica que aumenta a aptidão de cada indivíduo que o carrega deve aumentar em frequência na população; e, inversamente, um gene que diminui a aptidão individual de seus portadores deve ser eliminado. No entanto, um gene hipotético que estimula o comportamento que aumenta a aptidão dos parentes, mas diminui a do indivíduo que exibe o comportamento, pode, não obstante, aumentar em frequência, porque os parentes geralmente carregam o mesmo gene.
+De acordo com esse princípio, a aptidão aprimorada dos parentes às vezes pode mais do que compensar a perda de aptidão incorrida pelos indivíduos que exibem o comportamento, tornando possível a seleção de parentesco. Este é um caso especial de um modelo mais geral, "aptidão inclusiva" ou valor adaptativo inclusivo. Esta análise foi desafiada, Wilson escreveu que "os fundamentos da teoria geral da aptidão inclusiva com base na teoria da seleção de parentesco desmoronaram" e que agora ele se apoia na teoria da eussocialidade e na "coevolução da cultura genética" para a mecânica subjacente da sociobiologia.
+A seleção de parentesco não deve ser confundida com seleção de grupo, segundo a qual uma característica genética pode se tornar prevalente dentro de um grupo porque beneficia o grupo como um todo, independentemente de qualquer benefício para organismos individuais. Todas as formas conhecidas de seleção de grupo estão em conformidade com o princípio de que um comportamento individual pode ser evolutivamente bem-sucedido apenas se os genes responsáveis por esse comportamento estiverem em conformidade com a Regra de Hamilton e, portanto, em equilíbrio e no conjunto, se beneficiam do comportamento.
+
+Regras de Hamilton
+Formalmente, os genes devem aumentar em frequência quando
+
+ 
+ 
+ 
+ r
+ B
+ >
+ C
+ 
+ 
+ 
+ 
+
+onde
+
+r = a relação genética do receptor com o ator, frequentemente definida como a probabilidade de que um gene escolhido aleatoriamente de cada um no mesmo locus seja idêntico por descendência
+B = o benefício reprodutivo adicional obtido pelo receptor do ato altruísta,
+C = o custo reprodutivo para o indivíduo que executa o ato.
+Ou seja, uma característica selecionada por parentesco pode aumentar sua frequência se seu custo ao portador em termos de valor adaptativo individual (C) é menor que o benefício em valor adaptativo dispensado aos parentes (B), ponderado pelo coeficiente de parentesco (r) entre doador e o beneficiário da ação. Essa desigualdade é conhecida como regra de Hamilton, em homenagem a William D. Hamilton, que em 1964 publicou o primeiro tratamento quantitativo formal da seleção de parentesco.
+O parâmetro parentesco (r) na regra de Hamilton foi introduzido em 1922 por Sewall Wright como um coeficiente de parentesco, que dá a probabilidade de que, dado um locus escolhido ao acaso, os alelos de dois indivíduos sejam idênticos por origem. Autores subsequentes, incluindo Hamilton, às vezes reformulam isso com uma regressão, que, ao contrário das probabilidades, pode ser negativa. Uma análise de regressão produzindo relações negativas estatisticamente significativas indica que dois indivíduos são menos geneticamente semelhantes do que dois aleatórios. Isso foi invocado para explicar a evolução do comportamento rancoroso, que consiste em atos que resultam em dano ou perda de aptidão, tanto para o ator quanto para o receptor.
+Vários estudos científicos elucidaram que o modelo de seleção de parentesco pode ser aplicado à natureza. Por exemplo, em 2010, os pesquisadores usaram uma população selvagem de esquilos vermelhos em Yukon, Canadá, para estudar a seleção de parentesco na natureza. Os pesquisadores descobriram que as adoções eram sempre entre parentes, enquanto órfãos sem parentes próximos nunca eram adotados, e ocorriam exclusivamente às circunstâncias em que os benefícios para o esquilo adotado (B), descontados pelo grau de parentesco entre a mãe substituta e o órfão (r), excedem os custos de adequação de adicionar um jovem extra à sua ninhada (C), conforme previsto pela regra de Hamilton (rB>C). Ou seja, o estudo forneceu um teste claro da regra de Hamilton que explica a persistência de altruísmo ocasional em uma população de mamíferos.
+Uma revisão de 2014 de muitas linhas de evidência para a regra de Hamilton descobriu que suas previsões foram fortemente confirmadas em uma ampla variedade de comportamentos sociais em uma ampla gama filogenética, incluindo pássaros, mamíferos e insetos, em cada caso comparando táxons sociais e não sociais.
+
+Derivação
+Suponha que temos uma função de aptidão individual da forma:
+ 
+ 
+ 
+ 
+ w
+ 
+ i
+ 
+ 
+ =
+ f
+ (
+ 
+ p
+ 
+ j
+ 
+ 
+ ,
+ 
+ p
+ 
+ i
+ 
+ 
+ )
+ =
+ B
+ (
+ 
+ p
+ 
+ j
+ 
+ 
+ )
+ 
+ C
+ (
+ 
+ p
+ 
+ i
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+
+onde 
+ 
+ 
+ 
+ B
+ 
+ 
+ 
+ 
+ 
+ é o benefício do altruísmo e 
+ 
+ 
+ 
+ C
+ 
+ 
+ 
+ 
+ 
+ é o custo do altruísmo. No caso linear especial:
+ 
+ 
+ 
+ 
+ w
+ 
+ i
+ 
+ 
+ =
+ 
+ w
+ 
+ 0
+ 
+ 
+ +
+ B
+ 
+ p
+ 
+ j
+ 
+ 
+ 
+ C
+ 
+ p
+ 
+ i
+ 
+ 
+ 
+ 
+ 
+ 
+
+Nosso interesse particular é no desenvolvimento do altruísmo e quando faz sentido para o altruísmo florescer, em relação aos custos e benefícios que o comportamento proporciona. Tomando a derivada total em relação a 
+ 
+ 
+ 
+ 
+ p
+ 
+ i
+ 
+ 
+ 
+ 
+ 
+ 
+, encontramos que:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ d
+ 
+ w
+ 
+ i
+ 
+ 
+ 
+ 
+ d
+ 
+ p
+ 
+ i
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ 
+ 
+ 
+ 
+ f
+ 
+ 
+ 
+ 
+ p
+ 
+ i
+ 
+ 
+ 
+ 
+ 
+ +
+ 
+ 
+ 
+ 
+ f
+ 
+ 
+ 
+ 
+ p
+ 
+ j
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ d
+ 
+ p
+ 
+ j
+ 
+ 
+ 
+ 
+ d
+ 
+ p
+ 
+ i
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ =
+ 
+ 
+ C
+ 
+ 
+ (
+ 
+ p
+ 
+ i
+ 
+ 
+ )
+ +
+ 
+ B
+ 
+ 
+ (
+ 
+ p
+ 
+ j
+ 
+ 
+ )
+ r
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+onde 
+ 
+ 
+ 
+ r
+ =
+ d
+ 
+ p
+ 
+ j
+ 
+ 
+ 
+ /
+ 
+ d
+ 
+ p
+ 
+ i
+ 
+ 
+ 
+ 
+ 
+ 
+ é o grau de parentesco genético. Dessa forma, para que o altruísmo se desenvolva, nós devemos ter que:
+ 
+ 
+ 
+ 
+ B
+ 
+ 
+ (
+ 
+ p
+ 
+ j
+ 
+ 
+ )
+ r
+ >
+ 
+ C
+ 
+ 
+ (
+ 
+ p
+ 
+ i
+ 
+ 
+ )
+ 
+ 
+ 
+ 
+No caso linear, isso se reduz a:
+ 
+ 
+ 
+ r
+ B
+ >
+ C
+ 
+ 
+ 
+ 
+que é a regra de Hamilton. Em palavras, essa equação implica que o altruísmo se desenvolverá quando o benefício marginal do altruísmo multiplicado pelo parentesco genético for maior do que o custo marginal do altruísmo.
+
+Mecanismos
+A seleção de parentesco baseia-se na premissa de que quanto maior for o grau de parentesco entre dois indivíduos, maior será o compartilhamento de material genético. Assim, um gene, que produza, como um de seus efeitos, um aumento das chances de sobrevivência de cópias de si mesmo presentes em outros indivíduos, pode ser favorecido pela seleção natural. Dessa forma, espera-se que comportamentos altruísticos, ou seja, que aumentem as chances de sobrevivências de outros indivíduos em detrimento do indivíduo altruísta, sejam mais frequentes entre parentes próximos. Isto torna possível a explicação de atos altruísticos com indivíduos aparentados sem que seja necessário evocar processos de seleção de níveis superiores.
+Hamilton descreveu duas maneiras pelas quais o altruísmo de seleção de parentesco poderia ser favorecido:
+Reconhecimento de parentesco: Em primeiro lugar, se indivíduos possuem a capacidade de distinguir entre parentes genéticos próximos e não parentes, e de discriminar (positivamente) com base no parentesco, então o parentesco médio poderia ser alto o suficiente para a seleção ocorrer. Devido à natureza facultativa deste mecanismo, espera-se que o reconhecimento e a discriminação de parentesco sejam sem importância, exceto entre formas de vida "superiores", como os peixes Neolamprologus pulcher (embora haja alguma evidência para isso entre protozoários). O reconhecimento de parentesco pode ser selecionado para evitar consanguinidade, e poucas evidências indicam que o reconhecimento de parentesco "inato" desempenha um papel na mediação do altruísmo. Um experimento de pensamento sobre a distinção de reconhecimento/discriminação de parentesco é o hipotético 'efeito barba verde', onde um gene para comportamento social é imaginado também como causando um fenótipo distinto que pode ser reconhecido por outros portadores do gene. Devido à semelhança genética conflitante no resto do genoma, haveria pressão de seleção para que os sacrifícios altruístas da barba verde fossem suprimidos, tornando a ancestralidade comum a forma mais provável de aptidão inclusiva.
+Populações viscosas: Em segundo lugar, mesmo o altruísmo indiscriminado pode ser favorecido em populações "viscosas", isto é, com taxas baixas ou intervalos curtos de dispersão. Aqui, os parceiros sociais são tipicamente parentes próximos genealogicamente e, portanto, o altruísmo pode florescer mesmo na ausência de reconhecimento de parentesco e de discriminação de parentesco. Isso sugere uma explicação bastante geral para o altruísmo. A seleção direcional sempre favorece aqueles com maiores taxas de fecundidade em uma determinada população. Os indivíduos sociais muitas vezes podem aumentar a sobrevivência de seus próprios parentes participando e seguindo as regras de seu próprio grupo.
+Mais tarde, Hamilton modificou seu pensamento para sugerir que uma habilidade inata de reconhecer parentesco genético real provavelmente não seria o mecanismo de mediação dominante para o altruísmo de parentesco:
+
+Os esclarecimentos posteriores de Hamilton muitas vezes passam despercebidos e devido à suposição de longa data de que a seleção de parentesco requer poderes inatos de reconhecimento de parentesco. A suposição de que o reconhecimento de parentesco deve ser inato, e que a mediação da cooperação social não são suficientes obscureceu o progresso significativo feito na aplicação de seleção de parentesco e da teoria de aptidão inclusiva para uma ampla variedade de espécies, incluindo humanos.
+
+Entendendo a Teoria
+
+Graus de parentesco
+A maioria dos animais possui sistemas genéticos diploides, isto é, cada célula somática do indivíduo possui dois conjuntos cromossômicos (exemplo os chimpanzés possuem dois conjuntos de 24 cromossomos, 48 no total). A produção de gametas por meiose, reduz o número de cromossomos pela metade (célula haploide). Cada filho recebe na concepção um conjunto cromossômico proveniente do gameta masculino (espermatozoide) e um conjunto do gameta feminino (óvulo). Isto faz com que entre pais e filhos(as) exista 50% (1/2) de homologia de DNA. Entre irmãos existe 50% de homologia, em média. Tios(as) e sobrinhos(as) compartilham 25% (1/4) de seus genes em média. Primos de primeiro grau possuem 12,5% (1/8) de homologia, em média.
+
+Exemplos de seleção de parentesco
+A eussocialidade (socialidade verdadeira) é usada para descrever sistemas sociais com três características: sobreposição de gerações, cooperação nos cuidados com a prole e castas especializadas. Seus exemplos englobam os ratos-toupeira e insetos himenópteros. Os insetos sociais fornecem bons exemplos de organismos com características muito provavelmente selecionadas por parentesco. As operárias de algumas espécies são estéreis, uma característica que não ocorreria se a seleção individual fosse o único processo em ação. O coeficiente de parentesco r é anormalmente alto entre as irmãs operárias em uma colônia de Hymenoptera devido à haplodiploidia. Presume-se que a regra de Hamilton seja satisfeita, porque os benefícios do condicionamento físico para as operárias excedem os custos em termos de oportunidade reprodutiva perdida, embora isso nunca tenha sido demonstrado empiricamente. Existem hipóteses concorrentes, também, que também podem explicar a evolução do comportamento social em tais organismos.
+
+Nas comunidades de Cercopithecus solatus, parentes maternos favorecem uns aos outros. Com parentes mais distantes do que meio-irmãos, esse viés cai significativamente.
+Chamados de alarme em esquilos terrestres parecem confirmar a seleção de parentesco. Embora os chamados possam alertar outros da mesma espécie para o perigo, eles chamam a atenção e os expõem a um risco maior de predação. Foi observada uma probabilidade maior da sentinela dar alarme quando são parentes intimamente relacionados. Cães da pradaria machos, individualmente, em diferentes estágios da vida, modificam sua taxa de vocalização quando estão mais próximos de parentes.
+Há espécies de aves que, mesmo em idade reprodutiva, continuam no ninho ajudando no cuidado da ninhada mais nova, sendo estes chamados de auxiliares de ninho. Eles são encontrados em lugares onde sua chance de reprodução é restrita. Os auxiliares escolhem de quem eles vão cuidar, no entanto foram comprovados que eles escolhem os com maiores coeficientes de parentesco. Esse é o exemplo da papa-abelhas de testa branca e outras espécies de aves.[carece de fontes]?
+Até mesmo certas plantas podem reconhecer e responder a laços de parentesco. Usando Cakile maritima, Susan Dudley, da Universidade McMaster, Canadá comparou os padrões de crescimento de plantas não relacionadas compartilhando um vaso com plantas do mesmo clone. Ela descobriu que plantas não aparentadas competiam pelos nutrientes do solo pelo crescimento agressivo das raízes. Isso não ocorreu com as plantas irmãs.
+Outro exemplo de altruísmo é o do esperma dos camundongos da espécie Apodemus sylvaticus. Os espermatozoides se agregam formando um trem móvel, alguns dos espermatozoides sofrem reações acrossômicas prematuras que se correlacionam com a melhoria da mobilidade dos trens móveis em direção ao óvulo feminino para fertilização. Acredita-se que essa associação ocorra como resultado de um "efeito barba verde", no qual os espermatozoides realizam um ato altruísta seletivo após identificar semelhança genética com os espermatozoides circundantes.
+
+Objeções
+A teoria da seleção de parentesco foi criticada por Alonso em 1998 e por Alonso e Schuck-Paim em 2002. Alonso e Schuck-Paim argumentam que os comportamentos que a seleção de parentesco tenta explicar não são altruístas (em termos darwinianos puros) porque: (1) eles podem favorecer diretamente o executante como um indivíduo, com o objetivo de maximizar sua progênie (para que os comportamentos possam ser explicados como seleção individual comum); (2) esses comportamentos beneficiam o grupo (portanto, podem ser explicados como seleção de grupo); ou (3) são subprodutos de um sistema de desenvolvimento de muitos "indivíduos" realizando tarefas diferentes (como uma colônia de abelhas ou as células de organismos multicelulares, que são o foco da seleção). Eles também argumentam que os genes envolvidos em conflitos de proporção sexual podem ser tratados como "parasitas" de (já estabelecidas) colônias sociais, não como seus "promotores". Essas idéias foram em sua maioria ignoradas até que foram apresentadas novamente em uma série de artigos de E. O. Wilson, Bert Hölldobler, Martin Nowak e outros. Nowak, Tarnita e Wilson argumentaram queA teoria da aptidão inclusiva não é uma simplificação da abordagem padrão. É um método de contabilidade alternativo, mas funciona apenas em um domínio muito limitado. Sempre que a aptidão inclusiva funciona, os resultados são idênticos aos da abordagem padrão. A teoria da aptidão inclusiva é um desvio desnecessário, que não fornece insights ou informações adicionais.Eles, assim como Alonso (1998) e Alonso e Schuck-Paim (2002), defendem um modelo de seleção multinível. Isso despertou uma forte resposta, incluindo uma refutação publicada na Nature por mais de uma centena de pesquisadores.

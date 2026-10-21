@@ -1,0 +1,27 @@
+Princípio jurídico
+
+Os princípios jurídicos podem ser definidos como sendo um conjunto de padrões de conduta presentes de forma explícita ou implícita no ordenamento jurídico.
+Os princípios, assim como as regras, são normas. A distinção entre esses dois elementos é objeto de dissenso entre os estudiosos do direito.
+
+Distinção entre regras e princípios
+Podemos identificar ao menos duas teses acerca da natureza da distinção entre princípios e regras: (i) a distinção se deve a um aspecto lógico; (ii) a distinção se deve a um aspecto de grau de generalidade.
+
+A distinção hermenêutica
+Para alguns teóricos, a diferença entre princípio jurídico e regra apresenta um caráter lógico.
+De acordo com esse ponto de vista, tanto princípios quanto regras são conjuntos de padrões que apontam para decisões particulares acerca das obrigações legais, mas diferem no tipo de direção que apontam.
+A regra tem uma única dimensão: a da validade. Se for válida, a regra deverá ser aplicada integralmente, em sua inteireza, ou não ser aplicada. Esse aspecto da regra é também chamado de “tudo ou nada” - ou a regra é totalmente aplicada, ou não. Não existem diferentes graus de aplicação.
+O princípio, por sua vez, apresenta a dimensão de peso ou importância, não fazendo sentido falar em validade. Dentre os princípios aplicáveis ao caso concreto, será eleito aquele que apresentar maior peso relativo aos demais em face da situação analisada. Nesse contexto, faz sentido a pergunta: qual princípio é o mais importante nesse caso? Assim, será escolhido aquele que for eleito como sendo mais relevante. O princípio eventualmente deixado de lado continuará existindo e poderá ser evocado em outro momento, sem qualquer tipo de consequência a sua existência.
+Em caso de conflito entre regras, uma poderá ser excluída do ordenamento, ou, ainda, em casos mais ambíguos, aquela que apresentar maior poder descritivo e regulador prevalecerá. O critério de desempate, diferentemente da situação de colisão de princípios, não se dá por uma regra “superar a outra em virtude de seu maior peso”, mas sim por uma questão técnico-descritiva.
+Em outras palavras, podemos dizer que regras são comandos definitivos, enquanto princípios são requisitos de otimização. Se a regra é válida e aplicável, esta requer que seja feito o que se prevê na sua íntegra. Já os princípios são normas que exigem que algo seja realizado em seu maior nível possível, dadas as condições do caso em estudo, contendo assim uma ideia de gradação.
+
+A distinção por grau de generalidade
+Uma outra abordagem a respeito da distinção entre regras e princípios é aquela que apenas vê diferença em termos de “grau de generalidade”.
+Para os adeptos dessa linha, os princípios se diferenciam das regras por apresentarem tão-somente um maior grau de abstração.
+
+Crítica à visão da diferença substantiva
+Alguns teóricos criticam a visão que acredita na existência de uma diferença entre princípios e regras. Entre eles estão José Reinaldo de Lima Lopes e Neil MacCormick.
+Para José Reinaldo de Lima Lopes, tanto regras quanto princípios defrontam-se com classificação ou interpretação. Haveria regras mais específicas e regras menos específicas, mas sempre é necessário verificar (realizar um juízo de classificação) a pertinência do caso. Tanto as regras como os princípios dependem também de determinações de sentido que não se podem dar senão em circunstâncias específicas. Esse processo de tensão entre as normas, por definição (e não por acidente) genéricas, e os fatos, por definição (e não por acidente) específicos, faz com que o sentido das regras se defina ao longo de sua aplicação. Esse processo dá-se com qualquer norma, ou seja, tanto no caso de princípios quanto no caso de regras. Assim, o recurso aos princípios não elimina o trabalho mental exigido para a aplicação das regras. E as regras não se aplicam tão claramente da forma tudo-ou-nada. Uma regra pode perfeitamente ser válida, ser levada em consideração pelo julgador e ser afastada em um caso concreto porque os fatos – as circunstâncias – que são transformados em premissa menor não se consideram do tipo ou da classe prevista na regra. Isso mesmo pode acontecer quando se tratar de princípios: são os fatos e suas circunstâncias que vão determinar se um princípio é o adequado para a solução do caso. Para o autor, uma única diferença entre princípio e regra pode, porém, ser estabelecida quando se afirma que os princípios são as regras superiores, das quais outras regras dependem. Somente nesses termos poder-se-ia aceitar a diferença de princípios e regras.
+Neil Maccormick - autor positivista -possui argumentos no mesmo sentido: dizer que regras se aplicam tudo-ou-nada e princípios se aplicam por ponderação é, na verdade, usar a palavra ponderação e peso de forma meramente metafórica. Para o autor, os princípios são apenas regras mais gerais.
+
+Aspectos incontroversos do debate
+Haveria dois aspectos relacionados à diferenciação “regra jurídica” e “princípio jurídico” em que os teóricos não divergiriam: 1- os princípios são relativamente às regras, extensos, gerais ou não específicos e 2- os princípios, por se referirem mais ou menos explicitamente a um certo objetivo, finalidade , direito ou valor são encarados, a partir de certos pontos de vista, como desejáveis de manter ou de ser objeto de adesão, capazes de fornecer fundamentação e justificação para as regras.

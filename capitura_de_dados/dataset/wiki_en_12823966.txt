@@ -1,0 +1,222 @@
+Pediatric advanced life support
+
+Pediatric advanced life support (PALS) is a course offered by the American Heart Association (AHA) for health care providers who take care of children and infants in the emergency room, critical care and intensive care units in the hospital, and out of hospital (emergency medical services (EMS)). The course teaches healthcare providers how to assess injured and sick children and recognize and treat respiratory distress/failure, shock, cardiac arrest, and arrhythmias.
+
+Basic Life Support (BLS)
+
+PALS builds upon AHA's Pediatric Basic Life Support (BLS). Providers should follow the AHA's Pediatric BLS Algorithms for single and 2 person rescuer. The most essential component of BLS and PALS cardiac arrest care is high quality cardiopulmonary resuscitation (CPR). CPR should begin with a check for responsiveness, getting help, and activating the emergency response system. After this, the provider should assess for breathing and a pulse (brachial pulse in infant and carotid pulse in child) - all within 10 seconds. If no pulse and no breathing or only gasping, start CPR. CPR consists of chest compressions followed by rescue breaths - for single rescuer do 30 compressions and 2 breaths (30:2), for > 2 rescuers do 15 compressions and 2 breaths (15:2). The rate of chest compressions should be 100-120 compressions/min and depth should be 1.5 inches for infants and 2 inches for children.
+Chest compressions differ between infants and children. For infants, chest compressions can be done with the two-fingers technique (single rescuer) or two-thumbs encircling hands technique (2 rescuer). In the two-fingers technique, the provider uses their index and middle finger to press down on the infant's sternum, below the nipples. In the two-thumb encircling hands technique, the provider's hands should wrap around the chest with both thumbs pressing down on the infant's sternum. For children, chest compressions should be done with the provider placing the heel of one hand over the child's lower chest and pressing down while keeping their arms straightened at the elbow.
+
+If help hasn't arrived after 2 minutes, the provider should call for help again and get an automated external defibrillator (AED). Once help and the AED arrives, the provider should place the AED pads on the child, making sure to not disrupt chest compressions. The AED will let the provider know if the child has a shockable heart rhythm. If shockable, give a shock and then immediately resume CPR.
+
+Assessment
+PALS teaches a systematic assessment approach so that the health care provider can quickly identify any life-threatening conditions and treat them. The PALS systematic approach algorithm begins with a quick initial assessment followed by checking for responsiveness, pulse, and breathing. If the child has no pulse and isn't breathing, start CPR. If the child has a pulse but isn't breathing, provide ventilation and give oxygen (when possible). Once it has been established that the child has a pulse, is breathing, and doesn't require immediate life saving treatment, the provider will begin their primary assessment followed by a secondary assessment and further diagnostic workup. Continuous reassessments should be done to reassess for life-threatening conditions.
+
+Pediatric vitals signs range according to age
+
+Initial assessment
+The initial assessment is meant to be a very quick assessment performed within the first few seconds of interacting with a child and it utilizes the acronym ABC - appearance, breathing, and color. The provider will assess appearance (level of consciousness and responsiveness, speaking or crying), breathing (breathing or not breathing, increased work of breathing, abnormal breath sounds), and color (pale, mottled, cyanotic, bleeding).
+
+Primary assessment
+The primary assessment uses the acronym ABCDE - airway, breathing, circulation, disability, exposure.
+Airway - assess airway patency (open/patent, unobstructed vs obstructed) and if the patient will need assistance maintaining their airway
+Breathing - assess respiratory rate, respiratory effort, lung sounds, airway sounds, chest movement, oxygen saturation via pulse oximetry
+Circulation - assess heart rate, heart rhythm, pulses, skin color, skin temperature, capillary refill time, blood pressure
+Disability - assess neurological function with AVPU pediatric response scale (alert, voice, painful, unresponsive), pediatric Glasgow Coma Scale (eye opening, motor response, verbal response), pupil response to light (normal, pinpoint, dilated, unilateral dilated), blood glucose test (low blood sugar / hypoglycemia can cause altered mental status)
+Exposure - assess temperature/ fever, signs of trauma (cuts, bleeding, bruises, burns, etc.), skin (petechiae, purpura, etc.)
+
+Secondary assessment
+Once the primary assessment is completed, the provider can do a secondary assessment which consists of a complete physical exam and focused medical history. The information asked in the medical history uses the acronym SAMPLE - signs and symptoms, allergies, medications (prescribed, over the counter, vitamins, herbal), past medical history (any medical problems, prior surgeries), last meal (helpful information to know because it can affect when a child can have surgery or receive anesthesia), events (onset of illness and events leading up to illness).
+Parts of the history that are especially important for children include asking about medications that the child could have gotten into (e.g., if a pill fell on the floor or an unlocked medicine cabinet), history of prematurity, birth history, and immunizations.
+
+Respiratory distress and failure
+Providers must be able to identify respiratory problems that are easily treatable (e.g., treated with oxygen, suctioning/ clearing airway, albuterol, etc.) and those that can rapidly progress to life-threatening conditions. Respiratory distress can progress to respiratory failure which can progress to cardiac arrest. Once respiratory complaints have progressed to cardiac arrest, death and neurological damage are more likely to occur. For this reason, providers should aim to identify and treat respiratory conditions before they progress and worsen.
+
+Recognition
+
+Signs and symptoms
+Common signs of respiratory distress
+
+increased work of breathing
+nasal flaring (nostrils widening during breathing)
+accessory muscle use (using muscles other than the diaphragm and intercostal muscles during breathing (e.g., sternocleidomastoid))
+retractions (collapse of parts of the chest during breathing) (e.g., suprasternal, substernal, sternal, intercostal, subcostal, supraclavicular)
+head bobbing (in infants)
+grunting
+tachypnea (too fast breathing)
+pallor (pale skin)
+tachycardia (fast heart rate)
+agitation and anxiety
+Respiratory distress can progress and worsen to respiratory failure. Signs of respiratory failure include the following
+
+decreased work of breathing
+eventual pauses in or altogether stopping breathing (apnea)
+bradypnea (too slow breathing)
+decreased or absent air movement
+abnormal breath sounds
+cyanosis (blue skin)
+exhaustion and unresponsiveness
+can't speak or cough
+
+Types of respiratory problems
+upper airway obstruction - e.g., croup, epiglottitis, foreign body aspiration, anaphylaxis, retropharyngeal abscess, enlarged/swollen tonsils
+lower airway obstruction - e.g., asthma, bronchiolitis
+lung tissue disease - e.g., pneumonia, pneumonitis, pulmonary edema
+disordered control of breathing - often described as "breathing funny"; e.g., seizure, overdose, trauma, coma, neuromuscular diseases
+
+Management
+
+Initial management
+The initial management for respiratory distress uses the acronym ABC - airway, breathing, circulation.
+Airway
+
+support the airway by making sure that it is open/patent (child can do this on their own or provider may have to open airway with head tilt-chin lift or jaw thrust (if suspected cervical spine injury))
+clear the airway as needed (e.g., suctioning mucus/secretions in nose and throat, removing foreign bodies, etc.)
+consider adding airway adjuncts such as nasopharyngeal airway (NPA) or oropharyngeal airway (OPA) (if no gag reflex)
+Breathing
+
+monitor oxygen saturation with a pulse ox
+give supplemental oxygen
+give inhaled medications (e.g., albuterol, epinephrine) as needed
+manually ventilate as needed (e.g., bag mask ventilation)
+prepare for advanced airway
+Circulation
+
+monitor vitals (e.g., heart rate, blood pressure)
+establish vascular access (for medications and fluids) as needed
+
+Advanced airways
+
+Advanced airways may be necessary if the child can't maintain their airway on their own and isn't responding to other methods of ventilation and oxygenation. Advanced airways use medical equipment to allow for open airways and ease of ventilation and medication delivery. Types of advanced airways include supraglottic devices (devices that lie above the glottis such as OPA, NPA, laryngeal mask airway), infraglottic devices (devices that lie below the glottis and go into the trachea such as endotracheal tube (intubation)), and surgery (incision below the glottis such as cricothyrotomy and tracheotomy). Surgical advanced airways are typically performed when intubation and other less invasive methods fail or are contraindicated or when the child will need long term mechanical ventilation.
+
+Intubation
+To perform an intubation, the health care provider should be able to perform the steps of rapid sequence intubation (preparation, preoxygenation, pretreatment, paralysis and sedation, positioning, placement of tube, postintubation management).
+
+Further management
+Further management should be based on the specific medical condition the child has. For example, if the child is experiencing respiratory distress secondary to asthma, management would include albuterol, inhaled corticosteroids, supplemental oxygen, and more depending upon the severity of the asthma.
+
+Shock
+Shock is defined as inadequate blood flow (perfusion) in the body, causing tissues and organs to (1) not get enough oxygen and nutrients and (2) have trouble getting rid of toxic products of metabolism (e.g., lactate). It is important to recognize and treat shock as early as possible because the body requires oxygen and nutrients to function and without them, organs can eventually shut down and people can die. Common signs of shock include weak pulses, altered mental status, bradycardia or tachycardia, low urine output, hypotension, and pale, cold skin. Treating shock focuses on increasing blood flow and oxygen delivery to tissues and organs before organs are permanently damaged. This section will discuss the recognition and management of shock.
+
+Recognition
+
+Shock severity
+
+The severity of shock is typically based on systolic blood pressure. For this reason, measuring blood pressure is an important way to assess shock; however, blood pressure machines may not be very accurate if pulses are weak and the arms and legs (where the blood pressure is measured) are poorly perfused.
+Compensated shock is when the body is able to compensate through various mechanisms (e.g., raising the heart rate, increasing systemic vascular resistance, and more) to keep the systolic blood pressure in a normal range.
+Hypotensive/ decompensated shock is when the body cannot maintain systolic blood pressure in the normal range, and it becomes too low (hypotensive).
+
+Types of shock
+There are 4 main types of shock: hypovolemic, distributive, cardiogenic, and obstructive.
+
+Hypovolemic shock
+Hypovolemic shock is caused by low blood volume (hypovolemia) and is the most common cause of shock in pediatric patients. Common causes of volume loss include diarrhea, vomiting, hemorrhage, not drinking enough, burns, osmotic diuresis (e.g., diabetic ketoacidosis), and third space losses. Signs of hypovolemic shock are related to the low blood volume and decreased blood flow to extremities (e.g., cold extremities, slow capillary refill, and weak distal pulses).
+
+Distributive shock
+Distributive shock is caused by abnormally distributed blood throughout the body which causes some parts of the body to receive inadequate blood supply. Common causes of distributive shock include sepsis, anaphylaxis, and head or spinal cord injury (neurogenic shock).
+
+Septic shock is typically caused by an infection or inflammation in the body. Signs of septic shock include fever or hypothermia, petechia, and purpura. Lab tests might show leukocytosis or leukopenia, metabolic acidosis with high lactate, and more.
+Anaphylactic shock is caused by an allergen and common signs include facial swelling, throat swelling, hives, wheezing, etc.
+
+Cardiogenic shock
+Cardiogenic shock is caused by abnormal heart function or problems within the heart that impair pumping of blood within the heart. Common causes of cardiogenic shock include congenital heart diseases, arrhythmias, myocarditis (inflammation of the heart muscle), cardiomyopathy (impairment of the heart's ability to pump), trauma/injury of the heart, drug or poison toxicity. Common signs include tachycardia, distant pulses, and worsening with giving fluids.
+
+Obstructive shock
+Obstructive shock is caused by disrupted flow of blood to the heart or flow of blood out of the heart. Common causes include tension pneumothorax, cardiac tamponade, pulmonary embolism, and ductal dependent congenital heart defects (conditions that worsen when the ductus arteriosus closes after birth) (e.g., hypoplastic left heart syndrome and coarctation of the aorta).
+
+Tension pneumothorax: a build up of air in the pleural space of the lungs causing compression and collapse of the lung. Common signs include trauma to the chest, distended neck veins, tracheal deviation (away from side of injury), and decreased breath sounds on side of injury.
+Cardiac tamponade: a build up of fluid or blood in the space surrounding the heart (pericardium) causing compression of the heart. Common signs include muffled heart sounds and pulsus paradoxus.
+Pulmonary embolism: obstruction of a pulmonary artery or a branch of the pulmonary arteries most commonly by a clot causing blocked flow of blood out of or back into the heart. Children with predispositions to forming clots such as those with sickle cell disease, cancer, coagulation disorders, and central venous catheters are more likely to have pulmonary emboli. Common signs include worsening heart and lung function as evidenced by chest pain, tachycardia, shortness of breath, heart failure, and more.
+
+Management
+Management of shock should be based on the type of shock. When the type of shock hasn't been identified yet, the provider should start with some initial treatments and labs. All children with suspected shock should receive supplemental oxygen, ventilation if in respiratory distress (via nasal canula, high flow nasal canula, noninvasive ventilation, or mechanical ventilation), and treatment for life-threatening conditions. Providers should establish vascular access (intravenous access [2 peripheral IVs with a large caliber needle] and if that isn't possible, intraosseous access (IO) or central venous line). Providers should also obtain initial lab studies including a rapid blood glucose, basic metabolic panel (BMP) (measures serum electrolytes, blood urea nitrogen, and creatinine), lactic acid level, complete blood count (CBC), and urine dipstick.
+
+Fluids
+The provider should start crystalloid fluids (normal saline or lactated Ringers). For compensated shock give 10-20 ml/kg over 5-20 min and for hypotensive shock, give 20 ml/lg over 5-10 min. However, if there are signs that the patient has too much fluid (fluid overload) such as worsening respiratory distress, jugular venous distention, crackles, hepatomegaly, then fluids should not be given. With continued signs of shock and no signs of fluid overload, kids can continue to receive 10-20 ml/kg of fluids with a max of 60 ml/kg in the first hour. However, if cardiogenic shock is suspected, kids should receive less fluids over a longer time (e.g., 5-10 ml/kg over 15-30 min).
+
+Hypovolemic shock
+Hypovolemic shock is mainly treated with fluid replacement, as described in the fluids section above. If the hypovolemic shock is caused by a hemorrhage, then the provider should obtain blood type, blood cross match, and coagulation studies (PT, INR, PTT). In hemorrhagic shock, patients should receive blood or blood products if they aren't improving with fluids.
+
+Distributive shock
+Distributive shock is mainly treated with fluid replacement, as described in the fluids section above, and vasopressors. For those with suspected septic shock, providers should obtain blood culture, urinalysis, urine culture, c-reactive protein (CRP) (marker of inflammation), procalcitonin (marker of inflammation), fibrinogen, D-dimer, bilirubin labs, and more. Those in anaphylactic shock should be treated with intramuscular epinephrine.
+
+Cardiogenic shock
+Cardiogenic shock typically worsens with fluids. Providers should obtain an ECG and echocardiogram for patients suspected to have cardiogenic shock. Treatment can include vasopressors, inotropes, and treatment of any arrhythmias.
+
+Obstructive shock
+Obstructive shock is treated by treating the underlying cause of the shock. Tension pneumothorax is treated with a chest tube and needle thoracostomy which allows the air to get out of the pleural space. Cardiac tamponade is treated with pericardiocentesis which removes the fluid from the pericardium and decompresses the heart. Pulmonary embolism is treated with anticoagulants (prevent body from making more clots) and if bad enough, thrombectomy (surgical removal of clots). Ductal dependent congenital heart defects are treated with prostaglandin E1/ alprostadil which keeps the ductus arteriosus open.
+
+Cardiac Arrest
+Cardiac arrest occurs when the heart stops working and blood stops moving throughout the body.
+In infants and children, cardiac arrest is typically caused by (1) hypoxic/asphyxial arrest and less commonly by (2) sudden cardiac arrest due to heart problems or arrhythmias. In adults, cardiac arrest is usually caused by heart problems such as acute coronary syndrome. Hypoxic/asphyxial cardiac arrest is a result of progressive respiratory failure and/or shock. For this reason, it is important to treat respiratory failure and shock early so that they don't progress to cardiac arrest.
+Sudden cardiac arrest is typically caused by arrhythmias such ventricular fibrillation (VF) and pulseless ventricular tachycardia (pVT). These arrhythmias are more common in kids with hypertrophic cardiomyopathy, cardiac channelopathies (e.g., long QT syndrome), myocarditis, drugs (e.g., cocaine, digoxin), commotio cordis, and anomalous coronary artery.
+There are many causes of reversible cardiac arrest and the mnemonic "H's and T's" is used to remember these causes.
+
+Recognition
+
+Signs of cardiac arrest include no pulse (within 10 seconds), no breathing or only gasping, and unresponsiveness. As mentioned above, cardiac arrest in kids is mainly a result of respiratory failure and shock, so providers need to treat those conditions quickly and be on the look out for signs of cardiac arrest. Because cardiac arrest can also be caused by arrhythmias, providers should get ECGs of these patients. The 4 main cardiac arrest rhythms are ventricular fibrillation (VF), pulseless ventricular tachycardia (pVT), asystole, and pulseless electrical activity (PEA).
+
+ventricular fibrillation (VF): disorganized and rapid quivering of the ventricles
+pulseless ventricular tachycardia (pVT): organized wide QRS complexes with no pulse
+asystole: no cardiac electrical activity, ECG shows a flat line
+pulseless electrical activity (PEA): no pulses but ECG shows organized electrical activity (not VF or asystole); not a specific rhythm
+
+Management
+
+Treatment of pediatric cardiac arrest follows the American Heart Association's (AHA) Pediatric Cardiac Arrest Algorithm. The goals of treatment are to obtain return of spontaneous circulation (ROSC), meaning that the heart starts working on its own.
+
+Once cardiac arrest is recognized, high quality CPR needs to be started immediately. After starting chest compressions, the provider should (1) give ventilations (via bag mask) and oxygen, (2) attach monitor/defibrillator pads or ECG electrodes to the child so that defibrillations (a.k.a. shocks) can be given if needed, and (3) establish vascular access (IV, IO). Attaching the defibrillator and establishing vascular access should NOT interrupt chest compressions.
+
+Once the monitor/defibrillator is connected, the provider should assess the heart rhythm. Of the 4 cardiac arrest rhythms, VF and pVT are shockable rhythms and asystole and PEA are unshockable rhythms. Shockable rhythms are rhythms that can improve with a shock and thus, should receive a shock. Unshockable rhythms are rhythms that won't improve with a shock and thus, should NOT receive a shock. The monitor/defibrillator will either tell the providers if the rhythm is shockable (automated external defibrillators (AED)) or the providers will be able to read the ECG and determine for themselves if the rhythm is shockable (manual defibrillators). If shockable, give a shock then resume CPR. If not shockable, continue CPR, give epinephrine, and consider an advanced airway.
+After every 2 minutes of giving CPR the provider should reassess the patient's heart rhythm to see if it is shockable or unshockable, and give a shock if it is shockable. This 2 minute cycle of CPR and rhythm assessment should continue until it is determined by the providers that further management is unlikely to save the patient. For patients with shockable rhythms who haven't achieved ROSC, providers can give epinephrine after 2 shocks and amiodarone or lidocaine after 3 shocks. Throughout CPR and rhythm assessments, the providers should be treating any suspected reversible causes of cardiac arrest (H's and T's listed above).
+Defibrillations/shocks
+
+first shock should be 2 J/kg
+second shock should be 4 J/kg
+all other shocks should be 4 J/kg with max of 10 J/kg
+Medicines that can be given during treatment of cardiac arrest are listed below. The doses listed below are for IV/IO medicationa. Medications via endotracheal tube (ET) are often given at higher doses.
+
+epinephrine: 0.01 mg/kg every 3–5 minutes with max single dose of 1 mg
+amiodarone: 5 mg/kg initially, can repeat 2 more times (total of 3 doses), max of 300 mg per dose, max 15 mg/kg, given for refractory VF and pVT
+lidocaine: 1 mg/kg initially with continuous infusion of 20-50 mcg/kg/min after, given for refractory VF and pVT
+magnesium sulfate: 25–50 mg/kg diluted in 10 ml D5W (5% dextrose) and infused over 1–2 minutes, max 2g per dose, given for pulseless torsades de pointes (a type of ventricular tachycardia)
+
+Arrhythmias
+PALS providers should be able to identify and treat different types of abnormal pediatric heart rhythms including bradyarrhythmias, tachyarrhythmias, and cardiac arrest rhythms (discussed above). In defining heart rates that are too slow or too fast, it is important to understand the ranges of pediatric heart rates by age. Normal ranges of pediatric heart rates change with age, with heart rates being faster closer to birth and slower closer to adulthood.
+
+Bradyarrythmias
+Bradycardia is defined as a slow heart rate for a child's age. Bradycardia associated with signs of shock (altered mental status, hypotension, etc.) can be an early warning sign for cardiac arrest. Signs of bradycardia include fatigue, confusion, dizziness, and lightheadedness. Possible causes of bradycardia include hypoxia, hypothermia, and certain medications.
+
+Types of bradyarrhythmias
+
+sinus bradycardia: normal rhythm, slow rate
+atrioventricular block
+first degree: prolonged PR interval (> 0.20 seconds)
+second degree
+mobitz type I (wenckebach): progressive lengthening of PR interval then dropped beat (p wave with no QRS)
+mobitz type II: equal PR intervals with intermittent dropped beats (p wave with no QRS)
+third degree: complete dissociation between p wave and QRS complex, atria and ventricles are beating independent of one another
+
+Management
+Providers should follow the AHA's Pediatric Bradycardia With a Pulse Algorithm. As always, provides need to support airway, breathing, and circulation and begin CPR if needed. Bradyarrythmias with signs of shock can be treated with epinephrine and atropine in order to increase heart rate. If medications aren't helping, providers can consider cardiac pacing.
+
+epinephrine: 0.01 mg/kg every 3–5 minutes
+atropine: 0.02 mg/kg, can repeat one time, max dose 0.5 mg, min dose of 0.1 mg
+
+Tachyarrhythmias
+Tachycardia is defined as a fast heart rate for a child's age. Signs of tachycardia are similar to bradycardia but also include palpitations, decreased feeding/eating, and irritability. Tachyarrhythmias are fast abnormal heart rhythms.
+Types of tachyarrhythmias
+
+sinus tachycardia: normal rhythm (normal p waves), fast rate, heart rate usually < 220 bpm (beats per minute) in infants and < 180 bpm in kids
+supraventricular tachycardia (SVT): abnormal rhythm (abnormal p waves), fast rate, originates above the ventricles, heart rate usually > 220 bpm in infants and > 180 bpm in kids, narrow QRS (< 0.09 seconds)
+ventricular tachycardia (VT): fast rate, originates in the ventricles, wide QRS (> 0.09 seconds)
+
+Management
+Providers should follow the AHA's Pediatric Tachycardia With a Pulse Algorithm. As always, provides need to support airway, breathing, and circulation and begin CPR if needed. Management of tachyarrhythmias depends on if the child is stable or unstable (experiencing cardiopulmonary compromise: signs of shock, hypotension, altered mental status).
+Unstable tachyarrhythmia is treated with synchronized cardioversion - initially 0.5-1 J/kg but can increase to 2 J/kg if smaller dose is not working.
+Stable tachyarrhythmia treatment is subcategorized based on narrow QRS vs. wide QRS. If narrow QRS/ SVT, perform vagal maneuvers and give adenosine. If wide QRS/ VT with regular rhythm and monomorphic QRS, the provider can give adenosine and should consult pediatric cardiology for recommendations.
+
+adenosine: first dose 0.1 mg/kg with max 6 mg, second dose 0.2 mg/kg with max 12 mg
+
+Criticism
+PETA has criticized the use of animals in PALS training which the organization calls "cruel and unnecessary". PETA says that hundreds of PALS training centers have begun using simulators in response to concerns regarding the animals' welfare. The American Heart Association neither endorses nor requires the use of animals in intubation training.

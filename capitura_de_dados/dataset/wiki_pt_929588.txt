@@ -1,0 +1,220 @@
+Sistema de Raunkiaer
+
+Sistema de Raunkiaer (classificação de Raunkiaer ou tipos biológicos das plantas) é uma forma de categorização utilizada para classificar as plantas com base na posição das gemas de renovo (meristemas de crescimento) durante a estação do ano mais desfavorável e outras características do hábito da planta.
+O sistema foi inicialmente proposto em 1904 pelo pioneiro da ecologia Christen Christiansen Raunkiaer, e posteriormente alargado por diversos autores.
+
+História
+A ideia de classificar as plantas de acordo com as condições ambientais do seu habitat foi proposta em 1807 pelo naturalista Alexander von Humboldt. O botânico Eugenius Warming tentou aplicar a ideia (cunhou a expressão formas de vida botânicas nessa ocasião), mas a sua classificação, publicada em 1884, é confusa.
+Nessa linha de pensamento, o sistema de categorização das plantas com flor baseado na posição em relação ao solo das gemas de renovo da planta, complementado por alguns aspectos da morfologia da planta na sua fase adulta, foi inicialmente proposto pelo biólogo dinamarquês Christen C. Raunkiaer numa conferência por ele proferida em 1904 na Sociedade Botânica de Copenhaga (Botaniske forening i Kobenhavn), com um sumário publicado no periódico daquela Sociedade, o Botanisk Tidsskrift (vol. 25-26, 1903-1905).
+Uma versão mais alargada da classificação apareceu em língua francesa no ano seguinte (1905). Nos anos imediatos Raunkiaer aprofundou o seu sistema de classificação, publicando uma versão melhorada, em língua dinamarquesa, em 1907. A versão completa da classificação surgiu em 1934, já com os traços globais do sistema presentemente utilizado. A nota inicial e o artigo de 1907 apenas foram traduzidos para inglês e tiveram expansão internacional muito mais tarde, após terem sido incluídos na colectânea dos artigos de C. Raunkiaer sobre formas de vida das plantas.
+O sistema de categorização inicialmente proposto por Raunkiaer foi subsequentemente revisto e modificado por vários autores, mas a sua estrutura principal sobrevive e é consensual.
+
+Sistema de categorização
+
+As categorias utilizadas para estabelecer as subdivisões de Raunkiaer estão baseadas na posição das gemas de renovo durante a estação climática mais desfavorável para as plantas (estação fria ou seca, consoante o tipo de clima). O sistema de «tipos biológicos» consiste em três grandes categorias (plantas perenes ou vivazes; plantas anuais; e plantas bienais) divididas em classes:
+
+Plantas perenes (vivazes)
+Persiste pelo menos uma parte do aparelho vegetativo durante a estação desfavorável.
+
+Fanerófitos (do grego , phaneros, «aparente» e , phyton, «planta») — plantas que projectam os caules para o ar, mantendo as suas gemas expostas ao ar durante a estação desfavorável. Inclui as espécies vivazes (duram mais de um ano), geralmente lenhosas, com as gemas de renovo a uma altura acima do solo de pelo menos 25 cm (arbustos e árvores, mas inicialmente também epífitas, posteriormente separadas num grupo específico).
+Em função da altura, esta categoria inclui as seguintes subcategorias:.
+Nanofanerófito — o caule lenhoso não ultrapassa 0,5 m de altura
+Microfanerófito — o caule lenhoso tem entre 0,5 e 2 m de altura;
+Mesofanerófito — o caule lenhoso tem entre 2 e 8 m de altura;
+Megafanerófito — o caule lenhoso ultrapassa os 8 m de altura.
+Outras características utilizadas para subdividir o grupo (criando 12 subcategorias):
+Duração das folhas:
+Perenes
+Decíduas
+Presença de brácteas de cobertura sobre as gemas (ao todo 8 classes)
+Três classes adicionais baseadas no hábito da planta:
+Suculentas fanerofíticas
+Epífitas fanerofíticas
+Ervas fanerofíticas
+Caméfitos (do grego , khamai, «à terra», e , phyton, «planta») — plantas essencialmente lenhosas com as gemas de renovo muito próximas do solo (altura inferior a 25 cm acima do solo). Entre os caméfitos, distinguem-se:
+Caméfitos frutescentes — arbustos, mais ou menos erectos;
+Caméfitos herbáceos — ervas, mais próximas do solo.
+Hemicriptófitos (do grego , hemi, «metade», kryptos, «escondido», e , phyton, «planta») — vegetais herbáceos, vivazes ou bienais, que perdem a biomassa aérea na estação desfavorável. As gemas estão junto ao solo protegidas por detritos orgânicos. São reconhecidas as seguintes subcategorias:
+Protohemicriptófitos — com apenas folhas caulinares;
+Hemicriptófitos parcialmente rosulados — com folhas caulinares e folhas da roseta basal;
+Hemicriptófitos rosulados — com apenas folhas na roseta basal;
+Hemicriptófitos cespitosos — com múltiplos caules emergindo do solo;
+Criptófitos (ou geófitos, do grego , gê, «terra», e , phyton, «planta») — as gemas de renovo estão enterradas no solo, associadas a rizomas, cormos, bolbos ou estruturas similares, ou são gemas subaquáticas. Subdividem-se em três grupos:
+Geófitas — ficam enterradas no solo seco;
+Helófitas (do grego , helos, «pântano», e , phyton, «planta»), limnocriptófitas ou limnófitas — as gemas de renovo ficam enterradas no lodo (ou pelo menos imersas), as folhas ficam pelo menos parcialmente emersas. Plantas típicas das zonas pantanosas e das águas rasas (por exemplo Typha e Phragmites);
+Hidrófitas (do grego , hudrios, «aquático», e , phyton, «planta») ou hidrocriptófitas — as gemas dormentes e as folhas ficam submersas (por exemplo as Nymphaeaceae).
+Plantas anuais
+Plantas que atravessam a estação desfavorável sob a forma de sementes:
+
+Terófitas (do grego theros, «estação», e phyton, «planta») — plantas anuais que passam a estação desfavorável sob a forma de sementes. Este grupo completa rapidamente o seu ciclo de vida, sobrevivendo aos períodos desfavoráveis como sementes incluídas no banco de sementes do solo. A maioria das plantas dos desertos são terófitos.
+Plantas bienais
+A planta desenvolve-se em dois ciclos anuais consecutivos.
+
+Hemicriptófito (ou geófito) no primeiro ano, terófito no segundo.
+Plantas sem ligação ao solo
+Plantas com epifitismo ou que obtém a água e os nutrientes da humidade do ar e da precipitação atmosférica.
+
+Epífitas — são plantas vivazes, muitas vezes lenhosas, que crescem sobre outras plantas. Foram inicialmente colocadas entre as fanerófitas, mas foram separadas dada a irrelevância da posição das gemas em relação ao solo (pois estão instaladas sobre outras plantas).
+Aerófitas — foi uma categoria posteriormente adicionada à classificação de Raunkiaer para acomodar as plantas que obtém a água e os nutrientes a partir da humidade do ar e da chuva. Estas plantas são geralmente epífitas, mas não são parasitas nem dispõem de raízes funcionais. São em geral plantas perenes cujas raízes ficam atrofiadas. Algumas vivem em dunas de areias móveis. Como as epífitas e hemicriptófitas, as suas gemas estão próximo da superfície. Este grupo inclui algumas espécies do género Tillandsia.
+Lianas e trepadeiras
+Plantas que apenas se mantêm erectas se apoiadas noutras plantas ou suportes.
+
+Lianas (ou cipós) — crescem agarradas a outras plantas ou umas nas outras através de um sistema radicular adaptado.
+
+Aplicação generalizada dos tipos biológicos de Raunkiaer
+
+Fanerófitas
+As fanerófitas (P) são plantas perenes e lenhosas, com gemas de renovo (meristemas vegetativos) localizadas a uma altura superior a 25 cm acima do solo. A distância ao solo varia, consoante os autores e as zonas climáticas, entre 25 cm, 30 cm, 50 cm e mesmo 1 m. São subdivididas nas seguintes categorias:
+
+Arbóreas
+As fanerófitas arbóreas (P scap) são plantas lenhosas com hábito arbóreo e gemas de renovo localizadas a mais de 2 m acima do solo. O grupo inclui os mesofanerófitos e megafanerófitos.
+Exemplo: Cupressus sempervirens L., Alnus cordata (Loisel.) Desf., Castanea sativa Mill., Fagus sylvatica L., Ficus carica L., muitas espécies do género Pinus, Fraxinus, Populus e Quercus.
+
+Cespitosas
+As fanerófitas cespitosas (P caesp) são plantas lenhosas com hábito cespitoso, em geral formando touças arbustivas. Inclui a generalidade dos arbustos ou microfanerófitos.
+Exemplo: Agave americana L., Nerium oleander L., Lonicera nigra, Viburnum (V. lantana, V. opulus, V. tinus L.), Medicago arborea L., Myrtus communis L., Rhamnus alaternus.
+
+Nanofanerófitas
+As nanofanerófitas (NP) são plantas lenhosas com gemas de renovo localizadas entre 25 cm e 2 m do solo. Inclui os pequenos arbustos.
+Exemplo: Berberis vulgaris L., Juniperus nana Willd., Rhododendron ferrugineum L., Hypericum androsaemum L., Pittosporum tobira (Thunb.) Ait., Solanum dulcamara L., Ribes alpinum L., Rhamnus pumilus L., Rubus idaeus L.
+
+Lianosas
+As fanerófitas lianosas, cipós ou lianas (P lian) são plantas lenhosas com hábito escandente que crescem envolvendo outras plantas, ou outros objectos, que lhes servem de suporte mecânico.
+Exemplo: Hedera helix, Humulus lupulus, Lonicera caprifolium, Clematis vitalba L., Rubia peregrina L., Vitis vinifera L.
+
+Suculentas
+As fanerófitas suculentas (P succ) são plantas com fustes ou folhas especializada no armazenamento de água.
+Exemplo: Opuntia ficus-indica
+
+Epífitas
+As fanerófitas epífitas (P ep) são plantas lenhosas que crescem sobre outras plantas, que usam como suporte mecânico, não mantendo relação directa com o solo (as suas raízes, quando existam, não chegam ao solo).
+Exemplo: Viscum album L.
+
+Reptantes
+As fanerófitas reptantes (P rept) são plantas lenhosas com hábito rastejante, isto é, os ramos permanecem apoiados no solo.
+Exemplo: Pinus mugo Turra 
+
+Tabela resumo
+
+Caméfitos
+Os caméfitos (Ch) são plantas perenes e lenhosas na base com gemas de renovo localizadas entre 2 cm e 25 cm acima do solo. São subdivididos nas seguintes categorias:
+
+Sufruticosos
+Os caméfitos sufruticosos (Ch suffr) são as plantas com o caule central lenhoso apenas na parte inferior, cujas porções herbáceas secam anualmente, mantendo as gemas de renovo apenas nas partes lenhosas.
+Exemplos: Artemisia (A.alba, A.atrata, A.glacialis), Helichrysum (H.italicum, H.stoechas), Euphorbia (E.barrelieri, E.biumbellata, E.pinea), Ruta (R.angustifolia, R.chalepensis, R.graveolens).
+
+Escaposo
+Os caméfitos escaposos (Ch scap) são plantas cuja parte aérea consiste maioritariamente num escapo ou estrutura que a ele se assemelha. Em geral apresentam um eixo floral alongado, desprovido de folhas.
+Exemplos: Stellaria holostea
+
+Suculentos
+Os caméfitos suculentos (Ch succ) apresentam fustes ou folhas especializados no armazenamento de água.
+Exemplo: várias espécies dos géneros Sedum (S.acre, S.alpestre, S. sexangulare) e Sempervivum (S.calcareum, S.tectorum).
+
+Pulvinado
+Os caméfitos pulvinados (Ch pulv) são plantas que apresentam uma aspecto convexo, em forma de almofada ou coxim, muito ramificadas a partir de um caule central que no seu conjunto apresentam uma forma de contorno mais ou menos arredondado.
+Exemplo: Silene acaulis, Campanula macrorrhyza, algumas espécies do género Androsace (A.helvetica, A.imbricata, A.pubescens) e Saxifraga (S.biflora, S.pedemontana, S.purpurea)
+
+Fruticosos
+Os caméfitos fruticosos (Ch frut) são pequenas plantas com aspecto arbustivo.
+Exemplo: Senecio (S.angulatus, S.mikanioides), Vaccinium (V.myrtillus, V.uliginosus, V.vitis-idaea), Salix (S.herbacea, S.reticulata, S.retusa), Antirrhinum (A.latifolium, A.majus).
+
+Reptantes
+Os caméfitos reptantes (Ch rept) caracterizam-se pela presença de caules ligados ao solo por raízes adventícias que ao crescer se estendem para os lados, mantendo-se sempre rasteiros.
+Exemplo: Vinca (V.major, V.minor, V.difformis), Thymus (T.alpestris, T.alpigenus, T.longicaulis), Selaginella (S.denticulata, S.helvetica, S.selaginoides), Medicago marina.
+
+Tabela resumo
+
+Hemicriptófitos
+Os hemicriptófitos (H) são plantas herbáceas, bienais ou perenes, com gemas de renovo situadas ao nível do solo que atravessam a estação desfavorável protegidas pela manta morta, areia, neve ou outros materiais soltos. São subdivididos nas seguintes subcategorias:
+
+Cespitosos
+Os hemicriptófitos cespitosos (H caesp) são plantas que formam tufos de folhas e de pequenos caules a partir do solo.
+Exemplos: Festuca (F.alpina, F.cinerea, F.valesiaca), Poa (P.alpina, P.pratensis, P.minor), Luzula (L.campestris, L.nivea, L.pilosa), Veronica prostrata.
+
+Reptantes
+Os hemicriptófitos reptantes (H rept) são plantas herbáceas que apresentam um crescimento aderente ao solo com características rastejantes.
+Exemplos: Agrostis stolonifera, Oxalis corniculata, Ranunculus repens, Fragaria vesca, Potentilla anserina.
+
+Escaposos
+Os hemicriptófitos escaposos (H scap) são dotados de um escapo, um eixo floral erecto e geralmente desprovido de folhas.
+Exemplos: Atropa belladonna, Physalis alkekengi, Melissa officinalis, Pulmonaria (P.australis, P.officinalis, P.saccharata), Gentiana (G.cruciata, G.lutea, G.schleicheri).
+
+Rosulados
+Os hemicriptófitos rosulados (H ros) apresentam as folhas dispostas numa roseta basal.
+Exemplos: Bellis perennis, Taraxacum officinale, Trifolium alpinum, Pinguicula (P.alpina, P.leptoceras, P.vulgaris), Primula (P.allionii, P.veris, P.vulgaris).
+
+Bienais
+Os hemicriptófitos bienais (H bienn) distinguem-se dos restantes por apresentarem um ciclo de vida que atravessa dois anos.
+Exemplos: Cynoglossum (C.cheirifolium, C.montanum, C.officinale), Campanula rapunculus, Lactuca sativa, Melilotus officinalis, Ptychotis saxifraga.
+
+Escandentes
+Os hemicriptófitos escandentes (H scand) são plantas herbáceas com hábito trepador.
+Exemplos: Bryonia dioica, Convolvulus althaeoides, Calystegia (C.sepium, C.sylvatica), Lathyrus (L.heterophyllus, L.latifolius, L.sylvestris).
+
+Tabela resumo
+
+Geófitos
+Os geófitos (G) são plantas perenes herbáceas cujas gemas de renovo estão colocadas abaixo da superfície do solo. Durante a estação mais desfavorável não apresentam órgãos vegetativos aéreos e as gemas permanecem em órgão subterrâneos, como bolbos, tubérculos e rizomas. São subdivididos nas seguintes categorias:
+
+Radiculares
+Os geófitos radiculares (G rad) são plantas perenes com gemas de renovo localizadas no sistema radicular que permanecem enterradas durante a estação desfavorável. A parte aérea da planta morre, renovando-se anualmente a partir das gemas subterrâneas.
+Exemplos: Aristolochia clematitis, Cirsium arvense, Tamus communis, Cytinus hypocistis, Thesium bavarum.
+
+Bulbosos
+Os geófitos bulbosos (G bulb) são plantas perenes munidas de bolbo, um órgão subterrâneo de reserva contendo gemas que anualmente produzem novos caules, folhas e flores.
+Exemplos: Narcissus (N.odorus, N.poeticus, N.radiiflorus), Crocus (C.albiflorus, C.medius, C.napolitanus), Gladiolus communis, Allium (A.cepa, A.flavum, A.sativum, A.porrum, A.roseum), Ophrys (O.apifera, O.insectifera, O.lutea), Orchis (O.cruenta, O.militaris, O.purpurea).
+
+Rizomatosos
+Os geófitos rizomatosos (G rhiz) são plantas perenes dotadas de rizoma, um caule subterrâneo do qual, todos os anos, se formam novas raízes e caules aéreos.
+Exemplos: Tussilago farfara, Geranium (G.macrorrhizum, G.nodosum, G.tuberosum), Iris (I.florentina, I.foetidissima, I.germanica, I.graminea), Asparagus officinalis, Epipactis (E.atropurpurea, E.elleborine, E.microphylla).
+
+Parasitas
+Os geófitos parasitas (G par) são plantas perenes com gemas de renovo subterrâneas ligados a órgãos específicos capazes de se nutrir da seiva das plantas cujas raízes parasitam.
+Exemplos: Monotropa hypopitys
+
+Tabela resumo
+
+Helófitas
+As helófitas (He) são plantas semiaquáticas com a base e as gemas de renovo permanentemente submersas, mas com o caule e as folhas aéreos. Ocorrem apenas em habitats permanentemente inundados, como os pântanos, as margens de rios e lagos pouco profundos e outras zonas húmidas de águas rasas. Formam os juncais e formações similares. Esta categoria não contém subdivisões.
+Exemplos: Typha (Typha latifolia, T.longifolia), Carix (Carix riparia, C.elata, C.flacca), Phragmites australis, Schoenoplectus lacustris, Rumex hydrolapathum, Iris pseudacorus e Oryza sativa (arroz)
+
+Tabela resumo
+
+Hidrófitas
+As hidrófitas (Ho) são plantas aquáticas perenes cujas gemas de renovo se encontram submersas ou flutuantes. São relativamente pouco comuns e alguns autores incluem estas plantas numa subcategoria da categoria dos geófitos. São subdivididas nos seguintes grupos:
+
+Radicantes
+As hidrófitas radicantes (Ho rad) são plantas aquáticas perenes que possuem um sistema radicular que as ancora ao fundo.
+Exemplos: Callitriche (C.hamulata, C.palustris, C.stagnalis), Potamogeton (P.coloratus, P.crispus, P.perfoliatus), Nymphaea alba, Posidonia oceanica, Zostera marina, Ranunculus aquatilis.
+
+Natantes
+As hidrófitas natantes (Ho nat), ou flutuantes, são plantas aquáticas que flutuam livremente na superfície da água, sem raízes que as ancorem aos fundos.
+Exemplos: Lemna gibba, Lemna minor, Salvinia natans, Utricularia minor, Utricularia vulgaris.
+
+Tabela resumo
+
+Terófitos
+Os terófitos (T) são plantas herbáceas anuais que diferem das restantes formas biológicas por, sendo anuais, atravessarem a estação adversa sob a forma de sementes. São subdivididas em:
+
+Cespitosos
+Os terófitos cespitosos (T caesp) são plantas herbáceas anuais que crescem lançando novos brotos ou caules de maneira aglomerada, geralmente formando uma touceira ou espesso tapete.
+Exemplos: Cyperus flavescens, Poa annua, Vulpia (V.bromoides, V.ciliata, V.ligustica), Anogramma leptophylla, Juncus (J.bufonius, J.hybridus, J.tenageja).
+
+Reptantes
+Os terófitos reptantes (T rept) mostram um crescimento aderente ao solo com características rastejantes.
+Exemplos: Evax pygmaea, Euphorbia (E.maculata, E.peplis, E.prostrata), Paretaria lusitanica, Trifolium (T.patens, T.subterraneum, T.tomentosum), Lythrum portula.
+
+Escaposos
+Os terófitos escaposos (T scap) apresentam um eixo floral erecto, o escapo, frequentemente desprovido de folhas.
+Exemplos: Borago officinalis, Impatiens balsamina, Papaver somniferum, Matricaria chamomilla, Lamium purpureum, Datura stramonium, Solanum melongena e Solanum tuberosum.
+
+Rosulados
+Os terófitos rosulados (T ros) são plantas anuais caracterizadas por possuírem folhas muito próximas, em formato de roseta, na base da planta.
+Exemplos: Limonium echioides, Hyoseris scabra, Androsace chaixii, Androsace maxima.
+
+Parasitas
+Os terófitos parasitas (T par) possuem órgãos específicos para se nutrirem da seiva de outras plantas. 
+Exemplos: Cuscuta (C.cesatiana, C.epithymum, C.europaea), Orobanche (O.alba, O.amethystea, O.arenaria, O.crenata, O.loricata, O.minor, O.reticulata, O.variegata).
+
+Tabela resumo
